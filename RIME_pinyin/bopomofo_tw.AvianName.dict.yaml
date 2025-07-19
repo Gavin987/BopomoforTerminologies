@@ -1,0 +1,634 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: bopomofo_tw.AvianName
+version: "2025.07.17"
+sort: by_weight
+# 各種生物注音：https://github.com/Gavin987/BopomoforTerminologies
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+...
+
+斑頭雁	ban1 tou2 yan4
+灰雁	hui1 yan4
+鴻雁	hong2 yan4
+豆雁	dou4 yan4
+疣鼻天鵝	you2 bi2 tian1 e2
+瀆鳧	du2 fu2
+花鳧	hua1 fu2
+巴鴨	ba1 ya1
+白眉鴨	bai2 mei2 ya1
+琵嘴鴨	pi2 zui3 ya1
+赤膀鴨	chi4 bang3 ya1
+羅文鴨	luo2 wen2 ya1
+赤頸鴨	chi4 jing3 ya1
+葡萄胸鴨	pu2 tao2 xiong1 ya1
+花嘴鴨	hua1 zui3 ya1
+尖尾鴨	jian1 wei3 ya1
+小水鴨	xiao3 shui3 ya1
+赤嘴潛鴨	chi4 zui3 qian2 ya1
+帆背潛鴨	fan2 bei4 qian2 ya1
+紅頭潛鴨	hong2 tou2 qian2 ya1
+環頸潛鴨	huan2 jing3 qian2 ya1
+白眼潛鴨	bai2 yan3 qian2 ya1
+青頭潛鴨	qing1 tou2 qian2 ya1
+潛鴨	qian2 ya1
+鳳頭	feng4 tou2
+斑背潛鴨	ban1 bei4 qian2 ya1
+長尾鴨	zhang3 wei3 ya1
+鵲鴨	que4 ya1
+白秋沙	bai2 qiu1 sha1
+川秋沙	chuan1 qiu1 sha1
+紅胸秋沙	hong2 xiong1 qiu1 sha1
+唐秋沙	tang2 qiu1 sha1
+山鷓鴣	shan1 zhe4 gu1
+環頸雉	huan2 jing3 zhi4
+藍腹鷴	lan2 fu4 xian2
+臺灣竹雞	tai2 wan1 zhu2 ji1
+小鸊鷉	xiao3 pi4 ti2
+角鸊鷉	jiao3 pi4 ti2
+冠鸊鷉	guan4 pi4 ti2
+野鴿	ye3 ge1
+灰林鴿	hui1 lin2 ge1
+黑林鴿	hei1 lin2 ge1
+白喉林鴿	bai2 hou2 lin2 ge1
+金背鳩	jin1 bei1 jiu1
+紅鳩	hong2 jiu1
+珠頸斑鳩	zhu1 jing3 ban1 jiu1
+斑尾鵑鳩	ban1 wei3 juan1 jiu1
+長尾鳩	zhang3 wei3 jiu1
+翠翼鳩	cui4 yi4 jiu1
+斑馬鳩	ban1 ma3 jiu1
+橙胸綠鳩	cheng2 xiong1 lv4 jiu1
+厚嘴綠鳩	hou4 zui3 lv4 jiu1
+綠鳩	lv4 jiu1
+褐翅鴉鵑	he2 chi4 ya1 juan1
+番鵑	fan1 juan1
+冠郭公	guan4 guo1 gong1
+斑翅鳳頭鵑	ban1 chi4 feng4 tou2 juan1
+噪鵑	zao4 juan1
+八聲杜鵑	ba1 sheng1 du4 juan1
+方尾烏鵑	fang1 wei3 w1 juan1
+鷹鵑	ying1 juan1
+北方鷹鵑	bei3 fang1 ying1 juan1
+棕腹鷹鵑	zong1 fu4 ying1 juan1
+四聲杜鵑	si4 sheng1 du4 juan1
+普通夜鷹	pu3 tong1 ye4 ying1
+南亞夜鷹	nan2 ya3 ye4 ying1
+白喉針尾雨燕	bai2 hou2 zhen1 wei3 yu3 yan1
+灰喉針尾雨燕	hui1 hou2 zhen1 wei3 yu3 yan1
+紫針尾雨燕	zi3 zhen1 wei3 yu3 yan1
+短嘴金絲燕	duan3 zui3 jin1 s1 yan4
+叉尾雨燕	cha1 wei3 yu3 yan1
+小雨燕	xiao3 yu3 yan4
+西方秧雞	xi1 fang1 yang1 ji1
+東亞秧雞	dong1 ya3 yang1 ji1
+灰胸秧雞	hui1 xiong1 yang1 ji1
+斑胸秧雞	ban1 xiong1 yang1 ji1
+紅冠水雞	hong2 guan4 shui3 ji1
+白冠雞	bai2 guan4 ji1
+白眉秧雞	bai2 mei2 yang1 ji1
+董雞	dong3 ji1
+白腹秧雞	bai2 fu4 yang1 ji1
+紅腳秧雞	hong2 jiao3 yang1 ji1
+灰腳秧雞	hui1 jiao3 yang1 ji1
+緋秧雞	fei1 yang1 ji1
+斑脇秧雞	ban1 xie2 yang1 ji1
+紅腳苦惡鳥	hong2 jiao3 ku3 e4 niao3
+小秧雞	xiao3 yang1 ji1
+高蹺鴴	gao1 qiao4 heng2
+反嘴鴴	fan3 zui3 heng2
+蠣鴴	li4 heng2
+灰斑鴴	hui1 ban1 heng2
+太平洋金斑鴴	tai4 ping2 yang2 jin1 ban1 heng2
+小辮鴴	xiao3 bian4 heng2
+跳鴴	tiao4 heng2
+蒙古鴴	meng2 gu3 heng2
+鐵嘴鴴	tie3 zui3 heng2
+東方環頸鴴	dong1 fang1 huan2 jing3 heng2
+白臉鴴	bai2 lian3 heng2
+劍鴴	jian4 heng2
+小環頸鴴	xiao3 huan2 jing3 heng2
+東方紅胸鴴	dong1 fang1 hong2 xiong1 heng2
+彩鷸	cai3 yu4
+水雉	shui3 zhi4
+中杓鷸	zhong1 shao2 yu4
+小杓鷸	xiao3 shao2 yu4
+黦鷸	yu4 yu4
+大杓鷸	da4 shao2 yu4
+斑尾鷸	ban1 wei3 yu4
+黑尾鷸	hei1 wei3 yu4
+翻石鷸	fan1 shi2 yu4
+大濱鷸	da4 bin1 yu4
+紅腹濱鷸	hong2 fu4 bin1 yu4
+流蘇鷸	liu2 su1 yu4
+寬嘴鷸	kuan1 zui3 yu4
+尖尾濱鷸	jian1 wei3 bin1 yu4
+高蹺濱鷸	gao1 qiao4 bin1 yu4
+彎嘴濱鷸	wan1 zui3 bin1 yu4
+丹氏濱鷸	dan1 shi4 bin1 yu4
+長趾濱鷸	zhang3 zhi3 bin1 yu4
+琵嘴鷸	pi2 zui3 yu4
+紅胸濱鷸	hong2 xiong1 bin1 yu4
+三趾濱鷸	san1 zhi3 bin1 yu4
+黑腹濱鷸	hei1 fu4 bin1 yu4
+小濱鷸	xiao3 bin1 yu4
+黃胸鷸	huang2 xiong1 yu4
+美洲尖尾濱鷸	mei3 zhou1 jian1 wei3 bin1 yu4
+西濱鷸	xi1 bin1 yu4
+半蹼鷸	ban4 pu2 yu4
+大地鷸	da4 di4 yu4
+田鷸	tian2 yu4
+針尾鷸	zhen1 wei3 yu4
+中地鷸	zhong1 di4 yu4
+反嘴鷸	fan3 zui3 yu4
+紅領瓣足鷸	hong2 ling3 ban4 zu2 yu4
+灰瓣足鷸	hui1 ban4 zu2 yu4
+磯鷸	ji1 yu4
+白腰草鷸	bai2 yao1 cao3 yu4
+黃足鷸	huang2 zu2 yu4
+美洲黃足鷸	mei3 zhou1 huang2 zu2 yu4
+鶴鷸	he4 yu4
+青足鷸	qing1 zu2 yu4
+諾氏鷸	nuo4 shi4 yu4
+小黃腳鷸	xiao3 huang2 jiao3 yu4
+小青足鷸	xiao3 qing1 zu2 yu4
+鷹斑鷸	ying1 ban1 yu4
+赤足鷸	chi4 zu2 yu4
+林三趾鶉	lin2 san1 zhi3 chun2
+黃腳三趾鶉	huang2 jiao3 san1 zhi3 chun2
+棕三趾鶉	zong1 san1 zhi3 chun2
+燕鴴	yan4 heng2
+灰賊鷗	hui1 zei2 ou1
+中賊鷗	zhong1 zei2 ou1
+短尾賊鷗	duan3 wei3 zei2 ou1
+長尾賊鷗	zhang3 wei3 zei2 ou1
+崖海鴉	yai2 hai3 ya1
+扁嘴海雀	bian3 zui3 hai3 que4
+冠海雀	guan4 hai3 que4
+三趾鷗	san1 zhi3 ou1
+叉尾鷗	cha1 wei3 ou1
+黑嘴鷗	hei1 zui3 ou1
+細嘴鷗	xi4 zui3 ou1
+紅嘴鷗	hong2 zui3 ou1
+棕頭鷗	zong1 tou2 ou1
+小鷗	xiao3 ou1
+笑鷗	xiao4 ou1
+弗氏鷗	fu2 shi4 ou1
+遺鷗	yi2 ou1
+漁鷗	yu2 ou1
+黑尾鷗	hei1 wei3 ou1
+歐亞海鷗	ou1 ya3 hai3 ou1
+銀鷗	yin2 ou1
+小黑背鷗	xiao3 hei1 bei4 ou1
+灰背鷗	hui1 bei4 ou1
+北極鷗	bei3 ji2 ou1
+玄燕鷗	xuan2 yan4 ou1
+黑玄燕鷗	hei1 xuan2 yan4 ou1
+烏領燕鷗	w1 ling3 yan4 ou1
+白眉燕鷗	bai2 mei2 yan4 ou1
+白腰燕鷗	bai2 yao1 yan4 ou1
+小燕鷗	xiao3 yan4 ou1
+鷗嘴燕鷗	ou1 zui3 yan4 ou1
+裏海燕鷗	li3 hai3 yan4 ou1
+黑浮鷗	hei1 fu2 ou1
+白翅黑燕鷗	bai2 chi4 hei1 yan4 ou1
+黑腹燕鷗	hei1 fu4 yan4 ou1
+紅燕鷗	hong2 yan4 ou1
+蒼燕鷗	cang1 yan4 ou1
+鳳頭燕鷗	feng4 tou2 yan4 ou1
+白嘴端燕鷗	bai2 zui3 duan1 yan4 ou1
+小鳳頭燕鷗	xiao3 feng4 tou2 yan4 ou1
+黑嘴端鳳頭燕鷗	hei1 zui3 duan1 feng4 tou2 yan4 ou1
+太平洋潛鳥	tai4 ping2 yang2 qian2 niao3
+白嘴潛鳥	bai2 zui3 qian2 niao3
+黑背信天翁	hei1 bei4 xin4 tian1 weng1
+黑腳信天翁	hei1 jiao3 xin4 tian1 weng1
+短尾信天翁	duan3 wei3 xin4 tian1 weng1
+黃蹼洋海燕	huang2 pu2 yang2 hai3 yan4
+白腰叉尾海燕	bai2 yao1 cha1 wei3 hai3 yan4
+黑叉尾海燕	hei1 cha1 wei3 hai3 yan4
+褐翅叉尾海燕	he2 chi4 cha1 wei3 hai3 yan4
+暴風鸌	bao4 feng1 huo4
+索氏圓尾鸌	suo3 shi4 yuan2 wei3 huo4
+白腹穴鳥	bai2 fu4 xue4 niao3
+穴鳥	xue4 niao3
+黑背白腹穴鳥	hei1 bei4 bai2 fu4 xue4 niao3
+大水薙鳥	da4 shui3 ti4 niao3
+肉足水薙鳥	rou4 zu2 shui3 ti4 niao3
+長尾水薙鳥	zhang3 wei3 shui3 ti4 niao3
+灰水薙鳥	hui1 shui3 ti4 niao3
+短尾水薙鳥	duan3 wei3 shui3 ti4 niao3
+黑細鸌	hei1 xi4 huo4
+黑鸛	hei1 guan4
+東方白鸛	dong1 fang1 bai2 guan4
+白斑軍艦鳥	bai2 ban1 jun1 jian4 niao3
+聖誕島軍艦鳥	sheng4 dan4 dao3 jun1 jian4 niao3
+軍艦鳥	jun1 jian4 niao3
+藍臉鰹鳥	lan2 lian3 jian1 niao3
+白腹鰹鳥	bai2 fu4 jian1 niao3
+紅腳鰹鳥	hong2 jiao3 jian1 niao3
+海鸕鷀	hai3 lu2 ci2
+鸕鷀	lu2 ci2
+丹氏鸕鷀	dan1 shi4 lu2 ci2
+卷羽鵜鶘	juan4 yu3 ti2 hu2
+大麻鷺	da4 ma2 lu4
+黃小鷺	huang2 xiao3 lu4
+秋小鷺	qiu1 xiao3 lu4
+栗小鷺	li4 xiao3 lu4
+黃頸黑鷺	huang2 jing3 hei1 lu4
+蒼鷺	cang1 lu4
+紫鷺	zi3 lu4
+大白鷺	da4 bai2 lu4
+中白鷺	zhong1 bai2 lu4
+白臉鷺	bai2 lian3 lu4
+唐白鷺	tang2 bai2 lu4
+小白鷺	xiao3 bai2 lu4
+岩鷺	yan2 lu4
+白頸黑鷺	bai2 jing3 hei1 lu4
+黃頭鷺	huang2 tou2 lu4
+印度池鷺	yin4 du4 chi2 lu4
+池鷺	chi2 lu4
+爪哇池鷺	zhua3 wa1 chi2 lu4
+綠簑鷺	lv4 suo1 lu4
+夜鷺	ye4 lu4
+棕夜鷺	zong1 ye4 lu4
+麻鷺	ma2 lu4
+黑冠麻鷺	hei1 guan4 ma2 lu4
+朱鷺	zhu1 lu4
+白琵鷺	bai2 pi2 lu4
+魚鷹	yu2 ying1
+黑翅鳶	hei1 chi4 yuan1
+東方蜂鷹	dong1 fang1 feng1 ying1
+黑冠鵑隼	hei1 guan4 juan1 zhun3
+熊鷹	xiong2 ying1
+林鵰	lin2 diao1
+花鵰	hua1 diao1
+靴隼鵰	xue1 zhun3 diao1
+白肩鵰	bai2 jian1 diao1
+金鵰	jin1 diao1
+白腹鵰	bai2 fu4 diao1
+灰面鵟鷹	hui1 mian4 kuang2 ying1
+西方澤鵟	xi1 fang1 ze2 kuang2
+東方澤鵟	dong1 fang1 ze2 kuang2
+灰澤鵟	hui1 ze2 kuang2
+花澤鵟	hua1 ze2 kuang2
+鳳頭蒼鷹	feng4 tou2 cang1 ying1
+赤腹鷹	chi4 fu4 ying1
+日本松雀鷹	ri4 ben3 song1 que4 ying1
+北雀鷹	bei3 que4 ying1
+黑鳶	hei1 yuan1
+栗鳶	li4 yuan1
+白尾海鵰	bai2 wei3 hai3 diao1
+白腹海鵰	bai2 fu4 hai3 diao1
+毛足鵟	mao2 zu2 kuang2
+歐亞鵟	ou1 ya3 kuang2
+東方鵟	dong1 fang1 kuang2
+大鵟	da4 kuang2
+草鴞	cao3 xiao1
+黃嘴角鴞	huang2 zui3 jiao3 xiao1
+領角鴞	ling3 jiao3 xiao1
+蘭嶼角鴞	lan2 yu3 jiao3 xiao1
+東方角鴞	dong1 fang1 jiao3 xiao1
+黃魚鴞	huang2 yu2 xiao1
+鵂鶹	xiu1 liu2
+縱紋腹小鴞	zong4 wen2 fu4 xiao3 xiao1
+褐林鴞	he2 lin2 xiao1
+東方灰林鴞	dong1 fang1 hui1 lin2 xiao1
+長耳鴞	zhang3 er3 xiao1
+短耳鴞	duan3 er3 xiao1
+褐鷹鴞	he2 ying1 xiao1
+戴勝	dai4 sheng4
+翠鳥	cui4 niao3
+黑背三趾翠鳥	hei1 bei4 san1 zhi3 cui4 niao3
+赤翡翠	chi4 fei3 cui4
+蒼翡翠	cang1 fei3 cui4
+黑頭翡翠	hei1 tou2 fei3 cui4
+白領翡翠	bai2 ling3 fei3 cui4
+斑翡翠	ban1 fei3 cui4
+藍喉蜂虎	lan2 hou2 feng1 hu3
+藍頰蜂虎	lan2 jia2 feng1 hu3
+栗喉蜂虎	li4 hou2 feng1 hu3
+彩虹蜂虎	cai3 hong2 feng1 hu3
+五色鳥	wu3 se4 niao3
+地啄木	de5 zhuo2 mu4
+小啄木	xiao3 zhuo2 mu4
+大赤啄木	da4 chi4 zhuo2 mu4
+綠啄木	lv4 zhuo2 mu4
+紅隼	hong2 zhun3
+紅腳隼	hong2 jiao3 zhun3
+灰背隼	hui1 bei4 zhun3
+燕隼	yan4 zhun3
+遊隼	you2 zhun3
+藍翅八色鳥	lan2 chi4 ba1 se4 niao3
+綠胸八色鳥	lv4 xiong1 ba1 se4 niao3
+灰喉山椒鳥	hui1 hou2 shan1 jiao1 niao3
+長尾山椒鳥	chang2 wei3 shan1 jiao1 niao3
+赤紅山椒鳥	chi4 hong2 shan1 jiao1 niao3
+琉球山椒鳥	liu2 qiu2 shan1 jiao1 niao3
+灰山椒鳥	hui1 shan1 jiao1 niao3
+小灰山椒鳥	xiao3 hui1 shan1 jiao1 niao3
+粉紅山椒鳥	fen3 hong2 shan1 jiao1 niao3
+花翅山椒鳥	hua1 chi4 shan1 jiao1 niao3
+黑原鵑鵙	hei1 yuan2 juan1 jue2
+黑翅山椒鳥	hei1 chi4 shan1 jiao1 niao3
+綠畫眉	lv4 hua4 mei2
+朱鸝	zhu1 li2
+菲律賓扇尾鶲	fei1 lv4 bin1 shan4 wei3 weng1
+大卷尾	da4 juan3 wei3
+灰卷尾	hui1 juan4 wei3
+鴉嘴卷尾	ya1 zui3 juan4 wei3
+小卷尾	xiao3 juan3 wei3
+髮冠卷尾	fa3 guan4 juan4 wei3
+黑枕藍鶲	hei1 zhen3 lan2 weng1
+紫綬帶	zi3 shou4 dai4
+阿穆爾綬帶	a4 mu4 er3 shou4 dai4
+虎紋伯勞	hu3 wen2 bo2 lao2
+紅頭伯勞	hong2 tou2 bo2 lao2
+紅背伯勞	hong2 bei4 bo2 lao2
+荒漠伯勞	huang1 mo4 bo2 lao2
+栗背伯勞	li4 bei4 bo2 lao2
+棕背伯勞	zong1 bei4 bo2 lao2
+灰背伯勞	hui1 bei4 bo2 lao2
+西方灰伯勞	xi1 fang1 hui1 bo2 lao2
+楔尾伯勞	xie1 wei3 bo2 lao2
+松鴉	song1 ya1
+灰喜鵲	hui1 xi3 que4
+臺灣藍鵲	tai2 wan1 lan2 que4
+樹鵲	shu4 que4
+星鴉	xing1 ya1
+東方寒鴉	dong1 fang1 han2 ya1
+禿鼻鴉	tu1 bi2 ya1
+小嘴烏鴉	xiao3 zui3 w1 ya1
+巨嘴鴉	ju4 zui3 ya1
+玉頸鴉	yu4 jing3 ya1
+方尾鶲	fang1 wei3 weng1
+煤山雀	mei2 shan1 que4
+黃腹山雀	huang2 fu4 shan1 que4
+赤腹山雀	chi4 fu4 shan1 que4
+雜色山雀	za2 se4 shan1 que4
+青背山雀	qing1 bei4 shan1 que4
+白頰山雀	bai2 jia2 shan1 que4
+黃山雀	huang2 shan1 que4
+攀雀	pan1 que4
+賽氏短趾百靈	sai4 shi4 duan3 zhi3 bai3 ling2
+亞洲短趾百靈	ya3 zhou1 duan3 zhi3 bai3 ling2
+歐亞雲雀	ou1 ya3 yun2 que4
+小雲雀	xiao3 yun2 que4
+斑紋鷦鶯	ban1 wen2 jiao1 ying1
+灰頭鷦鶯	hui1 tou2 jiao1 ying1
+褐頭鷦鶯	he2 tou2 jiao1 ying1
+棕扇尾鶯	zong1 shan4 wei3 ying1
+黃頭扇尾鶯	huang2 tou2 shan4 wei3 ying1
+厚嘴葦鶯	hou4 zui3 wei3 ying1
+靴籬鶯	xue1 li2 ying1
+雙眉葦鶯	shuang1 mei2 wei3 ying1
+細紋葦鶯	xi4 wen2 wei3 ying1
+稻田葦鶯	dao4 tian2 wei3 ying1
+鈍翅葦鶯	dun4 chi4 wei3 ying1
+遠東葦鶯	yuan3 dong1 wei3 ying1
+布氏葦鶯	bu4 shi4 wei3 ying1
+東方大葦鶯	dong1 fang1 da4 wei3 ying1
+蒼眉蝗鶯	cang1 mei2 huang2 ying1
+庫頁島蝗鶯	ku4 ye4 dao3 huang2 ying1
+小蝗鶯	xiao3 huang2 ying1
+北蝗鶯	bei3 huang2 ying1
+史氏蝗鶯	shi3 shi4 huang2 ying1
+矛斑蝗鶯	mao2 ban1 huang2 ying1
+臺灣叢樹鶯	tai2 wan1 cong2 shu4 ying1
+赤褐蝗鶯	chi4 he2 huang2 ying1
+臺灣鷦眉	tai2 wan1 jiao1 mei2
+棕沙燕	zong1 sha1 yan1
+灰沙燕	hui1 sha1 yan4
+家燕	jia1 yan4
+洋燕	yang2 yan1
+金腰燕	jin1 yao1 yan4
+赤腰燕	chi4 yao1 yan4
+白腹毛腳燕	bai2 fu4 mao2 jiao3 yan4
+東方毛腳燕	dong1 fang1 mao2 jiao3 yan4
+白環鸚嘴鵯	bai2 huan2 ying1 zui3 bei1
+烏頭翁	w1 tou2 weng1
+白喉紅臀鵯	bai2 hou2 hong2 tun2 bei1
+紅嘴黑鵯	hong2 zui3 hei1 bei1
+棕耳鵯	zong1 er3 bei1
+栗背短腳鵯	li4 bei4 duan3 jiao3 bei1
+林柳鶯	lin2 liu3 ying1
+黃眉柳鶯	huang2 mei2 liu3 ying1
+淡眉柳鶯	dan4 mei2 liu3 ying1
+雲南柳鶯	yun2 nan2 liu3 ying1
+黃腰柳鶯	huang2 yao1 liu3 ying1
+巨嘴柳鶯	ju4 zui3 liu3 ying1
+棕眉柳鶯	zong1 mei2 liu3 ying1
+黃腹柳鶯	huang2 fu4 liu3 ying1
+褐色柳鶯	he2 se4 liu3 ying1
+棕腹柳鶯	zong1 fu4 liu3 ying1
+歐亞柳鶯	ou1 ya3 liu3 ying1
+嘰喳柳鶯	ji1 zha1 liu3 ying1
+冠羽柳鶯	guan4 yu3 liu3 ying1
+飯島柳鶯	fan4 dao3 liu3 ying1
+白眶鶲鶯	bai2 kuang1 weng1 ying1
+比氏鶲鶯	bi3 shi4 weng1 ying1
+淡尾鶲鶯	dan4 wei3 weng1 ying1
+暗綠柳鶯	an4 lv4 liu3 ying1
+雙斑綠柳鶯	shuang1 ban1 lv4 liu3 ying1
+淡腳柳鶯	dan4 jiao3 liu3 ying1
+庫頁島柳鶯	ku4 ye4 dao3 liu3 ying1
+日本柳鶯	ri4 ben3 liu3 ying1
+極北柳鶯	ji2 bei3 liu3 ying1
+勘察加柳鶯	kan1 cha2 jia1 liu3 ying1
+栗頭鶲鶯	li4 tou2 weng1 ying1
+黑眉柳鶯	hei1 mei2 liu3 ying1
+克氏冠紋柳鶯	ke4 shi4 guan4 wen2 liu3 ying1
+哈氏冠紋柳鶯	ha1 shi4 guan4 wen2 liu3 ying1
+短尾鶯	duan3 wei3 ying1
+棕面鶯	zong1 mian4 ying1
+日本樹鶯	ri4 ben3 shu4 ying1
+遠東樹鶯	yuan3 dong1 shu4 ying1
+小鶯	xiao3 ying1
+深山鶯	shen1 shan1 ying1
+紅頭山雀	hong2 tou2 shan1 que4
+白喉林鶯	bai2 hou2 lin2 ying1
+漠地林鶯	mo4 di4 lin2 ying1
+褐頭花翼	he2 tou2 hua1 yi4
+黃羽鸚嘴	huang2 yu3 ying1 zui3
+粉紅鸚嘴	fen3 hong2 ying1 zui3
+栗耳鳳眉	li4 er3 feng4 mei2
+冠羽畫眉	guan4 yu3 hua4 mei2
+紅脇繡眼	hong2 xie2 xiu4 yan3
+斯氏繡眼	s1 shi4 xiu4 yan3
+日菲繡眼	ri4 fei1 xiu4 yan3
+低地繡眼	di1 di4 xiu4 yan3
+山紅頭	shan1 hong2 tou2
+小彎嘴	xiao3 wan1 zui3
+大彎嘴	da4 wan1 zui3
+頭烏線	tou2 w1 xian4
+繡眼畫眉	xiu4 yan3 hua4 mei2
+臺灣噪眉	tai2 wan1 zao4 mei2
+白耳畫眉	bai2 er3 hua4 mei2
+紋翼畫眉	wen2 yi4 hua4 mei2
+黃胸藪眉	huang2 xiong1 sou3 mei2
+大陸畫眉	da4 lu4 hua4 mei2
+臺灣畫眉	tai2 wan1 hua4 mei2
+黑喉噪眉	hei1 hou2 zao4 mei2
+白頰噪眉	bai2 jia2 zao4 mei2
+黑臉噪眉	hei1 lian3 zao4 mei2
+臺灣白喉噪眉	tai2 wan1 bai2 hou2 zao4 mei2
+棕噪眉	zong1 zao4 mei2
+戴菊鳥	dai4 ju2 niao3
+火冠戴菊鳥	huo3 guan4 dai4 ju2 niao3
+茶腹鳾	cha2 fu4 shi4
+河烏	he2 w1
+亞洲輝椋鳥	ya3 zhou1 hui1 liang2 niao3
+歐洲椋鳥	ou1 zhou1 liang2 niao3
+粉紅椋鳥	fen3 hong2 liang2 niao3
+北椋鳥	bei3 liang2 niao3
+小椋鳥	xiao3 liang2 niao3
+黑領椋鳥	hei1 ling3 liang2 niao3
+灰背椋鳥	hui1 bei4 liang2 niao3
+灰頭椋鳥	hui1 tou2 liang2 niao3
+絲光椋鳥	s1 guang1 liang2 niao3
+灰椋鳥	hui1 liang2 niao3
+家八哥	jia1 ba1 ge1
+白尾八哥	bai2 wei3 ba1 ge1
+白氏地鶇	bai2 shi4 di4 dong1
+虎斑地鶇	hu3 ban1 di4 dong1
+白眉地鶇	bai2 mei2 di4 dong1
+橙頭地鶇	cheng2 tou2 di4 dong1
+寶興歌鶇	bao3 xing1 ge1 dong1
+中國黑鶇	zhong1 guo2 hei1 dong1
+白頭鶇	bai2 tou2 dong1
+烏灰鶇	w1 hui1 dong1
+灰背鶇	hui1 bei4 dong1
+白眉鶇	bai2 mei2 dong1
+赤腹鶇	chi4 fu4 dong1
+白腹鶇	bai2 fu4 dong1
+黑頸鶇	hei1 jing3 dong1
+赤頸鶇	chi4 jing3 dong1
+斑點鶇	ban1 dian3 dong1
+紅尾鶇	hong2 wei3 dong1
+灰斑鶲	hui1 ban1 weng1
+烏鶲	w1 weng1
+紅尾鶲	hong2 wei3 weng1
+寬嘴鶲	kuan1 zui3 weng1
+褐胸鶲	he2 xiong1 weng1
+斑鶲	ban1 weng1
+鵲鴝	que4 qu2
+白腰鵲鴝	bai2 yao1 que4 qu2
+海南藍仙鶲	hai3 nan2 lan2 xian1 weng1
+中華藍仙鶲	zhong1 hua2 lan2 xian1 weng1
+山藍仙鶲	shan1 lan2 xian1 weng1
+白喉林鶲	bai2 hou2 lin2 weng1
+棕腹大仙鶲	zong1 fu4 da4 xian1 weng1
+棕腹仙鶲	zong1 fu4 xian1 weng1
+黃腹琉璃	huang2 fu4 liu2 li2
+白腹琉璃	bai2 fu4 liu2 li2
+琉璃藍鶲	liu2 li2 lan2 weng1
+銅藍鶲	tong2 lan2 weng1
+白喉短翅鶇	bai2 hou2 duan3 chi4 dong1
+小翼鶇	xiao3 yi4 dong1
+紅尾歌鴝	hong2 wei3 ge1 qu2
+日本歌鴝	ri4 ben3 ge1 qu2
+琉球歌鴝	liu2 qiu2 ge1 qu2
+藍歌鴝	lan2 ge1 qu2
+藍喉鴝	lan2 hou2 qu2
+臺灣紫嘯鶇	tai2 wan1 zi3 xiao4 dong1
+白斑紫嘯鶇	bai2 ban1 zi3 xiao4 dong1
+小剪尾	xiao3 jian3 wei3
+野鴝	ye3 qu2
+白尾鴝	bai2 wei3 qu2
+藍尾鴝	lan2 wei3 qu2
+臺灣白眉林鴝	tai2 wan1 bai2 mei2 lin2 qu2
+栗背林鴝	li4 bei4 lin2 qu2
+白眉鶲	bai2 mei2 weng1
+黃眉黃鶲	huang2 mei2 huang2 weng1
+琉球姬鶲	liu2 qiu2 ji1 weng1
+白眉黃鶲	bai2 mei2 huang2 weng1
+鏽胸藍姬鶲	xiu4 xiong1 lan2 ji1 weng1
+黃胸青鶲	huang2 xiong1 qing1 weng1
+橙胸姬鶲	cheng2 xiong1 ji1 weng1
+紅喉鶲	hong2 hou2 weng1
+紅胸鶲	hong2 xiong1 weng1
+藍額紅尾鴝	lan2 e2 hong2 wei3 qu2
+鉛色水鶇	qian1 se4 shui3 dong1
+白頂溪鴝	bai2 ding3 xi1 qu2
+赭紅尾鴝	zhe3 hong2 wei3 qu2
+黃尾鴝	huang2 wei3 qu2
+白喉磯鶇	bai2 hou2 ji1 dong1
+藍磯鶇	lan2 ji1 dong1
+黑喉鴝	hei1 hou2 qu2
+灰叢鴝	hui1 cong2 qu2
+黃連雀	huang2 lian2 que4
+朱連雀	zhu1 lian2 que4
+綠啄花	lv4 zhuo2 hua1
+紅胸啄花	hong2 xiong1 zhuo2 hua1
+黃腹花蜜鳥	huang2 fu4 hua1 mi4 niao3
+藍喉太陽鳥	lan2 hou2 tai4 yang2 niao3
+叉尾太陽鳥	cha1 wei3 tai4 yang2 niao3
+白喉文鳥	bai2 hou2 wen2 niao3
+斑文鳥	ban1 wen2 niao3
+白腰文鳥	bai2 yao1 wen2 niao3
+黑頭文鳥	hei1 tou2 wen2 niao3
+橙頰梅花雀	cheng2 jia2 mei2 hua1 que4
+岩鷚	yan2 liu4
+棕眉山岩鷚	zong1 mei2 shan1 yan2 liu4
+山麻雀	shan1 ma2 que4
+山鶺鴒	shan1 ji2 ling2
+灰鶺鴒	hui1 ji2 ling2
+西方黃鶺鴒	xi1 fang1 huang2 ji2 ling2
+東方黃鶺鴒	dong1 fang1 huang2 ji2 ling2
+黃頭鶺鴒	huang2 tou2 ji2 ling2
+日本鶺鴒	ri4 ben3 ji2 ling2
+白鶺鴒	bai2 ji2 ling2
+大花鷚	da4 hua1 liu4
+稻田鷚	dao4 tian2 liu4
+布萊氏鷚	bu4 lai2 shi4 liu4
+草地鷚	cao3 di4 liu4
+粉紅胸鷚	fen3 hong2 xiong1 liu4
+林鷚	lin2 liu4
+樹鷚	shu4 liu4
+白背鷚	bai2 bei4 liu4
+赤喉鷚	chi4 hou2 liu4
+水鷚	shui3 liu4
+黃腹鷚	huang2 fu4 liu4
+花雀	hua1 que4
+臘嘴雀	la4 zui3 que4
+小桑鳲	xiao3 sang1 sh1
+桑鳲	sang1 sh1
+普通朱雀	pu3 tong1 zhu1 que4
+臺灣朱雀	tai2 wan1 zhu1 que4
+北朱雀	bei3 zhu1 que4
+褐鷽	he2 xue2
+灰鷽	hui1 xue2
+歐亞鷽	ou1 ya3 xue2
+金翅雀	jin1 chi4 que4
+赤胸朱頂雀	chi4 xiong1 zhu1 ding3 que4
+普通朱頂雀	pu3 tong1 zhu1 ding3 que4
+紅交嘴雀	hong2 jiao1 zui3 que4
+黃雀	huang2 que4
+鐵爪鵐	tie3 zhua3 wu2
+雪鵐	xue3 wu2
+冠鵐	guan4 wu2
+黑頭鵐	hei1 tou2 wu2
+褐頭鵐	he2 tou2 wu2
+赤胸鵐	chi4 xiong1 wu2
+草鵐	cao3 wu2
+白頂鵐	bai2 ding3 wu2
+白頭鵐	bai2 tou2 wu2
+圃鵐	pu3 wu2
+黃喉鵐	huang2 hou2 wu2
+紅頸葦鵐	hong2 jing3 wei3 wu2
+葦鵐	wei3 wu2
+蘆鵐	lu2 wu2
+金鵐	jin1 wu2
+小鵐	xiao3 wu2
+田鵐	tian2 wu2
+野鵐	ye3 wu2
+灰頭黑臉鵐	hui1 tou2 hei1 lian3 wu2
+黃喉黑臉鵐	huang2 hou2 hei1 lian3 wu2
+鏽鵐	xiu4 wu2
+黃眉鵐	huang2 mei2 wu2
+白眉鵐	bai2 mei2 wu2
+灰鵐	hui1 wu2
+稀樹草鵐	xi1 shu4 cao3 wu2

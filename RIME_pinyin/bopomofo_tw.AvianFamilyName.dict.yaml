@@ -1,0 +1,91 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: bopomofo_tw.AvianFamilyName
+version: "2025.07.17"
+sort: by_weight
+# 各種生物注音：https://github.com/Gavin987/BopomoforTerminologies
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+...
+
+雁鴨科	yan4 ia1 ke1
+雉科	zh4 ke1
+鳩鴿科	jiu1 ge1 ke1
+杜鵑科	du4 jvan1 ke1
+夜鷹科	ye4 ing1 ke1
+雨燕科	yu3 ian4 ke1
+秧雞科	yang1 ji1 ke1
+鶴科	he4 ke1
+長腳鷸科	chang2 jiao3 v4 ke1
+蠣鷸科	li4 v4 ke1
+彩鷸科	cai3 v4 ke1
+水雉科	shui3 Z4 ke1
+鷸科	yu4 ke1
+三趾鶉科	san1 Z3 Cun2 ke1
+賊鷗科	zei2 ou1 ke1
+海雀科	hai3 qve4 ke1
+鷗科	ou1 ke1
+熱帶鳥科	re4 dai4 niao3 ke1
+潛鳥科	qian2 niao3 ke1
+信天翁科	xin4 tian1 ong1 ke1
+海燕科	hai3 ian4 ke1
+鸛科	guan4 ke1
+軍艦鳥科	jun1 jian4 niao3 ke1
+鰹鳥科	jian1 niao3 ke1
+鵜鶘科	ti2 hu2 ke1
+鷺科	lu4 ke1
+鶚科	e4 ke1
+鷹科	ying1 ke1
+草鴞科	cao3 xiao1 ke1
+鴟鴞科	ch1 xiao1 ke1
+戴勝科	dai4 Seng4 ke1
+翠鳥科	cui4 niao3 ke1
+蜂虎科	feng1 hu3 ke1
+佛法僧科	fo2 fa3 seng1 ke1
+鬚鴷科	xu1 lie4 ke1
+啄木鳥科	zhuo2 mu4 niao3 ke1
+隼科	zhun3 ke1
+八色鳥科	ba1 se4 niao3 ke1
+山椒鳥科	shan1 jiao1 niao3 ke1
+綠鵙科	lv4 jve2 ke1
+黃鸝科	huang2 li2 ke1
+扇尾鶲科	shan4 ui3 ong1 ke1
+卷尾科	juan3 ui3 ke1
+王鶲科	wang2 ong1 ke1
+伯勞科	bo2 lao2 ke1
+鴉科	ya1 ke1
+細嘴鶲科	xi4 zui3 ong1 ke1
+山雀科	shan1 qve4 ke1
+攀雀科	pan1 qve4 ke1
+百靈科	bai3 ling2 ke1
+扇尾鶯科	shan4 ui3 ing1 ke1
+葦鶯科	wei3 ing1 ke1
+蝗鶯科	huang2 ing1 ke1
+鷦眉科	jiao1 mei2 ke1
+燕科	yan4 ke1
+鵯科	bei1 ke1
+柳鶯科	liu3 ing1 ke1
+樹鶯科	shu4 ing1 ke1
+長尾山雀科	chang2 ui3 San1 qve4 ke1
+鶯科	ying1 ke1
+繡眼科	xiu4 ian3 ke1
+畫眉科	hua4 mei2 ke1
+雀眉科	que4 mei2 ke1
+噪眉科	zao4 mei2 ke1
+戴菊科	dai4 jv2 ke1
+鷦鷯科	jiao1 liao2 ke1
+河烏科	he2 u1 ke1
+八哥科	ba1 ge1 ke1
+鶇科	dong1 ke1
+鶲科	weng1 ke1
+連雀科	lian2 qve4 ke1
+啄花科	zhuo2 hua1 ke1
+吸蜜鳥科	xi1 mi4 niao3 ke1
+梅花雀科	mei2 hua1 qve4 ke1
+岩鷚科	yan2 liu4 ke1
+麻雀科	ma2 qve4 ke1
+鶺鴒科	ji2 ling2 ke1
+雀科	que4 ke1

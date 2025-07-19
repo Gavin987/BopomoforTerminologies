@@ -1,0 +1,4 @@
+# Use a custom dictionary.
+
+patch:
+  translator/dictionary: bopomofo_tw.MainDictionary

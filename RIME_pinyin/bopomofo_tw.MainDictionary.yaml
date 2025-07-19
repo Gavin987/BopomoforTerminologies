@@ -1,0 +1,16 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: bopomofo_tw.MainDictionary
+version: "2025.07.18"
+sort: by_weight
+# 各種生物注音：https://github.com/Gavin987/BopomoforTerminologies
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+  - bopomofo_tw.AvianFamilyName
+  - bopomofo_tw.AvianName
+...
+# 以下亦可以新增屬於自己的詞庫
+
