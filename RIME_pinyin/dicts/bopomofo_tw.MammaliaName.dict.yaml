@@ -1,0 +1,294 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: bopomofo_tw.MammaliaName
+version: "2025.07.20"
+sort: by_weight
+# 各種生物注音：https://github.com/Gavin987/BopomoforTerminologies
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+...
+
+哺乳綱	bu3 ru3 gang1
+獸亞綱	shou4 ya3 gang1
+真獸下綱	zhen1 shou4 xia4 gang1
+偶蹄目	ou3 ti2 mu4
+食肉目	shi2 rou4 mu4
+鯨目	jing1 mu4
+翼手目	yi4 shou3 mu4
+兔形目	tu4 xing2 mu4
+鱗甲目	lin2 jia3 mu4
+靈長目	ling2 zhang3 mu4
+囓齒目	nie4 chi3 mu4
+海牛目	hai3 niu2 mu4
+貓科	mao1 ke1
+摺翅蝠科	zhe2 chi4 fu2 ke1
+貂科	diao1 ke1
+鼠海豚科	shu3 hai3 tun2 ke1
+抹香鯨科	mo3 xiang1 jing1 ke1
+狐蝠科	hu2 fu2 ke1
+蹄鼻蝠科	ti2 bi2 fu2 ke1
+松鼠科	song1 shu3 ke1
+尖鼠科	jian1 shu3 ke1
+豬科	zhu1 ke1
+鼴鼠科	yan3 shu3 ke1
+熊科	xiong2 ke1
+蝙蝠科	bian1 fu2 ke1
+靈貓科	ling2 mao1 ke1
+喙鯨科	hui4 jing1 ke1
+鬚鯨科	xu1 jing1 ke1
+牛科	niu2 ke1
+犬科	quan3 ke1
+獼猴科	mi2 hou2 ke1
+鹿科	lu4 ke1
+倉鼠科	cang1 shu3 ke1
+海豚科	hai3 tun2 ke1
+灰鯨科	hui1 jing1 ke1
+獴科	meng2 ke1
+葉鼻蝠科	ye4 bi2 fu2 ke1
+人科	ren2 ke1
+小抹香鯨科	xiao3 mo3 xiang1 jing1 ke1
+兔科	tu4 ke1
+穿山甲科	chuan1 shan1 jia3 ke1
+游離尾蝠科	you2 li2 wei3 fu2 ke1
+鼠科	shu3 ke1
+長翼蝠屬	chang2 yi4 fu2 shu3
+短尾鼩屬	duan3 wei3 qu2 shu3
+姬鼠屬	ji1 shu3 shu3
+鬚鯨屬	xu1 jing1 shu3
+板齒鼠屬	ban3 chi3 shu3 shu3
+寬耳蝠屬	kuan1 er3 fu2 shu3
+毛耳飛鼠屬	mao2 er3 fei1 shu3 shu3
+麗松鼠屬	li4 song1 shu3 shu3
+犬屬	quan3 shu3
+鬣羚屬	lie4 ling2 shu3
+鹿屬	lu4 shu3
+水麝鼩屬	shui3 she4 qu2 shu3
+長尾鼩屬	chang2 wei3 qu2 shu3
+無尾葉鼻蝠屬	wu2 wei3 ye4 bi2 fu2 shu3
+麝鼩屬	she4 qu2 shu3
+犬果蝠屬	quan3 guo3 fu2 shu3
+雲豹屬	yun2 bao4 shu3
+江豚屬	jiang1 tun2 shu3
+白腹鼠屬	bai2 fu4 shu3 shu3
+夜蝠屬	ye4 fu2 shu3
+虎鯨屬	hu3 jing1 shu3
+花面狸屬	hua1 mian4 li2 shu3
+瓜頭鯨屬	gua1 tou2 jing1 shu3
+鼯鼠屬	wu2 shu3 shu3
+抹香鯨屬	mo3 xiang1 jing1 shu3
+家蝠屬	jia1 fu2 shu3
+長耳蝠屬	堀 er3 fu2 shu3
+豹貓屬	bao4 mao1 shu3
+偽虎鯨屬	wei4 hu3 jing1 shu3
+狐蝠屬	hu2 fu2 shu3
+家鼠屬	jia1 shu3 shu3
+蹄鼻蝠屬	ti2 bi2 fu2 shu3
+果蝠屬	guo3 fu2 shu3
+水鹿屬	shui3 lu4 shu3
+黃蝠屬	huang2 fu2 shu3
+駝海豚屬	tuo2 hai3 tun2 shu3
+原海豚屬	yuan2 hai3 tun2 shu3
+糙齒海豚屬	cao1 chi3 hai3 tun2 shu3
+低齒丘鼠耳蝠屬	di1 chi3 qiu1 shu3 er3 fu2 shu3
+臭鼩屬	chou4 qu2 shu3
+野豬屬	ye3 zhu1 shu3
+犬吻蝠屬	quan3 wen3 fu2 shu3
+花松鼠屬	hua1 song1 shu3 shu3
+寬吻海豚屬	kuan1 wen3 hai3 tun2 shu3
+棕熊屬	zong1 xiong2 shu3
+蝙蝠屬	bian1 fu2 shu3
+小靈貓屬	xiao3 ling2 mao1 shu3
+喙鯨屬	hui4 jing1 shu3
+海豚屬	hai3 tun2 shu3
+長吻松鼠屬	chang2 wen3 song1 shu3 shu3
+絨鼠屬	rong2 shu3 shu3
+棕蝠屬	zong1 fu2 shu3
+灰鯨屬	hui1 jing1 shu3
+貓屬	mao1 shu3
+矮鯨屬	ai3 jing1 shu3
+領航鯨屬	ling3 hang2 jing1 shu3
+灰海豚屬	hui1 hai3 tun2 shu3
+毛翼管鼻蝠屬	mao2 yi4 guan3 bi2 fu2 shu3
+毛翼蝠屬	mao2 yi4 fu2 shu3
+葉蝠屬	ye4 fu2 shu3
+人屬	ren2 shu3
+高級伏翼屬	gao1 ji2 fu2 yi4 shu3
+印太喙鯨屬	yin4 tai4 hui4 jing1 shu3
+彩蝠屬	cai3 fu2 shu3
+小抹香鯨屬	xiao3 mo3 xiang1 jing1 shu3
+沙撈越海豚屬	sha1 lao1 yue4 hai3 tun2 shu3
+兔屬	tu4 shu3
+水獺屬	shui3 ta3 shu3
+獼猴屬	mi2 hou2 shu3
+穿山甲屬	chuan1 shan1 jia3 shu3
+貂屬	diao1 shu3
+座頭鯨屬	zuo4 tou2 jing1 shu3
+鼬獾屬	you4 huan1 shu3
+中喙鯨屬	zhong1 hui4 jing1 shu3
+巢鼠屬	chao2 shu3 shu3
+鼴鼠屬	yan3 shu3 shu3
+麂屬	ji3 shu3
+管鼻蝠屬	guan3 bi2 fu2 shu3
+小鼠屬	xiao3 shu3 shu3
+鼬屬	you4 shu3
+鼠耳蝠屬	shu3 er3 fu2 shu3
+水牛屬	shui3 niu2 shu3
+小抹香鯨	xiao3 mo3 xiang1 jing1
+鼬貛	you4 huan1
+柏氏中喙鯨	bai3 shi4 zhong1 hui4 jing1
+臺灣毛腿鼠耳蝠	tai2 wan1 mao2 tui3 shu3 er3 fu2
+印太瓶鼻海豚	yin4 tai4 ping2 bi2 hai3 tun2
+瓶鼻海豚	ping2 bi2 hai3 tun2
+霜毛蝠	shuang1 mao2 fu2
+臺灣長尾鼩	tai2 wan1 chang2 wei3 qu2
+虎鯨	hu3 jing1
+抹香鯨	mo3 xiang1 jing1
+石虎	shi2 hu3
+臺灣大蹄鼻蝠	tai2 wan1 da4 ti2 bi2 fu2
+臺灣長耳蝠	tai2 wan1 chang2 er3 fu2
+偽虎鯨	wei4 hu3 jing1
+緬甸小鼠	mian3 dian1 xiao3 shu3
+小黃腹鼠	xiao3 huang2 fu4 shu3
+溝鼠	gou1 shu3
+玄鼠	xuan2 shu3
+亞洲家鼠	ya3 zhou1 jia1 shu3
+臺灣小蹄鼻蝠	tai2 wan1 xiao3 ti2 bi2 fu2
+棕果蝠	zong1 guo3 fu2
+高頭蝠	gao1 tou2 fu2
+中華白海豚	zhong1 hua2 bai2 hai3 tun2
+熱帶斑海豚	re4 dai4 ban1 hai3 tun2
+條紋海豚	tiao2 wen2 hai3 tun2
+長吻飛旋海豚	chang2 wen3 fei1 xuan2 hai3 tun2
+糙齒海豚	cao1 chi3 hai3 tun2
+寬吻鼠耳蝠	kuan1 wen3 shu3 er3 fu2
+家鼩	jia1 qu2
+東亞游離尾蝠	dong1 ya3 you2 li2 wei3 fu2
+柯氏喙鯨	ke1 shi4 hui4 jing1
+藍鯨	lan2 jing1
+長須鯨	chang2 xu1 jing1
+長吻真海豚	chang2 wen3 zhen1 hai3 tun2
+真海豚	zhen1 hai3 tun2
+灰鯨	hui1 jing1
+貓	mao1
+小虎鯨	xiao3 hu3 jing1
+短肢領航鯨	duan3 zhi1 ling3 hang2 jing1
+瑞氏海豚	rui4 shi4 hai3 tun2
+毛翼管鼻蝠	mao2 yi4 guan3 bi2 fu2
+金芒管鼻蝠	jin1 mang2 guan3 bi2 fu2
+智人	zhi4 ren2
+灰蝠翼	hui1 fu2 yi4
+朗氏喙鯨	lang3 shi4 hui4 jing1
+玄彩蝠	xuan2 cai3 fu2
+侏儒抹香鯨	zhu1 ru2 mo3 xiang1 jing1
+弗氏海豚	fu2 shi4 hai3 tun2
+臺灣獼猴	tai2 wan1 mi2 hou2
+大翅鯨	da4 chi4 jing1
+銀杏齒中喙鯨	yin2 xing4 chi3 zhong1 hui4 jing1
+巢鼠	chao2 shu3
+高山田鼠	gao1 shan1 tian2 shu3
+東亞摺翅蝠	dong1 ya3 zhe2 chi4 fu2
+短尾鼩	duan3 wei3 qu2
+赤背條鼠	chi4 bei4 tiao2 shu3
+臺灣森鼠	tai2 wan1 sen1 shu3
+黃頸蝠	huang2 jing3 fu2
+小鬚鯨	xiao3 xu1 jing1
+鰮鯨	wen1 jing1
+鯷鯨	ti2 jing1
+大村鯨	da4 cun1 jing1
+臺灣鯨	tai2 wan1 jing1
+鬼鼠	gui3 shu3
+東方寬耳蝠	dong1 fang1 kuan1 er3 fu2
+水牛	shui3 niu2
+臺灣野山羊	tai2 wan1 ye3 shan1 yang2
+細尾長尾鼩	xi4 wei3 chang2 wei3 qu2
+灰麝鼩	hui1 she4 qu2
+印度犬果蝠	yin4 du4 quan3 guo3 fu2
+鹿野氏鼴鼠	lu4 ye3 shi4 yan3 shu3
+黃胸管鼻蝠	huang2 xiong1 guan3 bi2 fu2
+姬管鼻蝠	ji1 guan3 bi2 fu2
+臺灣管鼻蝠	tai2 wan1 guan3 bi2 fu2
+隱姬管鼻蝠	yin3 ji1 guan3 bi2 fu2
+田鼷鼠	tian2 xi1 shu3
+家鼷鼠	jia1 xi1 shu3
+長尾鼠耳蝠	chang2 wei3 shu3 er3 fu2
+華南水鼠耳蝠	hua2 nan2 shui3 shu3 er3 fu2
+大足鼠耳蝠	da4 zu2 shu3 er3 fu2
+赤黑鼠耳蝠	chi4 hei1 shu3 er3 fu2
+長趾鼠耳蝠	chang2 zhi3 shu3 er3 fu2
+紅棕鼠耳蝠	hong2 zong1 shu3 er3 fu2
+江豬	jiang1 zhu1
+刺鼠	ci4 shu3
+高山白腹鼠	gao1 shan1 bai2 fu4 shu3
+瓜頭鯨	gua1 tou2 jing1
+東亞家蝠	dong1 ya3 jia1 fu2
+山家蝠	shan1 jia1 fu2
+臺灣家蝠	tai2 wan1 jia1 fu2
+布氏鯨	bu4 shi4 jing1
+小鼯鼠	xiao3 wu2 shu3
+赤腹松鼠	chi4 fu4 song1 shu3
+犬	quan3
+家羊	jia1 yang2
+臺灣梅花鹿	tai2 wan1 mei2 hua1 lu4
+臺灣無尾葉鼻蝠	tai2 wan1 wu2 wei3 ye4 bi2 fu2
+長尾麝鼩	chang2 wei3 she4 qu2
+小麝鼩	xiao3 she4 qu2
+長吻松鼠	chang2 wen3 song1 shu3
+堀川氏棕蝠	ku1 chuan1 shi4 zong1 fu2
+食蟹獴	shi2 xie4 meng2
+臺灣葉鼻蝠	tai2 wan1 ye4 bi2 fu2
+臺灣野兔	tai2 wan1 ye3 tu4
+水獺	shui3 ta3
+臺灣穿山甲	tai2 wan1 chuan1 shan1 jia3
+黃喉貂	huang2 hou2 diao1
+臺灣鼴鼠	tai2 wan1 yan3 shu3
+臺灣山羌	tai2 wan1 shan1 qiang1
+臺灣小黃鼠狼	tai2 wan1 xiao3 huang2 shu3 lang2
+黃鼠狼	huang2 shu3 lang2
+金黃鼠耳蝠	jin1 huang2 shu3 er3 fu2
+臺灣雲豹	tai2 wan1 yun2 bao4
+絨山蝠	rong2 shan1 fu2
+白鼻心	bai2 bi2 xin1
+白面鼯鼠	bai2 mian4 wu2 shu3
+大赤鼯鼠	da4 chi4 wu2 shu3
+臺灣狐蝠	tai2 wan1 hu2 fu2
+臺灣水鹿	tai2 wan1 shui3 lu4
+臺灣野豬	tai2 wan1 ye3 zhu1
+條紋松鼠	tiao2 wen2 song1 shu3
+臺灣黑熊	tai2 wan1 hei1 xiong2
+麝香貓	she4 xiang1 mao1
+海豹科	hai3 bao4 ke1
+華南兔	hua2 nan2 tu4
+歐亞水獺	ou1 ya3 shui3 ta3
+穿山甲	chuan1 shan1 jia3
+山羌	shan1 qiang1
+小黃鼠狼	xiao3 huang2 shu3 lang2
+毛腿鼠耳蝠	mao2 tui3 shu3 er3 fu2
+雲豹	yun2 bao4
+黑熊	hei1 xiong2
+荷氏松鼠	he2 shi4 song1 shu3
+豹	bao4
+狼	lang2
+斑海豹	ban1 hai3 bao4
+野豬	ye3 zhu1
+野山羊	ye3 shan1 yang2
+臺灣白海豚	tai2 wan1 bai2 hai3 tun2
+管鼻蝠亞科	guan3 bi2 fu2 ya3 ke1
+鼠耳蝠亞科	shu3 er3 fu2 ya3 ke1
+蝙蝠亞科	bian1 fu2 ya3 ke1
+鼠總科	shu3 zong3 ke1
+窄脊露脊鼠海豚	zhai3 ji3 lu4 ji3 shu3 hai3 tun2
+儒艮	ru2 gen4
+儒艮屬	ru2 gen4 shu3
+儒艮科	ru2 gen4 ke1
+黑腹绒鼠	hei1 fu4 rong2 shu3
+水鼩	shui3 qu2
+鼩蝟目	qu2 wei4 mu4
+大高頭蝠	da4 gao1 tou2 fu2
+早坂中國犀	zao3 ban3 zhong1 guo2 xi1
+中國犀	zhong1 guo2 xi1
+牛屬	niu2 shu3
+普通牛	pu3 tong1 niu2
+瘤牛	liu2 niu2

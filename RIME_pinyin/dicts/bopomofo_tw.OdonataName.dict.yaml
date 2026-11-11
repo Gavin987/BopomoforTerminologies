@@ -1,0 +1,202 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: bopomofo_tw.OdonataName
+version: "2025.07.20"
+sort: by_weight
+# 各種生物注音：https://github.com/Gavin987/BopomoforTerminologies
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+...
+
+蜻蛉目	qing1 ling2 mu4
+琵蟌科	pi2 cong1 ke1
+洵蟌科	xun2 cong1 ke1
+晏蜓科	yan4 ting2 ke1
+珈蟌科	jia1 cong1 ke1
+鼓蟌科	gu3 cong1 ke1
+細蟌科	xi4 cong1 ke1
+勾蜓科	gou1 ting2 ke1
+弓蜓科	gong1 ting2 ke1
+幽蟌科	you1 cong1 ke1
+春蜓科	chun1 ting2 ke1
+絲蟌科	si1 cong1 ke1
+蜻蜓科	qing1 ting2 ke1
+蹣蟌科	pan2 cong1 ke1
+蹣蟌科	man2 cong1 ke1
+晏蜓屬	yan4 ting2 shu3
+山絲蟌屬	shan1 si1 cong1 shu3
+樸蟌屬	pu2 cong1 shu3
+蹣蟌屬	pan2 cong1 shu3
+蹣蟌屬	man2 cong1 shu3
+麗翅蜻屬	li4 chi4 qing1 shu3
+春蜓屬	chun1 ting2 shu3
+華洵蟌屬	hua2 xun2 cong1 shu3
+赤腹蜻屬	chi4 fu4 qing1 shu3
+幽蟌屬	you1 cong1 shu3
+赭絲蟌屬	zhe3 si1 cong1 shu3
+絲蟌屬	si1 cong1 shu3
+短足弓蜓屬	duan3 zu2 gong1 ting2 shu3
+洵蟌屬	xun2 cong1 shu3
+亞東細蟌	ya3 dong1 xi4 cong1
+鈎尾春蜓	gou1 wei3 chun1 ting2
+鑲紋絲蟌	xiang1 wen2 si1 cong1
+耀沂弓蜓	yao4 yi2 gong1 ting2
+白痣珈蟌	bai2 zhi4 jia1 cong1
+窄胸春蜓	zhai3 xiong1 chun1 ting2
+紫紅蜻蜓	zi3 hong2 qing1 ting2
+樂仙蜻蜓	le4 xian1 qing1 ting2
+灰脈蜻蜓	hui1 mai4 qing1 ting2
+火神春蜓	huo3 shen2 chun1 ting2
+異紋春蜓	yi4 wen2 chun1 ting2
+綠翅珈蟌	lv4 chi4 jia1 cong1
+扶桑蜻蜓	fu2 sang1 qing1 ting2
+呂宋蜻蜓	lv3 song4 qing1 ting2
+烏齒樸蟌	wu1 chi3 pu3 cong1
+丹頂細蟌	dan1 ding3 xi4 cong1
+芽痣蹣蟌	ya2 zhi4 pan2 cong1
+芽痣蹣蟌	ya2 zhi4 man2 cong1
+黑翅蜻蜓	hei1 chi4 qing1 ting2
+三角蜻蜓	san1 jiao3 qing1 ting2
+源埡晏蜓	yuan2 ya4 yan4 ting2
+源埡晏蜓	yuan2 wu4 yan4 ting2
+臺灣弓蜓	tai2 wan1 gong1 ting2
+孔凱蜻蜓	kong3 kai3 qing1 ting2
+黃基蜻蜓	huang2 ji1 qing1 ting2
+陽明晏蜓	yang2 ming2 yan4 ting2
+朱黛晏蜓	zhu1 dai4 yan4 ting2
+描金晏蜓	miao2 jin1 yan4 ting2
+喙鋏晏蜓	hui4 jia2 yan4 ting2
+朱背琵蟌	zhu1 bei4 pi2 cong1
+瘦面細蟌	shou4 mian4 xi4 cong1
+黃紉蜻蜓	huang2 ren4 qing1 ting2
+朱環鼓蟌	zhu1 huan2 gu3 cong1
+賽琳蜻蜓	sai4 lin2 qing1 ting2
+鉤鋏晏蜓	gou1 jia2 yan4 ting2
+短鋏晏蜓	duan3 jia2 yan4 ting2
+日清晏蜓	ri4 qing1 yan4 ting2
+刃鋏晏蜓	ren4 jia2 yan4 ting2
+闊腹春蜓	kuo4 fu4 chun1 ting2
+細鉤春蜓	xi4 gou1 chun1 ting2
+鉸剪春蜓	jiao3 jian3 chun1 ting2
+黃肩洵蟌	huang2 jian1 xun2 cong1
+斑翼勾蜓	ban1 yi4 gou1 ting2
+球角春蜓	qiu2 jiao3 chun1 ting2
+長尾蜻蜓	chang2 wei3 qing1 ting2
+仲夏蜻蜓	zhong4 xia4 qing1 ting2
+秋紅蜻蜓	qiu1 hong2 qing1 ting2
+紅脈蜻蜓	hong2 mai4 qing1 ting2
+纖紅蜻蜓	xian1 hong2 qing1 ting2
+夜遊蜻蜓	ye4 you2 qing1 ting2
+大華蜻蜓	da4 hua2 qing1 ting2
+高砂蜻蜓	gao1 sha1 qing1 ting2
+灰影蜻蜓	hui1 ying3 qing1 ting2
+纖腰蜻蜓	xian1 yao1 qing1 ting2
+橙尾細蟌	cheng2 wei3 xi4 cong1
+短痣蜻蜓	duan3 zhi4 qing1 ting2
+侏儒蜻蜓	zhu1 ru2 qing1 ting2
+慧眼弓蜓	hui4 yan3 gong1 ting2
+短腹幽蟌	duan3 fu4 you1 cong1
+聯紋春蜓	lian2 wen2 chun1 ting2
+浡鋏晏蜓	bo2 jia2 yan4 ting2
+長鋏晏蜓	chang2 jia2 yan4 ting2
+倭鋏晏蜓	wo1 jia2 yan4 ting2
+琉球晏蜓	liu2 qiu2 yan4 ting2
+舞鋏晏蜓	wu3 jia2 yan4 ting2
+曲尾春蜓	qu1 wei3 chun1 ting2
+硃紅蜻蜓	zhu1 hong2 qing1 ting2
+粗鉤春蜓	cu1 gou1 chun1 ting2
+青紋絲蟌	qing1 wen2 si1 cong1
+青紋細蟌	qing1 wen2 xi4 cong1
+廣腹蜻蜓	guang3 fu4 qing1 ting2
+樹穴蜻蜓	shu4 xue2 qing1 ting2
+高翔蜻蜓	gao1 xiang2 qing1 ting2
+褐面弓蜓	he2 mian4 gong1 ting2
+海神弓蜓	hai3 shen2 gong1 ting2
+天王弓蜓	tian1 wang2 gong1 ting2
+黃尾弓蜓	huang2 wei3 gong1 ting2
+黃腹洵蟌	huang2 fu4 xun2 cong1
+針尾細蟌	zhen1 wei3 xi4 cong1
+碧翠晏蜓	bi4 cui4 yan4 ting2
+烏基晏蜓	wu1 ji1 yan4 ting2
+烏點晏蜓	wu1 dian3 yan4 ting2
+麻斑晏蜓	ma2 ban1 yan4 ting2
+國姓春蜓	guo2 xing4 chun1 ting2
+長唇春蜓	zhang3 chun2 chun1 ting2
+無霸勾蜓	wu2 ba4 gou1 ting2
+簾格鼓蟌	lian2 ge2 gu3 cong1
+海南春蜓	hai3 nan2 chun1 ting2
+雙角春蜓	shuang1 jiao3 chun1 ting2
+圓痣春蜓	yuan2 zhi4 chun1 ting2
+鈎紋春蜓	gou1 wen2 chun1 ting2
+短尾幽蟌	duan3 wei3 you1 cong1
+褐斑蜻蜓	he2 ban1 qing1 ting2
+蟲莖春蜓	chong2 jing1 chun1 ting2
+美姿琵蟌	mei3 zi1 pi2 cong1
+微刺晏蜓	wei1 ci4 yan4 ting2
+黃腹細蟌	huang2 fu4 xi4 cong1
+朱紅細蟌	zhu1 hong2 xi4 cong1
+短痣勾蜓	duan3 zhi4 gou1 ting2
+褐翼勾蜓	he2 yi4 gou1 ting2
+闊翼勾蜓	kuo4 yi4 gou1 ting2
+青黑琵蟌	qing1 hei1 pi2 cong1
+環紋琵蟌	huan2 wen2 pi2 cong1
+脛蹼琵蟌	jing4 pu3 pi2 cong1
+細胸珈蟌	xi4 xiong1 jia1 cong1
+四斑細蟌	si4 ban1 xi4 cong1
+月斑細蟌	yue4 ban1 xi4 cong1
+小紅蜻蜓	xiao3 hong2 qing1 ting2
+漆黑蜻蜓	qi1 hei1 qing1 ting2
+淺褐蜻蜓	qian3 he2 qing1 ting2
+善變蜻蜓	shan4 bian4 qing1 ting2
+藍彩琵蟌	lan2 cai3 pi2 cong1
+長痣絲蟌	zhang3 zhi4 si1 cong1
+金黃蜻蜓	jin1 huang2 qing1 ting2
+灰黑蜻蜓	hui1 hei1 qing1 ting2
+鼎脈蜻蜓	ding3 mai4 qing1 ting2
+薄翅蜻蜓	bao2 chi4 qing1 ting2
+蔚藍細蟌	wei4 lan2 xi4 cong1
+錢博細蟌	qian2 bo2 xi4 cong1
+柱鋏晏蜓	zhu4 jia2 yan4 ting2
+粗腰蜻蜓	cu1 yao1 qing1 ting2
+泰雅晏蜓	tai4 ya3 yan4 ting2
+白粉細蟌	bai2 fen3 xi4 cong1
+八仙蜻蜓	ba1 xian1 qing1 ting2
+烏帶晏蜓	wu1 dai4 yan4 ting2
+綠胸晏蜓	lv4 xiong1 yan4 ting2
+橙斑蜻蜓	cheng2 ban1 qing1 ting2
+紅腹細蟌	hong2 fu4 xi4 cong1
+昧影細蟌	mei4 ying3 xi4 cong1
+黃尾琵蟌	huang2 wei3 pi2 cong1
+線紋蜻蜓	xian4 wen2 qing1 ting2
+猩紅蜻蜓	xing1 hong2 qing1 ting2
+棋紋鼓蟌	qi2 wen2 gu3 cong1
+岷峨弓蜓	min2 e2 gong1 ting2
+朝雲細蟌	chao2 yun2 xi4 cong1
+海神蜻蜓	hai3 shen2 qing1 ting2
+紹德春蜓	shao4 de2 chun1 ting2
+隱紋絲蟌	yin3 wen2 si1 cong1
+脊紋鼓蟌	ji2 wen2 gu3 cong1
+雙截蜻蜓	shuang1 jie2 qing1 ting2
+琥珀蜻蜓	hu3 po4 qing1 ting2
+白刃蜻蜓	bai2 ren4 qing1 ting2
+霜白蜻蜓	shuang1 bai2 qing1 ting2
+杜松蜻蜓	du4 song1 qing1 ting2
+赭黃蜻蜓	zhe3 huang2 qing1 ting2
+葦笛細蟌	wei3 di2 xi4 cong1
+石垣晏蜓	shi2 yuan2 yan4 ting2
+李斯晏蜓	li3 si1 yan4 ting2
+溪神蜻蜓	xi1 shen2 qing1 ting2
+弓背細蟌	gong1 bei4 xi4 cong1
+中華珈蟌	zhong1 hua2 jia1 cong1
+藍黑蜻蜓	lan2 hei1 qing1 ting2
+彩裳蜻蜓	cai3 shang qing1 ting2
+錘角春蜓	chui2 jiao3 chun1 ting2
+赤衣蜻蜓	chi4 yi1 qing1 ting2
+焰紅蜻蜓	yan4 hong2 qing1 ting2
+海霸蜻蜓	hai3 ba4 qing1 ting2
+褐基蜻蜓	he2 ji1 qing1 ting2
+藍印蜻蜓	lan2 yin4 qing1 ting2
+

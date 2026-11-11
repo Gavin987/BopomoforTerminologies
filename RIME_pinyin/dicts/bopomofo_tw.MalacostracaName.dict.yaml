@@ -1,0 +1,2423 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: bopomofo_tw.MalacostracaName
+version: "2025.07.20"
+sort: by_weight
+# 各種生物注音：https://github.com/Gavin987/BopomoforTerminologies
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+...
+
+軟甲綱	ruan3 jia3 gang1
+真軟甲亞綱	zhen1 ruan3 jia3 ya3 gang1
+掠蝦亞綱	lve4 xia1 ya3 gang1
+真蝦總目	zhen1 xia1 zong3 mu4
+囊蝦總目	nang2 xia1 zong3 mu4
+端足目	duan1 zu2 mu4
+十足目	shi2 zu2 mu4
+磷蝦目	lin2 xia1 mu4
+等足目	deng3 zu2 mu4
+疣背糠蝦目	you2 bei4 kang1 xia1 mu4
+糠蝦目	kang1 xia1 mu4
+口足目	kou3 zu2 mu4
+原足目	yuan2 zu2 mu4
+藻鉤蝦科	zao3 gou1 xia1 ke1
+賴鉤蝦科	lai4 gou1 xia1 ke1
+蜾蠃蜚科	guo3 luo3 fei3 ke1
+巨顎水虱科	ju4 e4 shui3 shi1 ke1
+平額鉤蝦科	ping2 e2 gou1 xia1 ke1
+壯角鉤蝦科	zhuang4 jiao3 gou1 xia1 ke1
+卡馬鉤蝦科	ka3 ma3 gou1 xia1 ke1
+尖頭鉤蝦科	jian1 tou2 gou1 xia1 ke1
+尾鉤蝦科	wei3 gou1 xia1 ke1
+疣背糠蝦科	you2 bei4 kang1 xia1 ke1
+糠蝦科	kang1 xia1 ke1
+圓趾蟹科	yuan2 zhi3 xie4 ke1
+矮蝦蛄科	ai3 xia1 gu1 ke1
+線足蝦科	xian4 zu2 xia1 ke1
+海螯蝦科	hai3 ao2 xia1 ke1
+沙蟹科	sha1 xie4 ke1
+蝦蛄科	xia1 gu1 ke1
+長眼蝦科	chang2 yan3 xia1 ke1
+刺蝦科	ci4 xia1 ke1
+突眼蟹科	tu2 yan3 xie4 ke1
+虎頭蟹科	hu3 tou2 xie4 ke1
+尖頭戎科	jian1 tou2 rong2 ke1
+團扇蟹科	tuan2 shan4 xie4 ke1
+寄居蟹科	ji4 ju1 xie4 ke1
+長臂蝦科	chang2 bi4 xia1 ke1
+扁蟹科	bian3 xie4 ke1
+龍蝦科	long2 xia1 ke1
+長額蝦科	chang2 e2 xia1 ke1
+擬寄居蟹科	ni3 ji4 ju1 xie4 ke1
+擬巧戎科	ni3 qiao3 rong2 ke1
+臂戎科	bi4 rong2 ke1
+仿蝦蛄科	fang3 xia1 gu1 ke1
+擬螯蝦科	ni3 ao2 xia1 ke1
+擬原足蟲科	ni3 yuan2 zu2 chong2 ke1
+菱蟹科	ling2 xie4 ke1
+玻璃蝦科	bo1 li2 xia1 ke1
+對蝦科	dui4 xia1 ke1
+盾牌蟹科	dun4 pai2 xie4 ke1
+喜陰蟲科	xi3 yin1 chong2 ke1
+巧戎科	qiao3 rong2 ke1
+靈戎科	ling2 rong2 ke1
+毛刺蟹科	mao2 ci4 xie4 ke1
+豆蟹科	dou4 xie4 ke1
+斜紋蟹科	xie2 wen2 xie4 ke1
+蟻虱科	yi3 shi1 ke1
+扁足戎科	bian3 zu2 rong2 ke1
+多樣蟹科	duo1 yang4 xie4 ke1
+多螯蝦科	duo1 ao2 xia1 ke1
+瓷蟹科	ci2 xie4 ke1
+鼠婦科	shu3 fu4 ke1
+梭子蟹科	suo1 zi5 xie4 ke1
+溪蟹科	xi1 xie4 ke1
+異指蝦科	yi4 zhi3 xia1 ke1
+葉戎科	ye4 rong2 ke1
+原蝦蛄科	yuan2 xia1 gu1 ke1
+剪足蝦科	jian3 zu2 xia1 ke1
+假蝦蛄科	jia3 xia1 gu1 ke1
+門螯寄居蟹科	men2 ao2 ji4 ju1 xie4 ke1
+蛙蟹科	wa1 xie4 ke1
+反羽蟹科	fan3 yu3 xie4 ke1
+活額蝦科	huo2 e2 xia1 ke1
+掘沙蟹科	jue2 sha1 xie4 ke1
+錐戎科	zhui1 rong2 ke1
+蟬蝦科	chan2 xia1 ke1
+杯潮蟲科	bei1 chao2 chong2 ke1
+櫻蝦科	ying1 xia1 ke1
+相手蟹科	xiang4 shou3 xie4 ke1
+單肢蝦科	dan1 zhi1 xia1 ke1
+管鞭蝦科	guan3 bian1 xia1 ke1
+儷蝦科	li4 xia1 ke1
+蝟蝦科	wei4 xia1 ke1
+阿姑蝦科	a1 gu1 xia1 ke1
+棒指蝦科	bang4 zhi3 xia1 ke1
+卓蝦蛄科	zhuo2 xia1 gu1 ke1
+跳蝦科	tiao4 xia1 ke1
+長螯蟹科	chang2 ao2 xie4 ke1
+海姑蝦科	hai3 gu1 xia1 ke1
+托蝦科	tuo1 xia1 ke1
+氣肢蟲科	qi4 zhi1 chong2 ke1
+梯形蟹科	ti1 xing2 xie4 ke1
+近圓蟹科	jin4 yuan2 xie4 ke1
+海球鼠婦科	hai3 qiu2 shu3 fu4 ke1
+螻姑蝦科	lou2 gu1 xia1 ke1
+弓蟹科	gong1 xie4 ke1
+片戎科	pian4 rong2 ke1
+扇蟹科	shan4 xie4 ke1
+怪方蟹科	guai4 fang1 xie4 ke1
+新異眼蟹科	xin1 yi4 yan3 xie4 ke1
+短眼蟹科	duan3 yan3 xie4 ke1
+紡錐水虱科	fang3 zhui1 shui3 shi1 ke1
+奇淨蟹科	qi2 jing4 xie4 ke1
+管鬚蟹科	guan3 xu1 xie4 ke1
+鼓蝦科	gu3 xia1 ke1
+後葉戎科	hou4 ye4 rong2 ke1
+長鬚蝦科	chang2 xu1 xia1 ke1
+卷殼蟲科	juan3 ke2 chong2 ke1
+匙指蝦科	chi2 zhi3 xia1 ke1
+深長臂蝦科	shen1 chang2 bi4 xia1 ke1
+深對蝦科	shen1 dui4 xia1 ke1
+鰓蝨科	sai1 shi1 ke1
+饅頭蟹科	man2 tou2 xie4 ke1
+美人蝦科	mei3 ren2 xia1 ke1
+玉蝦科	yu4 xia1 ke1
+蝲蛄科	la4 gu1 ke1
+蝲蛄科	la3 gu1 ke1
+猴面蟹科	hou2 mian4 xie4 ke1
+黃道蟹科	huang2 dao4 xie4 ke1
+麥稈蟲科	mai4 gan3 chong2 ke1
+瓢蟹科	piao2 xie4 ke1
+寬甲蟹科	kuan1 jia3 xie4 ke1
+劣柱蝦科	lie4 zhu4 xia1 ke1
+漂水蝨科	piao1 shui3 shi1 ke1
+陸寄居蟹科	lu4 ji4 ju1 xie4 ke1
+盔蟹科	kui1 xie4 ke1
+褐蝦科	he4 xia1 ke1
+褐蝦科	he2 xia1 ke1
+隱螯蟹科	yin3 ao2 xie4 ke1
+櫛指蝦科	jie2 zhi3 xia1 ke1
+圓關公蟹科	yuan2 guan1 gong1 xie4 ke1
+絲足蟹科	si1 zu2 xie4 ke1
+縮頭水蝨科	suo1 tou2 shui3 shi1 ke1
+淚毛刺蟹科	lei4 mao2 ci4 xie4 ke1
+盲水虱科	mang2 shui3 shi1 ke1
+活額寄居蟹科	huo2 e2 ji4 ju1 xie4 ke1
+圓頂蟹科	yuan2 ding3 xie4 ke1
+關公蟹科	guan1 gong1 xie4 ke1
+毛帶蟹科	mao2 dai4 xie4 ke1
+綿蟹科	mian2 xie4 ke1
+貝綿蟹科	bei4 mian2 xie4 ke1
+礁螯蝦科	jiao1 ao2 xia1 ke1
+臥蜘蛛蟹科	wo4 zhi1 zhu1 xie4 ke1
+酋婦蟹科	qiu2 fu4 xie4 ke1
+四額蟹科	si4 e2 xie4 ke1
+駝背蝦科	tuo2 bei4 xia1 ke1
+磷蝦科	lin2 xia1 ke1
+寬背蟹科	kuan1 bei4 xie4 ke1
+鎧甲蝦科	kai3 jia3 xia1 ke1
+靜蟹科	jing4 xie4 ke1
+地蟹科	di4 xie4 ke1
+擬地蟹科	ni3 di4 xie4 ke1
+怪蟹科	guai4 xie4 ke1
+雕褐蝦科	diao1 he4 xia1 ke1
+雕褐蝦科	diao1 he2 xia1 ke1
+寬顎蝦科	kuan1 e4 xia1 ke1
+長腳蟹科	chang2 jiao3 xie4 ke1
+指蝦蛄科	zhi3 xia1 gu1 ke1
+方蟹科	fang1 xie4 ke1
+六足蟹科	liu4 zu2 xie4 ke1
+蟬蟹科	chan2 xie4 ke1
+𤂋蝦科	chao2 xia1 ke1
+藻蝦科	zhao3 xia1 ke1
+人面蟹科	ren2 mian4 xie4 ke1
+人面綿蟹科	ren2 mian4 mian2 xie4 ke1
+膜殼蟹科	mo2 ke2 xie4 ke1
+戎科	rong2 ke1
+深海蟹科	shen1 hai3 xie4 ke1
+尖頭蟹科	jian1 tou2 xie4 ke1
+矛戎科	mao2 rong2 ke1
+泥蝦科	ni2 xia1 ke1
+蛛形蟹科	zhu1 xing2 xie4 ke1
+玉蟹科	yu4 xie4 ke1
+海蟑螂科	hai3 zhang1 lang2 ke1
+石蟹科	shi2 xie4 ke1
+瑩蝦科	ying2 xia1 ke1
+麗戎科	li4 rong2 ke1
+秀戎科	xiu4 rong2 ke1
+琴蝦蛄科	qin2 xia1 gu1 ke1
+鞭腕蝦科	bian1 wan4 xia1 ke1
+大眼蟹科	da4 yan3 xie4 ke1
+蜘蛛蟹科	zhi1 zhu1 xie4 ke1
+杯蟹科	bei1 xie4 ke1
+黎明蟹科	li2 ming2 xie4 ke1
+哲蟹科	zhe2 xie4 ke1
+亮指蝦科	liang4 zhi3 xia1 ke1
+和尚蟹科	he2 shang4 xie4 ke1
+寶石蟹科	bao3 shi2 xie4 ke1
+葉顎蝦屬	ye4 e4 xia1 shu3
+膜角蝦屬	mo2 jiao3 xia1 shu3
+圓趾蟹屬	yuan2 zhi3 xie4 shu3
+秀螯蝦屬	xiu4 ao2 xia1 shu3
+木阿蛄蝦屬	mu4 a1 gu1 xia1 shu3
+棘阿蛄蝦屬	ji2 a1 gu1 xia1 shu3
+棘蝦屬	ji2 xia1 shu3
+錐戎屬	zhui1 rong2 shu3
+刺蝦蛄屬	ci4 xia1 gu1 shu3
+毛蝦屬	mao2 xia1 shu3
+銀杏蟹屬	yin2 xing4 xie4 shu3
+仿銀杏蟹屬	fang3 yin2 xing4 xie4 shu3
+楊梅蟹屬	yang2 mei2 xie4 shu3
+奇淨蟹屬	qi2 jing4 xie4 shu3
+宦蝦屬	huan4 xia1 shu3
+管鬚蟹屬	guan3 xu1 xie4 shu3
+異瓷蟹屬	yi4 ci2 xie4 shu3
+海蝦蛄屬	hai3 xia1 gu1 shu3
+異寄居蟹屬	yi4 ji4 ju1 xie4 shu3
+異鎧蝦屬	yi4 kai3 xia1 shu3
+槍蝦屬	qiang1 xia1 shu3
+近阿蛄蝦屬	jin4 a1 gu1 xia1 shu3
+端戎屬	duan1 rong2 shu3
+後葉戎屬	hou4 ye4 rong2 shu3
+近蝦蛄屬	jin4 xia1 gu1 shu3
+紋寄居蟹屬	wen2 ji4 ju1 xie4 shu3
+栗殼蟹屬	li4 ke2 xie4 shu3
+擬鬚蝦屬	ni3 xu1 xia1 shu3
+似鬚蝦屬	shi4 xu1 xia1 shu3
+長鬚蝦屬	chang2 xu1 xia1 shu3
+月神蟹屬	yue4 shen2 xie4 shu3
+愛潔蟹屬	ai4 jie2 xie4 shu3
+近愛潔蟹屬	jin4 ai4 jie2 xie4 shu3
+仿匙蝦屬	fang3 chi2 xia1 shu3
+異對蝦屬	yi4 dui4 xia1 shu3
+凹唇緊握蟹屬	ao1 chun2 jin3 wo4 xie4 shu3
+奧螻姑蝦屬	ao4 lou2 gu1 xia1 shu3
+澳托蝦屬	ao4 tuo1 xia1 shu3
+擬阿蛄蝦屬	ni3 a1 gu1 xia1 shu3
+鎧蟹屬	kai3 xie4 shu3
+巴魯蟹屬	ba1 lu3 xie4 shu3
+深蟬蝦屬	shen1 chan2 xia1 shu3
+大王具足蟲屬	dai4 wang2 ju4 zu2 chong2 shu3
+仿深寄居蟹屬	fang3 shen1 ji4 ju1 xie4 shu3
+深長臂蝦屬	shen1 chang2 bi4 xia1 shu3
+深蝦蛄屬	shen1 xia1 gu1 shu3
+深居蝦屬	shen1 ju1 xia1 shu3
+海神蟹屬	hai3 shen2 xie4 shu3
+乙鼓蝦屬	yi3 gu3 xia1 shu3
+雙齒蟬蝦屬	shuang1 chi3 chan2 xia1 shu3
+方額蝦蛄屬	fang1 e2 xia1 gu1 shu3
+椰子蟹屬	ye2 zi5 xie4 shu3
+短腕蝦屬	duan3 wan4 xia1 shu3
+腿戎屬	tui3 rong2 shu3
+牛蝦蛄屬	niu2 xia1 gu1 shu3
+附額戎屬	fu4 e2 rong2 shu3
+饅頭蟹屬	man2 tou2 xie4 shu3
+麗阿蛄蝦屬	li4 a1 gu1 xia1 shu3
+硬殼寄居蟹屬	ying4 ke2 ji4 ju1 xie4 shu3
+麗額蝦屬	li4 e2 xia1 shu3
+美人蝦屬	mei3 ren2 xia1 shu3
+玉蝦屬	yu4 xia1 shu3
+似美蝦屬	shi4 mei3 xia1 shu3
+嬌斧蝦屬	jiao1 fu3 xia1 shu3
+秀阿蛄蝦屬	xiu4 a1 gu1 xia1 shu3
+禿頭蟹屬	tu1 tou2 xie4 shu3
+猴面蟹屬	hou2 mian4 xie4 shu3
+明溪蟹屬	ming2 xi1 xie4 shu3
+尖指蟹屬	jian1 zhi3 xie4 shu3
+隆背蟹屬	long2 bei4 xie4 shu3
+圓軸蟹屬	yuan2 zhou2 xie4 shu3
+米蝦屬	mi3 xia1 shu3
+脊蝦蛄屬	ji2 xia1 gu1 shu3
+脊蝦蛄屬	ji3 xia1 gu1 shu3
+瓢蟹屬	piao2 xie4 shu3
+似低寄居蟹屬	shi4 di1 ji4 ju1 xie4 shu3
+低寄居蟹屬	di1 ji4 ju1 xie4 shu3
+鏡蟹屬	jing4 xie4 shu3
+染色寄居蟹屬	ran3 se4 ji4 ju1 xie4 shu3
+查氏蟹屬	cha2 shi4 xie4 shu3
+開口蟹屬	kai1 kou3 xie4 shu3
+陳氏寄居蟹屬	chen2 shi4 ji4 ju1 xie4 shu3
+蟳屬	xun2 shu3
+寬螯寄居蟹屬	kuan1 ao2 ji4 ju1 xie4 shu3
+螯蟬蝦屬	ao2 chan2 xia1 shu3
+滑螯蝦屬	hua2 ao2 xia1 shu3
+螳臂蟹屬	tang2 bi4 xie4 shu3
+劣柱蝦屬	lie4 zhu4 xia1 shu3
+綠蟹屬	lv4 xie4 shu3
+合顎蟹屬	he2 e4 xie4 shu3
+纖毛寄居蟹屬	xian1 mao2 ji4 ju1 xie4 shu3
+細螯寄居蟹屬	xi4 ao2 ji4 ju1 xie4 shu3
+綠蝦蛄屬	lv4 xia1 gu1 shu3
+小綠蝦蛄屬	xiao3 lv4 xia1 gu1 shu3
+擬綠蝦蛄屬	ni3 lv4 xia1 gu1 shu3
+陸寄居蟹屬	lu4 ji4 ju1 xie4 shu3
+江瑤蝦屬	jiang1 yao2 xia1 shu3
+居殼蟹屬	ju1 ke2 xie4 shu3
+珊瑚蝦屬	shan1 hu2 xia1 shu3
+六角蟹屬	liu4 jiao3 xie4 shu3
+頭戎屬	tou2 rong2 shu3
+柯鎧蝦屬	ke1 kai3 xia1 shu3
+隱綿蟹屬	yin3 mian2 xie4 shu3
+粗對蝦屬	cu1 dui4 xia1 shu3
+隱足蟹屬	yin3 zu2 xie4 shu3
+櫛指蝦屬	jie2 zhi3 xia1 shu3
+圓蛛蟹屬	yuan2 zhu1 xie4 shu3
+圓腔蟹屬	yuan2 qiang1 xie4 shu3
+圓殼蟹屬	yuan2 ke2 xie4 shu3
+波紋蟹屬	bo1 wen2 xie4 shu3
+絲足蟹屬	si1 zu2 xie4 shu3
+南海溪蟹屬	nan2 hai3 xi1 xie4 shu3
+阿蛄蝦屬	a1 gu1 xia1 shu3
+線足蝦屬	xian4 zu2 xia1 shu3
+線寄居蟹屬	xian4 ji4 ju1 xie4 shu3
+新米蝦屬	xin1 mi3 xia1 shu3
+新花瓣蟹屬	xin1 hua1 ban4 xie4 shu3
+新石蟹屬	xin1 shi2 xie4 shu3
+新岩瓷蟹屬	xin1 yan2 ci2 xie4 shu3
+新近扇蟹屬	xin1 jin4 shan4 xie4 shu3
+新景扇蟹屬	xin1 jing3 shan4 xie4 shu3
+海螯蝦屬	hai3 ao2 xia1 shu3
+擬海螯蝦屬	ni3 hai3 ao2 xia1 shu3
+和美蝦屬	he2 mei3 xia1 shu3
+擬異指蝦屬	ni3 yi4 zhi3 xia1 shu3
+背足蟹屬	bei4 zu2 xie4 shu3
+背腳蟹屬	bei4 jiao3 xie4 shu3
+新銀杏蟹屬	xin1 yin2 xing4 xie4 shu3
+異額瓷蟹屬	yi4 e2 ci2 xie4 shu3
+鱗龍蝦屬	lin2 long2 xia1 shu3
+五角蟹屬	wu3 jiao3 xie4 shu3
+沙蟹屬	sha1 xie4 shu3
+齒指蝦蛄屬	chi3 zhi3 xia1 gu1 shu3
+長眼蝦屬	chang2 yan3 xia1 shu3
+長眼柄蟹屬	chang2 yan3 bing3 xie4 shu3
+腫寄居蟹屬	zhong3 ji4 ju1 xie4 shu3
+刺蝦屬	ci4 xia1 shu3
+口蝦蛄屬	kou3 xia1 gu1 shu3
+似口蝦蛄屬	shi4 kou3 xia1 gu1 shu3
+寬邊蟹屬	kuan1 bian1 xie4 shu3
+虎頭蟹屬	hu3 tou2 xie4 shu3
+尖頭戎屬	jian1 tou2 rong2 shu3
+長眼阿蛄蝦屬	chang2 yan3 a1 gu1 xia1 shu3
+厚瓷蟹屬	hou4 ci2 xie4 shu3
+厚紋蟹屬	hou4 wen2 xie4 shu3
+長眼寄居蟹屬	chang2 yan3 ji4 ju1 xie4 shu3
+准寄居蟹屬	zhun3 ji4 ju1 xie4 shu3
+道氏寄居蟹屬	dao4 shi4 ji4 ju1 xie4 shu3
+寄居蟹屬	ji4 ju1 xie4 shu3
+長臂蝦屬	chang2 bi4 xia1 shu3
+柱足蟹屬	zhu4 zu2 xie4 shu3
+毛龍蝦屬	mao2 long2 xia1 shu3
+鈍龍蝦屬	dun4 long2 xia1 shu3
+長額蝦屬	chang2 e2 xia1 shu3
+龍蝦屬	long2 xia1 shu3
+擬閉口蟹屬	ni3 bi4 kou3 xie4 shu3
+擬銀杏蟹屬	ni3 yin2 xing4 xie4 shu3
+擬圓殼蟹屬	ni3 yuan2 ke2 xie4 shu3
+擬關公蟹屬	ni3 guan1 gong1 xie4 shu3
+奇異鞭尾蟲屬	qi2 yi4 bian1 wei3 chong2 shu3
+淺寄居蟹屬	qian3 ji4 ju1 xie4 shu3
+擬肝刺蝦屬	ni3 gan1 ci4 xia1 shu3
+仿管鬚蟹屬	fang3 guan3 xu1 xie4 shu3
+仿石蟹屬	fang3 shi2 xie4 shu3
+似刺鎧蝦屬	shi4 ci4 kai3 xia1 shu3
+擬寄居蟹屬	ni3 ji4 ju1 xie4 shu3
+仿對蝦屬	fang3 dui4 xia1 shu3
+擬對蝦屬	ni3 dui4 xia1 shu3
+擬巧戎屬	ni3 qiao3 rong2 shu3
+擬葉戎屬	ni3 ye4 rong2 shu3
+擬相手蟹屬	ni3 xiang4 shou3 xie4 shu3
+擬愛潔蟹屬	ni3 ai4 jie2 xie4 shu3
+擬毛戎屬	ni3 mao2 rong2 shu3
+擬扇蟹屬	ni3 shan4 xie4 shu3
+等螯蟹屬	deng3 ao2 xie4 shu3
+擬精干蟹屬	ni3 jing1 gan4 xie4 shu3
+菱蟹屬	ling2 xie4 shu3
+玻璃蝦屬	bo1 li2 xia1 shu3
+似對蝦屬	shi4 dui4 xia1 shu3
+對蝦屬	dui4 xia1 shu3
+五螯蝦屬	wu3 ao2 xia1 shu3
+盾牌蟹屬	dun4 pai2 xie4 shu3
+岩蝦屬	yan2 xia1 shu3
+彼爾蟹屬	bi3 er3 xie4 shu3
+板蟹屬	ban3 xie4 shu3
+硬甲蟬蝦屬	ying4 jia3 chan2 xia1 shu3
+岩瓷蟹屬	yan2 ci2 xie4 shu3
+拳蟹屬	quan2 xie4 shu3
+巧戎屬	qiao3 rong2 shu3
+靈戎屬	ling2 rong2 shu3
+葉額鎧蝦屬	ye4 e2 kai3 xia1 shu3
+毛殼蟹屬	mao2 ke2 xie4 shu3
+毛粒蟹屬	mao2 li4 xie4 shu3
+毛刺蟹屬	mao2 ci4 xie4 shu3
+豆蟹屬	dou4 xie4 shu3
+豆瓷蟹屬	dou4 ci2 xie4 shu3
+斜紋蟹屬	xie2 wen2 xie4 shu3
+漂浮蟹屬	piao1 fu2 xie4 shu3
+扁跳蝦屬	bian3 tiao4 xia1 shu3
+扁毛剌蟹屬	bian3 mao2 la2 xie4 shu3
+扁足蟹屬	bian3 zu2 xie4 shu3
+扁足戎屬	bian3 zu2 rong2 shu3
+紅蝦屬	hong2 xia1 shu3
+長眼蟹屬	chang2 yan3 xie4 shu3
+多螯蝦屬	duo1 ao2 xia1 shu3
+多指瓷蟹屬	duo1 zhi3 ci2 xie4 shu3
+蓋螯寄居蟹屬	gai4 ao2 ji4 ju1 xie4 shu3
+擬隱蝦屬	ni3 yin3 xia1 shu3
+小瓷蟹屬	xiao3 ci2 xie4 shu3
+梭子蟹屬	suo1 zi5 xie4 shu3
+原戎屬	yuan2 rong2 shu3
+鋸褐蝦屬	ju4 he4 xia1 shu3
+棱蛛蟹屬	leng2 zhu1 xie4 shu3
+原螯蝦屬	yuan2 ao2 xia1 shu3
+異指蝦屬	yi4 zhi3 xia1 shu3
+葉戎屬	ye4 rong2 shu3
+原寄居蟹屬	yuan2 ji4 ju1 xie4 shu3
+剪足蝦屬	jian3 zu2 xia1 shu3
+脆肢蝦屬	cui4 zhi1 xia1 shu3
+凹足蟹屬	ao1 zu2 xie4 shu3
+偽近鞭尾蟲屬	wei4 jin4 bian1 wei3 chong2 shu3
+假隱螯蟹屬	jia3 yin3 ao2 xie4 shu3
+假花瓣蟹屬	jia3 hua1 ban4 xie4 shu3
+擬折額蟹屬	ni3 zhe2 e2 xie4 shu3
+假扁蟹屬	jia3 bian3 xie4 shu3
+假蝦蛄屬	jia3 xia1 gu1 shu3
+假團扇蟹屬	jia3 tuan2 shan4 xie4 shu3
+聲蟹屬	sheng1 xie4 shu3
+折顎蟹屬	zhe2 e4 xie4 shu3
+游龍蝦屬	you2 long2 xia1 shu3
+麗蟹屬	li4 xie4 shu3
+門螯寄居蟹屬	men2 ao2 ji4 ju1 xie4 shu3
+仿門寄居蟹屬	fang3 men2 ji4 ju1 xie4 shu3
+四齒蟹屬	si4 chi3 xie4 shu3
+東方蝦蛄屬	dong1 fang1 xia1 gu1 shu3
+蛙蟹屬	wa1 xie4 shu3
+仿蛙蟹屬	fang3 wa1 xie4 shu3
+細足蟹屬	xi4 zu2 xie4 shu3
+衛鎧蝦屬	wei4 kai3 xia1 shu3
+棒頭戎屬	bang4 tou2 rong2 shu3
+束頸緊握蟹屬	shu4 jing3 jin3 wo4 xie4 shu3
+活額蝦屬	huo2 e2 xia1 shu3
+武田蟹屬	wu3 tian2 xie4 shu3
+掃帚蝦屬	sao3 zhou3 xia1 shu3
+掘沙蟹屬	jue2 sha1 xie4 shu3
+凹甲蟬蝦屬	ao1 jia3 chan2 xia1 shu3
+擬裂額蟹屬	ni3 lie4 e2 xie4 shu3
+裂額蟹屬	lie4 e2 xie4 shu3
+裂臂戎屬	lie4 bi4 rong2 shu3
+股窗蟹屬	gu3 chuang1 xie4 shu3
+青蟳屬	qing1 xun2 shu3
+霞蝦屬	xia2 xia1 shu3
+櫻蝦屬	ying1 xia1 shu3
+仿相手蟹屬	fang3 xiang4 shou3 xie4 shu3
+潛鎧蝦屬	qian2 kai3 xia1 shu3
+單肢蝦屬	dan1 zhi1 xia1 shu3
+偏鼻戎屬	pian1 bi2 rong2 shu3
+管鞭蝦屬	guan3 bian1 xia1 shu3
+圓綿蟹屬	yuan2 mian2 xie4 shu3
+旋刺寄居蟹屬	xuan2 ci4 ji4 ju1 xie4 shu3
+儷蝦屬	li4 xia1 shu3
+擬蝦蛄屬	ni3 xia1 gu1 shu3
+蓋隱蝦屬	gai4 yin3 xia1 shu3
+鞭尾蝦屬	bian1 wei3 xia1 shu3
+猬蝦屬	wei4 xia1 shu3
+硬鞭蝦屬	ying4 bian1 xia1 shu3
+條戎屬	tiao2 rong2 shu3
+聲紋寄居蟹屬	sheng1 wen2 ji4 ju1 xie4 shu3
+轉寄居蟹屬	zhuan3 ji4 ju1 xie4 shu3
+棒指蝦屬	bang4 zhi3 xia1 shu3
+同寄居蟹屬	tong2 ji4 ju1 xie4 shu3
+合鼓蝦屬	he2 gu3 xia1 shu3
+武田綿蟹屬	wu3 tian2 mian2 xie4 shu3
+卓蝦蛄屬	zhuo2 xia1 gu1 shu3
+擬梯形蟹屬	ni3 ti1 xing2 xie4 shu3
+四盾戎屬	si4 dun4 rong2 shu3
+短槳蟹屬	duan3 jiang3 xie4 shu3
+海蛄蝦屬	hai3 gu1 xia1 shu3
+鋸指螯蝦屬	ju4 zhi3 ao2 xia1 shu3
+腳戎屬	jiao3 rong2 shu3
+長腳戎屬	chang2 jiao3 rong2 shu3
+扁蝦屬	bian3 xia1 shu3
+托蝦屬	tuo1 xia1 shu3
+盾戎屬	dun4 rong2 shu3
+護巾蟹屬	hu4 jin1 xie4 shu3
+切腹蟹屬	qie4 fu4 xie4 shu3
+似片寄居蟹屬	shi4 pian4 ji4 ju1 xie4 shu3
+船型蝦屬	chuan2 xing2 xia1 shu3
+糙對蝦屬	cao1 dui4 xia1 shu3
+鷹爪蝦屬	ying1 zhua3 xia1 shu3
+梯形蟹屬	ti1 xing2 xie4 shu3
+泡狀蟹屬	pao4 zhuang4 xie4 shu3
+三角蟹屬	san1 jiao3 xie4 shu3
+刺寄居蟹屬	ci4 ji4 ju1 xie4 shu3
+角貝寄居蟹屬	jiao3 bei4 ji4 ju1 xie4 shu3
+巾戎屬	jin1 rong2 shu3
+海球鼠婦屬	hai3 qiu2 shu3 fu4 shu3
+鬼蟹屬	gui3 xie4 shu3
+擬盲蟹屬	ni3 mang2 xie4 shu3
+盲蟹屬	mang2 xie4 shu3
+烏氏蟹屬	wu1 shi4 xie4 shu3
+螻蛄蝦屬	lou2 gu1 xia1 shu3
+尾瘦蝦屬	wei3 shou4 xia1 shu3
+似折尾蝦屬	shi4 zhe2 wei3 xia1 shu3
+折尾蝦屬	zhe2 wei3 xia1 shu3
+片戎屬	pian4 rong2 shu3
+威廉蝦屬	wei1 lian2 xia1 shu3
+近扇蟹屬	jin4 shan4 xie4 shu3
+異口蟹屬	yi4 kou3 xie4 shu3
+熟若蟹屬	shou2 ruo4 xie4 shu3
+擬熟若蟹屬	ni3 shou2 ruo4 xie4 shu3
+疣扇蟹屬	you2 shan4 xie4 shu3
+蝕菱蟹屬	shi2 ling2 xie4 shu3
+真寄居蟹屬	zhen1 ji4 ju1 xie4 shu3
+尖腹蝦屬	jian1 fu4 xia1 shu3
+鱗斑蟹屬	lin2 ban1 xie4 shu3
+雙刺寄居蟹屬	shuang1 ci4 ji4 ju1 xie4 shu3
+雙齒綿蟹屬	shuang1 chi3 mian2 xie4 shu3
+活額寄居蟹屬	huo2 e2 ji4 ju1 xie4 shu3
+扁盤蟹屬	bian3 pan2 xie4 shu3
+圓頂蟹屬	yuan2 ding3 xie4 shu3
+關公蟹屬	guan1 gong1 xie4 shu3
+毛帶蟹屬	mao2 dai4 xie4 shu3
+貝綿蟹屬	bei4 mian2 xie4 shu3
+海膽蟹屬	hai3 dan3 xie4 shu3
+薄板蟹屬	bo2 ban3 xie4 shu3
+鼠蟬蟹屬	shu3 chan2 xie4 shu3
+礁螯蝦屬	jiao1 ao2 xia1 shu3
+擬豆瓷蟹屬	ni3 dou4 ci2 xie4 shu3
+扁節蝦屬	bian3 jie2 xia1 shu3
+裔綿蟹屬	yi4 mian2 xie4 shu3
+表方蟹屬	biao3 fang1 xie4 shu3
+表相手蟹屬	biao3 xiang4 shou3 xie4 shu3
+無毛蟹屬	wu2 mao2 xie4 shu3
+絨螯蟹屬	rong2 ao2 xie4 shu3
+酋蟹屬	qiu2 xie4 shu3
+平蝦蛄屬	ping2 xia1 gu1 shu3
+滑面蟹屬	hua2 mian4 xie4 shu3
+駝背蝦屬	tuo2 bei4 xia1 shu3
+真刺蝦屬	zhen1 ci4 xia1 shu3
+磷蝦屬	lin2 xia1 shu3
+真葉戎屬	zhen1 ye4 rong2 shu3
+寬扇蟹屬	kuan1 shan4 xie4 shu3
+真扇蟹屬	zhen1 shan4 xie4 shu3
+外鞭腕蝦屬	wai4 bian1 wan4 xia1 shu3
+橙蝦蛄屬	cheng2 xia1 gu1 shu3
+費鎧蝦屬	fei4 kai3 xia1 shu3
+刺顎蝦屬	ci4 e4 xia1 shu3
+蓋氏蟹屬	gai4 shi4 xie4 shu3
+棘鎧蝦屬	ji2 kai3 xia1 shu3
+鎧甲蝦屬	kai3 jia3 xia1 shu3
+盔突蟬蝦屬	kui1 tu2 chan2 xia1 shu3
+加氏緊握蟹屬	jia1 shi4 jin3 wo4 xie4 shu3
+地蟹屬	di4 xie4 shu3
+屈腕蝦屬	qu1 wan4 xia1 shu3
+屈腕蝦屬	qu1 wan3 xia1 shu3
+陸方蟹屬	lu4 fang1 xie4 shu3
+澤蟹屬	ze2 xie4 shu3
+光毛蟹屬	guang1 mao2 xie4 shu3
+雕褐蝦屬	diao1 he4 xia1 shu3
+雕褐蝦屬	diao1 he3 xia1 shu3
+雕尾蝦屬	diao1 wei3 xia1 shu3
+顎糠蝦屬	e4 kang1 xia1 shu3
+長腳蟹屬	chang2 jiao3 xie4 shu3
+小指蝦蛄屬	xiao3 zhi3 xia1 gu1 shu3
+指蝦蛄屬	zhi3 xia1 gu1 shu3
+柳珊瑚蟹屬	liu3 shan1 hu2 xie4 shu3
+方蟹屬	fang1 xie4 shu3
+厚對蝦屬	hou4 dui4 xia1 shu3
+擬海蝦屬	ni3 hai3 xia1 shu3
+海蝦屬	hai3 xia1 shu3
+珊隱蟹屬	shan1 yin3 xie4 shu3
+定蝦蛄屬	ding4 xia1 gu1 shu3
+擬鉤岩蝦屬	ni3 gou1 yan2 xia1 shu3
+猛蝦蛄屬	meng3 xia1 gu1 shu3
+短角蟹屬	duan3 jiao3 xie4 shu3
+林氏異指蝦屬	lin2 shi4 yi4 zhi3 xia1 shu3
+平家蟹屬	ping2 jia1 xie4 shu3
+半對蝦屬	ban4 dui4 xia1 shu3
+半毛戎屬	ban4 mao2 rong2 shu3
+肝刺蝦屬	gan1 ci4 xia1 shu3
+七腕蝦屬	qi1 wan4 xia1 shu3
+七腕蝦屬	qi1 wan3 xia1 shu3
+異刺鎧蝦屬	yi4 ci4 kai3 xia1 shu3
+異核果蟹屬	yi4 he2 guo3 xie4 shu3
+異毛蟹屬	yi4 mao2 xie4 shu3
+蟬蟹屬	chan2 xie4 shu3
+藻蝦屬	zao3 xia1 shu3
+毛貝綿蟹屬	mao2 bei4 mian2 xie4 shu3
+附頭虱屬	fu4 tou2 shi1 shu3
+人面綿蟹屬	ren2 mian4 mian2 xie4 shu3
+膜對蝦屬	mo2 dui4 xia1 shu3
+小戎屬	xiao3 rong2 shu3
+擬蠻戎屬	ni3 man2 rong2 shu3
+爪戎屬	zhua3 rong2 shu3
+爪戎屬	zhao3 rong2 shu3
+鉗戎屬	qian2 rong2 shu3
+肝下穴蟹屬	gan1 xia4 xue4 xie4 shu3
+扇蝦屬	shan4 xia1 shu3
+副寄居蟹屬	fu4 ji4 ju1 xie4 shu3
+泥方蟹屬	ni2 fang1 xie4 shu3
+泥蟹屬	ni2 xie4 shu3
+飛輪蟹屬	fei1 lun2 xie4 shu3
+轉輪蟹屬	zhuan3 lun2 xie4 shu3
+伊神蟹屬	yi1 shen2 xie4 shu3
+瓊娜蟹屬	qiong2 na4 xie4 shu3
+正龍蝦屬	zheng4 long2 xia1 shu3
+鄰扇蟹屬	lin2 shan4 xie4 shu3
+糙蝦蛄屬	cao1 xia1 gu1 shu3
+可丹蟹屬	ke3 dan1 xie4 shu3
+克勞蟹屬	ke4 lao2 xie4 shu3
+毛足蟹屬	mao2 zu2 xie4 shu3
+岩緊握蟹屬	yan2 jin3 wo4 xie4 shu3
+矛戎屬	mao2 rong2 shu3
+泥蝦屬	ni2 xia1 shu3
+蛛形蟹屬	zhu1 xing2 xie4 shu3
+深額蝦屬	shen1 e2 xia1 shu3
+勞綿蟹屬	lao2 mian2 xie4 shu3
+寬戎屬	kuan1 rong2 shu3
+瘦蝦屬	shou4 xia1 shu3
+擬瘦蝦屬	ni3 shou4 xia1 shu3
+萊伯蝦屬	lai2 bo2 xia1 shu3
+滑鎧蝦屬	hua2 kai3 xia1 shu3
+滑蝦蛄屬	hua2 xia1 gu1 shu3
+小頭戎屬	xiao3 tou2 rong2 shu3
+皺蟹屬	zhou4 xie4 shu3
+蠻戎屬	man2 rong2 shu3
+玉蟹屬	yu4 xie4 shu3
+光蝦蛄屬	guang1 xia1 gu1 shu3
+突顎蟹屬	tu2 e4 xie4 shu3
+海蟑螂屬	hai3 zhang1 lang2 shu3
+脊龍蝦屬	ji2 long2 xia1 shu3
+花瓣蟹屬	hua1 ban4 xie4 shu3
+光背蟹屬	guang1 bei4 xie4 shu3
+光滑瓷蟹屬	guang1 hua2 ci2 xie4 shu3
+石蟹屬	shi2 xie4 shu3
+脊毛刺蟹屬	ji2 mao2 ci4 xie4 shu3
+摺蝦蛄屬	zhe2 xia1 gu1 shu3
+脊熟若蟹屬	ji2 shou2 ruo4 xie4 shu3
+脊熟若蟹屬	ji3 shou2 ruo4 xie4 shu3
+瑩蝦屬	ying2 xia1 shu3
+狼牙蟹屬	lang2 ya2 xie4 shu3
+細螯蟹屬	xi4 ao2 xie4 shu3
+麗戎屬	li4 rong2 shu3
+秀戎屬	xiu4 rong2 shu3
+琴蝦蛄屬	qin2 xia1 gu1 shu3
+鞭腕蝦屬	bian1 wan4 xia1 shu3
+擬鞭腕蝦屬	ni3 bian1 wan4 xia1 shu3
+鞭腕蝦屬	bian1 wan3 xia1 shu3
+擬鞭腕蝦屬	ni3 bian1 wan3 xia1 shu3
+沼蝦屬	zhao3 xia1 shu3
+大權蟹屬	da4 quan2 xie4 shu3
+大眼蟹屬	da4 yan3 xie4 shu3
+鞭足蟹屬	bian1 zu2 xie4 shu3
+黎明蟹屬	li2 ming2 xie4 shu3
+仿權位蟹屬	fang3 quan2 wei4 xie4 shu3
+大突蝦屬	da4 tu2 xia1 shu3
+深藻蝦屬	shen1 zao3 xia1 shu3
+間對蝦屬	jian1 dui4 xia1 shu3
+後貝綿蟹屬	hou4 bei4 mian2 xie4 shu3
+後鼓蝦屬	hou4 gu3 xia1 shu3
+後海螯蝦屬	hou4 hai3 ao2 xia1 shu3
+赤蝦屬	chi4 xia1 shu3
+新對蝦屬	xin1 dui4 xia1 shu3
+後相手蟹屬	hou4 xiang4 shou3 xie4 shu3
+錐阿姑蝦屬	zhui1 a1 gu1 xia1 shu3
+大額蟹屬	da4 e2 xie4 shu3
+兩洋寄居蟹屬	liang3 yang2 ji4 ju1 xie4 shu3
+和尚蟹屬	he2 shang4 xie4 shu3
+三宅蝦蛄屬	san1 zhai2 xia1 gu1 shu3
+魔鬼蟹屬	mo2 gui3 xie4 shu3
+刺鎧蝦屬	ci4 kai3 xia1 shu3
+仿刺鎧蝦屬	fang3 ci4 kai3 xia1 shu3
+筐形蟹屬	kuang1 xing2 xie4 shu3
+長臂蟹屬	chang2 bi4 xie4 shu3
+圓鬚蟹屬	yuan2 xu1 xie4 shu3
+達納蟹屬	da2 na4 xie4 shu3
+瘦相手蟹屬	shou4 xiang4 shou3 xie4 shu3
+東方蟹屬	dong1 fang1 xie4 shu3
+忍者蟹屬	ren3 zhe3 xie4 shu3
+完整泥蟹	wan2 zheng3 ni2 xie4
+棘尾珍刺蝦	ji2 wei3 zhen1 ci4 xia1
+臺灣瓊娜蟹	tai2 wan1 qiong2 na4 xie4
+金氏鱗眼蝦	jin1 shi4 lin2 yan3 xia1
+發聲糙蝦蛄	fa1 sheng1 cao1 xia1 gu1
+皺紋克勞蟹	zhou4 wen2 ke4 lao2 xie4
+雙齒毛足蟹	shuang1 chi3 mao2 zu2 xie4
+次銳毛足蟹	ci4 rui4 mao2 zu2 xie4
+枝叉岩緊握蟹	zhi1 cha1 yan2 jin3 wo4 xie4
+長額拉摩蟹	chang2 e2 la1 mo2 xie4
+漢氏勞綿蟹	han4 shi4 lao2 mian2 xie4
+光額滑鎧蝦	guang1 e2 hua2 kai3 xia1
+窄額滑蝦蛄	zhai3 e2 hua2 xia1 gu1
+鴨額玉蟹	ya1 e2 yu4 xie4
+頭蓋玉蟹	tou2 gai4 yu4 xie4
+無刺光蝦蛄	wu2 ci4 guang1 xia1 gu1
+光輝突顎蟹	guang1 hui1 tu2 e4 xie4
+美麗花瓣蟹	mei3 li4 hua1 ban4 xie4
+帶掌花瓣蟹	dai4 zhang3 hua1 ban4 xie4
+光滑花瓣蟹	guang1 hua2 hua1 ban4 xie4
+珍珠花瓣蟹	zhen1 zhu1 hua1 ban4 xie4
+高山花瓣蟹	gao1 shan1 hua1 ban4 xie4
+紅色花瓣蟹	hong2 se4 hua1 ban4 xie4
+四葉光滑瓷蟹	si4 ye4 guang1 hua2 ci2 xie4
+刺額光滑瓷蟹	ci4 e2 guang1 hua2 ci2 xie4
+寬足脊毛刺蟹	kuan1 zu2 ji2 mao2 ci4 xie4
+珊瑚濱蟹	shan1 hu2 bin1 xie4
+伊斯氏光管潮蟲	yi1 si1 shi4 guang1 guan3 chao2 chong2
+纖手梭子蟹	xian1 shou3 suo1 zi5 xie4
+菲島狼牙蟹	fei1 dao3 lang2 ya2 xie4
+整潔細螯蟹	zheng3 jie2 xi4 ao2 xie4
+環紋金沙蟹	huan2 wen2 jin1 sha1 xie4
+三齒琵琶蟹	san1 chi3 pi2 pa2 xie4
+等齒沼蝦	deng3 chi3 zhao3 xia1
+絨掌沼蝦	rong2 zhang3 zhao3 xia1
+闊指沼蝦	kuo4 zhi3 zhao3 xia1
+短腕沼蝦	duan3 wan4 zhao3 xia1
+寬掌沼蝦	kuan1 zhang3 zhao3 xia1
+乳指沼蝦	ru3 zhi3 zhao3 xia1
+日本沼蝦	ri4 ben3 zhao3 xia1
+甘氏巨螯蟹	gan1 shi4 ju4 ao2 xie4
+粗掌大權蟹	cu1 zhang3 da4 quan2 xie4
+隆背大眼蟹	long2 bei4 da4 yan3 xie4
+東方深對蝦	dong1 fang1 shen1 dui4 xia1
+細鞭足蟹	xi4 bian1 zu2 xie4
+紅線黎明蟹	hong2 xian4 li2 ming2 xie4
+顆粒仿權位蟹	ke1 li4 fang3 quan2 wei4 xie4
+單刺單角蟹	dan1 ci4 dan1 jiao3 xie4
+種島後貝綿蟹	zhong3 dao3 hou4 bei4 mian2 xie4
+脊赤蝦	ji2 chi4 xia1
+脊赤蝦	ji3 chi4 xia1
+鬚赤蝦	xu1 chi4 xia1
+戴氏赤蝦	dai4 shi4 chi4 xia1
+近緣新對蝦	jin4 yuan2 xin1 dui4 xia1
+美麗新對蝦	mei3 li4 xin1 dui4 xia1
+刀額新對蝦	dao1 e2 xin1 dui4 xia1
+中型新對蝦	zhong1 xing2 xin1 dui4 xia1
+周氏新對蝦	zhou1 shi4 xin1 dui4 xia1
+沙棲新對蝦	sha1 qi1 xin1 dui4 xia1
+細足新對蝦	xi4 zu2 xin1 dui4 xia1
+奧氏後相手蟹	ao4 shi4 hou4 xiang4 shou3 xie4
+土夸大額蟹	tu3 kua1 da4 e2 xie4
+長叉三宅蝦蛄	chang2 cha1 san1 zhai2 xia1 gu1
+漢氏梭子蟹	han4 shi4 suo1 zi5 xie4
+柱臂仿刺鎧蝦	zhu4 bi4 fang3 ci4 kai3 xia1
+優雅仿刺鎧蝦	you1 ya3 fang3 ci4 kai3 xia1
+鋸角仿刺鎧蝦	ju4 jiao3 fang3 ci4 kai3 xia1
+哈氏肉哲蟹	ha1 shi4 rou4 zhe2 xie4
+遁行長臂蟹	dun4 xing2 chang2 bi4 xie4
+阿氏矮扇蟹	a1 shi4 ai3 shan4 xie4
+三脊線寄居蟹	san1 ji2 xian4 ji4 ju1 xie4
+三脊線寄居蟹	san1 ji3 xian4 ji4 ju1 xie4
+珠形線足蝦	zhu1 xing2 xian4 zu2 xia1
+海島新花瓣蟹	hai3 dao3 xin1 hua1 ban4 xie4
+酒井渣氏蟹	jiu3 jing3 zha1 shi4 xie4
+長腹角貝寄居蟹	chang2 fu4 jiao3 bei4 ji4 ju1 xie4
+窄管招潮蟹	zhai3 guan3 zhao1 chao2 xie4
+屠氏管招潮蟹	tu2 shi4 guan3 zhao1 chao2 xie4
+真綿蟹	zhen1 mian2 xie4
+紅斑玉蟹	hong2 ban1 yu4 xie4
+巨額似折尾蝦	ju4 e2 shi4 zhe2 wei3 xia1
+東方折尾蝦	dong1 fang1 zhe2 wei3 xia1
+珠母長眼蟹	zhu1 mu3 chang2 yan3 xie4
+華美似扇蟹	hua2 mei3 shi4 shan4 xie4
+臺灣旱招潮	tai2 wan1 han4 zhao1 chao2
+臺灣旱招潮蟹	tai2 wan1 han4 zhao1 chao2 xie4
+銅鑄熟若蟹	tong2 zhu4 shou2 ruo4 xie4
+五角海膽蟹	wu3 jiao3 hai3 dan3 xie4
+截額薄板蟹	jie2 e2 bo2 ban3 xie4
+棘刺菱蟹	ji2 ci4 ling2 xie4
+裝飾擬豆瓷蟹	zhuang1 shi4 ni3 dou4 ci2 xie4
+齒石扇蟹	chi3 shi2 shan4 xie4
+粗糙酋婦蟹	cu1 cao1 qiu2 fu4 xie4
+光手酋婦蟹	guang1 shou3 qiu2 fu4 xie4
+伍氏平蝦蛄	wu3 shi4 ping2 xia1 gu1
+六齒四額蟹	liu4 chi3 si4 e2 xie4
+琥珀滑面蟹	hu3 po4 hua2 mian4 xie4
+光掌滑面蟹	guang1 zhang3 hua2 mian4 xie4
+尖毛真毛刺蟹	jian1 mao2 zhen1 mao2 ci4 xie4
+球形真毛刺蟹	qiu2 xing2 zhen1 mao2 ci4 xie4
+雕刻真扇蟹	diao1 ke4 zhen1 shan4 xie4
+徽章聲蟹	hui1 zhang1 sheng1 xie4
+平背蜞	ping2 bei4 qi2
+紫地蟹	zi3 di4 xie4
+擬屈腕蝦	ni3 qu1 wan4 xia1
+擬屈腕蝦	ni3 qu1 wan3 xia1
+毛足陸方蟹	mao2 zu2 lu4 fang1 xie4
+葛氏陸方蟹	ge2 shi4 lu4 fang1 xie4
+宮崎氏澤蟹	gong1 qi2 shi4 ze2 xie4
+達觀澤蟹	da2 guan1 ze2 xie4
+伴侶柳珊蟹	ban4 lv3 liu3 shan1 xie4
+白紋方蟹	bai2 wen2 fang1 xie4
+長趾方蟹	chang2 zhi3 fang1 xie4
+蘆卡厚對蝦	lu2 ka3 hou4 dui4 xia1
+脆弱暴蟹	cui4 ruo4 bao4 xie4
+雕尾定蝦蛄	diao1 wei3 ding4 xia1 gu1
+中華猛蝦蛄	zhong1 hua2 meng3 xia1 gu1
+德氏仿厚蟹	de2 shi4 fang3 hou4 xie4
+絨毛近方蟹	rong2 mao2 jin4 fang1 xie4
+長足七腕蝦	chang2 zu2 qi1 wan4 xia1
+披髮異毛蟹	pi1 fa4 yi4 mao2 xie4
+側指蟬蟹	ce4 zhi3 chan2 xie4
+神奇蟬蟹	shen2 qi2 chan2 xie4
+橢圓蟬蟹	tuo3 yuan2 chan2 xie4
+多刺毛貝綿蟹	duo1 ci4 mao2 bei4 mian2 xie4
+東方人面蟹	dong1 fang1 ren2 mian4 xie4
+彎角膜對蝦	wan1 jiao3 mo2 dui4 xia1
+雙脊肝下穴蟹	shuang1 ji2 gan1 xia4 xue4 xie4
+方尾牛蝦蛄	fang1 wei3 niu2 xia1 gu1
+饅頭蟹	man2 tou2 xie4
+盾形饅頭蟹	dun4 xing2 man2 tou2 xie4
+肝葉饅頭蟹	gan1 ye4 man2 tou2 xie4
+日本饅頭蟹	ri4 ben3 man2 tou2 xie4
+逍遙饅頭蟹	xiao1 yao2 man2 tou2 xie4
+隱伏硬指寄居蟹	yin3 fu2 ying4 zhi3 ji4 ju1 xie4
+肥胖禿頭蟹	fei2 pang4 tu1 tou2 xie4
+紅色相機蟹	hong2 se4 xiang4 ji1 xie4
+圓額尖指蟹	yuan2 e2 jian1 zhi3 xie4
+光滑隆背蟹	guang1 hua2 long2 bei4 xie4
+日本米蝦	ri4 ben3 mi3 xia1
+多脊脊蝦蛄	duo1 ji2 ji2 xia1 gu1
+紅斑瓢蟹	hong2 ban1 piao2 xie4
+三崎低寄居蟹	san1 qi2 di1 ji4 ju1 xie4
+冑甲近對蝦	zhou4 jia3 jin4 dui4 xia1
+銳齒蟳	rui4 chi3 xun2
+環紋蟳	huan2 wen2 xun2
+雙斑蟳	shuang1 ban1 xun2
+赫氏蟳	he4 shi4 xun2
+日本蟳	ri4 ben3 xun2
+晶瑩蟳	jing1 ying2 xun2
+武士蟳	wu3 shi4 xun2
+直額蟳	zhi2 e2 xun2
+黑點綠蟹	hei1 dian3 lv4 xie4
+雷氏合顎蟹	lei2 shi4 he2 e4 xie4
+攀爬圓鬚蟹	pan1 pa2 yuan2 xu1 xie4
+圓尾綠蝦蛄	yuan2 wei3 lv4 xia1 gu1
+疣尾小綠蝦蛄	you2 wei3 xiao3 lv4 xia1 gu1
+幹練居殼蟹	gan4 lian4 ju1 ke2 xie4
+仁娣柯鎧蝦	ren2 di4 ke1 kai3 xia1
+刺足刺緣蟹	ci4 zu2 ci4 yuan2 xie4
+似球圓蛛蟹	shi4 qiu2 yuan2 zhu1 xie4
+圓弧梭子蟹	yuan2 hu2 suo1 zi5 xie4
+保莫蒂毛殼蟹	bao3 mo4 di4 mao2 ke2 xie4
+整潔圓方蟹	zheng3 jie2 yuan2 fang1 xie4
+白指波紋蟹	bai2 zhi3 bo1 wen2 xie4
+安達曼絲足蟹	an1 da2 man4 si1 zu2 xie4
+粗糙蝕菱蟹	cu1 cao1 shi2 ling2 xie4
+薄緣近權蟹	bo2 yuan2 jin4 quan2 xie4
+粗盾真寄居蟹	cu1 dun4 zhen1 ji4 ju1 xie4
+厚腕真寄居蟹	hou4 wan4 zhen1 ji4 ju1 xie4
+厚腕真寄居蟹	hou4 wan3 zhen1 ji4 ju1 xie4
+畸形真寄居蟹	ji1 xing2 zhen1 ji4 ju1 xie4
+毛足真寄居蟹	mao2 zu2 zhen1 ji4 ju1 xie4
+柄真寄居蟹	bing3 zhen1 ji4 ju1 xie4
+鋒足鱗斑蟹	feng1 zu2 lin2 ban1 xie4
+粗糙鱗斑蟹	cu1 cao1 lin2 ban1 xie4
+寬眼雙刺寄居蟹	kuan1 yan3 shuang1 ci4 ji4 ju1 xie4
+杜氏雙齒綿蟹	du4 shi4 shuang1 chi3 mian2 xie4
+紅斑新岩瓷蟹	hong2 ban1 xin1 yan2 ci2 xie4
+邁氏新脹蟹	mai4 shi4 xin1 zhang4 xie4
+印度新脹蟹	yin4 du4 xin1 zhang4 xie4
+光滑新脹蟹	guang1 hua2 xin1 zhang4 xie4
+細點新脹蟹	xi4 dian3 xin1 zhang4 xie4
+圓額新脹蟹	yuan2 e2 xin1 zhang4 xie4
+印痕新扇蟹	yin4 hen2 xin1 shan4 xie4
+條紋新扇蟹	tiao2 wen2 xin1 shan4 xie4
+上腳背足蟹	shang4 jiao3 bei4 zu2 xie4
+美麗新銀杏蟹	mei3 li4 xin1 yin2 xing4 xie4
+脊尾齒指蝦蛄	ji2 wei3 chi3 zhi3 xia1 gu1
+脊尾齒指蝦蛄	ji3 wei3 chi3 zhi3 xia1 gu1
+蟬形齒指蝦蛄	chan2 xing2 chi3 zhi3 xia1 gu1
+東方長眼蝦	dong1 fang1 chang2 yan3 xia1
+印度腫寄居蟹	yin4 du4 zhong3 ji4 ju1 xie4
+彈弓腫寄居蟹	dan4 gong1 zhong3 ji4 ju1 xie4
+口蝦蛄	kou3 xia1 gu1
+紅點團扇蟹	hong2 dian3 tuan2 shan4 xie4
+皺紋團扇蟹	zhou4 wen2 tuan2 shan4 xie4
+羽毛厚瓷蟹	yu3 mao2 hou4 ci2 xie4
+褶痕厚紋蟹	zhe3 hen2 hou4 wen2 xie4
+淡紅長眼寄居蟹	dan4 hong2 chang2 yan3 ji4 ju1 xie4
+窄小寄居蟹	zhai3 xiao3 ji4 ju1 xie4
+同形寄居蟹	tong2 xing2 ji4 ju1 xie4
+大和寄居蟹	da4 he2 ji4 ju1 xie4
+日本寄居蟹	ri4 ben3 ji4 ju1 xie4
+潔白長臂蝦	jie2 bai2 chang2 bi4 xia1
+太平洋長臂蝦	tai4 ping2 yang2 chang2 bi4 xia1
+鋸齒長臂蝦	ju4 chi3 chang2 bi4 xia1
+粗腿擬瘦招潮	cu1 tui3 ni3 shou4 zhao1 chao2
+麗彩擬瘦招潮	li4 cai3 ni3 shou4 zhao1 chao2
+粗腿擬瘦招潮蟹	cu1 tui3 ni3 shou4 zhao1 chao2 xie4
+麗彩擬瘦招潮蟹	li4 cai3 ni3 shou4 zhao1 chao2 xie4
+三脊似刺鎧蝦	san1 ji2 shi4 ci4 kai3 xia1
+細巧仿對蝦	xi4 qiao3 fang3 dui4 xia1
+假長縫擬對蝦	jia3 chang2 feng4 ni3 dui4 xia1
+長縫擬對蝦	chang2 feng4 ni3 dui4 xia1
+斑點擬相手蟹	ban1 dian3 ni3 xiang4 shou3 xie4
+海洋擬精干蟹	hai3 yang2 ni3 jing1 gan4 xie4
+長手菱蟹	chang2 shou3 ling2 xie4
+尖直似對蝦	jian1 zhi2 shi4 dui4 xia1
+印度明對蝦	yin4 du4 ming2 dui4 xia1
+日本對蝦	ri4 ben3 dui4 xia1
+長毛對蝦	chang2 mao2 dui4 xia1
+裸掌盾牌蟹	luo3 zhang3 dun4 pai2 xie4
+顆粒板蟹	ke1 li4 ban3 xie4
+亞洲岩瓷蟹	ya3 zhou1 yan2 ci2 xie4
+紅褐岩瓷蟹	hong2 he4 yan2 ci2 xie4
+拉氏岩瓷蟹	la1 shi4 yan2 ci2 xie4
+好鬥岩瓷蟹	hao3 dou4 yan2 ci2 xie4
+銳刺長踦蟹	rui4 ci4 chang2 yi3 xie4
+長足長踦蟹	chang2 zu2 chang2 yi3 xie4
+銳刺長踦蟹	rui4 ci4 chang2 ji3 xie4
+長足長踦蟹	chang2 zu2 chang2 ji3 xie4
+小葉額鎧蝦	xiao3 ye4 e2 kai3 xia1
+網紋毛殼蟹	wang3 wen2 mao2 ke2 xie4
+顆粒毛殼蟹	ke1 li4 mao2 ke2 xie4
+毛足毛殼蟹	mao2 zu2 mao2 ke2 xie4
+小巧毛刺蟹	xiao3 qiao3 mao2 ci4 xie4
+蝙蝠毛刺蟹	bian1 fu2 mao2 ci4 xie4
+異形豆瓷蟹	yi4 xing2 dou4 ci2 xie4
+鋸額豆瓷蟹	ju4 e2 dou4 ci2 xie4
+鱗形斜紋蟹	lin2 xing2 xie2 wen2 xie4
+浮雕扁口板蟹	fu2 diao1 bian3 kou3 ban3 xie4
+疏齒紅蝦	shu1 chi3 hong2 xia1
+單刺紅蝦	dan1 ci4 hong2 xia1
+看守長眼蟹	kan1 shou3 chang2 yan3 xie4
+盲眼多螯蝦	mang2 yan3 duo1 ao2 xia1
+肥胖多指瓷蟹	fei2 pang4 duo1 zhi3 ci2 xie4
+三葉小瓷蟹	san1 ye4 xiao3 ci2 xie4
+遠海梭子蟹	yuan3 hai3 suo1 zi5 xie4
+三宅原寄居蟹	san1 zhai2 yuan2 ji4 ju1 xie4
+鈍額原寄居蟹	dun4 e2 yuan2 ji4 ju1 xie4
+凹足普氏蟹	ao1 zu2 pu3 shi4 xie4
+白假方蟹	bai2 jia3 fang1 xie4
+赫氏假銀杏蟹	he4 shi4 jia3 yin2 xing4 xie4
+遙遠假銀杏蟹	yao2 yuan3 jia3 yin2 xing4 xie4
+假扁蟹	jia3 bian3 xie4
+礁石假團扇蟹	jiao1 shi2 jia3 tuan2 shan4 xie4
+高掌折顎蟹	gao1 zhang3 zhe2 e4 xie4
+絨毛折顎蟹	rong2 mao2 zhe2 e4 xie4
+駿河隆背蟹	jun4 he2 long2 bei4 xie4
+毛氏門螯寄居蟹	mao2 shi4 men2 ao2 ji4 ju1 xie4
+斑點四齒蟹	ban1 dian3 si4 chi3 xie4
+真蛙蟹	zhen1 wa1 xie4
+遠海束頸緊握蟹	yuan3 hai3 shu4 jing3 jin3 wo4 xie4
+琉球濱蟹	liu2 qiu2 bin1 xie4
+美麗錐刺蟹	mei3 li4 zhui1 ci4 xie4
+日本蜘蛛蟹	ri4 ben3 zhi1 zhu1 xie4
+希氏擬裂額蟹	xi1 shi4 ni3 lie4 e2 xie4
+粗甲裂額蟹	cu1 jia3 lie4 e2 xie4
+特蘭奎巴青蟳	te4 lan2 kui2 ba1 qing1 xun2
+帶紋玉蟹	dai4 wen2 yu4 xie4
+中華管鞭蝦	zhong1 hua2 guan3 bian1 xia1
+櫛管鞭蝦	jie2 guan3 bian1 xia1
+肯氏圓綿蟹	ken3 shi4 yuan2 mian2 xie4
+光輝圓扇蟹	guang1 hui1 yuan2 shan4 xie4
+半螯鞭尾蝦	ban4 ao2 bian1 wei3 xia1
+加氏多螯蝦	jia1 shi4 duo1 ao2 xia1
+希氏硬鞭蝦	xi1 shi4 ying4 bian1 xia1
+毛額濱蟹	mao2 e2 bin1 xie4
+白斑聲紋寄居蟹	bai2 ban1 sheng1 wen2 ji4 ju1 xie4
+細指轉寄居蟹	xi4 zhi3 zhuan3 ji4 ju1 xie4
+三刺同寄居蟹	san1 ci4 tong2 ji4 ju1 xie4
+光潔擬梯形蟹	guang1 jie2 ni3 ti1 xing2 xie4
+野生短槳蟹	ye3 sheng1 duan3 jiang3 xie4
+達氏長槳蟹	da2 shi4 chang2 jiang3 xie4
+曼氏艦長蟹	man4 shi4 jian4 chang2 xie4
+斑點短槳蟹	ban1 dian3 duan3 jiang3 xie4
+包氏短槳蟹	bao1 shi4 duan3 jiang3 xie4
+象牙長螯蟹	xiang4 ya2 chang2 ao2 xie4
+小眼似片寄居蟹	xiao3 yan3 shi4 pian4 ji4 ju1 xie4
+糙對蝦	cao1 dui4 xia1
+彎角鷹爪蝦	wan1 jiao3 ying1 zhua3 xia1
+指梯形蟹	zhi3 ti1 xing2 xie4
+黃斑梯形蟹	huang2 ban1 ti1 xing2 xie4
+白背梯形蟹	bai2 bei4 ti1 xing2 xie4
+紅斑梯形蟹	hong2 ban1 ti1 xing2 xie4
+細紋梯形蟹	xi4 wen2 ti1 xing2 xie4
+虎斑梯形蟹	hu3 ban1 ti1 xing2 xie4
+無斑斜紋蟹	wu2 ban1 xie2 wen2 xie4
+美麗斜紋蟹	mei3 li4 xie2 wen2 xie4
+藍色漂浮蟹	lan2 se4 piao1 fu2 xie4
+臺灣扁絨螯蟹	tai2 wan1 bian3 rong2 ao2 xie4
+大扁蛛蟹	da4 bian3 zhu1 xie4
+多槳扁蛛蟹	duo1 jiang3 bian3 zhu1 xie4
+索拉扁毛剌蟹	suo3 la1 bian3 mao2 la2 xie4
+顆粒扁足蟹	ke1 li4 bian3 zu2 xie4
+半粒扁足蟹	ban4 li4 bian3 zu2 xie4
+絨毛扁足蟹	rong2 mao2 bian3 zu2 xie4
+武裝扁足戎	wu3 zhuang1 bian3 zu2 rong2
+卵扁足戎	luan3 bian3 zu2 rong2
+鋸扁足戎	ju4 bian3 zu2 rong2
+羚角密刺蟹	ling2 jiao3 mi4 ci4 xie4
+聖氏密刺蟹	sheng4 shi4 mi4 ci4 xie4
+白冠紅蝦	bai2 guan4 hong2 xia1
+雙叉紅蝦	shuang1 cha1 hong2 xia1
+雙點紅蝦	shuang1 dian3 hong2 xia1
+卡氏紅蝦	ka3 shi4 hong2 xia1
+柯氏紅蝦	ke1 shi4 hong2 xia1
+愛德華紅蝦	ai4 de2 hua2 hong2 xia1
+血圈紅蝦	xue4 quan1 hong2 xia1
+長趾紅蝦	chang2 zhi3 hong2 xia1
+雄偉紅蝦	xiong2 wei3 hong2 xia1
+學羽紅蝦	xue2 yu3 hong2 xia1
+印度紅蝦	yin4 du4 hong2 xia1
+東海紅蝦	dong1 hai3 hong2 xia1
+肯氏紅蝦	ken3 shi4 hong2 xia1
+冠頂紅蝦	guan4 ding3 hong2 xia1
+獨角紅蝦	du2 jiao3 hong2 xia1
+黎氏紅蝦	li2 shi4 hong2 xia1
+小眼紅蝦	xiao3 yan3 hong2 xia1
+敖氏紅蝦	ao2 shi4 hong2 xia1
+油彩紅蝦	you2 cai3 hong2 xia1
+彎刺紅蝦	wan1 ci4 hong2 xia1
+紅點紅蝦	hong2 dian3 hong2 xia1
+標靶紅蝦	biao1 ba3 hong2 xia1
+全齒紅蝦	quan2 chi3 hong2 xia1
+朦朧紅蝦	meng2 long2 hong2 xia1
+臺灣紅蝦	tai2 wan1 hong2 xia1
+威氏紅蝦	wei1 shi4 hong2 xia1
+游氏紅蝦	you2 shi4 hong2 xia1
+鉤足擊蟹	gou1 zu2 ji1 xie4
+雨宮多螯蝦	yu3 gong1 duo1 ao2 xia1
+疣多螯蝦	you2 duo1 ao2 xia1
+中華多指瓷蟹	zhong1 hua2 duo1 zhi3 ci2 xie4
+傑氏蓋螯寄居蟹	jie2 shi4 gai4 ao2 ji4 ju1 xie4
+鉤指擬隱蝦	gou1 zhi3 ni3 yin3 xia1
+多霜臘鼠婦	duo1 shuang1 la4 shu3 fu4
+糙瓷鼠婦	cao1 ci2 shu3 fu4
+柔毛梭子蟹	rou2 mao2 suo1 zi5 xie4
+紅星梭子蟹	hong2 xing1 suo1 zi5 xie4
+三齒梭子蟹	san1 chi3 suo1 zi5 xie4
+深原戎	shen1 yuan2 rong2
+短密原戎	duan3 mi4 yuan2 rong2
+拉氏原戎	la1 shi4 yuan2 rong2
+短額鋸褐蝦	duan3 e2 ju4 he4 xia1
+道氏鋸褐蝦	dao4 shi4 ju4 he4 xia1
+臺灣鋸褐蝦	tai2 wan1 ju4 he4 xia1
+少刺鋸褐蝦	shao3 ci4 ju4 he4 xia1
+長刺棱蛛蟹	chang2 ci4 leng2 zhu1 xie4
+美國螯蝦	mei3 guo2 ao2 xia1
+澳洲異指蝦	ao4 zhou1 yi4 zhi3 xia1
+溝紋異指蝦	gou1 wen2 yi4 zhi3 xia1
+頭葉戎	tou2 ye4 rong2
+柔弱脆肢蝦	rou2 ruo4 cui4 zhi1 xia1
+夏威夷脆肢蝦	xia4 wei1 yi2 cui4 zhi1 xia1
+寬額假燐蝦	kuan1 e2 jia3 lin2 xia1
+綠珊穴蟹	lv4 shan1 xue4 xie4
+毛假方蟹	mao2 jia3 fang1 xie4
+似方假厚蟹	shi4 fang1 jia3 hou4 xie4
+寬身假花瓣蟹	kuan1 shen1 jia3 hua1 ban4 xie4
+美麗假花瓣蟹	mei3 li4 jia3 hua1 ban4 xie4
+完整假平螯蟹	wan2 zheng3 jia3 ping2 ao2 xie4
+後足麗戎	hou4 zu2 li4 rong2
+印尼擬折額蟹	yin4 ni2 ni3 zhe2 e2 xie4
+多毛假蝦蛄	duo1 mao2 jia3 xia1 gu1
+八丈折顎蟹	ba1 zhang4 zhe2 e4 xie4
+特異折顎蟹	te4 yi4 zhe2 e4 xie4
+伊師折顎蟹	yi1 shi1 zhe2 e4 xie4
+牧氏折顎蟹	mu4 shi4 zhe2 e4 xie4
+柔毛折顎蟹	rou2 mao2 zhe2 e4 xie4
+斯氏折顎蟹	si1 shi4 zhe2 e4 xie4
+高橋折顎蟹	gao1 qiao2 zhe2 e4 xie4
+稜角游龍蝦	leng2 jiao3 you2 long2 xia1
+中齒游龍蝦	zhong1 chi3 you2 long2 xia1
+日本磯蟹	ri4 ben3 ji1 xie4
+網紋麗蟹	wang3 wen2 li4 xie4
+缺刻門螯寄居蟹	que1 ke4 men2 ao2 ji4 ju1 xie4
+大門螯寄居蟹	da4 men2 ao2 ji4 ju1 xie4
+丘疹仿門寄居蟹	qiu1 zhen3 fang3 men2 ji4 ju1 xie4
+條紋仿門寄居蟹	tiao2 wen2 fang3 men2 ji4 ju1 xie4
+龍骨皮拳蟹	long2 gu3 pi2 quan2 xie4
+豆形拳蟹	dou4 xing2 quan2 xie4
+屈足東方蝦蛄	qu1 zu2 dong1 fang1 xia1 gu1
+東亞東方蝦蛄	dong1 ya3 dong1 fang1 xia1 gu1
+裝飾東方蝦蛄	zhuang1 shi4 dong1 fang1 xia1 gu1
+細長東方蝦蛄	xi4 chang2 dong1 fang1 xia1 gu1
+中型仿蛙蟹	zhong1 xing2 fang3 wa1 xie4
+多毛細足蟹	duo1 mao2 xi4 zu2 xie4
+寶島衛鎧蝦	bao3 dao3 wei4 kai3 xia1
+雙斑蟬蝦	shuang1 ban1 chan2 xia1
+武裝棒頭戎	wu3 zhuang1 bang4 tou2 rong2
+短尾棒頭戎	duan3 wei3 bang4 tou2 rong2
+小棒頭戎	xiao3 bang4 tou2 rong2
+尖棒頭戎	jian1 bang4 tou2 rong2
+逆型束頸緊握蟹	ni4 xing2 shu4 jing3 jin3 wo4 xie4
+板額束頸緊握蟹	ban3 e2 shu4 jing3 jin3 wo4 xie4
+錢幣吻菱蟹	qian2 bi4 wen3 ling2 xie4
+德班氏活額蝦	de2 ban1 shi4 huo2 e2 xia1
+亨氏活額蝦	heng1 shi4 huo2 e2 xia1
+皺紋動額蝦	zhou4 wen2 dong4 e2 xia1
+白紋活額蝦	bai2 wen2 huo2 e2 xia1
+小鷹錐刺蟹	xiao3 ying1 zhui1 ci4 xie4
+日灘黃道蟹	ri4 tan1 huang2 dao4 xie4
+日本酒井蟹	ri4 ben3 jiu3 jing3 xie4
+花斑掃帚蝦	hua1 ban1 sao3 zhou3 xia1
+隱密掃帚蝦	yin3 mi4 sao3 zhou3 xia1
+直額掃帚蝦	zhi2 e2 sao3 zhou3 xia1
+哲氏暹邏蟹	zhe2 shi4 xian1 luo2 xie4
+刺足掘沙蟹	ci4 zu2 jue2 sha1 xie4
+貝氏凹甲蟬蝦	bei4 shi4 ao1 jia3 chan2 xia1
+林投蟹	lin2 tou2 xie4
+修飾裂臂戎	xiu1 shi4 lie4 bi4 rong2
+北方錐戎	bei3 fang1 zhui1 rong2
+粗角錐戎	cu1 jiao3 zhui1 rong2
+彎指錐戎	wan1 zhi3 zhui1 rong2
+疑錐戎	yi2 zhui1 rong2
+邊緣錐戎	bian1 yuan2 zhui1 rong2
+拉拿錐戎	la1 na2 zhui1 rong2
+擬錐戎	ni3 zhui1 rong2
+棘錐戎	ji2 zhui1 rong2
+圖氏錐戎	tu2 shi4 zhui1 rong2
+雙扇股窗蟹	shuang1 shan4 gu3 chuang1 xie4
+中型股窗蟹	zhong1 xing2 gu3 chuang1 xie4
+長趾股窗蟹	chang2 zhi3 gu3 chuang1 xie4
+欖綠青蟳	lan3 lv4 qing1 xun2
+擬深穴青蟳	ni3 shen1 xue4 qing1 xun2
+鋸緣青蟳	ju4 yuan2 qing1 xun2
+韓氏擬扇蝦	han2 shi4 ni3 shan4 xia1
+鱗突擬扇蝦	lin2 tu2 ni3 shan4 xia1
+晶瑩櫻蝦	jing1 ying2 ying1 xia1
+發光櫻蝦	fa1 guang1 ying1 xia1
+赤櫻蝦	chi4 ying1 xia1
+塔氏櫻蝦	ta3 shi4 ying1 xia1
+帝王仿相手蟹	di4 wang2 fang3 xiang4 shou3 xie4
+斜方玉蟹	xie2 fang1 yu4 xie4
+柯氏潛鎧蝦	ke1 shi4 qian2 kai3 xia1
+梯形忍者蟹	ti1 xing2 ren3 zhe3 xie4
+彎角單肢蝦	wan1 jiao3 dan1 zhi1 xia1
+虛假單肢蝦	xu1 jia3 dan1 zhi1 xia1
+叉單肢蝦	cha1 dan1 zhi1 xia1
+彎體單肢蝦	wan1 ti3 dan1 zhi1 xia1
+披針單肢蝦	pi1 zhen1 dan1 zhi1 xia1
+眼斑單肢蝦	yan3 ban1 dan1 zhi1 xia1
+臺灣單肢蝦	tai2 wan1 dan1 zhi1 xia1
+觸角偏鼻戎	chu4 jiao3 pian1 bi2 rong2
+三角柄蜾蠃蜚	san1 jiao3 bing3 guo3 luo3 fei3
+中型節糠蝦	zhong1 xing2 jie2 kang1 xia1
+高脊管鞭蝦	gao1 ji2 guan3 bian1 xia1
+高脊管鞭蝦	gao1 ji3 guan3 bian1 xia1
+縫合管鞭蝦	feng4 he2 guan3 bian1 xia1
+多脊管鞭蝦	duo1 ji2 guan3 bian1 xia1
+短足管鞭蝦	duan3 zu2 guan3 bian1 xia1
+凹陷管鞭蝦	ao1 xian4 guan3 bian1 xia1
+大管鞭蝦	da4 guan3 bian1 xia1
+擬櫛管鞭蝦	ni3 jie2 guan3 bian1 xia1
+多突管鞭蝦	duo1 tu2 guan3 bian1 xia1
+合刺管鞭蝦	he2 ci4 guan3 bian1 xia1
+華氏管鞭蝦	hua2 shi4 guan3 bian1 xia1
+臺灣束腰蟹	tai2 wan1 shu4 yao1 xie4
+杜氏圓綿蟹	du4 shi4 yuan2 mian2 xie4
+深水旋刺寄居蟹	shen1 shui3 xuan2 ci4 ji4 ju1 xie4
+旋刺寄居蟹	xuan2 ci4 ji4 ju1 xie4
+細小擬蝦蛄	xi4 xiao3 ni3 xia1 gu1
+海膽針蝦	hai3 dan3 zhen1 xia1
+斯氏刮削蟹	si1 shi4 gua1 xiao1 xie4
+多刺蝟蝦	duo1 ci4 wei4 xia1
+細額猬蝦	xi4 e2 wei4 xia1
+尖甲硬鞭蝦	jian1 jia3 ying4 bian1 xia1
+耳垂硬鞭蝦	er3 chui2 ying4 bian1 xia1
+雕紋硬鞭蝦	diao1 wen2 ying4 bian1 xia1
+異條戎	yi4 tiao2 rong2
+棉花老條戎	mian2 hua1 lao3 tiao2 rong2
+海條戎	hai3 tiao2 rong2
+長眼條戎	chang2 yan3 tiao2 rong2
+西帆轉肢寄居蟹	xi1 fan1 zhuan3 zhi1 ji4 ju1 xie4
+近緣柱螫磷蝦	jin4 yuan2 zhu4 zhe1 lin2 xia1
+隆柱螫磷蝦	long2 zhu4 zhe1 lin2 xia1
+海島柱螫磷蝦	hai3 dao3 zhu4 zhe1 lin2 xia1
+珊瑚鎧甲蝦	shan1 hu2 kai3 jia3 xia1
+廣東米蝦	guang3 dong1 mi3 xia1
+先氏仿刺鎧蝦	xian1 shi4 fang3 ci4 kai3 xia1
+遠刺折尾蝦	yuan3 ci4 zhe2 wei3 xia1
+白頂刺鎧蝦	bai2 ding3 ci4 kai3 xia1
+鳳凰母布氏蝦	feng4 huang2 mu3 bu4 shi4 xia1
+刺足間對蝦	ci4 zu2 jian1 dui4 xia1
+三宅長眼寄居蟹	san1 zhai2 chang2 yan3 ji4 ju1 xie4
+湧泉新米蝦	yong3 quan2 xin1 mi3 xia1
+二晶柱螫磷蝦	er4 jing1 zhu4 zhe1 lin2 xia1
+三晶柱螫磷蝦	san1 jing1 zhu4 zhe1 lin2 xia1
+錐眼同寄居蟹	zhui1 yan3 tong2 ji4 ju1 xie4
+親近同寄居蟹	qin1 jin4 tong2 ji4 ju1 xie4
+短足同寄居蟹	duan3 zu2 tong2 ji4 ju1 xie4
+布氏同寄居蟹	bu4 shi4 tong2 ji4 ju1 xie4
+陳氏同寄居蟹	chen2 shi4 tong2 ji4 ju1 xie4
+平螯同寄居蟹	ping2 ao2 tong2 ji4 ju1 xie4
+冪河合鼓蝦	mi4 he2 he2 gu3 xia1
+史氏擬鼓蝦	shi3 shi4 ni3 gu3 xia1
+脊足武田綿蟹	ji2 zu2 wu3 tian2 mian2 xie4
+三仙台原足蟲	san1 xian1 tai2 yuan2 zu2 chong2
+擬泡型長螯蟹	ni3 pao4 xing2 chang2 ao2 xie4
+雙齒長螯蟹	shuang1 chi3 chang2 ao2 xie4
+長頸擬梯形蟹	chang2 jing3 ni3 ti1 xing2 xie4
+異指擬梯形蟹	yi4 zhi3 ni3 ti1 xing2 xie4
+黑線擬梯形蟹	hei1 xian4 ni3 ti1 xing2 xie4
+滑指擬梯形蟹	hua2 zhi3 ni3 ti1 xing2 xie4
+棕異指擬梯形蟹	zong1 yi4 zhi3 ni3 ti1 xing2 xie4
+四值戎	si4 zhi2 rong2
+鉗四盾戎	qian2 si4 dun4 rong2
+沙氏短槳蟹	sha1 shi4 duan3 jiang3 xie4
+鈍齒短槳蟹	dun4 chi3 duan3 jiang3 xie4
+愛氏短槳蟹	ai4 shi4 duan3 jiang3 xie4
+格島短槳蟹	ge2 dao3 duan3 jiang3 xie4
+侯氏長槳蟹	hou2 shi4 chang2 jiang3 xie4
+完整短槳蟹	wan2 zheng3 duan3 jiang3 xie4
+鹿兒島短槳蟹	lu4 er2 dao3 duan3 jiang3 xie4
+棕斑短槳蟹	zong1 ban1 duan3 jiang3 xie4
+底棲長槳蟹	di3 qi1 chang2 jiang3 xie4
+雙額短槳蟹	shuang1 e2 duan3 jiang3 xie4
+刺手短槳蟹	ci4 shou3 duan3 jiang3 xie4
+史氏短槳蟹	shi3 shi4 duan3 jiang3 xie4
+威克短槳蟹	wei1 ke4 duan3 jiang3 xie4
+特異海姑蝦	te4 yi4 hai3 gu1 xia1
+掠食海方蟹	lve4 shi2 hai3 fang1 xie4
+斜齒鋸指螯蝦	xie2 chi3 ju4 zhi3 ao2 xia1
+日本鋸指螯蝦	ri4 ben3 ju4 zhi3 ao2 xia1
+棕星腳戎	zong1 xing1 jiao3 rong2
+細腿長腳戎	xi4 tui3 chang2 jiao3 rong2
+東方扁蝦	dong1 fang1 bian3 xia1
+安波托蝦	an1 bo1 tuo1 xia1
+復活托蝦	fu4 huo2 tuo1 xia1
+刺托蝦	ci4 tuo1 xia1
+突擬臂戎	tu2 ni3 bi4 rong2
+球盾戎	qiu2 dun4 rong2
+擬臂戎	ni3 bi4 rong2
+櫛狀燧磷蝦	jie2 zhuang4 sui4 lin2 xia1
+三刺燧磷蝦	san1 ci4 sui4 lin2 xia1
+棘刺頭冠蟹	ji2 ci4 tou2 guan4 xie4
+有角並額蟹	you3 jiao3 bing4 e2 xie4
+扁平併額蟹	bian3 ping2 bing4 e2 xie4
+帶刺併額蟹	dai4 ci4 bing4 e2 xie4
+印度刁蠻蟹	yin4 du4 diao1 man2 xie4
+角眼切腹蟹	jiao3 yan3 qie4 fu4 xie4
+多齒船型蝦	duo1 chi3 chuan2 xing2 xia1
+密毛船型蝦	mi4 mao2 chuan2 xing2 xia1
+粗糙鷹爪蝦	cu1 cao1 ying1 zhua3 xia1
+長足側對蝦	chang2 zu2 ce4 dui4 xia1
+網紋梯形蟹	wang3 wen2 ti1 xing2 xie4
+陳氏梯形蟹	chen2 shi4 ti1 xing2 xie4
+毛掌梯形蟹	mao2 zhang3 ti1 xing2 xie4
+美麗梯形蟹	mei3 li4 ti1 xing2 xie4
+葛氏梯形蟹	ge2 shi4 ti1 xing2 xie4
+橘黃梯形蟹	ju2 huang2 ti1 xing2 xie4
+薩氏梯形蟹	sa4 shi4 ti1 xing2 xie4
+燦爛梯形蟹	can4 lan4 ti1 xing2 xie4
+綿狀泡狀蟹	mian2 zhuang4 pao4 zhuang4 xie4
+秀麗粗背蟹	xiu4 li4 cu1 bei4 xie4
+爪狀三角蟹	zhua3 zhuang4 san1 jiao3 xie4
+酒井刺寄居蟹	jiu3 jing3 ci4 ji4 ju1 xie4
+顯孔戎	xian3 kong3 rong2
+銳齒管招潮蟹	rui4 chi3 guan3 zhao1 chao2 xie4
+弧邊管招潮蟹	hu2 bian1 guan3 zhao1 chao2 xie4
+擬屠氏管招潮蟹	ni3 tu2 shi4 guan3 zhao1 chao2 xie4
+銳齒管招潮	rui4 chi3 guan3 zhao1 chao2
+弧邊管招潮	hu2 bian1 guan3 zhao1 chao2
+擬屠氏管招潮	ni3 tu2 shi4 guan3 zhao1 chao2
+尖頭巾戎	jian1 tou2 jin1 rong2
+瘤結蟹	liu2 jie2 xie4
+小海球鼠婦	xiao3 hai3 qiu2 shu3 fu4
+布氏鬼蟹	bu4 shi4 gui3 xie4
+毛足鬼蟹	mao2 zu2 gui3 xie4
+日本鬼蟹	ri4 ben3 gui3 xie4
+鉤突鬼蟹	gou1 tu2 gui3 xie4
+武田仿盲蟹	wu3 tian2 fang3 mang2 xie4
+遊氏擬盲蟹	you2 shi4 ni3 mang2 xie4
+毛盲蟹	mao2 mang2 xie4
+東方烏氏蟹	dong1 fang1 wu1 shi4 xie4
+無刺螻姑蝦	wu2 ci4 lou2 gu1 xia1
+泡型長螯蟹	pao4 xing2 chang2 ao2 xie4
+巴烏拉似折尾蝦	ba1 wu1 la1 shi4 zhe2 wei3 xia1
+緣棘似折尾蝦	yuan2 ji2 shi4 zhe2 wei3 xia1
+無棘折尾蝦	wu2 ji2 zhe2 wei3 xia1
+前延折尾蝦	qian2 yan2 zhe2 wei3 xia1
+馬場折尾蝦	ma3 chang3 zhe2 wei3 xia1
+雙刺折尾蝦	shuang1 ci4 zhe2 wei3 xia1
+纖毛折尾蝦	xian1 mao2 zhe2 wei3 xia1
+纖手折尾蝦	xian1 shou3 zhe2 wei3 xia1
+鼻形折尾蝦	bi2 xing2 zhe2 wei3 xia1
+烏毛折尾蝦	wu1 mao2 zhe2 wei3 xia1
+曲折尾蝦	qu1 zhe2 wei3 xia1
+單折尾蝦	dan1 zhe2 wei3 xia1
+三角折尾蝦	san1 jiao3 zhe2 wei3 xia1
+濟州島折尾蝦	ji4 zhou1 dao3 zhe2 wei3 xia1
+軸尾鉤蝦	zhou2 wei3 gou1 xia1
+海尾鉤蝦	hai3 wei3 gou1 xia1
+婆羅扁平蟹	po2 luo2 bian3 ping2 xie4
+細足扁平蟹	xi4 zu2 bian3 ping2 xie4
+字紋弓蟹	zi4 wen2 gong1 xie4
+游氏弓蟹	you2 shi4 gong1 xie4
+巴普威球鼠婦	ba1 pu3 wei1 qiu2 shu3 fu4
+武裝片戎	wu3 zhuang1 pian4 rong2
+澳洲片戎	ao4 zhou1 pian4 rong2
+寬片戎	kuan1 pian4 rong2
+刀足片戎	dao1 zu2 pian4 rong2
+彎片戎	wan1 pian4 rong2
+長腕片戎	chang2 wan4 pian4 rong2
+鄰片戎	lin2 pian4 rong2
+犁片戎	li2 pian4 rong2
+尖片戎	jian1 pian4 rong2
+游片戎	you2 pian4 rong2
+拉馬克近扇蟹	la1 ma3 ke4 jin4 shan4 xie4
+酒井異口蟹	jiu3 jing3 yi4 kou3 xie4
+瘤狀扁異蟹	liu2 zhuang4 bian3 yi4 xie4
+硫磺怪方蟹	liu2 huang2 guai4 fang1 xie4
+矛形梭子蟹	mao2 xing2 suo1 zi5 xie4
+伊島劍泳蟹	yi1 dao3 jian4 yong3 xie4
+假矛形梭子蟹	jia3 mao2 xing2 suo1 zi5 xie4
+麗紋梭子蟹	li4 wen2 suo1 zi5 xie4
+薩氏亞氏蟹	sa4 shi4 ya3 shi4 xie4
+凹足擬熟若蟹	ao1 zu2 ni3 shou2 ruo4 xie4
+複條刺蝦蛄	fu4 tiao2 ci4 xia1 gu1
+好鬥英雄蟹	hao3 dou4 ying1 xiong2 xie4
+寬拇指楊梅蟹	kuan1 mu3 zhi3 yang2 mei2 xie4
+鱗形楊梅蟹	lin2 xing2 yang2 mei2 xie4
+鋸齒奇淨蟹	ju4 chi3 qi2 jing4 xie4
+突顯宦蝦	tu2 xian3 huan4 xia1
+毛手宦蝦	mao2 shou3 huan4 xia1
+纖足宦蝦	xian1 zu2 huan4 xia1
+東方管鬚蟹	dong1 fang1 guan3 xu1 xie4
+蘇祿異瓷蟹	su1 lu4 yi4 ci2 xie4
+美麗異鎧蝦	mei3 li4 yi4 kai3 xia1
+五刺栗殼蟹	wu3 ci4 li4 ke2 xie4
+脊七刺栗殼蟹	ji2 qi1 ci4 li4 ke2 xie4
+葉狀擬鬚蝦	ye4 zhuang4 ni3 xu1 xia1
+長帶似鬚蝦	chang2 dai4 shi4 xu1 xia1
+密毛鬚蝦	mi4 mao2 xu1 xia1
+正直愛潔蟹	zheng4 zhi2 ai4 jie2 xie4
+廣闊愛潔蟹	guang3 kuo4 ai4 jie2 xie4
+細指異對蝦	xi4 zhi3 yi4 dui4 xia1
+棘凹唇緊握蟹	ji2 ao1 chun2 jin3 wo4 xie4
+三角南方招潮蟹	san1 jiao3 nan2 fang1 zhao1 chao2 xie4
+三角南方招潮	san1 jiao3 nan2 fang1 zhao1 chao2
+球形鎧蟹	qiu2 xing2 kai3 xie4
+黑潮仿深寄居蟹	hei1 chao2 fang3 shen1 ji4 ju1 xie4
+泥污雙齒蟬蝦	ni2 wu1 shuang1 chi3 chan2 xia1
+排列方額蝦蛄	pai2 lie4 fang1 e2 xia1 gu1
+椰子蟹	ye1 zi5 xie4
+芮氏淚毛刺蟹	rui4 shi4 lei4 mao2 ci4 xie4
+廣闊疣扇蟹	guang3 kuo4 you2 shan4 xie4
+久世仿疣扇蟹	jiu3 shi4 fang3 you2 shan4 xie4
+寬足達納蟹	kuan1 zu2 da2 na4 xie4
+細足達納蟹	xi4 zu2 da2 na4 xie4
+鱗片真寄居蟹	lin2 pian4 zhen1 ji4 ju1 xie4
+珠粒真寄居蟹	zhu1 li4 zhen1 ji4 ju1 xie4
+線斑真寄居蟹	xian4 ban1 zhen1 ji4 ju1 xie4
+刺足真寄居蟹	ci4 zu2 zhen1 ji4 ju1 xie4
+印紋真寄居蟹	yin4 wen2 zhen1 ji4 ju1 xie4
+斑點真寄居蟹	ban1 dian3 zhen1 ji4 ju1 xie4
+環毛真寄居蟹	huan2 mao2 zhen1 ji4 ju1 xie4
+中型鱗斑蟹	zhong1 xing2 lin2 ban1 xie4
+日本鱗斑蟹	ri4 ben3 lin2 ban1 xie4
+莫氏鱗斑蟹	mo4 shi4 lin2 ban1 xie4
+雷氏鱗斑蟹	lei2 shi4 lin2 ban1 xie4
+圓形鱗斑蟹	yuan2 xing2 lin2 ban1 xie4
+毒鱗斑蟹	du2 lin2 ban1 xie4
+長螯活額寄居蟹	chang2 ao2 huo2 e2 ji4 ju1 xie4
+艾氏活額寄居蟹	ai4 shi4 huo2 e2 ji4 ju1 xie4
+鬃螯活額寄居蟹	zong1 ao2 huo2 e2 ji4 ju1 xie4
+閃光活額寄居蟹	shan3 guang1 huo2 e2 ji4 ju1 xie4
+毛掌活額寄居蟹	mao2 zhang3 huo2 e2 ji4 ju1 xie4
+直螯活額寄居蟹	zhi2 ao2 huo2 e2 ji4 ju1 xie4
+棘刺活額寄居蟹	ji2 ci4 huo2 e2 ji4 ju1 xie4
+膨螯活額寄居蟹	peng2 ao2 huo2 e2 ji4 ju1 xie4
+毛足圓盤蟹	mao2 zu2 yuan2 pan2 xie4
+圓形圓盤蟹	yuan2 xing2 yuan2 pan2 xie4
+思氏不對稱鰓虱	si1 shi4 bu4 dui4 cheng1 sai1 shi1
+溝痕絨球蟹	gou1 hen2 rong2 qiu2 xie4
+光潔圓頂蟹	guang1 jie2 yuan2 ding3 xie4
+刺圓頂蟹	ci4 yuan2 ding3 xie4
+四齒關公蟹	si4 chi3 guan1 gong1 xie4
+中華關公蟹	zhong1 hua2 guan1 gong1 xie4
+衛氏毛帶蟹	wei4 shi4 mao2 dai4 xie4
+硬毛貝綿蟹	ying4 mao2 bei4 mian2 xie4
+臺灣鼠蟬蟹	tai2 wan1 shu3 chan2 xie4
+強壯菱蟹	qiang2 zhuang4 ling2 xie4
+柯氏礁螯蝦	ke1 shi4 jiao1 ao2 xia1
+東方礁螯蝦	dong1 fang1 jiao1 ao2 xia1
+硬爪始根鉤蝦	ying4 zhua3 shi3 gen1 gou1 xia1
+挖掘鉤蝦	wa1 jue2 gou1 xia1
+銳齒裔綿蟹	rui4 chi3 yi4 mian2 xie4
+顯赫表方蟹	xian3 he4 biao3 fang1 xie4
+光滑表方蟹	guang1 hua2 biao3 fang1 xie4
+拉氏表相手蟹	la1 shi4 biao3 xiang4 shou3 xie4
+粗粒石扇蟹	cu1 li4 shi2 shan4 xie4
+平額石扇蟹	ping2 e2 shi2 shan4 xie4
+長踦無毛蟹	chang2 yi3 wu2 mao2 xie4
+粗角鉤蝦	cu1 jiao3 gou1 xia1
+合浦絨螯蟹	he2 pu3 rong2 ao2 xie4
+日本絨螯蟹	ri4 ben3 rong2 ao2 xie4
+中華絨螯蟹	zhong1 hua2 rong2 ao2 xie4
+凶猛酋婦蟹	xiong1 meng3 qiu2 fu4 xie4
+葛氏平蝦蛄	ge2 shi4 ping2 xia1 gu1
+平靜平蝦蛄	ping2 jing4 ping2 xia1 gu1
+陳氏四額蟹	chen2 shi4 si4 e2 xie4
+雙葉四額蟹	shuang1 ye4 si4 e2 xie4
+罕見四額蟹	han3 jian4 si4 e2 xie4
+巨棘四額蟹	ju4 ji2 si4 e2 xie4
+舞者四額蟹	wu3 zhe3 si4 e2 xie4
+阿氏仿四額蟹	a1 shi4 fang3 si4 e2 xie4
+臺灣四額蟹	tai2 wan1 si4 e2 xie4
+似雕滑面蟹	shi4 diao1 hua2 mian4 xie4
+巴氏滑面蟹	ba1 shi4 hua2 mian4 xie4
+齒滑面蟹	chi3 hua2 mian4 xie4
+奧氏滑面蟹	ao4 shi4 hua2 mian4 xie4
+圓珠滑面蟹	yuan2 zhu1 hua2 mian4 xie4
+燦爛滑面蟹	can4 lan4 hua2 mian4 xie4
+單齒玉蟹	dan1 chi3 yu4 xie4
+阿氏強蟹	a1 shi4 qiang2 xie4
+太陽強蟹	tai4 yang2 qiang2 xie4
+毛真刺蝦	mao2 zhen1 ci4 xia1
+陳氏真刺蝦	chen2 shi4 zhen1 ci4 xia1
+扁真刺蝦	bian3 zhen1 ci4 xia1
+繩舞真刺蝦	sheng2 wu3 zhen1 ci4 xia1
+麥氏真刺蝦	mai4 shi4 zhen1 ci4 xia1
+小真刺蝦	xiao3 zhen1 ci4 xia1
+葉額真玻璃蝦	ye4 e2 zhen1 bo1 li2 xia1
+短小磷蝦	duan3 xiao3 lin2 xia1
+鳥喙磷蝦	niao3 hui4 lin2 xia1
+太平洋磷蝦	tai4 ping2 yang2 lin2 xia1
+假駝磷蝦	jia3 tuo2 lin2 xia1
+卷葉磷蝦	juan3 ye4 lin2 xia1
+大眼磷蝦	da4 yan3 lin2 xia1
+柔弱磷蝦	rou2 ruo4 lin2 xia1
+武裝真葉戎	wu3 zhuang1 zhen1 ye4 rong2
+閒真葉戎	xian2 zhen1 ye4 rong2
+矩腕真葉戎	ju3 wan4 zhen1 ye4 rong2
+斑真葉戎	ban1 zhen1 ye4 rong2
+小真葉戎	xiao3 zhen1 ye4 rong2
+東方寬扇形蟹	dong1 fang1 kuan1 shan4 xing2 xie4
+長額外鞭腕蝦	chang2 e2 wai4 bian1 wan4 xia1
+休氏聲蟹	xiu1 shi4 sheng1 xie4
+臺灣橙蝦蛄	tai2 wan1 cheng2 xia1 gu1
+韓氏橙蝦蛄	han2 shi4 cheng2 xia1 gu1
+平靜橙蝦蛄	ping2 jing4 cheng2 xia1 gu1
+蔡氏費鎧蝦	cai4 shi4 fei4 kai3 xia1
+扁平霍氏蟹	bian3 ping2 huo4 shi4 xie4
+粗糙霍氏蟹	cu1 cao1 huo4 shi4 xie4
+柔毛刺顎蝦	rou2 mao2 ci4 e4 xia1
+東方蓋氏蟹	dong1 fang1 gai4 shi4 xie4
+高瞼蓋氏蟹	gao1 jian3 gai4 shi4 xie4
+瓦爾迪維亞棘鎧蝦	wa3 er3 di2 wei2 ya3 ji2 kai3 xia1
+埃及鎧甲蝦	ai1 ji2 kai3 jia3 xia1
+信天翁鎧甲蝦	xin4 tian1 weng1 kai3 jia3 xia1
+玄海鎧甲蝦	xuan2 hai3 kai3 jia3 xia1
+鼓漲鎧甲蝦	gu3 zhang4 kai3 jia3 xia1
+模里西斯鎧甲蝦	mo2 li3 xi1 si1 kai3 jia3 xia1
+複線鎧甲蝦	fu4 xian4 kai3 jia3 xia1
+寬鉗鎧甲蝦	kuan1 qian2 kai3 jia3 xia1
+柔毛鎧甲蝦	rou2 mao2 kai3 jia3 xia1
+刺額鎧甲蝦	ci4 e2 kai3 jia3 xia1
+似鱗鎧甲蝦	shi4 lin2 kai3 jia3 xia1
+種子島鎧甲蝦	zhong3 zi5 dao3 kai3 jia3 xia1
+三斑盔突蟬蝦	san1 ban1 kui1 tu2 chan2 xia1
+雙刺靜蟹	shuang1 ci4 jing4 xie4
+愛氏葛菱蟹	ai4 shi4 ge3 ling2 xie4
+羽足葛菱蟹	yu3 zu2 ge3 ling2 xie4
+星形加氏菱蟹	xing1 xing2 jia1 shi4 ling2 xie4
+北方丑招潮蟹	bei3 fang1 chou3 zhao1 chao2 xie4
+北方丑招潮	bei3 fang1 chou3 zhao1 chao2
+賈瑟琳丑招潮	jia3 se4 lin2 chou3 zhao1 chao2
+賈瑟琳丑招潮蟹	jia3 se4 lin2 chou3 zhao1 chao2 xie4
+四角招潮蟹	si4 jiao3 zhao1 chao2 xie4
+呼喚丑招潮蟹	hu1 huan4 chou3 zhao1 chao2 xie4
+波氏屈腕蝦	bo1 shi4 qu1 wan4 xia1
+小屈腕蝦	xiao3 qu1 wan4 xia1
+鄰屈腕蝦	lin2 qu1 wan4 xia1
+斯氏陸方蟹	si1 shi4 lu4 fang1 xie4
+紅指陸相手蟹	hong2 zhi3 lu4 xiang4 shou3 xie4
+黃灰澤蟹	huang2 hui1 ze2 xie4
+厚圓澤蟹	hou4 yuan2 ze2 xie4
+雙色澤蟹	shuang1 se4 ze2 xie4
+藍灰澤蟹	lan2 hui1 ze2 xie4
+日月潭澤蟹	ri4 yue4 tan2 ze2 xie4
+邱氏澤蟹	qiu1 shi4 ze2 xie4
+棲蘭澤蟹	qi1 lan2 ze2 xie4
+灰甲澤蟹	hui1 jia3 ze2 xie4
+扁足澤蟹	bian3 zu2 ze2 xie4
+顯齒澤蟹	xian3 chi3 ze2 xie4
+寬甲澤蟹	kuan1 jia3 ze2 xie4
+銹色澤蟹	xiu4 se4 ze2 xie4
+細足澤蟹	xi4 zu2 ze2 xie4
+海端澤蟹	hai3 duan1 ze2 xie4
+侯氏澤蟹	hou2 shi4 ze2 xie4
+宜蘭澤蟹	yi2 lan2 ze2 xie4
+蘭嶼澤蟹	lan2 yu3 ze2 xie4
+李氏澤蟹	li3 shi4 ze2 xie4
+力里澤蟹	li4 li3 ze2 xie4
+綠島澤蟹	lv4 dao3 ze2 xie4
+馬卡道澤蟹	ma3 ka3 dao4 ze2 xie4
+高山澤蟹	gao1 shan1 ze2 xie4
+南澳澤蟹	nan2 ao4 ze2 xie4
+楠西澤蟹	nan2 xi1 ze2 xie4
+黃綠澤蟹	huang2 lv4 ze2 xie4
+屏東澤蟹	ping2 dong1 ze2 xie4
+神山澤蟹	shen2 shan1 ze2 xie4
+諸喜田澤蟹	zhu1 xi3 tian2 ze2 xie4
+賽夏澤蟹	sai4 xia4 ze2 xie4
+大里澤蟹	da4 li3 ze2 xie4
+太魯閣澤蟹	tai4 lu3 ge2 ze2 xie4
+大武澤蟹	da4 wu3 ze2 xie4
+蔡氏澤蟹	cai4 shi4 ze2 xie4
+王氏澤蟹	wang2 shi4 ze2 xie4
+霧臺澤蟹	wu4 tai2 ze2 xie4
+陽明山澤蟹	yang2 ming2 shan1 ze2 xie4
+平滑光毛蟹	ping2 hua2 guang1 mao2 xie4
+舌頭戎	she2 tou2 rong2
+辜氏雕尾蝦	gu1 shi4 diao1 wei3 xia1
+鋸齒巨顎水虱	ju4 chi3 ju4 e4 shui3 shi1
+巨額顎糠蝦	ju4 e2 e4 kang1 xia1
+美洲寬顎蝦	mei3 zhou1 kuan1 e4 xia1
+日本長腳蟹	ri4 ben3 chang2 jiao3 xie4
+稀齒蟳	xi1 chi3 xun2
+相模角磯蟹	xiang4 mo2 jiao3 ji1 xie4
+爾氏小指蝦蛄	er3 shi4 xiao3 zhi3 xia1 gu1
+綠色小指蝦蛄	lv4 se4 xiao3 zhi3 xia1 gu1
+齊氏指蝦蛄	qi2 shi4 zhi3 xia1 gu1
+大指蝦蛄	da4 zhi3 xia1 gu1
+寬體指蝦蛄	kuan1 ti3 zhi3 xia1 gu1
+史氏指蝦蛄	shi3 shi4 zhi3 xia1 gu1
+日本大螯蜚	ri4 ben3 da4 ao2 fei3
+巨大螯蜚	ju4 da4 ao2 fei3
+中型方蟹	zhong1 xing2 fang1 xie4
+細紋方蟹	xi4 wen2 fang1 xie4
+齒突斜紋蟹	chi3 tu2 xie2 wen2 xie4
+刀額擬海蝦	dao1 e2 ni3 hai3 xia1
+亞非海蝦	ya3 fei1 hai3 xia1
+袋腹珊隱蟹	dai4 fu4 shan1 yin3 xie4
+包氏擬鉤岩蝦	bao1 shi4 ni3 gou1 yan2 xia1
+眼斑猛蝦蛄	yan3 ban1 meng3 xia1 gu1
+豎琴猛蝦蛄	shu4 qin2 meng3 xia1 gu1
+印度猛蝦蛄	yin4 du4 meng3 xia1 gu1
+日本猛蝦蛄	ri4 ben3 meng3 xia1 gu1
+黑尾猛蝦蛄	hei1 wei3 meng3 xia1 gu1
+白紋短角蟹	bai2 wen2 duan3 jiao3 xie4
+日本林氏異指蝦	ri4 ben3 lin2 shi4 yi4 zhi3 xia1
+蛛形平家蟹	zhu1 xing2 ping2 jia1 xie4
+日本平家蟹	ri4 ben3 ping2 jia1 xie4
+臺灣厚蟹	tai2 wan1 hou4 xie4
+側足厚蟹	ce4 zu2 hou4 xie4
+肉球近方蟹	rou4 qiu2 jin4 fang1 xie4
+卡氏半對蝦	ka3 shi4 ban4 dui4 xia1
+背刺半對蝦	bei4 ci4 ban4 dui4 xia1
+細手半毛戎	xi4 shou3 ban4 mao2 rong2
+冰冷肝刺蝦	bing1 leng3 gan1 ci4 xia1
+駝背異腕蝦	tuo2 bei4 yi4 wan4 xia1
+林氏異腕蝦	lin2 shi4 yi4 wan4 xia1
+滑異腕蝦	hua2 yi4 wan4 xia1
+小刺異腕蝦	xiao3 ci4 yi4 wan4 xia1
+東方異腕蝦	dong1 fang1 yi4 wan4 xia1
+三脊異腕蝦	san1 ji2 yi4 wan4 xia1
+強刺異腕蝦	qiang2 ci4 yi4 wan4 xia1
+駝背異腕蝦	tuo2 bei4 yi4 wan3 xia1
+林氏異腕蝦	lin2 shi4 yi4 wan3 xia1
+滑異腕蝦	hua2 yi4 wan3 xia1
+小刺異腕蝦	xiao3 ci4 yi4 wan3 xia1
+東方異腕蝦	dong1 fang1 yi4 wan3 xia1
+三脊異腕蝦	san1 ji2 yi4 wan3 xia1
+強刺異腕蝦	qiang2 ci4 yi4 wan3 xia1
+極小異隱蟹	ji2 xiao3 yi4 yin3 xie4
+巴烏拉異刺鎧蝦	ba1 wu1 la1 yi4 ci4 kai3 xia1
+薄片異核果蟹	bo2 pian4 yi4 he2 guo3 xie4
+長螯拳蟹	chang2 ao2 quan2 xie4
+大理石蟬蟹	da4 li3 shi2 chan2 xie4
+截額蟬蟹	jie2 e2 chan2 xie4
+褐藻蝦	he2 zao3 xia1
+梭形附頭虱	suo1 xing2 fu4 tou2 shi1
+三重人面蟹	san1 chong2 ren2 mian4 xie4
+加氏昆人面蟹	jia1 shi4 kun1 ren2 mian4 xie4
+凱島人面綿蟹	kai3 dao3 ren2 mian4 mian2 xie4
+馬來似人面蟹	ma3 lai2 shi4 ren2 mian4 xie4
+封口曼人面蟹	feng1 kou3 man4 ren2 mian4 xie4
+西氏曼人面蟹	xi1 shi4 man4 ren2 mian4 xie4
+紋章藻片蟹	wen2 zhang1 zao3 pian4 xie4
+雙角互敬蟹	shuang1 jiao3 hu4 jing4 xie4
+油彩蠟膜蝦	you2 cai3 la4 mo2 xia1
+叉突膜對蝦	cha1 tu2 mo2 dui4 xia1
+海神膜對蝦	hai3 shen2 mo2 dui4 xia1
+圓突膜對蝦	yuan2 tu2 mo2 dui4 xia1
+呂氏小戎	lv3 shi4 xiao3 rong2
+斯特丙小戎	si1 te4 bing3 xiao3 rong2
+斯氏小戎	si1 shi4 xiao3 rong2
+沃氏小戎	wo4 shi4 xiao3 rong2
+長足擬蠻戎	chang2 zu2 ni3 man2 rong2
+羽刺擬蠻戎	yu3 ci4 ni3 man2 rong2
+大指爪戎	da4 zhi3 zhua3 rong2
+馬氏鉗戎	ma3 shi4 qian2 rong2
+地中海鉗戎	di4 zhong1 hai3 qian2 rong2
+水母鉗戎	shui3 mu3 qian2 rong2
+武裝深海蟹	wu3 zhuang1 shen1 hai3 xie4
+毛緣扇蝦	mao2 yuan2 shan4 xia1
+九齒扇蝦	jiu3 chi3 shan4 xia1
+柯氏副寄居蟹	ke1 shi4 fu4 ji4 ju1 xie4
+漂浮囊糠蝦	piao1 fu2 nang2 kang1 xia1
+沼棲泥方蟹	zhao3 qi1 ni2 fang1 xie4
+臺灣泥蟹	tai2 wan1 ni2 xie4
+鋸眼泥蟹	ju4 yan3 ni2 xie4
+淡水泥蟹	dan4 shui3 ni2 xie4
+海綿精干蟹	hai3 mian2 jing1 gan4 xie4
+筒狀飛輪蟹	tong3 zhuang4 fei1 lun2 xie4
+艾氏飛輪蟹	ai4 shi4 fei1 lun2 xie4
+飛輪蟹	fei1 lun2 xie4
+雙角轉輪蟹	shuang1 jiao3 zhuan3 lun2 xie4
+短刺伊氏蟹	duan3 ci4 yi1 shi4 xie4
+蕭氏瓊娜蟹	xiao1 shi4 qiong2 na4 xie4
+顯著瓊娜蟹	xian3 zhu4 qiong2 na4 xie4
+長臂正龍蝦	chang2 bi4 zheng4 long2 xia1
+灰青鄰扇蟹	hui1 qing1 lin2 shan4 xie4
+四齒鄰扇蟹	si4 chi3 lin2 shan4 xie4
+凸頭鉤蝦	tu1 tou2 gou1 xia1
+卡馬鉤蝦	ka3 ma3 gou1 xia1
+尖刺糙蝦蛄	jian1 ci4 cao1 xia1 gu1
+韓氏可丹蟹	han2 shi4 ke3 dan1 xie4
+角突仿對蝦	jiao3 tu2 fang3 dui4 xia1
+羅氏毛足蟹	luo2 shi4 mao2 zu2 xie4
+大溪地毛足蟹	da4 xi1 di4 mao2 zu2 xie4
+室戶拉摩蟹	shi4 hu4 la1 mo2 xie4
+面矛戎	mian4 mao2 rong2
+太平洋矛戎	tai4 ping2 yang2 mao2 rong2
+皮氏矛戎	pi2 shi4 mao2 rong2
+塞氏矛戎	sai1 shi4 mao2 rong2
+齒矛戎	chi3 mao2 rong2
+泥蝦	ni2 xia1
+顆粒寬六足蟹	ke1 li4 kuan1 liu4 zu2 xie4
+近島蛛形蟹	jin4 dao3 zhu1 xing2 xie4
+強壯蛛形蟹	qiang2 zhuang4 zhu1 xing2 xie4
+雙刺仿蛛形蟹	shuang1 ci4 fang3 zhu1 xing2 xie4
+四刺仿蛛形蟹	si4 ci4 fang3 zhu1 xing2 xie4
+疣背深額蝦	you2 bei4 shen1 e2 xia1
+中型勞綿蟹	zhong1 xing2 lao2 mian2 xie4
+粉紅毛鎧甲蝦	fen3 hong2 mao2 kai3 jia3 xia1
+蜂型寬戎	feng1 xing2 kuan1 rong2
+細角瘦蝦	xi4 jiao3 shou4 xia1
+寬額擬瘦蝦	kuan1 e2 ni3 shou4 xia1
+土佐萊伯蝦	tu3 zuo3 lai2 bo2 xia1
+金額瘦相手蟹	jin1 e2 shou4 xiang4 shou3 xie4
+古氏瘦相手蟹	gu3 shi4 shou4 xiang4 shou3 xie4
+藍氏瘦相手蟹	lan2 shi4 shou4 xiang4 shou3 xie4
+霍氏瘦相手蟹	huo4 shi4 shou4 xiang4 shou3 xie4
+老猴瘦相手蟹	lao3 hou2 shou4 xiang4 shou3 xie4
+細額小頭戎	xi4 e2 xiao3 tou2 rong2
+近親皺蟹	jin4 qin1 zhou4 xie4
+細巧皺蟹	xi4 qiao3 zhou4 xie4
+裸足皺蟹	luo3 zu2 zhou4 xie4
+肉球皺蟹	rou4 qiu2 zhou4 xie4
+孟加拉蠻戎	meng4 jia1 la1 man2 rong2
+齒足蠻戎	chi3 zu2 man2 rong2
+闊蠻戎	kuo4 man2 rong2
+大眼蠻戎	da4 yan3 man2 rong2
+裂頦蠻戎	lie4 hai2 man2 rong2
+休氏蠻戎	xiu1 shi4 man2 rong2
+臺灣玉蟹	tai2 wan1 yu4 xie4
+紅斑斗蟹	hong2 ban1 dou3 xie4
+奇異海蟑螂	qi2 yi4 hai3 zhang1 lang2
+臺灣海蟑螂	tai2 wan1 hai3 zhang1 lang2
+尖尾湖水虱	jian1 wei3 hu2 shui3 shi1
+褐黃脊龍蝦	he4 huang2 ji2 long2 xia1
+三角脊龍蝦	san1 jiao3 ji2 long2 xia1
+褐黃脊龍蝦	he4 huang2 ji3 long2 xia1
+三角脊龍蝦	san1 jiao3 ji3 long2 xia1
+雕刻花瓣蟹	diao1 ke4 hua1 ban4 xie4
+皺紋花瓣蟹	zhou4 wen2 hua1 ban4 xie4
+脈花瓣蟹	mai4 hua1 ban4 xie4
+阿戛光背蟹	a1 jia2 guang1 bei4 xie4
+光滑光背蟹	guang1 hua2 guang1 bei4 xie4
+紫斑光背蟹	zi3 ban1 guang1 bei4 xie4
+多域光背蟹	duo1 yu4 guang1 bei4 xie4
+扭螯光滑瓷蟹	niu3 ao2 guang1 hua2 ci2 xie4
+臺灣石蟹	tai2 wan1 shi2 xie4
+長刺石蟹	chang2 ci4 shi2 xie4
+塔形石蟹	ta3 xing2 shi2 xie4
+美麗岩相手蟹	mei3 li4 yan2 xiang4 shou3 xie4
+脊條摺蝦蛄	ji2 tiao2 zhe2 xia1 gu1
+切脊熟若蟹	qie4 ji2 shou2 ruo4 xie4
+繡花脊熟若蟹	xiu4 hua1 ji2 shou2 ruo4 xie4
+費氏瑩蝦	fei4 shi4 ying2 xia1
+漢森瑩蝦	han4 sen1 ying2 xia1
+中型瑩蝦	zhong1 xing2 ying2 xia1
+刷狀瑩蝦	shua1 zhuang4 ying2 xia1
+正型瑩蝦	zheng4 xing2 ying2 xia1
+刺毛殼蟹	ci4 mao2 ke2 xie4
+圓形狼牙蟹	yuan2 xing2 lang2 ya2 xie4
+花紋細螯蟹	hua1 wen2 xi4 ao2 xie4
+麗戎	li4 rong2
+異牛麗戎	yi4 niu2 li4 rong2
+蚤麗戎	zao3 li4 rong2
+方角麗戎	fang1 jiao3 li4 rong2
+長秀戎	chang2 xiu4 rong2
+三寶顏秀戎	san1 bao3 yan2 xiu4 rong2
+雜粒拳蟹	za2 li4 quan2 xie4
+短額琵琶蟹	duan3 e2 pi2 pa2 xie4
+窄額琵琶蟹	zhai3 e2 pi2 pa2 xie4
+溝額琴蝦蛄	gou1 e2 qin2 xia1 gu1
+十三齒琴蝦蛄	shi2 san1 chi3 qin2 xia1 gu1
+安波鞭腕蝦	an1 bo1 bian1 wan4 xia1
+模里西斯鞭腕蝦	mo2 li3 xi1 si1 bian1 wan4 xia1
+曲根鞭腕蝦	qu1 gen1 bian1 wan4 xia1
+特納鞭腕蝦	te4 na4 bian1 wan4 xia1
+紅紋鞭腕蝦	hong2 wen2 bian1 wan4 xia1
+主擬鞭腕蝦	zhu3 ni3 bian1 wan4 xia1
+安波鞭腕蝦	an1 bo1 bian1 wan3 xia1
+模里西斯鞭腕蝦	mo2 li3 xi1 si1 bian1 wan3 xia1
+曲根鞭腕蝦	qu1 gen1 bian1 wan3 xia1
+特納鞭腕蝦	te4 na4 bian1 wan3 xia1
+紅紋鞭腕蝦	hong2 wen2 bian1 wan3 xia1
+主擬鞭腕蝦	zhu3 ni3 bian1 wan3 xia1
+粗糙沼蝦	cu1 cao1 zhao3 xia1
+南海沼蝦	nan2 hai3 zhao3 xia1
+泰國蝦	tai4 guo2 xia1
+臺灣沼蝦	tai2 wan1 zhao3 xia1
+細額沼蝦	xi4 e2 zhao3 xia1
+郝氏沼蝦	hao3 shi4 zhao3 xia1
+大和沼蝦	da4 he2 zhao3 xia1
+毛指沼蝦	mao2 zhi3 zhao3 xia1
+貪食沼蝦	tan1 shi2 zhao3 xia1
+熱帶沼蝦	re4 dai4 zhao3 xia1
+羅氏沼蝦	luo2 shi4 zhao3 xia1
+邵氏沼蝦	shao4 shi4 zhao3 xia1
+附刺沼蝦	fu4 ci4 zhao3 xia1
+曼氏大權蟹	man4 shi4 da4 quan2 xie4
+特異大權蟹	te4 yi4 da4 quan2 xie4
+短身大眼蟹	duan3 shen1 da4 yan3 xie4
+萬歲大眼蟹	wan4 sui4 da4 yan3 xie4
+蘭嶼大眼蟹	lan2 yu3 da4 yan3 xie4
+角眼大眼蟹	jiao3 yan3 da4 yan3 xie4
+多毛大眼蟹	duo1 mao2 da4 yan3 xie4
+明秀大眼蟹	ming2 xiu4 da4 yan3 xie4
+悅目大眼蟹	yue4 mu4 da4 yan3 xie4
+拉氏大眼蟹	la1 shi4 da4 yan3 xie4
+米氏大眼蟹	mi3 shi4 da4 yan3 xie4
+紫螯大眼蟹	zi3 ao2 da4 yan3 xie4
+絨毛大眼蟹	rong2 mao2 da4 yan3 xie4
+鉤額濕尖頭鉤蝦	gou1 e2 shi1 jian1 tou2 gou1 xia1
+鋸齒杯蟹	ju4 chi3 bei1 xie4
+頑強黎明蟹	wan2 qiang2 li2 ming2 xie4
+澎湖大突蝦	peng1 hu2 da4 tu2 xia1
+繆氏哲蟹	mou2 shi4 zhe2 xie4
+卡氏深藻蝦	ka3 shi4 shen1 zao3 xia1
+布氏間對蝦	bu4 shi4 jian1 dui4 xia1
+威氏綿蟹	wei1 shi4 mian2 xie4
+瘦長後鼓蝦	shou4 chang2 hou4 gu3 xia1
+安達曼後海螯蝦	an1 da2 man4 hou4 hai3 ao2 xia1
+胄甲後海螯蝦	zhou4 jia3 hou4 hai3 ao2 xia1
+臺灣後海螯蝦	tai2 wan1 hou4 hai3 ao2 xia1
+日本後海螯蝦	ri4 ben3 hou4 hai3 ao2 xia1
+海神後海螯蝦	hai3 shen2 hou4 hai3 ao2 xia1
+相模後海螯蝦	xiang1 mo2 hou4 hai3 ao2 xia1
+中華後海螯蝦	zhong1 hua2 hou4 hai3 ao2 xia1
+紅斑後海螯蝦	hong2 ban1 hou4 hai3 ao2 xia1
+錫蘭赤蝦	xi1 lan2 chi4 xia1
+共棲赤蝦	gong4 qi1 chi4 xia1
+硬殼赤蝦	ying4 ke2 chi4 xia1
+高脊赤蝦	gao1 ji2 chi4 xia1
+劉氏赤蝦	liu2 shi4 chi4 xia1
+波羅門赤蝦	bo1 luo2 men2 chi4 xia1
+中國赤蝦	zhong1 guo2 chi4 xia1
+秀麗長方蟹	xiu4 li4 chang2 fang1 xie4
+長足長方蟹	chang2 zu2 chang2 fang1 xie4
+高橋長方蟹	gao1 qiao2 chang2 fang1 xie4
+安德遜小相手蟹	an1 de2 xun4 xiao3 xiang4 shou3 xie4
+戈氏小相手蟹	ge1 shi4 xiao3 xiang4 shou3 xie4
+肥胖後相手蟹	fei2 pang4 hou4 xiang4 shou3 xie4
+索氏錐阿姑蝦	suo3 shi4 zhui1 a1 gu1 xia1
+四齒大額蟹	si4 chi3 da4 e2 xie4
+磨光兩洋寄居蟹	mo2 guang1 liang3 yang2 ji4 ju1 xie4
+拳折額蟹	quan2 zhe2 e2 xie4
+短指和尚蟹	duan3 zhi3 he2 shang4 xie4
+細掌刺海螯蝦	xi4 zhang3 ci4 hai3 ao2 xia1
+臺灣棘阿蛄蝦	tai2 wan1 ji2 a1 gu1 xia1
+巨棘阿蛄蝦	ju4 ji2 a1 gu1 xia1
+異常棘蝦	yi4 chang2 ji2 xia1
+四刺棘蝦	si4 ci4 ji2 xia1
+臺灣刺角蟹	tai2 wan1 ci4 jiao3 xie4
+荊刺錐戎	jing1 ci4 zhui1 rong2
+傑氏刺蝦蛄	jie2 shi4 ci4 xia1 gu1
+曼寧刺蝦蛄	man4 ning2 ci4 xia1 gu1
+間型毛蝦	jian1 xing2 mao2 xia1
+日本毛蝦	ri4 ben3 mao2 xia1
+普通毛蝦	pu3 tong1 mao2 xia1
+小無齒蟹	xiao3 wu2 chi3 xie4
+薄氏銀杏蟹	bo2 shi4 yin2 xing4 xie4
+菜花銀杏蟹	cai4 hua1 yin2 xing4 xie4
+毛糙仿銀杏蟹	mao2 cao1 fang3 yin2 xing4 xie4
+絨毛仿銀杏蟹	rong2 mao2 fang3 yin2 xing4 xie4
+微紅岸棲蟹	wei1 hong2 an4 qi1 xie4
+臺灣楊梅蟹	tai2 wan1 yang2 mei2 xie4
+法氏緣潮蟲	fa3 shi4 yuan2 chao2 chong2
+近似宦蝦	jin4 si4 huan4 xia1
+模稜宦蝦	mo2 leng2 huan4 xia1
+紅斑宦蝦	hong2 ban1 huan4 xia1
+蘇利亞宦蝦	su1 li4 ya3 huan4 xia1
+鈕扣管鬚蟹	niu3 kou4 guan3 xu1 xie4
+葛氏管鬚蟹	ge2 shi4 guan3 xu1 xie4
+隱藏管鬚蟹	yin3 cang2 guan3 xu1 xie4
+琉球管鬚蟹	liu2 qiu2 guan3 xu1 xie4
+卡氏異瓷蟹	ka3 shi4 yi4 ci2 xie4
+微異瓷蟹	wei1 yi4 ci2 xie4
+軟雕海蝦蛄	ruan3 diao1 hai3 xia1 gu1
+東方海蝦蛄	dong1 fang1 hai3 xia1 gu1
+尖刺異寄居蟹	jian1 ci4 yi4 ji4 ju1 xie4
+雙齒鼓蝦	shuang1 chi3 gu3 xia1
+橘紅槍蝦	ju2 hong2 qiang1 xia1
+短脊鼓蝦	duan3 ji2 gu3 xia1
+溝掌鼓蝦	gou1 zhang3 gu3 xia1
+柱脊鼓蝦	zhu4 ji2 gu3 xia1
+扁螯鼓蝦	bian3 ao2 gu3 xia1
+突脊鼓蝦	tu2 ji2 gu3 xia1
+鮮明鼓蝦	xian1 ming2 gu3 xia1
+艾德華鼓蝦	ai4 de2 hua2 gu3 xia1
+優美鼓蝦	you1 mei3 gu3 xia1
+纖細鼓蝦	xian1 xi4 gu3 xia1
+槍蝦	qiang1 xia1
+偶見鼓蝦	ou3 jian4 gu3 xia1
+光殼鼓蝦	guang1 ke2 gu3 xia1
+葉齒鼓蝦	ye4 chi3 gu3 xia1
+珊瑚鼓蝦	shan1 hu2 gu3 xia1
+大脊鼓蝦	da4 ji2 gu3 xia1
+粗掌鼓蝦	cu1 zhang3 gu3 xia1
+太平洋槍蝦	tai4 ping2 yang2 qiang1 xia1
+副百合鼓蝦	fu4 bai3 he2 gu3 xia1
+細角槍蝦	xi4 jiao3 qiang1 xia1
+蘭道氏槍蝦	lan2 dao4 shi4 qiang1 xia1
+貪食鼓蝦	tan1 shi2 gu3 xia1
+劍脊鼓蝦	jian4 ji2 gu3 xia1
+匙指鼓蝦	chi2 zhi3 gu3 xia1
+光鼓蝦	guang1 gu3 xia1
+敏捷槍蝦	min3 jie2 qiang1 xia1
+有溝鼓蝦	you3 gou1 gu3 xia1
+凹痕近阿蛄蝦	ao1 hen2 jin4 a1 gu1 xia1
+法氏近阿姑蝦	fa3 shi4 jin4 a1 gu1 xia1
+雙刺端戎	shuang1 ci4 duan1 rong2
+平滑端戎	ping2 hua2 duan1 rong2
+具刺端戎	ju4 ci4 duan1 rong2
+盾端戎	dun4 duan1 rong2
+擬端戎	ni3 duan1 rong2
+鉤蝦	gou1 xia1
+阮氏後葉戎	ruan3 shi4 hou4 ye4 rong2
+日本黃道蟹	ri4 ben3 huang2 dao4 xie4
+脊尾近蝦蛄	ji2 wei3 jin4 xia1 gu1
+近節戎	jin4 jie2 rong2
+大紋寄居蟹	da4 wen2 ji4 ju1 xie4
+三宅紋寄居蟹	san1 zhai2 wen2 ji4 ju1 xie4
+網足紋寄居蟹	wang3 zu2 wen2 ji4 ju1 xie4
+熊形紋寄居蟹	xiong2 xing2 wen2 ji4 ju1 xie4
+角額栗殼蟹	jiao3 e2 li4 ke2 xie4
+長形栗殼蟹	chang2 xing2 li4 ke2 xie4
+七刺栗殼蟹	qi1 ci4 li4 ke2 xie4
+九刺栗殼蟹	jiu3 ci4 li4 ke2 xie4
+熱帶栗殼蟹	re4 dai4 li4 ke2 xie4
+十一刺栗殼蟹	shi2 yi1 ci4 li4 ke2 xie4
+馬氏須蝦	ma3 shi4 xu1 xia1
+灰白鬚蝦	hui1 bai2 xu1 xia1
+繁點紋腕蟹	fan2 dian3 wen2 wan4 xie4
+邁氏月神蟹	mai4 shi4 yue4 shen2 xie4
+斑紋月神蟹	ban1 wen2 yue4 shen2 xie4
+寬身愛潔蟹	kuan1 shen1 ai4 jie2 xie4
+花紋愛潔蟹	hua1 wen2 ai4 jie2 xie4
+細紋愛潔蟹	xi4 wen2 ai4 jie2 xie4
+亞齒愛潔蟹	ya3 chi3 ai4 jie2 xie4
+廈門近愛潔蟹	sha4 men2 jin4 ai4 jie2 xie4
+蕾近愛潔蟹	lei3 jin4 ai4 jie2 xie4
+盧氏近愛潔蟹	lu2 shi4 jin4 ai4 jie2 xie4
+標記近愛潔蟹	biao1 ji4 jin4 ai4 jie2 xie4
+石紋匙指蝦	shi2 wen2 chi2 zhi3 xia1
+刺足仿匙蝦	ci4 zu2 fang3 chi2 xia1
+彎棘管菱蟹	wan1 ji2 guan3 ling2 xie4
+美食奧螻姑蝦	mei3 shi2 ao4 lou2 gu1 xia1
+鳴門奧螻姑蝦	ming2 men2 ao4 lou2 gu1 xia1
+伍氏奧螻姑蝦	wu3 shi4 ao4 lou2 gu1 xia1
+石隱南匙指蝦	shi2 yin3 nan2 chi2 zhi3 xia1
+乳白南方招潮	ru3 bai2 nan2 fang1 zhao1 chao2
+糾結南方招潮蟹	jiu1 jie2 nan2 fang1 zhao1 chao2 xie4
+長顎澳托蝦	chang2 e4 ao4 tuo1 xia1
+表親擬阿姑蝦	biao3 qin1 ni3 a1 gu1 xia1
+韋氏擬阿姑蝦	wei2 shi4 ni3 a1 gu1 xia1
+武裝鎧蟹	wu3 zhuang1 kai3 xie4
+奧氏鎧蟹	ao4 shi4 kai3 xie4
+中華巴魯蟹	zhong1 hua2 ba1 lu3 xie4
+陳氏深蟬蝦	chen2 shi4 shen1 chan2 xia1
+臺灣深蟬蝦	tai2 wan1 shen1 chan2 xia1
+粗刺深蝦蛄	cu1 ci4 shen1 xia1 gu1
+中型深居蝦	zhong1 xing2 shen1 ju1 xia1
+印度海神蟹	yin4 du4 hai3 shen2 xie4
+顆粒次鼓蝦	ke1 li4 ci4 gu3 xia1
+斐濟雙齒蟬蝦	fei3 ji4 shuang1 chi3 chan2 xia1
+短小親額蝦	duan3 xiao3 qin1 e2 xia1
+雙爪短腕蝦	shuang1 zhua3 duan3 wan4 xia1
+殼短腿戎	ke2 duan3 tui3 rong2
+圓短腿戎	yuan2 duan3 tui3 rong2
+貪短腿戎	tan1 duan3 tui3 rong2
+短足針肢蟹	duan3 zu2 zhen1 zhi1 xie4
+模里西斯喜陰蟲	mo2 li3 xi1 si1 xi3 yin1 chong2
+明晰附額戎	ming2 xi1 fu4 e2 rong2
+雙角饅頭蟹	shuang1 jiao3 man2 tou2 xie4
+山羊饅頭蟹	shan1 yang2 man2 tou2 xie4
+公雞饅頭蟹	gong1 ji1 man2 tou2 xie4
+卷折饅頭蟹	juan3 zhe2 man2 tou2 xie4
+小型饅頭蟹	xiao3 xing2 man2 tou2 xie4
+四斑饅頭蟹	si4 ban1 man2 tou2 xie4
+柯氏秀螯蝦	ke1 shi4 xiu4 ao2 xia1
+平滑秀指蝦	ping2 hua2 xiu4 zhi3 xia1
+曼氏木阿姑蝦	man4 shi4 mu4 a1 gu1 xia1
+鋸齒木阿姑蝦	ju4 chi3 mu4 a1 gu1 xia1
+尖額麗阿姑蝦	jian1 e2 li4 a1 gu1 xia1
+真眼麗阿姑蝦	zhen1 yan3 li4 a1 gu1 xia1
+曼氏麗阿姑蝦	man4 shi4 li4 a1 gu1 xia1
+秀麗硬殼寄居蟹	xiu4 li4 ying4 ke2 ji4 ju1 xie4
+蓋氏硬指寄居蟹	gai4 shi4 ying4 zhi3 ji4 ju1 xie4
+關島硬指寄居蟹	guan1 dao3 ying4 zhi3 ji4 ju1 xie4
+光掌硬指寄居蟹	guang1 chang2 ying4 zhi3 ji4 ju1 xie4
+線足硬指寄居蟹	xian4 zu2 ying4 zhi3 ji4 ju1 xie4
+微小硬指寄居蟹	wei1 xiao3 ying4 zhi3 ji4 ju1 xie4
+摩氏硬指寄居蟹	mo2 shi4 ying4 zhi3 ji4 ju1 xie4
+優美硬指寄居蟹	you1 mei3 ying4 zhi3 ji4 ju1 xie4
+塞氏硬殼寄居蟹	sai1 shi4 ying4 ke2 ji4 ju1 xie4
+瓦氏硬指寄居蟹	wa3 shi4 ying4 zhi3 ji4 ju1 xie4
+纖小麗額蝦	xian1 xiao3 li4 e2 xia1
+中間美人蝦	zhong1 jian1 mei3 ren2 xia1
+正玉蝦	zheng4 yu4 xia1
+無弧似美蝦	wu2 hu2 shi4 mei3 xia1
+飢餓姣斧蝦	ji1 e4 jiao1 fu3 xia1
+陳氏秀阿蛄蝦	chen2 shi4 xiu4 a1 gu1 xia1
+鈍額曲毛蟹	dun4 e2 qu1 mao2 xie4
+六齒猴面蟹	liu4 chi3 hou2 mian4 xie4
+拉氏明溪蟹	la1 shi4 ming2 xi1 xie4
+麥桿蟲	mai4 gan3 chong2
+印度隆背蟹	yin4 du4 long2 bei4 xie4
+長手隆背蟹	chang2 shou3 long2 bei4 xie4
+小隆背蟹	xiao3 long2 bei4 xie4
+紫隆背蟹	zi3 long2 bei4 xie4
+中華隆背蟹	zhong1 hua2 long2 bei4 xie4
+多刺隆背蟹	duo1 ci4 long2 bei4 xie4
+絨毛隆背蟹	rong2 mao2 long2 bei4 xie4
+凶狠圓軸蟹	xiong1 hen3 yuan2 zhou2 xie4
+短腕米蝦	duan3 wan4 mi3 xia1
+條紋米蝦	tiao2 wen2 mi3 xia1
+臺灣米蝦	tai2 wan1 mi3 xia1
+細足米蝦	xi4 zu2 mi3 xia1
+長額米蝦	chang2 e2 mi3 xia1
+巴布亞米蝦	ba1 bu4 ya3 mi3 xia1
+普氏米蝦	pu3 shi4 mi3 xia1
+假鋸齒米蝦	jia3 ju4 chi3 mi3 xia1
+鋸齒米蝦	ju4 chi3 mi3 xia1
+鋸額米蝦	ju4 e2 mi3 xia1
+真米蝦	zhen1 mi3 xia1
+維氏米蝦	wei2 shi4 mi3 xia1
+韋氏米蝦	wei2 shi4 mi3 xia1
+隆背瓢蟹	long2 bei4 piao2 xie4
+小形似低寄居蟹	xiao3 xing2 si4 di1 ji4 ju1 xie4
+光輝鏡蟹	guang1 hui1 jing4 xie4
+首頸刺鎧蝦	shou3 jing3 ci4 kai3 xia1
+微紅染色寄居蟹	wei1 hong2 ran3 se4 ji4 ju1 xie4
+顆粒查氏蟹	ke1 li4 cha2 shi4 xie4
+曼甯查氏蟹	man4 ning2 cha2 shi4 xie4
+粗掌開口蟹	cu1 chang2 kai1 kou3 xie4
+東方開口蟹	dong1 fang1 kai1 kou3 xie4
+奇異陳氏寄居蟹	qi2 yi4 chen2 shi4 ji4 ju1 xie4
+尖額附齒蟳	jian1 e2 fu4 chi3 xun2
+近親蟳	jin4 qin1 xun2
+安汶蟳	an1 wen4 xun2
+異齒蟳	yi4 chi3 xun2
+鏽斑蟳	xiu4 ban1 xun2
+顆粒蟳	ke1 li4 xun2
+香港蟳	xiang1 gang3 xun2
+善泳蟳	shan4 yong3 xun2
+鈍額蟳	dun4 e2 xun2
+東方蟳	dong1 fang1 xun2
+相模蟳	xiang4 mo2 xun2
+刺形蟳	ci4 xing2 xun2
+變態蟳	bian4 tai4 xun2
+隆背張口蟹	long2 bei4 zhang1 kou3 xie4
+水戶寬螯寄居蟹	shui3 hu4 kuan1 ao2 ji4 ju1 xie4
+金毛螯蟬蝦	jin1 mao2 ao2 chan2 xia1
+四脊滑螯蝦	si4 ji2 hua2 ao2 xia1
+紅螯螳臂蟹	hong2 ao2 tang2 bi4 xie4
+顯額劣柱蝦	xian3 e2 lie4 zhu4 xia1
+卷肢綠蟹	juan3 zhi1 lv4 xie4
+金星綠蟹	jin1 xing1 lv4 xie4
+光滑綠蟹	guang1 hua2 lv4 xie4
+馬場纖毛寄居蟹	ma3 chang3 xian1 mao2 ji4 ju1 xie4
+克氏纖毛寄居蟹	ke4 shi4 xian1 mao2 ji4 ju1 xie4
+溝紋纖毛寄居蟹	gou1 wen2 xian1 mao2 ji4 ju1 xie4
+疏毛細螯寄居蟹	shu1 mao2 xi4 ao2 ji4 ju1 xie4
+珊瑚細螯寄居蟹	shan1 hu2 xi4 ao2 ji4 ju1 xie4
+藍指細螯寄居蟹	lan2 zhi3 xi4 ao2 ji4 ju1 xie4
+寬胸細螯寄居蟹	kuan1 xiong1 xi4 ao2 ji4 ju1 xie4
+矮小細螯寄居蟹	ai3 xiao3 xi4 ao2 ji4 ju1 xie4
+下棘細螯寄居蟹	xia4 ji2 xi4 ao2 ji4 ju1 xie4
+長指細螯寄居蟹	chang2 zhi3 xi4 ao2 ji4 ju1 xie4
+墨吉細螯寄居蟹	mo4 ji2 xi4 ao2 ji4 ju1 xie4
+瑞氏細螯寄居蟹	rui4 shi4 xi4 ao2 ji4 ju1 xie4
+白刺細螯寄居蟹	bai2 ci4 xi4 ao2 ji4 ju1 xie4
+條紋細螯寄居蟹	tiao2 wen2 xi4 ao2 ji4 ju1 xie4
+綠色細螯寄居蟹	lv4 se4 xi4 ao2 ji4 ju1 xie4
+中華泥毛蟹	zhong1 hua2 ni2 mao2 xie4
+白斑綠蝦蛄	bai2 ban1 lv4 xia1 gu1
+孟買綠蝦蛄	meng4 mai3 lv4 xia1 gu1
+齒尾綠蝦蛄	chi3 wei3 lv4 xia1 gu1
+日本綠蝦蛄	ri4 ben3 lv4 xia1 gu1
+蝎形擬綠蝦蛄	xie1 xing2 ni3 lv4 xia1 gu1
+短掌陸寄居蟹	duan3 zhang3 lu4 ji4 ju1 xie4
+凹足陸寄居蟹	ao1 zu2 lu4 ji4 ju1 xie4
+皺紋陸寄居蟹	zhou4 wen2 lu4 ji4 ju1 xie4
+藍紫陸寄居蟹	lan2 zi3 lu4 ji4 ju1 xie4
+貝隱蝦	bei4 yin3 xia1
+單指江瑤蝦	dan1 zhi3 jiang1 yao2 xia1
+中型居殼蟹	zhong1 xing2 ju1 ke2 xie4
+翠條珊瑚蝦	cui4 tiao2 shan1 hu2 xia1
+臺灣珊瑚蝦	tai2 wan1 shan1 hu2 xia1
+卷曲蜾蠃蜚	juan3 qu1 guo3 luo3 fei3
+葛氏六角蟹	ge2 shi4 liu4 jiao3 xie4
+雕盔頭戎	diao1 kui1 tou2 rong2
+雙葉姬蟬蝦	shuang1 ye4 ji1 chan2 xia1
+珊瑚隱螯蟹	shan1 hu2 yin3 ao2 xie4
+福井隱綿蟹	fu2 jing3 yin3 mian2 xie4
+瘤狀隱綿蟹	liu2 zhuang4 yin3 mian2 xie4
+肥胖隱綿蟹	fei2 pang4 yin3 mian2 xie4
+相模隱黃蟹	xiang1 mo2 yin3 huang2 xie4
+卡氏粗對蝦	ka3 shi4 cu1 dui4 xia1
+圓拱隱足蟹	yuan2 gong3 yin3 zu2 xie4
+日本櫛指蝦	ri4 ben3 jie2 zhi3 xia1
+美麗岩蝦	mei3 li4 yan2 xia1
+顆粒圓水神蟹	ke1 li4 yuan2 shui3 shen2 xie4
+瘤狀圓腔蟹	liu2 zhuang4 yuan2 qiang1 xie4
+小疣瘤蟹	xiao3 you2 liu2 xie4
+光輝瘤蟹	guang1 hui1 liu2 xie4
+顆粒圓蟹	ke1 li4 yuan2 xie4
+中型圓方蟹	zhong1 xing2 yuan2 fang1 xie4
+黑指波紋蟹	hei1 zhi3 bo1 wen2 xie4
+四葉波紋蟹	si4 ye4 bo1 wen2 xie4
+彎角刺蛛蟹	wan1 jiao3 ci4 zhu1 xie4
+粗糙刺蛛蟹	cu1 cao1 ci4 zhu1 xie4
+莫氏刺蛛蟹	mo4 shi4 ci4 zhu1 xie4
+隱士淚毛刺蟹	yin3 shi4 lei4 mao2 ci4 xie4
+全叉三宅蝦蛄	quan2 cha1 san1 zhai2 xia1 gu1
+長形魔鬼蟹	chang2 xing2 mo2 gui3 xie4
+大摩羅蟹	da4 mo2 luo2 xie4
+銀光梭子蟹	yin2 guang1 suo1 zi5 xie4
+日本扁跳蝦	ri4 ben3 bian3 tiao4 xia1
+關渡草澤扁跳蝦	guan1 du4 cao3 ze2 bian3 tiao4 xia1
+阿蓋芙刺鎧蝦	a1 gai4 fu2 ci4 kai3 xia1
+安達曼刺鎧蝦	an1 da2 man4 ci4 kai3 xia1
+武裝刺鎧蝦	wu3 zhuang1 ci4 kai3 xia1
+白身刺鎧蝦	bai2 shen1 ci4 kai3 xia1
+斷脊刺鎧蝦	duan4 ji2 ci4 kai3 xia1
+截斷刺鎧蝦	jie2 duan4 ci4 kai3 xia1
+緊湊刺鎧蝦	jin3 cou4 ci4 kai3 xia1
+厚重刺鎧蝦	hou4 zhong4 ci4 kai3 xia1
+雙斑刺鎧蝦	shuang1 ban1 ci4 kai3 xia1
+嘉氏刺鎧蝦	jia1 shi4 ci4 kai3 xia1
+日本刺鎧蝦	ri4 ben3 ci4 kai3 xia1
+久保刺鎧蝦	jiu3 bao3 ci4 kai3 xia1
+小刺鎧蝦	xiao3 ci4 kai3 xia1
+軍武刺鎧蝦	jun1 wu3 ci4 kai3 xia1
+長額刺鎧蝦	chang2 e2 ci4 kai3 xia1
+環腹刺鎧蝦	huan2 fu4 ci4 kai3 xia1
+毛額刺鎧蝦	mao2 e2 ci4 kai3 xia1
+顯著刺鎧蝦	xian3 zhu4 ci4 kai3 xia1
+沙美刺鎧蝦	sha1 mei3 ci4 kai3 xia1
+針孔刺鎧蝦	zhen1 kong3 ci4 kai3 xia1
+紅鬚刺鎧蝦	hong2 xu1 ci4 kai3 xia1
+嗜石刺鎧蝦	shi4 shi2 ci4 kai3 xia1
+斑點刺鎧蝦	ban1 dian3 ci4 kai3 xia1
+多鱗刺鎧蝦	duo1 lin2 ci4 kai3 xia1
+條紋刺鎧蝦	tiao2 wen2 ci4 kai3 xia1
+粗鉗刺鎧蝦	cu1 qian2 ci4 kai3 xia1
+泰衛賽刺鎧蝦	tai4 wei4 sai4 ci4 kai3 xia1
+盲眼刺鎧蝦	mang2 yan3 ci4 kai3 xia1
+近似仿刺鎧蝦	jin4 si4 fang3 ci4 kai3 xia1
+安達曼仿刺鎧蝦	an1 da2 man4 fang3 ci4 kai3 xia1
+白羊仿刺鎧蝦	bai2 yang2 fang3 ci4 kai3 xia1
+雙眼刺仿刺鎧蝦	shuang1 yan3 ci4 fang3 ci4 kai3 xia1
+粗糙仿刺鎧蝦	cu1 cao1 fang3 ci4 kai3 xia1
+刺針仿刺鎧蝦	ci4 zhen1 fang3 ci4 kai3 xia1
+棘眼仿刺鎧蝦	ji2 yan3 fang3 ci4 kai3 xia1
+司德維士仿刺鎧蝦	si1 de2 wei2 shi4 fang3 ci4 kai3 xia1
+毛足仿刺鎧蝦	mao2 zu2 fang3 ci4 kai3 xia1
+多刺仿刺鎧蝦	duo1 ci4 fang3 ci4 kai3 xia1
+寶島仿刺鎧蝦	bao3 dao3 fang3 ci4 kai3 xia1
+顆粒仿刺鎧蝦	ke1 li4 fang3 ci4 kai3 xia1
+濃毛仿刺鎧蝦	nong2 mao2 fang3 ci4 kai3 xia1
+肯氏仿刺鎧蝦	ken3 shi4 fang3 ci4 kai3 xia1
+寬角仿刺鎧蝦	kuan1 jiao3 fang3 ci4 kai3 xia1
+寬掌仿刺鎧蝦	kuan1 zhang3 fang3 ci4 kai3 xia1
+巴拿馬仿刺鎧蝦	ba1 na2 ma3 fang3 ci4 kai3 xia1
+毛茸仿刺鎧蝦	mao2 rong1 fang3 ci4 kai3 xia1
+深海仿刺鎧蝦	shen1 hai3 fang3 ci4 kai3 xia1
+長槍仿刺鎧蝦	chang2 qiang1 fang3 ci4 kai3 xia1
+更似仿刺鎧蝦	geng4 shi4 fang3 ci4 kai3 xia1
+亞鉗仿刺鎧蝦	ya3 qian2 fang3 ci4 kai3 xia1
+水試彷刺鎧蝦	shui3 shi4 pang2 ci4 kai3 xia1
+臺灣仿刺鎧蝦	tai2 wan1 fang3 ci4 kai3 xia1
+圓滑仿刺鎧蝦	yuan2 hua2 fang3 ci4 kai3 xia1
+三叉仿刺鎧蝦	san1 cha1 fang3 ci4 kai3 xia1
+疣突仿刺鎧蝦	you2 tu2 fang3 ci4 kai3 xia1
+威氏仿刺鎧蝦	wei1 shi4 fang3 ci4 kai3 xia1
+武裝筐形蟹	wu3 zhuang1 kuang1 xing2 xie4
+鄧氏筐形蟹	deng4 shi4 kuang1 xing2 xie4
+微刺筐形蟹	wei1 ci4 kuang1 xing2 xie4
+蒲氏筐形蟹	pu2 shi4 kuang1 xing2 xie4
+近親長臂蟹	jin4 qin1 chang2 bi4 xie4
+長臂蟹	chang2 bi4 xie4
+冠毛船形蟲	guan4 mao2 chuan2 xing2 chong2
+矮小船型蟲	ai3 xiao3 chuan2 xing2 chong2
+維霍氏船形蟲	wei2 huo4 shi4 chuan2 xing2 chong2
+東引南海溪蟹	dong1 yin3 nan2 hai3 xi1 xie4
+臺灣南海溪蟹	tai2 wan1 nan2 hai3 xi1 xie4
+小型小相手蟹	xiao3 xing2 xiao3 xiang4 shou3 xie4
+毛線小相手蟹	mao2 xian4 xiao3 xiang4 shou3 xie4
+棘新阿姑蝦	ji2 xin1 a1 gu1 xia1
+波足線足蝦	bo1 zu2 xian4 zu2 xia1
+澳洲線寄居蟹	ao4 zhou1 xian4 ji4 ju1 xie4
+排刺線寄居蟹	pai2 ci4 xian4 ji4 ju1 xie4
+麗螯線寄居蟹	li4 ao2 xian4 ji4 ju1 xie4
+長指線寄居蟹	chang2 zhi3 xian4 ji4 ju1 xie4
+捲毛線寄居蟹	juan3 mao2 xian4 ji4 ju1 xie4
+刺螯線寄居蟹	ci4 ao2 xian4 ji4 ju1 xie4
+海綿線寄居蟹	hai3 mian2 xian4 ji4 ju1 xie4
+葉線足燐蝦	ye4 xian4 zu2 lin2 xia1
+鋸齒新米蝦	ju4 chi3 xin1 mi3 xia1
+凱達格蘭新米蝦	kai3 da2 ge2 lan2 xin1 mi3 xia1
+赤崁新米蝦	chi4 kan4 xin1 mi3 xia1
+腎眼長腳蟹	shen4 yan3 chang2 jiao3 xie4
+日本新石蟹	ri4 ben3 xin1 shi2 xie4
+具刺新岩瓷蟹	ju4 ci4 xin1 yan2 ci2 xie4
+福曼新脹蟹	fu2 man4 xin1 zhang4 xie4
+斯氏新脹蟹	si1 shi4 xin1 zhang4 xie4
+米氏新扇蟹	mi3 shi4 xin1 shan4 xie4
+四葉新扇蟹	si4 ye4 xin1 shan4 xie4
+幽僻新短眼蟹	you1 pi4 xin1 duan3 yan3 xie4
+鋸齒擬海螯蝦	ju4 chi3 ni3 hai3 ao2 xia1
+史氏擬海螯蝦	shi3 shi4 ni3 hai3 ao2 xia1
+熱泉和美蝦	re4 quan2 he2 mei3 xia1
+戴氏擬異指蝦	dai4 shi4 ni3 yi4 zhi3 xia1
+格氏擬異指蝦	ge2 shi4 ni3 yi4 zhi3 xia1
+馬爾地夫擬異指蝦	ma3 er3 di4 fu1 ni3 yi4 zhi3 xia1
+多刺擬異指蝦	duo1 ci4 ni3 yi4 zhi3 xia1
+東方擬異指蝦	dong1 fang1 ni3 yi4 zhi3 xia1
+斯氏擬異指蝦	si1 shi4 ni3 yi4 zhi3 xia1
+鋸額背腳蟹	ju4 e2 bei4 jiao3 xie4
+印度異額瓷蟹	yin4 du4 yi4 e2 ci2 xie4
+斧手異額瓷蟹	fu3 shou3 yi4 e2 ci2 xie4
+陳氏鱗龍蝦	chen2 shi4 lin2 long2 xia1
+日本鱗龍蝦	ri4 ben3 lin2 long2 xia1
+褶痕五角蟹	zhe3 hen2 wu3 jiao3 xie4
+角眼沙蟹	jiao3 yan3 sha1 xie4
+心掌沙蟹	xin1 zhang3 sha1 xie4
+中華沙蟹	zhong1 hua2 sha1 xie4
+斯氏沙蟹	si1 shi4 sha1 xie4
+日本齒指蝦蛄	ri4 ben3 chi3 zhi3 xia1 gu1
+美麗長眼柄蟹	mei3 li4 chang2 yan3 bing3 xie4
+東方腫寄居蟹	dong1 fang1 zhong3 ji4 ju1 xie4
+法氏口蝦蛄	fa3 shi4 kou3 xia1 gu1
+亞洲似口蝦蛄	ya3 zhou1 shi4 kou3 xia1 gu1
+葛氏似口蝦蛄	ge2 shi4 shi4 kou3 xia1 gu1
+無刺似口蝦蛄	wu2 ci4 shi4 kou3 xia1 gu1
+斷脊似口蝦蛄	duan4 ji2 shi4 kou3 xia1 gu1
+曼寧似口蝦蛄	man4 ning2 shi4 kou3 xia1 gu1
+北方似口蝦蛄	bei3 fang1 shi4 kou3 xia1 gu1
+前刺似口蝦蛄	qian2 ci4 shi4 kou3 xia1 gu1
+扁平寬邊蟹	bian3 ping2 kuan1 bian1 xie4
+漢氏東方蟹	han4 shi4 dong1 fang1 xie4
+中型東方蟹	zhong1 xing2 dong1 fang1 xie4
+中華虎頭蟹	zhong1 hua2 hu3 tou2 xie4
+虹色圓趾蟹	hong2 se4 yuan2 zhi3 xie4
+細點圓趾蟹	xi4 dian3 yuan2 zhi3 xie4
+尖頭戎	jian1 tou2 rong2
+寬吻尖頭戎	kuan1 wen3 jian1 tou2 rong2
+長足尖頭戎	chang2 zu2 jian1 tou2 rong2
+漁民尖頭戎	yu2 min2 jian1 tou2 rong2
+斯氏尖胸齒蟹	si1 shi4 jian1 xiong1 chi3 xie4
+長眼阿姑蝦	chang2 yan3 a1 gu1 xia1
+疣粒團扇蟹	you2 li4 tuan2 shan4 xie4
+櫛腕厚瓷蟹	jie2 wan4 hou4 ci2 xie4
+豌豆厚瓷蟹	wan1 dou4 hou4 ci2 xie4
+雕刻厚瓷蟹	diao1 ke4 hou4 ci2 xie4
+粗腿厚紋蟹	cu1 tui3 hou4 wen2 xie4
+厚紋蟹	hou4 wen2 xie4
+小厚紋蟹	xiao3 hou4 wen2 xie4
+平額厚紋蟹	ping2 e2 hou4 wen2 xie4
+東方娃兒蟹	dong1 fang1 wa2 er2 xie4
+突腕長眼寄居蟹	tu2 wan4 chang2 yan3 ji4 ju1 xie4
+突腕長眼寄居蟹	tu1 wan4 chang2 yan3 ji4 ju1 xie4
+白斑長眼寄居蟹	bai2 ban1 chang2 yan3 ji4 ju1 xie4
+橙紅長眼寄居蟹	cheng2 hong2 chang2 yan3 ji4 ju1 xie4
+缺額長眼寄居蟹	que1 e2 chang2 yan3 ji4 ju1 xie4
+無毛長眼寄居蟹	wu2 mao2 chang2 yan3 ji4 ju1 xie4
+道氏長眼寄居蟹	dao4 shi4 chang2 yan3 ji4 ju1 xie4
+海葵長眼寄居蟹	hai3 kui2 chang2 yan3 ji4 ju1 xie4
+半裸長眼寄居蟹	ban4 luo3 chang2 yan3 ji4 ju1 xie4
+轉動長眼寄居蟹	zhuan3 dong4 chang2 yan3 ji4 ju1 xie4
+紅色准寄居蟹	hong2 se4 zhun3 ji4 ju1 xie4
+道氏寄居蟹	dao4 shi4 ji4 ju1 xie4
+混沌寄居蟹	hun4 dun4 ji4 ju1 xie4
+長腕寄居蟹	chang2 wan4 ji4 ju1 xie4
+今福寄居蟹	jin1 fu2 ji4 ju1 xie4
+庫氏寄居蟹	ku4 shi4 ji4 ju1 xie4
+泥棲寄居蟹	ni2 qi1 ji4 ju1 xie4
+小形寄居蟹	xiao3 xing2 ji4 ju1 xie4
+黑條寄居蟹	hei1 tiao2 ji4 ju1 xie4
+皮氏寄居蟹	pi2 shi4 ji4 ju1 xie4
+相似寄居蟹	xiang1 si4 ji4 ju1 xie4
+安氏白蝦	an1 shi4 bai2 xia1
+長角長臂蝦	chang2 jiao3 chang2 bi4 xia1
+葛氏長臂蝦	ge2 shi4 chang2 bi4 xia1
+巨指長臂蝦	ju4 zhi3 chang2 bi4 xia1
+秀麗白蝦	xiu4 li4 bai2 xia1
+東方白蝦	dong1 fang1 bai2 xia1
+敖氏長臂蝦	ao2 shi4 chang2 bi4 xia1
+整潔鏟足蟹	zheng3 jie2 chan3 zu2 xie4
+韋氏毛龍蝦	wei2 shi4 mao2 long2 xia1
+霍氏鈍龍蝦	huo4 shi4 dun4 long2 xia1
+日本鈍龍蝦	ri4 ben3 dun4 long2 xia1
+三宅擬長額蝦	san1 zhai2 ni3 chang2 e2 xia1
+陳氏長額蝦	chen2 shi4 chang2 e2 xia1
+條紋龍蝦	tiao2 wen2 long2 xia1
+波紋龍蝦	bo1 wen2 long2 xia1
+日本龍蝦	ri4 ben3 long2 xia1
+錦繡龍蝦	jin3 xiu4 long2 xia1
+密毛龍蝦	mi4 mao2 long2 xia1
+黃斑龍蝦	huang2 ban1 long2 xia1
+中國龍蝦	zhong1 guo2 long2 xia1
+雜色龍蝦	za2 se4 long2 xia1
+扁平擬閉口蟹	bian3 ping2 ni3 bi4 kou3 xie4
+紅斑擬銀杏蟹	hong2 ban1 ni3 yin2 xing4 xie4
+艾氏擬圓殼蟹	ai4 shi4 ni3 yuan2 ke2 xie4
+顆粒擬關公蟹	ke1 li4 ni3 guan1 gong1 xie4
+銳刺淺寄居蟹	rui4 ci4 qian3 ji4 ju1 xie4
+雙脊淺寄居蟹	shuang1 ji2 qian3 ji4 ju1 xie4
+圓突淺寄居蟹	yuan2 tu1 qian3 ji4 ju1 xie4
+寬螯淺寄居蟹	kuan1 ao2 qian3 ji4 ju1 xie4
+多毛淺寄居蟹	duo1 mao2 qian3 ji4 ju1 xie4
+熱泉淺寄居蟹	re4 quan2 qian3 ji4 ju1 xie4
+長額擬肝刺蝦	chang2 e2 ni3 gan1 ci4 xia1
+長鞭仿管鬚蟹	chang2 bian1 fang3 guan3 xu1 xie4
+天壇仿石蟹	tian1 tan2 fang3 shi2 xie4
+多突仿石蟹	duo1 tu2 fang3 shi2 xie4
+截刺仿石蟹	jie2 ci4 fang3 shi2 xie4
+瘦擬麗戎	shou4 ni3 li4 rong2
+疣背蜘蛛蟹	you2 bei4 zhi1 zhu1 xie4
+棘刺蜘蛛蟹	ji2 ci4 zhi1 zhu1 xie4
+冠額似刺鎧蝦	guan4 e2 shi4 ci4 kai3 xia1
+纖細似刺鎧蝦	xian1 xi4 shi4 ci4 kai3 xia1
+粗糙似刺鎧蝦	cu1 cao1 shi4 ci4 kai3 xia1
+佛氏擬寄居蟹	fu2 shi4 ni3 ji4 ju1 xie4
+寬掌擬寄居蟹	kuan1 zhang3 ni3 ji4 ju1 xie4
+偉氏擬寄居蟹	wei3 shi4 ni3 ji4 ju1 xie4
+溝額狐玻璃蝦	gou1 e2 hu2 bo1 li2 xia1
+哈氏仿對蝦	ha1 shi4 fang3 dui4 xia1
+維納斯仿對蝦	wei2 na4 si1 fang3 dui4 xia1
+澳洲擬對蝦	ao4 zhou1 ni3 dui4 xia1
+矛形擬對蝦	mao2 xing2 ni3 dui4 xia1
+長足擬對蝦	chang2 zu2 ni3 dui4 xia1
+東方擬對蝦	dong1 fang1 ni3 dui4 xia1
+六突擬對蝦	liu4 tu2 ni3 dui4 xia1
+厚足擬巧戎	hou4 zu2 ni3 qiao3 rong2
+瘦擬巧戎	shou4 ni3 qiao3 rong2
+軟擬葉戎	ruan3 ni3 ye4 rong2
+擬葉戎	ni3 ye4 rong2
+細長擬葉戎	xi4 chang2 ni3 ye4 rong2
+小擬葉戎	xiao3 ni3 ye4 rong2
+長方擬方額蟹	chang2 fang1 ni3 fang1 e2 xie4
+褶痕擬相手蟹	zhe3 hen2 ni3 xiang4 shou3 xie4
+雙齒近相手蟹	shuang1 chi3 jin4 xiang4 shou3 xie4
+相似擬相手蟹	xiang1 si4 ni3 xiang4 shou3 xie4
+珊瑚擬相手蟹	shan1 hu2 ni3 xiang4 shou3 xie4
+庫氏擬相手蟹	ku4 shi4 ni3 xiang4 shou3 xie4
+三櫛擬相手蟹	san1 jie2 ni3 xiang4 shou3 xie4
+長掌擬愛潔蟹	chang2 zhang3 ni3 ai4 jie2 xie4
+東方板梭蟹	dong1 fang1 ban3 suo1 xie4
+斑擬毛戎	ban1 ni3 mao2 rong2
+小擬毛戎	xiao3 ni3 mao2 rong2
+多棘擬毛戎	duo1 ji2 ni3 mao2 rong2
+顯赫擬扇蟹	xian3 he4 ni3 shan4 xie4
+大等螯蟹	da4 deng3 ao2 xie4
+日本擬人面蟹	ri4 ben3 ni3 ren2 mian4 xie4
+巨螯擬人面蟹	ju4 ao2 ni3 ren2 mian4 xie4
+玻氏仿人面蟹	bo1 shi4 fang3 ren2 mian4 xie4
+南極岩礁扇蝦	nan2 ji2 yan2 jiao1 shan4 xia1
+日本岩扇蝦	ri4 ben3 yan2 shan4 xia1
+日本玻璃蝦	ri4 ben3 bo1 li2 xia1
+卡威玻璃蝦	ka3 wei1 bo1 li2 xia1
+細脊玻璃蝦	xi4 ji2 bo1 li2 xia1
+東方玻璃蝦	dong1 fang1 bo1 li2 xia1
+長角似對蝦	chang2 jiao3 shi4 dui4 xia1
+深溝對蝦	shen1 gou1 dui4 xia1
+中國對蝦	zhong1 guo2 dui4 xia1
+寬溝對蝦	kuan1 gou1 dui4 xia1
+長肢對蝦	chang2 zhi1 dui4 xia1
+緣溝對蝦	yuan2 gou1 dui4 xia1
+墨吉對蝦	mo4 ji2 dui4 xia1
+斑節對蝦	ban1 jie2 dui4 xia1
+短溝對蝦	duan3 gou1 dui4 xia1
+南美白蝦	nan2 mei3 bai2 xia1
+光滑五螯蝦	guang1 hua2 wu3 ao2 xia1
+短身盾牌蟹	duan3 shen1 dun4 pai2 xie4
+基氏盾牌蟹	ji1 shi4 dun4 pai2 xie4
+安波岩蝦	an1 bo1 yan2 xia1
+短腕岩蝦	duan3 wan4 yan2 xia1
+霍氏岩蝦	huo4 shi4 yan2 xia1
+姊妹異岩蝦	zi3 mei4 yi4 yan2 xia1
+紫彼爾蟹	zi3 bi3 er3 xie4
+短角硬甲蟬蝦	duan3 jiao3 ying4 jia3 chan2 xia1
+粗糙硬甲蟬蝦	cu1 cao1 ying4 jia3 chan2 xia1
+波氏岩瓷蟹	bo1 shi4 yan2 ci2 xie4
+脊足岩瓷蟹	ji2 zu2 yan2 ci2 xie4
+十刺岩瓷蟹	shi2 ci4 yan2 ci2 xie4
+遠方岩瓷蟹	yuan3 fang1 yan2 ci2 xie4
+矛形岩瓷蟹	mao2 xing2 yan2 ci2 xie4
+哈氏岩瓷蟹	ha1 shi4 yan2 ci2 xie4
+異色岩瓷蟹	yi4 se4 yan2 ci2 xie4
+日本岩瓷蟹	ri4 ben3 yan2 ci2 xie4
+三宅岩瓷蟹	san1 zhai2 yan2 ci2 xie4
+摩鹿加岩瓷蟹	mo2 lu4 jia1 yan2 ci2 xie4
+鈍額岩瓷蟹	dun4 e2 yan2 ci2 xie4
+軟毛岩瓷蟹	ruan3 mao2 yan2 ci2 xie4
+粗糙岩瓷蟹	cu1 cao1 yan2 ci2 xie4
+密毛岩瓷蟹	mi4 mao2 yan2 ci2 xie4
+單葉岩瓷蟹	dan1 ye4 yan2 ci2 xie4
+絲狀長踦蟹	si1 zhuang4 chang2 yi3 xie4
+疙瘩拳蟹	ge1 da1 quan2 xie4
+鈍巧戎	dun4 qiao3 rong2
+牛頭巧戎	niu2 tou2 qiao3 rong2
+突巧戎	tu2 qiao3 rong2
+曲足巧戎	qu1 zu2 qiao3 rong2
+太平洋巧戎	tai4 ping2 yang2 qiao3 rong2
+隱巧戎	yin3 qiao3 rong2
+單巧戎	dan1 qiao3 rong2
+長小巧戎	chang2 xiao3 qiao3 rong2
+針簡巧戎	zhen1 jian3 qiao3 rong2
+半彎靈戎	ban4 wan1 ling2 rong2
+牧氏毛粒蟹	mu4 shi4 mao2 li4 xie4
+多刺毛刺蟹	duo1 ci4 mao2 ci4 xie4
+陳氏毛刺蟹	chen2 shi4 mao2 ci4 xie4
+長角毛刺蟹	chang2 jiao3 mao2 ci4 xie4
+莫氏毛刺蟹	mo4 shi4 mao2 ci4 xie4
+刺眼毛刺蟹	ci4 yan3 mao2 ci4 xie4
+紫毛刺蟹	zi3 mao2 ci4 xie4
+粗糙毛刺蟹	cu1 cao1 mao2 ci4 xie4
+小型毛刺蟹	xiao3 xing2 mao2 ci4 xie4
+波檸豆蟹	bo1 ning2 dou4 xie4
+海陽豆蟹	hai3 yang2 dou4 xie4
+玲瓏豆蟹	ling2 long2 dou4 xie4
+臺中豆蟹	tai2 zhong1 dou4 xie4
+青島豆蟹	qing1 dao3 dou4 xie4
+長角鬥士赤蝦	chang2 jiao3 dou4 shi4 chi4 xia1
+棘尾費氏扁節蝦	ji2 wei3 fei4 shi4 bian3 jie2 xia1
+雙刺長足龍蝦	shuang1 ci4 chang2 zu2 long2 xia1
+長足龍蝦	chang2 zu2 long2 xia1
+原足蟲科	yuan2 zu2 chong2 ke1
+深蝦蛄科	shen1 xia1 gu1 ke1
+費氏扁節蝦	fei4 shi4 bian3 jie2 xia1
+北山澤蟹	bei3 shan1 ze2 xie4
+大理石螯蝦	da4 li3 shi2 ao2 xia1
+酒井折顎蟹	jiu3 jing3 zhe2 e4 xie4
+詹姆斯深水蝨	zhan1 mu3 si1 shen1 shui3 shi1
+長腳蟹總科	chang2 jiao3 xie4 zong3 ke1
+沙蟹總科	sha1 xie4 zong3 ke1
+仿刺鎧蝦科	fang3 ci4 kai3 xia1 ke1
+蓬萊明溪蟹	peng2 lai2 ming2 xi1 xie4
+深海長腳蟹	shen1 hai3 chang2 jiao3 xie4
+邦氏大眼蟹	bang1 shi4 da4 yan3 xie4
+廈門束腰蟹	sha4 men2 shu4 yao1 xie4
+王氏三強蟹	wang2 shi4 san1 qiang2 xie4
+三強蟹屬	san1 qiang2 xie4 shu3
+圓趾蝦科	yuan2 zhi3 xia1 ke1
+新棒指蝦屬	xin1 bang4 zhi3 xia1 shu3
+長槳蟹屬	chang2 jiang3 xie4 shu3
+附齒蟳屬	fu4 chi3 xun2 shu3
+相似羅鎧蝦	xiang1 si4 luo2 kai3 xia1
+平直羅鎧蝦	ping2 zhi2 luo2 kai3 xia1
+喬安扇蟹	qiao2 an1 shan4 xie4
+大島氏綠蟹	da4 dao3 shi4 lv4 xie4
+平截圓扇蟹	ping2 jie2 yuan2 shan4 xie4
+熟若蟹	shou2 ruo4 xie4
+細肢滑面蟹	xi4 zhi1 hua2 mian4 xie4
+角鼓蝦	jiao3 gu3 xia1
+印度阿萊鼓蝦	yin4 du4 a1 lai2 gu3 xia1
+圓趾蝦	yuan2 zhi3 xia1
+高背阿萊鼓蝦	gao1 bei4 a1 lai2 gu3 xia1
+鈍齒長槳蟹	dun4 chi3 chang2 jiang3 xie4
+帕氏長槳蟹	pa4 shi4 chang2 jiang3 xie4
+夏威夷附齒蟳	xia4 wei1 yi2 fu4 chi3 xun2
+圓葉光背蟹	yuan2 ye4 guang1 bei4 xie4
+紫陸寄居蟹	zi3 lu4 ji4 ju1 xie4
+黃紋鼓蝦	huang2 wen2 gu3 xia1
+扁鼓蝦	bian3 gu3 xia1
+珊瑚褐蝦	shan1 hu2 he4 xia1
+微小擬寬顎蝦	wei1 xiao3 ni3 kuan1 e4 xia1
+象鼻岩蝦	xiang4 bi2 yan2 xia1
+側緣新棒指蝦	ce4 yuan2 xin1 bang4 zhi3 xia1
+平扁擬鉤岩蝦	ping2 bian3 ni3 gou1 yan2 xia1
+平鉗長腕蝦	ping2 qian2 chang2 wan4 xia1
+攝氏梯形蟹	she4 shi4 ti1 xing2 xie4
+加塔瓦奇短槳蟹	jia1 ta3 wa3 qi2 duan3 jiang3 xie4
+六葉短槳蟹	liu4 ye4 duan3 jiang3 xie4
+純粹銀杏蟹	chun2 cui4 yin2 xing4 xie4
+表親仿銀杏蟹	biao3 qin1 fang3 yin2 xing4 xie4
+仿銀杏蟹	fang3 yin2 xing4 xie4
+顆粒近愛潔蟹	ke1 li4 jin4 ai4 jie2 xie4
+近藍足長槳蟹	jin4 lan2 zu2 chang2 jiang3 xie4
+長刺劍泳蟹	chang2 ci4 jian4 yong3 xie4
+假帕氏長槳蟹	jia3 pa4 shi4 chang2 jiang3 xie4
+針蝦	zhen1 xia1
+八丈擬長臂蝦	ba1 zhang4 ni3 chang2 bi4 xia1
+小岩蝦種	xiao3 yan2 xia1 zhong3
+扁額平岩蝦	bian3 e2 ping2 yan2 xia1
+海綿共生蝦	hai3 mian2 gong4 sheng1 xia1
+共生仿岩蝦	gong4 sheng1 fang3 yan2 xia1
+條紋鞭藻蝦	tiao2 wen2 bian1 zao3 xia1
+馬爾地夫托蝦	ma3 er3 di4 fu1 tuo1 xia1
+刺擬鉤岩蝦	ci4 ni3 gou1 yan2 xia1
+扁隱蝦	bian3 yin3 xia1
+褐點珊瑚蝦	he4 dian3 shan1 hu2 xia1
+單色活額蝦	dan1 se4 huo2 e2 xia1
+雕尾齒帶蝦	diao1 wei3 chi3 dai4 xia1
+近三爪加路蟹	jin4 san1 zhua3 jia1 lu4 xie4
+平額蠳蟹	ping2 e2 ying1 xie4
+奇異陸相蟹	qi2 yi4 lu4 xiang4 xie4
+毛足特氏蟹	mao2 zu2 te4 shi4 xie4
+圓形特氏蟹	yuan2 xing2 te4 shi4 xie4
+特氏蟹屬	te4 shi4 xie4 shu3
+西沙深水虱	xi1 sha1 shen1 shui3 shi1

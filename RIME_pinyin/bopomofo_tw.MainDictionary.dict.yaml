@@ -9,8 +9,13 @@ sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - terra_pinyin
-  - bopomofo_tw.AvianFamilyName
-  - bopomofo_tw.AvianName
+  - dicts/bopomofo_tw.AvianFamilyName
+  - dicts/bopomofo_tw.AvianName
+  - dicts/bopomofo_tw.LepidopteraName
+  - dicts/bopomofo_tw.MalacostracaName
+  - dicts/bopomofo_tw.MammaliaName
+  - dicts/bopomofo_tw.OdonataName
+  - dicts/bopomofo_tw.TracheophytaName
 ...
 # 以下亦可以新增屬於自己的詞庫
 
