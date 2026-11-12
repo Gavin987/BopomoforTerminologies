@@ -1,0 +1,5145 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: bopomofo_tw.FishName
+version: "2025.07.23"
+sort: original
+# 各種生物注音：https://github.com/Gavin987/BopomoforTerminologies
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+...
+
+板鰓綱	ban3 sai1 gang1
+盲鰻綱	mang2 man2 gang1
+真骨魚下綱	zhen1 gu3 yu2 xia4 gang1
+刺尾鯛目	ci4 wei3 diao1 mu4
+狐鰮目	hu2 wen1 mu4
+黑頭魚目	hei1 tou2 yu2 mu4
+文昌魚目	wen2 chang1 yu2 mu4
+攀鱸目	pan1 lu2 mu4
+鰻形目	man2 xing2 mu4
+水珍魚目	shui3 zhen1 yu2 mu4
+軟腕魚目	ruan3 wan4 yu2 mu4
+銀漢魚目	yin2 han4 yu2 mu4
+仙女魚目	xian1 nv3 yu2 mu4
+鶴鱵目	he4 zhen1 mu4
+金眼鯛目	jin1 yan3 diao1 mu4
+䲁形目	wei4 xing2 mu4
+鰺形目	shen1 xing2 mu4
+真鯊目	zhen1 sha1 mu4
+日鱸目	ri4 lu2 mu4
+慈鯛目	ci2 diao1 mu4
+鯡形目	fei4 xing2 mu4
+鯉形目	li3 xing2 mu4
+鱂形目	jiang1 xing2 mu4
+海鰱目	hai3 lian2 mu4
+白鯧目	bai2 chang1 mu4
+鱈形目	xue3 xing2 mu4
+鰕虎目	xia1 hu3 mu4
+鼠鱚目	shu3 xi3 mu4
+虎鯊目	hu3 sha1 mu4
+六鰓鯊目	liu4 sai1 sha1 mu4
+金鱗魚目	jin1 lin2 yu2 mu4
+旗魚目	qi2 yu2 mu4
+鉤頭魚目	gou1 tou2 yu2 mu4
+隆頭魚目	long2 tou2 yu2 mu4
+鯖鯊目	qing1 sha1 mu4
+月魚目	yue4 yu2 mu4
+松鯛目	song1 diao1 mu4
+鮟鱇目	an4 kang1 mu4
+鯔形目	zi1 xing2 mu4
+燈籠魚目	deng1 long2 yu2 mu4
+鱝目	fen4 mu4
+盲鰻目	mang2 man2 mu4
+背棘魚目	bei4 ji2 yu2 mu4
+鼬魚目	you4 yu2 mu4
+鬚鯊目	xu1 sha1 mu4
+胡瓜魚目	hu2 gua1 yu2 mu4
+骨舌魚目	gu3 she2 yu2 mu4
+擬金眼鯛目	ni3 jin1 yan3 diao1 mu4
+鱸形目	lu2 xing2 mu4
+鰈形目	die2 xing2 mu4
+銀眼鯛目	yin2 yan3 diao1 mu4
+鋸鱝目	ju4 fen4 mu4
+鋸鯊目	ju4 sha1 mu4
+鰩目	yao2 mu4
+鮭形目	gui1 xing2 mu4
+鯖形目	qing1 xing2 mu4
+鯰形目	nian2 xing2 mu4
+鯛形目	diao1 xing2 mu4
+角鯊目	jiao3 sha1 mu4
+扁鯊目	bian3 sha1 mu4
+巨口魚目	ju4 kou3 yu2 mu4
+合鰓魚目	he2 sai1 yu2 mu4
+海龍目	hai3 long2 mu4
+魨形目	tun2 xing2 mu4
+電鱝目	dian4 fen4 mu4
+鰧形目	teng2 xing2 mu4
+的鯛目	de5 diao1 mu4
+月魚目	yue4 yu2 mu4
+油鯰科	you2 nian2 ke1
+文昌魚科	wen2 chang1 yu2 ke1
+燈籠魚科	deng1 long2 yu2 ke1
+鱝科	fen4 ke1
+盲鰻科	mang2 man2 ke1
+雙鰭電鱝科	shuang1 qi2 dian4 fen4 ke1
+線鰻科	xian4 man2 ke1
+金線魚科	jin1 xian4 yu2 ke1
+新角鮟鱇科	xin1 jiao3 an4 kang1 ke1
+新燈籠魚科	xin1 deng1 long2 yu2 ke1
+鴨嘴鰻科	ya1 zui3 man2 ke1
+圓鯧科	yuan2 chang1 ke1
+背棘魚科	bei4 ji2 yu2 ke1
+背手銀漢魚科	bei4 shou3 yin2 han4 yu2 ke1
+弓背魚科	gong1 bei4 yu2 ke1
+崖蜥魚科	ya2 xi1 yu2 ke1
+砂錐齒鯊科	sha1 zhui1 chi3 sha1 ke1
+蝙蝠魚科	bian1 fu2 yu2 ke1
+夢鮟鱇科	meng4 an4 kang1 ke1
+蛇鰻科	she2 man2 ke1
+鼬鳚科	you4 wei4 ke1
+後頜魚科	hou4 han4 yu2 ke1
+石鯛科	shi2 diao1 ke1
+鬚鯊科	xu1 sha1 ke1
+胡瓜魚科	hu2 gua1 yu2 ke1
+絲足鱸科	si1 zu2 lu2 ke1
+箱魨科	xiang1 tun2 ke1
+巨棘鱸科	ju4 ji2 lu2 ke1
+魣蜥魚科	xu4 xi1 yu2 ke1
+牙鮃科	ya2 ping2 ke1
+斑鰭鯊科	ban1 qi2 sha1 ke1
+准的鯛科	zhun3 de5 diao1 ke1
+海蛾魚科	hai3 e2 yu2 ke1
+擬金眼鯛科	ni3 jin1 yan3 diao1 ke1
+五棘鯛科	wu3 ji2 diao1 ke1
+真鱸科	zhen1 lu2 ke1
+鱸鰧科	lu2 teng2 ke1
+黃魴鮄科	huang2 fang2 fu2 ke1
+錦䲁科	jin3 wei4 ke1
+巨口光燈魚科	ju4 kou3 guang1 deng1 yu2 ke1
+擬鱸科	ni3 lu2 ke1
+牛尾魚科	niu2 wei3 yu2 ke1
+黃點鯆科	huang2 dian3 pu1 ke1
+深水尾魟科	shen1 shui3 wei3 hong2 ke1
+七夕魚科	qi1 xi1 yu2 ke1
+鰈科	die2 ke1
+鰻鯰科	man2 nian2 ke1
+花鱂科	hua1 jiang1 ke1
+瓦鰈科	wa3 die2 ke1
+鬚鰃科	xu1 wei1 ke1
+馬鮁科	ma3 bo1 ke1
+蓋刺魚科	gai4 ci4 yu2 ke1
+雀鯛科	que4 diao1 ke1
+扁鰺科	bian3 shen1 ke1
+大眼鯛科	da4 yan3 diao1 ke1
+鋸鰩科	ju4 yao2 ke1
+鋸腹鰳科	ju4 fu4 le4 ke1
+鋸鯊科	ju4 sha1 ke1
+原鯊科	yuan2 sha1 ke1
+鰜科	qian4 ke1
+擬錐齒鯊科	ni3 zhui1 chi3 sha1 ke1
+擬雀鯛科	ni3 que4 diao1 ke1
+擬皺唇鯊科	ni3 zhou4 chun2 sha1 ke1
+隱棘杜父魚科	yin3 ji2 du4 fu4 yu2 ke1
+凹尾塘鱧科	ao1 wei3 tang2 li3 ke1
+海鱺科	hai3 li2 ke1
+異尾帶魚科	yi4 wei3 dai4 yu2 ke1
+鰩科	yao2 ke1
+皇帶魚科	huang2 dai4 yu2 ke1
+鯨鯊科	jing1 sha1 ke1
+鱟頭鱝科	hou4 tou2 fen4 ke1
+琵琶鱝科	pi2 pa2 fen4 ke1
+溪鱧科	xi1 li3 ke1
+龍紋鱝科	long2 wen2 fen4 ke1
+紅口仿鯨科	hong2 kou3 fang3 jing1 ke1
+鮭科	gui1 ke1
+冠鰈科	guan4 die2 ke1
+鸚哥魚科	ying1 ge1 yu2 ke1
+金錢魚科	jin1 qian2 yu2 ke1
+辛氏微體魚科	xin1 shi4 wei1 ti3 yu2 ke1
+石首魚科	shi2 shou3 yu2 ke1
+鯖科	qing1 ke1
+長鰭帶鰆科	zhang3 qi2 dai4 chun1 ke1
+鯥科	lu4 ke1
+鮋科	you2 ke1
+貓鯊科	mao1 sha1 ke1
+鮨科	yi4 ke1
+鋸鋤鰻科	ju4 chu2 man2 ke1
+臭肚魚科	chou4 du4 yu2 ke1
+沙鮻科	sha1 suo1 ke1
+鯰科	nian2 ke1
+鰨科	ta4 ke1
+剃刀魚科	ti4 dao1 yu2 ke1
+睡鯊科	shui4 sha1 ke1
+鯛科	diao1 ke1
+金梭魚科	jin1 suo1 yu2 ke1
+雙髻鯊科	shuang1 ji4 sha1 ke1
+角鯊科	jiao3 sha1 ke1
+扁鯊科	bian3 sha1 ke1
+虎鯊科	hu3 sha1 ke1
+褶胸魚科	zhe1 xiong1 yu2 ke1
+線鳚科	xian4 wei4 ke1
+巨口魚科	ju4 kou3 yu2 ke1
+鯧科	chang1 ke1
+癒齒鯛科	yu4 chi3 diao1 ke1
+合鰓鰻科	he2 sai1 man2 ke1
+合鰓魚科	he2 sai1 yu2 ke1
+海龍科	hai3 long2 ke1
+合齒魚科	he2 chi3 yu2 ke1
+鯻科	la4 ke1
+方尾鯧科	fang1 wei3 chang1 ke1
+四齒魨科	si4 chi3 tun2 ke1
+奇鮟鱇科	qi2 an4 kang1 ke1
+電鱝科	dian4 fen4 ke1
+燧鯛科	sui4 diao1 ke1
+粗鰭魚科	cu1 qi2 yu2 ke1
+三棘魨科	san1 ji2 tun2 ke1
+擬三棘魨科	ni3 san1 ji2 tun2 ke1
+皺唇鯊科	zhou4 chun2 sha1 ke1
+帶魚科	dai4 yu2 ke1
+絲鰭鱚科	si1 qi2 xi3 ke1
+角魚科	jiao3 yu2 ke1
+三齒魨科	san1 chi3 tun2 ke1
+三鰭鳚科	san1 qi2 wei4 ke1
+鰧科	teng2 ke1
+扁魟科	bian3 hong2 ke1
+草鰺科	cao3 shen1 ke1
+峽塘鱧科	xia2 tang2 li3 ke1
+劍旗魚科	jian4 qi2 yu2 ke1
+角蝶魚科	jiao3 die2 yu2 ke1
+的鯛科	de5 diao1 ke1
+甲眼的鯛科	jia3 yan3 de5 diao1 ke1
+綿鳚科	mian2 wei4 ke1
+刺尾鯛科	ci4 wei3 diao1 ke1
+發光鯛科	fa1 guang1 diao1 ke1
+怪頜鱂科	guai4 han4 jiang1 ke1
+八角魚科	ba1 jiao3 yu2 ke1
+狐鰮科	hu2 wen1 ke1
+帆蜥魚科	fan1 xi1 yu2 ke1
+黑頭魚科	hei1 tou2 yu2 ke1
+狐鯊科	hu2 sha1 ke1
+雙邊魚科	shuang1 bian1 yu2 ke1
+鮰科	hui2 ke1
+玉筋魚科	yu4 jin1 yu2 ke1
+攀鱸科	pan1 lu2 ke1
+鰻鱺科	man2 li2 ke1
+燈眼魚科	deng1 yan3 yu2 ke1
+躄魚科	bi4 yu2 ke1
+裸鼬魚科	luo3 you4 yu2 ke1
+絨皮鮋科	rong2 pi2 you2 ke1
+天竺鯛科	tian1 zhu2 diao1 ke1
+水珍魚科	shui3 zhen1 yu2 ke1
+海鯰科	hai3 nian2 ke1
+無齒鯧科	wu2 chi3 chang1 ke1
+軟腕魚科	ruan3 wan4 yu2 ke1
+銀漢魚科	yin2 han4 yu2 ke1
+細銀漢魚科	xi4 yin2 han4 yu2 ke1
+仙女魚科	xian1 nv3 yu2 ke1
+管口魚科	guan3 kou3 yu2 ke1
+鱨科	chang2 ke1
+鱗魨科	lin2 tun2 ke1
+爬鰍科	pa2 qiu1 ke1
+扁棘鯛科	bian3 ji2 diao1 ke1
+鬚仿鯨科	xu1 fang3 jing1 ke1
+深海鯡科	shen1 hai3 fei4 ke1
+深海蜥魚科	shen1 hai3 xi1 yu2 ke1
+鶴鱵科	he4 zhen1 ke1
+赤鯒科	chi4 yong3 ke1
+金眼鯛科	jin1 yan3 diao1 ke1
+鳚科	wei4 ke1
+鮃科	ping2 ke1
+烏魴科	wu1 fang2 ke1
+海鰗鰍科	hai3 hu2 qiu1 ke1
+深海鼬魚科	shen1 hai3 you4 yu2 ke1
+烏尾鮗科	wu1 wei3 dong1 ke1
+麗花鮨科	li4 hua1 yi4 ke1
+鼠䲗科	shu3 xian2 ke1
+羊魴科	yang2 fang2 ke1
+頰棘鮋科	jia2 ji2 you2 ke1
+鰺科	shen1 ke1
+隱魚科	yin3 yu2 ke1
+真鯊科	zhen1 sha1 ke1
+長鰭鮟鱇科	zhang3 qi2 an4 kang1 ke1
+棘臀魚科	ji2 tun2 yu2 ke1
+玻甲魚科	bo1 jia3 yu2 ke1
+長鯧科	zhang3 chang1 ke1
+刺鯊科	ci4 sha1 ke1
+刺鮟鱇科	ci4 an4 kang1 ke1
+赤刀魚科	chi4 dao1 yu2 ke1
+角鮟鱇科	jiao3 an4 kang1 ke1
+仿鯨魚科	fang3 jing1 yu2 ke1
+象鯊科	xiang4 sha1 ke1
+煙管鳚科	yan1 guan3 wei4 ke1
+蝴蝶魚科	hu2 die2 yu2 ke1
+鱷齒魚科	e4 chi3 yu2 ke1
+虱目魚科	shi1 mu4 yu2 ke1
+鱧科	li3 ke1
+單棘躄魚科	dan1 ji2 bi4 yu2 ke1
+唇指䱵科	chun2 zhi3 weng1 ke1
+叉齒魚科	cha1 chi3 yu2 ke1
+寶刀魚科	bao3 dao1 yu2 ke1
+皺鰓鯊科	zhou4 sai1 sha1 ke1
+擬鯙科	ni3 chun2 ke1
+青眼魚科	qing1 yan3 yu2 ke1
+慈鯛科	ci2 diao1 ke1
+䱵科	weng1 ke1
+棘鮃科	ji2 ping2 ke1
+鬍鯰科	hu2 nian2 ke1
+胎鳚科	tai1 wei4 ke1
+鯡科	fei4 ke1
+鰍科	qiu1 ke1
+短糯鰻科	duan3 nuo4 man2 ke1
+糯鰻科	nuo4 man2 ke1
+鱰科	shu3 ke1
+杜父魚科	du4 fu4 yu2 ke1
+無棘鳚科	wu2 ji2 wei4 ke1
+舌鰨科	she2 ta4 ke1
+鯉科	li3 ke1
+飛角魚科	fei1 jiao3 yu2 ke1
+鎧鯊科	kai3 sha1 ke1
+魟科	hong2 ke1
+項鰻科	xiang4 man2 ke1
+雙角鮟鱇科	shuang1 jiao3 an4 kang1 ke1
+二齒魨科	er4 chi3 tun2 ke1
+雙光魚科	shuang1 guang1 yu2 ke1
+銀眼鯛科	yin2 yan3 diao1 ke1
+蜥䲗科	xi1 xian2 ke1
+雞籠鯧科	ji1 long2 chang1 ke1
+鮣科	yin4 ke1
+笠鱗鯊科	li4 lin2 sha1 ke1
+塘鱧科	tang2 li3 ke1
+海鰱科	hai3 lian2 ke1
+諧魚科	xie2 yu2 ke1
+鯷科	ti2 ke1
+白鯧科	bai2 chang1 ke1
+深海天竺鯛科	shen1 hai3 tian1 zhu2 diao1 ke1
+旋杜父魚科	xuan2 du4 fu4 yu2 ke1
+烏鯊科	wu1 sha1 ke1
+寬咽魚科	kuan1 yan1 yu2 ke1
+齒口魚科	chi3 kou3 yu2 ke1
+飛魚科	fei1 yu2 ke1
+馬鞭魚科	ma3 bian1 yu2 ke1
+帶鰆科	dai4 chun1 ke1
+鑽嘴魚科	zuan1 zui3 yu2 ke1
+巨棘鮟鱇科	ju4 ji2 an4 kang1 ke1
+巨尾魚科	ju4 wei3 yu2 ke1
+鉸口鯊科	jiao3 kou3 sha1 ke1
+葉鯛科	ye4 diao1 ke1
+喉盤魚科	hou2 pan2 yu2 ke1
+鰕虎科	xia1 hu3 ke1
+鼠鱚科	shu3 xi3 ke1
+鑽光魚科	zuan1 guang1 yu2 ke1
+線菱鯛科	xian4 ling2 diao1 ke1
+燕魟科	yan4 hong2 ke1
+石鱸科	shi2 lu2 ke1
+海蜥魚科	hai3 xi1 yu2 ke1
+半沙條鯊科	ban4 sha1 tiao2 sha1 ke1
+鱵科	zhen1 ke1
+長尾鬚鯊科	zhang3 wei3 xu1 sha1 ke1
+異齒鯊科	yi4 chi3 sha1 ke1
+六鰓鯊科	liu4 sai1 sha1 ke1
+六鰓魟科	liu4 sai1 hong2 ke1
+鞭冠鮟鱇科	bian1 guan4 an4 kang1 ke1
+金鱗魚科	jin1 lin2 yu2 ke1
+針鯒科	zhen1 yong3 ke1
+爐眼魚科	lu2 yan3 yu2 ke1
+旗魚科	qi2 yu2 ke1
+湯鯉科	tang1 li3 ke1
+舵魚科	duo4 yu2 ke1
+隆頭魚科	long2 tou2 yu2 ke1
+乳鯖科	ru3 qing1 ke1
+鼠鯊科	shu3 sha1 ke1
+月魚科	yue4 yu2 ke1
+尖吻鱸科	jian1 wen3 lu2 ke1
+鰏科	bi4 ke1
+龍占魚科	long2 zhan4 yu2 ke1
+鬚鮟鱇科	xu1 an4 kang1 ke1
+松鯛科	song1 diao1 ke1
+鮟鱇科	an4 kang1 ke1
+冠帶魚科	guan4 dai4 yu2 ke1
+甲鯰科	jia3 nian2 ke1
+笛鯛科	di2 diao1 ke1
+鼠尾鱈科	shu3 wei3 xue3 ke1
+弱棘魚科	ruo4 ji2 yu2 ke1
+棘鰍科	ji2 qiu1 ke1
+巨口鯊科	ju4 kou3 sha1 ke1
+大海鰱科	da4 hai3 lian2 ke1
+孔頭鯛科	kong3 tou2 diao1 ke1
+黑鮟鱇科	hei1 an4 kang1 ke1
+眼眶魚科	yan3 kuang1 yu2 ke1
+蚓鰕虎科	yin3 xia1 hu3 ke1
+小口兔鮭科	xiao3 kou3 tu4 gui1 ke1
+尖吻鯊科	jian1 wen3 sha1 ke1
+翻車魨科	fan1 che1 tun2 ke1
+單棘魨科	dan1 ji2 tun2 ke1
+松球魚科	song1 qiu2 yu2 ke1
+銀鱗鯧科	yin2 lin2 chang1 ke1
+稚鱈科	zhi4 xue3 ke1
+蚓鰻科	yin3 man2 ke1
+狼鱸科	lang2 lu2 ke1
+鯔科	zi1 ke1
+鬚鯛科	xu1 diao1 ke1
+海鰻科	hai3 man2 ke1
+鯙科	chun2 ke1
+間爬岩鰍屬	jian1 pa2 yan2 qiu1 shu3
+吻鰕虎屬	wen3 xia1 hu3 shu3
+韌鰕虎屬	ren4 xia1 hu3 shu3
+倒棘魨屬	dao4 ji2 tun2 shu3
+離光魚屬	li2 guang1 yu2 shu3
+寬尾鱗魨屬	kuan1 wei3 lin2 tun2 shu3
+帆鰭鮋屬	fan1 qi2 you2 shu3
+扁鶴鱵屬	bian3 he4 zhen1 shu3
+豆娘魚屬	dou4 niang2 yu2 shu3
+棘吻魚屬	ji2 wen3 yu2 shu3
+棘赤刀魚屬	ji2 chi4 dao1 yu2 shu3
+棘鰆屬	ji2 chun1 shu3
+刺鰕虎屬	ci4 xia1 hu3 shu3
+大棘鼬鳚屬	da4 ji2 you4 wei4 shu3
+棘鯛屬	ji2 diao1 shu3
+若棘鮗屬	ruo4 ji2 dong1 shu3
+刺尾鯛屬	ci4 wei3 diao1 shu3
+細棘鰕虎屬	xi4 ji2 xia1 hu3 shu3
+細尾海龍屬	xi4 wei3 hai3 long2 shu3
+鬃尾單棘魨屬	zong1 wei3 dan1 ji2 tun2 shu3
+發光鯛屬	fa1 guang1 diao1 shu3
+石(魚賓)屬	shi2 ( yu2 bin1 ) shu3
+鰕魚屬	xia1 yu2 shu3
+角鰨屬	jiao3 ta4 shu3
+煙鱠屬	yan1 kuai4 shu3
+鷂鱝屬	yao4 fen4 shu3
+無刺鱝屬	wu2 ci4 fen4 shu3
+狐鰮屬	hu2 wen1 shu3
+海蜴魚屬	hai3 yi4 yu2 shu3
+絲鰺屬	si1 shen1 shu3
+副葉鰺屬	fu4 ye4 shen1 shu3
+帆蜥魚屬	fan1 xi1 yu2 shu3
+黑頭魚屬	hei1 tou2 yu2 shu3
+海鼬魚屬	hai3 you4 yu2 shu3
+蒜蛇蔓屬	suan4 she2 man4 shu3
+狐鯊屬	hu2 sha1 shu3
+高冠鳚屬	gao1 guan4 wei4 shu3
+革單棘魨屬	ge2 dan1 ji2 tun2 shu3
+美單棘魨屬	mei3 dan1 ji2 tun2 shu3
+雙邊魚屬	shuang1 bian1 yu2 shu3
+鈍尾鰕虎屬	dun4 wei3 xia1 hu3 shu3
+鈍䱵屬	dun4 weng1 shu3
+鈍鯊屬	dun4 sha1 shu3
+鈍腹鯡屬	dun4 fu4 fei4 shu3
+寬刻齒雀鯛屬	kuan1 ke4 chi3 que4 diao1 shu3
+鈍鰕虎屬	dun4 xia1 hu3 shu3
+鈍雀鯛屬	dun4 que4 diao1 shu3
+多刺天竺鯛屬	duo1 ci4 tian1 zhu2 diao1 shu3
+韁鰕虎屬	jiang1 xia1 hu3 shu3
+雙冠麗魚屬	shuang1 guan4 li4 yu2 shu3
+雙鋸魚屬	shuang1 ju4 yu2 shu3
+魚雀鯛屬	yu2 que4 diao1 shu3
+攀鱸屬	pan1 lu2 shu3
+擬鬚魨屬	ni3 xu1 tun2 shu3
+阿南魚屬	a1 nan2 yu2 shu3
+裸臀鯙屬	luo3 tun2 chun2 shu3
+唇盤鳚屬	chun2 pan2 wei4 shu3
+鰻鱺屬	man2 li2 shu3
+燈眼魚屬	deng1 yan3 yu2 shu3
+鈍鋸鰩屬	dun4 ju4 yao2 shu3
+躄魚屬	bi4 yu2 shu3
+手躄魚屬	shou3 bi4 yu2 shu3
+菱鯛屬	ling2 diao1 shu3
+擬深海鱈屬	ni3 shen1 hai3 xue3 shu3
+光腭鱸屬	guang1 e4 lu2 shu3
+細齒笛鯛屬	xi4 chi3 di2 diao1 shu3
+細鯽屬	xi4 ji4 shu3
+裸鼬魚屬	luo3 you4 yu2 shu3
+鬚蓑鮋屬	xu1 suo1 you2 shu3
+絨皮鮋屬	rong2 pi2 you2 shu3
+叉牙鰕虎屬	cha1 ya2 xia1 hu3 shu3
+天竺鯛屬	tian1 zhu2 diao1 shu3
+似天竺鯛屬	shi4 tian1 zhu2 diao1 shu3
+原天竺鯛屬	yuan2 tian1 zhu2 diao1 shu3
+阿波魚屬	a1 bo1 yu2 shu3
+少孔紋鯛屬	shao3 kong3 wen2 diao1 shu3
+短鰭笛鯛屬	duan3 qi2 di2 diao1 shu3
+篦鯊屬	bi4 sha1 shu3
+無鰭蛇鰻屬	wu2 qi2 she2 man2 shu3
+長鰭天竺鯛屬	zhang3 qi2 tian1 zhu2 diao1 shu3
+水珍魚屬	shui3 zhen1 yu2 shu3
+銀斧魚屬	yin2 fu3 yu2 shu3
+長棘鯛屬	zhang3 ji2 diao1 shu3
+銀身屬	yin2 shen1  shu3
+無齒鯧屬	wu2 chi3 chang1 shu3
+美體鰻屬	mei3 ti3 man2 shu3
+海鯰屬	hai3 nian2 shu3
+羊舌鮃屬	yang2 she2 ping2 shu3
+叉鼻魨屬	cha1 bi2 tun2 shu3
+櫛鱗鰨屬	jie2 lin2 ta4 shu3
+姥魚屬	lao3 yu2 shu3
+鶴姥魚屬	he4 lao3 yu2 shu3
+盾齒鳚屬	dun4 chi3 wei4 shu3
+燕尾七夕魚屬	yan4 wei3 qi1 xi1 yu2 shu3
+角鮃屬	jiao3 ping2 shu3
+星鰕虎屬	xing1 xia1 hu3 shu3
+星衫魚屬	xing1 shan1 yu2 shu3
+軟腕魚屬	ruan3 wan4 yu2 shu3
+斑貓鯊屬	ban1 mao1 sha1 shu3
+美銀漢魚屬	mei3 yin2 han4 yu2 shu3
+細銀漢魚屬	xi4 yin2 han4 yu2 shu3
+黑屬	hei1  shu3
+溝鰺屬	gou1 shen1 shu3
+烏鳚屬	wu1 wei4 shu3
+葉鰺屬	ye4 shen1 shu3
+紫鱸屬	zi3 lu2 shu3
+管口魚屬	guan3 kou3 yu2 shu3
+管燧鯛屬	guan3 sui4 diao1 shu3
+金鰏屬	jin1 bi4 shu3
+軟鰕虎屬	ruan3 xia1 hu3 shu3
+花鰹屬	hua1 jian1 shu3
+喙吻鰻屬	hui4 wen3 man2 shu3
+阿胡鰕虎屬	a1 hu2 xia1 hu3 shu3
+巴傑加州黑頭魚屬	ba1 jie2 jia1 zhou1 hei1 tou2 yu2 shu3
+鈎鱗魨屬	gou1 lin2 tun2 shu3
+擬鱗魨屬	ni3 lin2 tun2 shu3
+扁棘鯛屬	bian3 ji2 diao1 shu3
+盲鼬魚屬	mang2 you4 yu2 shu3
+高體䰾屬	gao1 ti3 ba1 shu3
+鬚仿鯨屬	xu1 fang3 jing1 shu3
+髯毛鰕虎屬	ran2 mao2 xia1 hu3 shu3
+褐蛇鰻屬	he4 she2 man2 shu3
+索深鼬鳚屬	suo3 shen1 you4 wei4 shu3
+深巨口魚屬	shen1 ju4 kou3 yu2 shu3
+深水䲗屬	shen1 shui3 xian2 shu3
+深海鯡屬	shen1 hai3 fei4 shu3
+深海糯鰻屬	shen1 hai3 nuo4 man2 shu3
+底尾鱈屬	di3 wei3 xue3 shu3
+深鰕虎屬	shen1 xia1 hu3 shu3
+淵油鰻屬	yuan1 you2 man2 shu3
+深水鼬鳚屬	shen1 shui3 you4 wei4 shu3
+深海擬三棘魨屬	shen1 hai3 ni3 san1 ji2 tun2 shu3
+深海狗母魚屬	shen1 hai3 gou3 mu3 yu2 shu3
+深海鰩屬	shen1 hai3 yao2 shu3
+深海蜥魚屬	shen1 hai3 xi1 yu2 shu3
+深海擬野鱸屬	shen1 hai3 ni3 ye3 lu2 shu3
+淵眼魚屬	yuan1 yan3 yu2 shu3
+深海青眼魚屬	shen1 hai3 qing1 yan3 yu2 shu3
+深海尾鰻屬	shen1 hai3 wei3 man2 shu3
+針鰭鮗屬	zhen1 qi2 dong1 shu3
+針翅鮗屬	zhen1 chi4 dong1 shu3
+鱵鱸屬	zhen1 lu2 shu3
+玫瑰鯒屬	mei2 gui1 yong3 shu3
+赤鯒屬	chi4 yong3 shu3
+鯒狀魚屬	yong3 zhuang4 yu2 shu3
+深海電鱝屬	shen1 hai3 dian4 fen4 shu3
+深海帶魚屬	shen1 hai3 dai4 yu2 shu3
+底燈魚屬	di3 deng1 yu2 shu3
+金眼鯛屬	jin1 yan3 diao1 shu3
+懶糯鰻屬	lan3 nuo4 man2 shu3
+布氏筋魚屬	bu4 shi4 jin1 yu2 shu3
+真蛙鳚屬	zhen1 wa1 wei4 shu3
+狐鯛屬	hu2 diao1 shu3
+隆頭鸚哥魚屬	long2 tou2 ying1 ge1 yu2 shu3
+大彈塗魚屬	da4 dan4 tu2 yu2 shu3
+虹燈魚屬	hong2 deng1 yu2 shu3
+掠食巨口魚屬	lve4 shi2 ju4 kou3 yu2 shu3
+烏塘鱧屬	wu1 tang2 li3 shu3
+長孔綿鳚屬	zhang3 kong3 mian2 wei4 shu3
+鮃屬	ping2 shu3
+寬箬鰨屬	kuan1 ruo4 ta4 shu3
+短棘蓑鮋屬	duan3 ji2 suo1 you2 shu3
+短體蛇鰻屬	duan3 ti3 she2 man2 shu3
+烏魴屬	wu1 fang2 shu3
+馬頭魚屬	ma3 tou2 yu2 shu3
+鰓口文昌魚屬	sai1 kou3 wen2 chang1 yu2 shu3
+海鰗鰍屬	hai3 hu2 qiu1 shu3
+似鱈鼬魚屬	shi4 xue3 you4 yu2 shu3
+鬚鼬鳚屬	xu1 you4 wei4 shu3
+小線深海鼬魚屬	xiao3 xian4 shen1 hai3 you4 yu2 shu3
+珊瑚鰕虎屬	shan1 hu2 xia1 hu3 shu3
+蟾蜍角鮟鱇屬	chan2 chu2 jiao3 an4 kang1 shu3
+鰻海龍屬	man2 hai3 long2 shu3
+丘塘鱧屬	qiu1 tang2 li3 shu3
+脊塘鱧屬	ji2 tang2 li3 shu3
+脊塘鱧屬	ji3 tang2 li3 shu3
+烏尾鮗屬	wu1 wei3 dong1 shu3
+麗花鮨屬	li4 hua1 yi4 shu3
+盲蛇鰻屬	mang2 she2 man2 shu3
+䲗屬	xian2 shu3
+美尾䲗屬	mei3 wei3 xian2 shu3
+硬皮鰕虎屬	ying4 pi2 xia1 hu3 shu3
+麗七夕魚屬	li4 qi1 xi1 yu2 shu3
+鸚鯉屬	ying1 li3 shu3
+巧塘鱧屬	qiao3 tang2 li3 shu3
+曲海龍屬	qu1 hai3 long2 shu3
+鬚鱲屬	xu1 la4 shu3
+刺鼻單棘魨屬	ci4 bi2 dan1 ji2 tun2 shu3
+疣鱗魨屬	you2 lin2 tun2 shu3
+尖鼻魨屬	jian1 bi2 tun2 shu3
+菱齒花鮨屬	ling2 chi3 hua1 yi4 shu3
+頰棘鮋屬	jia2 ji2 you2 shu3
+頭鰕虎屬	tou2 xia1 hu3 shu3
+若鰺屬	ruo4 shen1 shu3
+鰺屬	shen1 shu3
+鯽屬	ji4 shu3
+真鯊屬	zhen1 sha1 shu3
+錐齒鯊屬	zhui1 chi3 sha1 shu3
+食人鯊屬	shi2 ren2 sha1 shu3
+長鰭鮟鱇屬	zhang3 qi2 an4 kang1 shu3
+玻甲魚屬	bo1 jia3 yu2 shu3
+棘金眼鯛屬	ji2 jin1 yan3 diao1 shu3
+粗棘蜥䲗屬	cu1 ji2 xi1 xian2 shu3
+刺鯊屬	ci4 sha1 shu3
+刺鮟鱇屬	ci4 an4 kang1 shu3
+刺尻魚屬	ci4 kao1 yu2 shu3
+霞鯊屬	xia2 sha1 shu3
+九刺鮨屬	jiu3 ci4 yi4 shu3
+絨毛鯊屬	rong2 mao2 sha1 shu3
+赤刀魚屬	chi4 dao1 yu2 shu3
+角鮟鱇屬	jiao3 an4 kang1 shu3
+額角三鰭鳚屬	e2 jiao3 san1 qi2 wei4 shu3
+角燈魚屬	jiao3 deng1 yu2 shu3
+鯨尾鱈屬	jing1 wei3 xue3 shu3
+象鯊屬	xiang4 sha1 shu3
+鯨鸚哥魚屬	jing1 ying1 ge1 yu2 shu3
+擬鯨口魚屬	ni3 jing1 kou3 yu2 shu3
+尖齒鯊屬	jian1 chi3 sha1 shu3
+棘皮單棘魨屬	ji2 pi2 dan1 ji2 tun2 shu3
+蝴蝶魚屬	hu2 die2 yu2 shu3
+荷包魚屬	he2 bao1 yu2 shu3
+矛尾鰕虎屬	mao2 wei3 xia1 hu3 shu3
+鱷齒魚屬	e4 chi3 yu2 shu3
+鱧屬	li3 shu3
+鱧鯙屬	li3 chun2 shu3
+紅鰭鮊屬	hong2 qi2 ba4 shu3
+虱目魚屬	shi1 mu4 yu2 shu3
+長頜鮃屬	zhang3 han4 ping2 shu3
+蝰魚屬	kui2 yu2 shu3
+單棘躄魚屬	dan1 ji2 bi4 yu2 shu3
+唇魚屬	chun2 yu2 shu3
+管唇魚屬	guan3 chun2 yu2 shu3
+唇指䱵屬	chun2 zhi3 weng1 shu3
+巨齒天竺鯛屬	ju4 chi3 tian1 zhu2 diao1 shu3
+鬚唇飛魚屬	xu1 chun2 fei1 yu2 shu3
+厚唇雀鯛屬	hou4 chun2 que4 diao1 shu3
+黑角魚屬	hei1 jiao3 yu2 shu3
+赤鮨屬	chi4 yi4 shu3
+管嘴魚屬	guan3 zui3 yu2 shu3
+龜鮻屬	gui1 suo1 shu3
+凹鼻魨屬	ao1 bi2 tun2 shu3
+叉齒魚屬	cha1 chi3 yu2 shu3
+短刺魨屬	duan3 ci4 tun2 shu3
+唇鼻擬鯙屬	chun2 bi2 ni3 chun2 shu3
+狗鯊屬	gou3 sha1 shu3
+寶刀魚屬	bao3 dao1 yu2 shu3
+鎧弓魚屬	kai3 gong1 yu2 shu3
+皺鰓鯊屬	zhou4 sai1 sha1 shu3
+青眼魚屬	qing1 yan3 yu2 shu3
+綠鸚哥魚屬	lv4 ying1 ge1 yu2 shu3
+豬齒魚屬	zhu1 chi3 yu2 shu3
+豬海龍屬	zhu1 hai3 long2 shu3
+多指鮋屬	duo1 zhi3 you2 shu3
+低線魚屬	di1 xian4 yu2 shu3
+光鰓雀鯛屬	guang1 sai1 que4 diao1 shu3
+刻齒雀鯛屬	ke4 chi3 que4 diao1 shu3
+黃鰭䱛屬	huang2 qi2 huo4 shu3
+金鯛屬	jin1 diao1 shu3
+半麗魚屬	ban4 li4 yu2 shu3
+卷盔鯊屬	juan3 kui1 sha1 shu3
+絲鰭鸚鯛屬	si1 qi2 ying1 diao1 shu3
+鬚蛇鰻屬	xu1 she2 man2 shu3
+鯁屬	geng3 shu3
+金䱵屬	jin1 weng1 shu3
+䱵屬	weng1 shu3
+喉鬚鯊屬	hou2 xu1 sha1 shu3
+鬚盲蛇鰻屬	xu1 mang2 she2 man2 shu3
+鬚鯙屬	xu1 chun2 shu3
+項鬚鳚屬	xiang4 xu1 wei4 shu3
+擬棘鮃屬	ni3 ji2 ping2 shu3
+鬍鯰屬	hu2 nian2 shu3
+翼棘鰕虎屬	yi4 ji2 xia1 hu3 shu3
+盾齒鰶屬	dun4 chi3 ji4 shu3
+鰍屬	qiu1 shu3
+鱷牛尾魚屬	e4 niu2 wei3 yu2 shu3
+腔蝠魚屬	qiang1 fu2 yu2 shu3
+腔吻鱈屬	qiang1 wen3 xue3 shu3
+鱭屬	ji4 shu3
+梅童魚屬	mei2 tong2 yu2 shu3
+短糯鰻屬	duan3 nuo4 man2 shu3
+糯鰻屬	nuo4 man2 shu3
+大口糯鰻屬	da4 kou3 nuo4 man2 shu3
+鰻鯛屬	man2 diao1 shu3
+錐齒喉盤魚屬	zhui1 chi3 hou2 pan2 yu2 shu3
+錐首魚屬	zhui1 shou3 yu2 shu3
+紅目大眼鯛屬	hong2 mu4 da4 yan3 diao1 shu3
+非鯽屬	fei1 ji4 shu3
+少女魚屬	shao4 nv3 yu2 shu3
+盔魚屬	kui1 yu2 shu3
+鬼頭刀屬	gui3 tou2 dao1 shu3
+突吻鱈屬	tu2 wen3 xue3 shu3
+冠海龍屬	guan4 hai3 long2 shu3
+環宇海龍屬	huan2 yu3 hai3 long2 shu3
+粒唇鯔屬	li4 chun2 zi1 shu3
+項冠鰕虎屬	xiang4 guan4 xia1 hu3 shu3
+駝背鱸屬	tuo2 bei4 lu2 shu3
+纓鮃屬	ying1 ping2 shu3
+絲鰕虎屬	si1 xia1 hu3 shu3
+密棘角鮟鱇屬	mi4 ji2 jiao3 an4 kang1 shu3
+櫛齒刺尾鯛屬	jie2 chi3 ci4 wei3 diao1 shu3
+櫛眼鰕虎屬	jie2 yan3 xia1 hu3 shu3
+草魚屬	cao3 yu2 shu3
+方頭鯧屬	fang1 tou2 chang1 shu3
+鮊屬	ba4 shu3
+圓刺魨屬	yuan2 ci4 tun2 shu3
+圓罩魚屬	yuan2 zhao4 yu2 shu3
+孔牛尾魚屬	kong3 niu2 wei3 yu2 shu3
+鈍頭魚屬	dun4 tou2 yu2 shu3
+舌鰨屬	she2 ta4 shu3
+鯉䱵屬	li3 weng1 shu3
+鯉屬	li3 shu3
+斑鰭飛魚屬	ban1 qi2 fei1 yu2 shu3
+菱的鯛屬	ling2 de5 diao1 shu3
+腹棘的鯛屬	fu4 ji2 de5 diao1 shu3
+飛角魚屬	fei1 jiao3 yu2 shu3
+花蛇鰻屬	hua1 she2 man2 shu3
+鋸鱗魚屬	ju4 lin2 yu2 shu3
+盲鰻屬	mang2 man2 shu3
+短鰓燈魚屬	duan3 sai1 deng1 yu2 shu3
+南氏魚屬	nan2 shi4 yu2 shu3
+黑口魚屬	hei1 kou3 yu2 shu3
+雙鰭電鱝屬	shuang1 qi2 dian4 fen4 shu3
+單鰭電鱝屬	dan1 qi2 dian4 fen4 shu3
+鼻魚屬	bi2 yu2 shu3
+黑帶鰺屬	hei1 dai4 shen1 shu3
+若帶鰆屬	ruo4 dai4 chun1 shu3
+扁天竺鯛屬	bian3 tian1 zhu2 diao1 shu3
+鏽鬚鯊屬	xiu4 xu1 sha1 shu3
+聖天竺鯛屬	sheng4 tian1 zhu2 diao1 shu3
+新鰻屬	xin1 man2 shu3
+檸檬鯊屬	ning2 meng2 sha1 shu3
+海鰶屬	hai3 ji4 shu3
+線塘鱧屬	xian4 tang2 li3 shu3
+線鰻屬	xian4 man2 shu3
+金線魚屬	jin1 xian4 yu2 shu3
+新鼬鳚屬	xin1 you4 wei4 shu3
+新鱗鮋屬	xin1 lin2 you2 shu3
+新角鮟鱇屬	xin1 jiao3 an4 kang1 shu3
+新熱鳚屬	xin1 re4 wei4 shu3
+新帶鰆屬	xin1 dai4 chun1 shu3
+新刻齒雀鯛屬	xin1 ke4 chi3 que4 diao1 shu3
+新左鮃屬	xin1 zuo3 ping2 shu3
+新棘鮋屬	xin1 ji2 you2 shu3
+新東洋金鱗魚屬	xin1 dong1 yang2 jin1 lin2 yu2 shu3
+新雀鯛屬	xin1 que4 diao1 shu3
+新鯥屬	xin1 lu4 shu3
+新燈魚屬	xin1 deng1 yu2 shu3
+新平鮋屬	xin1 ping2 you2 shu3
+新魟屬	xin1 hong2 shu3
+鴨嘴鰻屬	ya1 zui3 man2 shu3
+多齒海鯰屬	duo1 chi3 hai3 nian2 shu3
+庫隆長尾鱈屬	ku4 long2 zhang3 wei3 xue3 shu3
+黃姑魚屬	huang2 gu1 yu2 shu3
+東洋鱸屬	dong1 yang2 lu2 shu3
+圓鯧屬	yuan2 chang1 shu3
+諾福克鳚屬	nuo4 fu2 ke4 wei4 shu3
+背棘魚屬	bei4 ji2 yu2 shu3
+尖吻背燈魚屬	jian1 wen3 bei4 deng1 yu2 shu3
+隆背鰩屬	long2 bei4 yao2 shu3
+油夷鯊屬	you2 yi2 sha1 shu3
+背燈魚屬	bei4 deng1 yu2 shu3
+新隆魚屬	xin1 long2 yu2 shu3
+似美鰭鱼屬	shi4 mei3 qi2 yu2 shu3
+軟棘唇魚屬	ruan3 ji2 chun2 yu2 shu3
+項鰏屬	xiang4 bi4 shu3
+線鮋屬	xian4 you2 shu3
+狼牙鰕虎屬	lang2 ya2 xia1 hu3 shu3
+金花鱸屬	jin1 hua1 lu2 shu3
+紅牙鱗魨屬	hong2 ya2 lin2 tun2 shu3
+瘤唇鯔屬	liu2 chun2 zi1 shu3
+甕鰩屬	weng4 yao2 shu3
+寡鱗鰕虎屬	gua3 lin2 xia1 hu3 shu3
+肩鰓鳚屬	jian1 sai1 wei4 shu3
+錘頜魚屬	chui2 han4 yu2 shu3
+鈎吻鮭屬	gou1 wen3 gui1 shu3
+夢鮟鱇屬	meng4 an4 kang1 shu3
+鱗牛尾魚屬	lin2 niu2 wei3 yu2 shu3
+鈎隱魚屬	gou1 yin3 yu2 shu3
+白甲魚屬	bai2 jia3 yu2 shu3
+蛇鰻屬	she2 man2 shu3
+鼬鳚屬	you4 wei4 shu3
+頭孔塘鱧屬	tou2 kong3 tang2 li3 shu3
+沙蛇鰻屬	sha1 she2 man2 shu3
+後鰭魚屬	hou4 qi2 yu2 shu3
+後頜魚屬	hou4 han4 yu2 shu3
+石鯛屬	shi2 diao1 shu3
+蓋刺鰕虎屬	gai4 ci4 xia1 hu3 shu3
+馬口鱲屬	ma3 kou3 la4 shu3
+鬚鯊屬	xu1 sha1 shu3
+口孵非鯽屬	kou3 fu1 fei1 ji4 shu3
+青鱂屬	qing1 jiang1 shu3
+小骨鰧屬	xiao3 gu3 teng2 shu3
+骨鱗魚屬	gu3 lin2 yu2 shu3
+鸚天竺鯛屬	ying1 tian1 zhu2 diao1 shu3
+箱魨屬	xiang1 tun2 shu3
+巨棘鱸屬	ju4 ji2 lu2 shu3
+牙屬	ya2  shu3
+擬赤刀魚屬	ni3 chi4 dao1 yu2 shu3
+尖唇魚屬	jian1 chun2 yu2 shu3
+尖吻䱵屬	jian1 wen3 weng1 shu3
+狹頜海鰻屬	xia2 han4 hai3 man2 shu3
+尖塘鱧屬	jian1 tang2 li3 shu3
+尖吻單棘魨屬	jian1 wen3 dan1 ji2 tun2 shu3
+飛鱵屬	fei1 zhen1 shu3
+溝鰕虎屬	gou1 xia1 hu3 shu3
+厚巨口魚屬	hou4 ju4 kou3 yu2 shu3
+真鯛屬	zhen1 diao1 shu3
+鯧屬	chang1 shu3
+擬海蠕鰻屬	ni3 hai3 ru2 man2 shu3
+短鯒屬	duan3 yong3 shu3
+副鳚屬	fu4 wei4 shu3
+擬鮃屬	ni3 ping2 shu3
+擬烏尾鮗屬	ni3 wu1 wei3 dong1 shu3
+擬刺尾鯛屬	ni3 ci4 wei3 diao1 shu3
+擬鱗鮋屬	ni3 lin2 you2 shu3
+副鋸刺蓋魚屬	fu4 ju4 ci4 gai4 yu2 shu3
+擬矛尾鰕虎屬	ni3 mao2 wei3 xia1 hu3 shu3
+副唇魚屬	fu4 chun2 yu2 shu3
+副䱵屬	fu4 weng1 shu3
+副沙條鯊屬	fu4 sha1 tiao2 sha1 shu3
+副葉鰕虎屬	fu4 ye4 xia1 hu3 shu3
+副海豬魚屬	fu4 hai3 zhu1 yu2 shu3
+牙鮃屬	ya2 ping2 shu3
+副革單棘魨屬	fu4 ge2 dan1 ji2 tun2 shu3
+副雙邊魚屬	fu4 shuang1 bian1 yu2 shu3
+副泥鰍屬	fu4 ni2 qiu1 shu3
+副單棘魨屬	fu4 dan1 ji2 tun2 shu3
+擬鱸屬	ni3 lu2 shu3
+鬚鰨屬	xu1 ta4 shu3
+副絨皮鮋屬	fu4 rong2 pi2 you2 shu3
+充金眼鯛屬	chong1 jin1 yan3 diao1 shu3
+磯鱸屬	ji1 lu2 shu3
+擬蓑鮋屬	ni3 suo1 you2 shu3
+副細鯽屬	fu4 xi4 ji4 shu3
+副眶棘鱸屬	fu4 kuang1 ji2 lu2 shu3
+擬鯥屬	ni3 lu4 shu3
+圓鱗鮋屬	yuan2 lin2 you2 shu3
+烏鰺屬	wu1 shen1 shu3
+准燧鯛屬	zhun3 sui4 diao1 shu3
+副三棘魨屬	fu4 san1 ji2 tun2 shu3
+副孔鰕虎屬	fu4 kong3 xia1 hu3 shu3
+准的鯛屬	zhun3 de5 diao1 shu3
+豹鰨屬	bao4 ta4 shu3
+擬鰻尾鳚屬	ni3 man2 wei3 wei4 shu3
+擬飛魚屬	ni3 fei1 yu2 shu3
+舌塘鱧屬	she2 tang2 li3 shu3
+盾尾鯊屬	dun4 wei3 sha1 shu3
+海緋鯉屬	hai3 fei1 li3 shu3
+海蛾魚屬	hai3 e2 yu2 shu3
+牙鯻屬	ya2 la4 shu3
+多齒鰳屬	duo1 chi3 le4 shu3
+擬金眼鯛屬	ni3 jin1 yan3 diao1 shu3
+白姑魚屬	bai2 gu1 yu2 shu3
+五棘鯛屬	wu3 ji2 diao1 shu3
+錐齒鯛屬	zhui1 chi3 diao1 shu3
+長臂鑽嘴魚屬	zhang3 bi4 zuan1 zui3 yu2 shu3
+隆背八角魚屬	long2 bei4 ba1 jiao3 yu2 shu3
+彈塗魚屬	dan4 tu2 yu2 shu3
+黃魴鮄屬	huang2 fang2 fu2 shu3
+前角單棘魨屬	qian2 jiao3 dan1 ji2 tun2 shu3
+跳岩鳚屬	tiao4 yan2 wei4 shu3
+偽大眼鮋屬	wei3 da4 yan3 you2 shu3
+異齒喉盤魚屬	yi4 chi3 hou2 pan2 yu2 shu3
+擬錦鳚屬	ni3 jin3 wei4 shu3
+袋巨口魚屬	dai4 ju4 kou3 yu2 shu3
+光胸鰏屬	guang1 xiong1 bi4 shu3
+光巨口魚屬	guang1 ju4 kou3 yu2 shu3
+錐海龍屬	zhui1 hai3 long2 shu3
+小褐鱈屬	xiao3 he4 xue3 shu3
+繡雀鯛屬	xiu4 que4 diao1 shu3
+斜鱗笛鯛屬	xie2 lin2 di2 diao1 shu3
+荳齒蛇鰻屬	dou4 chi3 she2 man2 shu3
+斜頜鰈屬	xie2 han4 die2 shu3
+橫口鳚屬	heng2 kou3 wei4 shu3
+燕魚屬	yan4 yu2 shu3
+寬尾鶴鱵屬	kuan1 wei3 he4 zhen1 shu3
+牛尾魚屬	niu2 wei3 yu2 shu3
+黃點鯆屬	huang2 dian3 pu1 shu3
+香魚屬	xiang1 yu2 shu3
+胡椒鯛屬	hu2 jiao1 diao1 shu3
+棘花鱸屬	ji2 hua1 lu2 shu3
+平頭鮋屬	ping2 tou2 you2 shu3
+固曲齒鯛屬	gu4 qu1 chi3 diao1 shu3
+刺鰓鮨屬	ci4 sai1 yi4 shu3
+多鱗魚屬	duo1 lin2 yu2 shu3
+深水尾魟屬	shen1 shui3 wei3 hong2 shu3
+七夕魚屬	qi1 xi1 yu2 shu3
+木葉鰈屬	mu4 ye4 die2 shu3
+腹瓢鰕虎屬	fu4 piao2 xia1 hu3 shu3
+褶囊海鯰屬	zhe1 nang2 hai3 nian2 shu3
+鰻鯰屬	man2 nian2 shu3
+花鱂屬	hua1 jiang1 shu3
+瓦鰈屬	wa3 die2 shu3
+鬚鮨屬	xu1 yi4 shu3
+軸光魚屬	zhou2 guang1 yu2 shu3
+多刺背棘魚屬	duo1 ci4 bei4 ji2 yu2 shu3
+多指馬鮁屬	duo1 zhi3 ma3 ba2 shu3
+燭光魚屬	zhu2 guang1 yu2 shu3
+刀光魚屬	dao1 guang1 yu2 shu3
+鬚鰃屬	xu1 wei1 shu3
+蓋刺魚屬	gai4 ci4 yu2 shu3
+雀鯛屬	que4 diao1 shu3
+波光鰓雀鯛屬	bo1 guang1 sai1 que4 diao1 shu3
+雞魚屬	ji1 yu2 shu3
+扁鰺屬	bian3 shen1 shu3
+海鮋屬	hai3 you2 shu3
+孔頭鼬魚屬	kong3 tou2 you4 yu2 shu3
+孔鼬鳚屬	kong3 you4 wei4 shu3
+犀孔鯛屬	xi1 kong3 diao1 shu3
+矮冠鳚屬	ai3 guan4 wei4 shu3
+大眼鯛屬	da4 yan3 diao1 shu3
+鋸鱗鰕虎屬	ju4 lin2 xia1 hu3 shu3
+鋸峰齒鯊屬	ju4 feng1 chi3 sha1 shu3
+鋸尾鯛屬	ju4 wei3 diao1 shu3
+棘眼天竺鯛屬	ji2 yan3 tian1 zhu2 diao1 shu3
+鋸竺鯛屬	ju4 zhu2 diao1 shu3
+大鱗大眼鯛屬	da4 lin2 da4 yan3 diao1 shu3
+鋸鯊屬	ju4 sha1 shu3
+姬鯛屬	ji1 diao1 shu3
+鋸齒雀鯛屬	ju4 chi3 que4 diao1 shu3
+原飛魚屬	yuan2 fei1 yu2 shu3
+紫金魚屬	zi3 jin1 yu2 shu3
+原鯊屬	yuan2 sha1 shu3
+原玉筋魚屬	yuan2 yu4 jin1 yu2 shu3
+原燈頰鯛屬	yuan2 deng1 jia2 diao1 shu3
+原黃姑魚屬	yuan2 huang2 gu1 yu2 shu3
+砂鰕虎屬	sha1 xia1 hu3 shu3
+沙鱸屬	sha1 lu2 shu3
+玉鯧屬	yu4 chang1 shu3
+刺鯧屬	ci4 chang1 shu3
+鰜鮃屬	qian4 ping2 shu3
+鰜屬	qian4 shu3
+擬鰨屬	ni3 ta4 shu3
+假革單棘魨屬	jia3 ge2 dan1 ji2 tun2 shu3
+擬天竺鯛屬	ni3 tian1 zhu2 diao1 shu3
+准天竺鯛屬	zhun3 tian1 zhu2 diao1 shu3
+擬花鱸屬	ni3 hua1 lu2 shu3
+擬平牙鰕虎屬	ni3 ping2 ya2 xia1 hu3 shu3
+擬蝮鯙屬	ni3 fu4 chun2 shu3
+副鱗魨屬	fu4 lin2 tun2 shu3
+擬鰺屬	ni3 shen1 shu3
+擬錐齒鯊屬	ni3 zhui1 chi3 sha1 shu3
+擬櫛尾鱈屬	ni3 jie2 wei3 xue3 shu3
+擬唇魚屬	ni3 chun2 yu2 shu3
+擬雀鯛屬	ni3 que4 diao1 shu3
+擬盔魚屬	ni3 kui1 yu2 shu3
+擬岩鱚屬	ni3 yan2 xi3 shu3
+擬鰕虎屬	ni3 xia1 hu3 shu3
+擬線鱸屬	ni3 xian4 lu2 shu3
+擬海豬魚屬	ni3 hai3 zhu1 yu2 shu3
+擬隆頭魚屬	ni3 long2 tou2 yu2 shu3
+擬奈氏鱈屬	ni3 nai4 shi4 xue3 shu3
+擬鼠鼬魚屬	ni3 shu3 you4 yu2 shu3
+羅漢魚屬	luo2 han4 yu2 shu3
+斑鮃屬	ban1 ping2 shu3
+假三棘魨屬	jia3 san1 ji2 tun2 shu3
+擬皺唇鯊屬	ni3 zhou4 chun2 sha1 shu3
+隱棘杜父魚屬	yin3 ji2 du4 fu4 yu2 shu3
+帆鰭魴屬	fan1 qi2 fang2 shu3
+長鰭鸚鯛屬	zhang3 qi2 ying1 diao1 shu3
+凹尾塘鱧屬	ao1 wei3 tang2 li3 shu3
+鱗鰭烏尾鮗屬	lin2 qi2 wu1 wei3 dong1 shu3
+狹蓑鮋屬	xia2 suo1 you2 shu3
+蓑鮋屬	suo1 you2 shu3
+翼魟屬	yi4 hong2 shu3
+帆鰭鱸鰧屬	fan1 qi2 lu2 teng2 shu3
+長背魚屬	zhang3 bei4 yu2 shu3
+高鰭魴屬	gao1 qi2 fang2 shu3
+翼甲鯰屬	yi4 jia3 nian2 shu3
+棘角魚屬	ji2 jiao3 yu2 shu3
+小䰾屬	xiao3 ba1 shu3
+甲尻魚屬	jia3 kao1 yu2 shu3
+守鰓蛇鰻屬	shou3 sai1 she2 man2 shu3
+錐齒隱魚屬	zhui1 chi3 yin3 yu2 shu3
+海鱺屬	hai3 li2 shu3
+長翻車魨屬	zhang3 fan1 che1 tun2 shu3
+金帶花鯖屬	jin1 dai4 hua1 qing1 shu3
+犬牙牛尾魚屬	quan3 ya2 niu2 wei3 yu2 shu3
+雷鰕虎屬	lei2 xia1 hu3 shu3
+皇帶魚屬	huang2 dai4 yu2 shu3
+短鮣屬	duan3 yin4 shu3
+斜棘䲗屬	xie2 ji2 xian2 shu3
+短帶鰆屬	duan3 dai4 chun1 shu3
+箭天竺鯛屬	jian4 tian1 zhu2 diao1 shu3
+棒鳚屬	bang4 wei4 shu3
+平鯛屬	ping2 diao1 shu3
+細杉魚屬	xi4 shan1 yu2 shu3
+鱟頭鱝屬	hou4 tou2 fen4 shu3
+鯨鯊屬	jing1 sha1 shu3
+吻棘魨屬	wen3 ji2 tun2 shu3
+琵琶鱝屬	pi2 pa2 fen4 shu3
+管鼻鯙屬	guan3 bi2 chun2 shu3
+吻鮋屬	wen3 you2 shu3
+牛鼻鱝屬	niu2 bi2 fen4 shu3
+曲齒鯊屬	qu1 chi3 sha1 shu3
+鰟鮍屬	fang2 pi1 shu3
+溪鱧屬	xi1 li3 shu3
+吻巨棘鮟鱇屬	wen3 ju4 ji2 an4 kang1 shu3
+龍紋鱝屬	long2 wen2 fen4 shu3
+突吻糯鰻屬	tu2 wen3 nuo4 man2 shu3
+吻鱵屬	wen3 zhen1 shu3
+倒棘牛尾魚屬	dao4 ji2 niu2 wei3 yu2 shu3
+紅口仿鯨屬	hong2 kou3 fang3 jing1 shu3
+魯氏魚屬	lu3 shi4 yu2 shu3
+紅盲鰻屬	hong2 mang2 man2 shu3
+薔薇帶鰆屬	qiang2 wei1 dai4 chun1 shu3
+珠斑花鱸屬	zhu1 ban1 hua1 lu2 shu3
+銀魚屬	yin2 yu2 shu3
+唇齒鳚屬	chun2 chi3 wei4 shu3
+貧鱠屬	pin2 kuai4 shu3
+冠鰈屬	guan4 die2 shu3
+沙鰈屬	sha1 die2 shu3
+齒鰆屬	chi3 chun1 shu3
+小沙丁魚屬	xiao3 sha1 ding1 yu2 shu3
+擬沙丁魚屬	ni3 sha1 ding1 yu2 shu3
+棘鱗魚屬	ji2 lin2 yu2 shu3
+紅魴鮄屬	hong2 fang2 fu2 shu3
+蜥鰻屬	xi1 man2 shu3
+蛇鯔屬	she2 zi1 shu3
+叉吻魴鮄屬	cha1 wen3 fang2 fu2 shu3
+青彈塗魚屬	qing1 dan4 tu2 yu2 shu3
+頂鬚鳚屬	ding3 xu1 wei4 shu3
+鸚哥魚屬	ying1 ge1 yu2 shu3
+金錢魚屬	jin1 qian2 yu2 shu3
+辛氏微體魚屬	xin1 shi4 wei1 ti3 yu2 shu3
+裂身鰕虎屬	lie4 shen1 xia1 hu3 shu3
+擬石首魚屬	ni3 shi2 shou3 yu2 shu3
+蠕蛇鰻屬	ru2 she2 man2 shu3
+斜齒鯊屬	xie2 chi3 sha1 shu3
+眶棘鱸屬	kuang1 ji2 lu2 shu3
+鯖屬	qing1 shu3
+逆鈎鰺屬	ni4 gou1 shen1 shu3
+馬加鰆屬	ma3 jia1 chun1 shu3
+鯥屬	lu4 shu3
+鱗孔鯛屬	lin2 kong3 diao1 shu3
+弱蜥魚屬	ruo4 xi1 yu2 shu3
+鮋屬	you2 shu3
+小鮋屬	xiao3 you2 shu3
+擬鮋屬	ni3 you2 shu3
+鞭尾鯙屬	bian1 wei3 chun2 shu3
+貓鯊屬	mao1 sha1 shu3
+異鱗鯊屬	yi4 lin2 sha1 shu3
+鱗頭鮋屬	lin2 tou2 you2 shu3
+石狗公屬	shi2 gou3 gong1 shu3
+仰口鰏屬	yang3 kou3 bi4 shu3
+凹肩鰺屬	ao1 jian1 shen1 shu3
+細鰺屬	xi4 shen1 shu3
+月花鱸屬	yue4 hua1 lu2 shu3
+鰤屬	shi1 shu3
+小甘鰺屬	xiao3 gan1 shen1 shu3
+寬身花鱸屬	kuan1 shen1 hua1 lu2 shu3
+鋸鋤鰻屬	ju4 chu2 man2 shu3
+囊頭鮋屬	nang2 tou2 you2 shu3
+黃鯽屬	huang2 ji4 shu3
+瓢鰭鰕虎屬	piao2 qi2 xia1 hu3 shu3
+瓢眼鰕虎屬	piao2 yan3 xia1 hu3 shu3
+臭肚魚屬	chou4 du4 yu2 shu3
+纖鑽光魚屬	xian1 zuan1 guang1 yu2 shu3
+沙鮻屬	sha1 suo1 shu3
+鯰屬	nian2 shu3
+寄生鰻屬	ji4 sheng1 man2 shu3
+華鯿屬	hua2 bian1 shu3
+海灣無鰭鰩屬	hai3 wan1 wu2 qi2 yao2 shu3
+中華刺鰍屬	zhong1 hua2 ci4 qiu1 shu3
+中華爬岩鰍屬	zhong1 hua2 pa2 yan2 qiu1 shu3
+管天竺鯛屬	guan3 tian1 zhu2 diao1 shu3
+仙鼬鳚屬	xian1 you4 wei4 shu3
+龜蛇鰻屬	gui1 she2 man2 shu3
+微笑鰕虎屬	wei1 xiao4 xia1 hu3 shu3
+斯氏前鰭鮋屬	si1 shi4 qian2 qi2 you2 shu3
+鰨屬	ta4 shu3
+刀海龍屬	dao1 hai3 long2 shu3
+長鼻鰨屬	zhang3 bi2 ta4 shu3
+剃刀魚屬	ti4 dao1 yu2 shu3
+梭羅蝠魚屬	suo1 luo2 fu2 yu2 shu3
+睡鯊屬	shui4 sha1 shu3
+眶棘牛尾魚屬	kuang1 ji2 niu2 wei3 yu2 shu3
+圓天竺鯛屬	yuan2 tian1 zhu2 diao1 shu3
+短吻鼠尾鱈屬	duan3 wen3 shu3 wei3 xue3 shu3
+圓魨屬	yuan2 tun2 shu3
+金梭魚屬	jin1 suo1 yu2 shu3
+雙髻鯊屬	shuang1 ji4 sha1 shu3
+鏢吻鱈屬	biao1 wen3 xue3 shu3
+棘䰾屬	ji2 ba1 shu3
+棘蟾鮟鱇屬	ji2 chan2 an4 kang1 shu3
+銀帶鯡屬	yin2 dai4 fei4 shu3
+跳磯鳚屬	tiao4 ji1 wei4 shu3
+史氏三鰭鳚屬	shi3 shi4 san1 qi2 wei4 shu3
+銀鮈屬	yin2 ju1 shu3
+擬角鯊屬	ni3 jiao3 sha1 shu3
+卵首鱈屬	luan3 shou3 xue3 shu3
+角鯊屬	jiao3 sha1 shu3
+扁鯊屬	bian3 sha1 shu3
+叉棘魚屬	cha1 ji2 yu2 shu3
+錫鳚屬	xi1 wei4 shu3
+高身雀鯛屬	gao1 shen1 que4 diao1 shu3
+虎鯊屬	hu3 sha1 shu3
+纖柱魚屬	xian1 zhu4 yu2 shu3
+狹鰕虎屬	xia2 xia1 hu3 shu3
+冠鱗單棘魨屬	guan4 lin2 dan1 ji2 tun2 shu3
+褶胸魚屬	zhe1 xiong1 yu2 shu3
+紫胸魚屬	zi3 xiong1 yu2 shu3
+枝牙鰕虎屬	zhi1 ya2 xia1 hu3 shu3
+粗鱗鯒屬	cu1 lin2 yong3 shu3
+側帶小公魚屬	ce4 dai4 xiao3 gong1 yu2 shu3
+巨口魚屬	ju4 kou3 yu2 shu3
+圓尾鶴鱵屬	yuan2 wei3 he4 zhen1 shu3
+裸胸鯙屬	luo3 xiong1 chun2 shu3
+蘇彝士隆頭魚屬	su1 yi2 shi4 long2 tou2 yu2 shu3
+鼓氣鱗魨屬	gu3 qi4 lin2 tun2 shu3
+大眼牛尾魚屬	da4 yan3 niu2 wei3 yu2 shu3
+蘇納牛尾魚屬	su1 na4 niu2 wei3 yu2 shu3
+標燈魚屬	biao1 deng1 yu2 shu3
+曳絲笛鯛屬	ye4 si1 di2 diao1 shu3
+無線鰨屬	wu2 xian4 ta4 shu3
+癒齒鯛屬	yu4 chi3 diao1 shu3
+尖牙鱸屬	jian1 ya2 lu2 shu3
+毒鮋屬	du2 you2 shu3
+合鰓鰻屬	he2 sai1 man2 shu3
+箬鰨屬	ruo4 ta4 shu3
+連鰭䲗屬	lian2 qi2 xian2 shu3
+擬海龍屬	ni3 hai3 long2 shu3
+海龍屬	hai3 long2 shu3
+狗母魚屬	gou3 mu3 yu2 shu3
+窄口䰾屬	zhai3 kou3 ba1 shu3
+月燈魚屬	yue4 deng1 yu2 shu3
+擬鱨屬	ni3 chang2 shu3
+長鰭天竺鯛屬	zhang3 qi2 tian1 zhu2 diao1 shu3
+帶鮋屬	dai4 you2 shu3
+鰻鰕虎屬	man2 xia1 hu3 shu3
+線鰭鮃屬	xian4 qi2 ping2 shu3
+條尾魟屬	tiao2 wei3 hong2 shu3
+條尾魟屬	tiao2 wei3 hong2 shu3
+多紀魨屬	duo1 ji4 tun2 shu3
+塔氏魚屬	ta4 shi4 yu2 shu3
+稜魴屬	leng2 fang2 shu3
+長鰭烏魴屬	zhang3 qi2 wu1 fang2 shu3
+大鱗鮃屬	da4 lin2 ping2 shu3
+細鱗雀鯛屬	xi4 lin2 que4 diao1 shu3
+隆頭帶魚屬	long2 tou2 dai4 yu2 shu3
+鰣屬	shi2 shu3
+花鮃屬	hua1 ping2 shu3
+鯻屬	la4 shu3
+方尾鯧屬	fang1 wei3 chang1 shu3
+四鰭旗魚屬	si4 qi2 qi2 yu2 shu3
+真裸皮鮋屬	zhen1 luo3 pi2 you2 shu3
+三稜箱魨屬	san1 leng2 xiang1 tun2 shu3
+錦魚屬	jin3 yu2 shu3
+短角單棘魨屬	duan3 jiao3 dan1 ji2 tun2 shu3
+奇鮟鱇屬	qi2 an4 kang1 shu3
+稜鯷屬	leng2 ti2 shu3
+鮪屬	wei3 shu3
+尖身帶鰆屬	jian1 shen1 dai4 chun1 shu3
+纓光魚屬	ying1 guang1 yu2 shu3
+多棘牛尾魚屬	duo1 ji2 niu2 wei3 yu2 shu3
+富山鰕虎屬	fu4 shan1 xia1 hu3 shu3
+電鱝屬	dian4 fen4 shu3
+窄額魨屬	zhai3 e2 tun2 shu3
+姬花鱸屬	ji1 hua1 lu2 shu3
+粗頭鮋屬	cu1 tou2 you2 shu3
+大頭花桿狗母屬	da4 tou2 hua1 gan3 gou3 mu3 shu3
+鯧鰺屬	chang1 shen1 shu3
+粗鰭魚屬	cu1 qi2 yu2 shu3
+粗尾鱈屬	cu1 wei3 xue3 shu3
+竹筴魚屬	zhu2 ce4 yu2 shu3
+粗吻海龍屬	cu1 wen3 hai3 long2 shu3
+擬三棘魨屬	ni3 san1 ji2 tun2 shu3
+三棘魨屬	san1 ji2 tun2 shu3
+三齒鯊屬	san1 chi3 sha1 shu3
+皺唇鯊屬	zhou4 chun2 sha1 shu3
+帶魚屬	dai4 yu2 shu3
+絲鰭鱚屬	si1 qi2 xi3 shu3
+毛足鬥魚屬	mao2 zu2 dou4 yu2 shu3
+縞鰕虎屬	gao3 xia1 hu3 shu3
+磨鰕虎屬	mo2 xia1 hu3 shu3
+小磨鰕虎屬	xiao3 mo2 xia1 hu3 shu3
+三齒魨屬	san1 chi3 tun2 shu3
+尾燈魚屬	wei3 deng1 yu2 shu3
+三鑽光魚屬	san1 zuan1 guang1 yu2 shu3
+三足棘魨屬	san1 zu2 ji2 tun2 shu3
+孔鰕虎屬	kong3 xia1 hu3 shu3
+美麗鰕虎屬	mei3 li4 xia1 hu3 shu3
+泰氏魨屬	tai4 shi4 tun2 shu3
+叉尾鶴鱵屬	cha1 wei3 he4 zhen1 shu3
+蜍鮟鱇屬	chu2 an4 kang1 shu3
+羽鰓鰺屬	yu3 sai1 shen1 shu3
+緋鯉屬	fei1 li3 shu3
+鰧屬	teng2 shu3
+尾甲鰺屬	wei3 jia3 shen1 shu3
+尾糯鰻屬	wei3 nuo4 man2 shu3
+沙粒魟屬	sha1 li4 hong2 shu3
+扁魟屬	bian3 hong2 shu3
+尾鯙屬	wei3 chun2 shu3
+范氏鰕虎屬	fan4 shi4 xia1 hu3 shu3
+叢光魚屬	cong2 guang1 yu2 shu3
+梵鰕虎屬	fan4 xia1 hu3 shu3
+星鱠屬	xing1 kuai4 shu3
+草鰺屬	cao3 shen1 shu3
+凹腹鱈屬	ao1 fu4 xue3 shu3
+箭天竺鯛屬	jian4 tian1 zhu2 diao1 shu3
+串光魚屬	chuan4 guang1 yu2 shu3
+脊頜鯛屬	ji2 han4 diao1 shu3
+脊頜鯛屬	ji3 han4 diao1 shu3
+濕鸚鯛屬	shi1 ying1 diao1 shu3
+黃鱗魨屬	huang2 lin2 tun2 shu3
+峽塘鱧屬	xia2 tang2 li3 shu3
+奇頭鰧屬	qi2 tou2 teng2 shu3
+平額魚屬	ping2 e2 yu2 shu3
+異菱的鯛屬	yi4 ling2 de5 diao1 shu3
+帶鳚屬	dai4 wei4 shu3
+劍旗魚屬	jian4 qi2 yu2 shu3
+劍尾魚屬	jian4 wei3 yu2 shu3
+棘鰓鼬鳚屬	ji2 sai1 you4 wei4 shu3
+列齒蛇鰻屬	lie4 chi3 she2 man2 shu3
+天竺鯛屬	tian1 zhu2 diao1 shu3
+裸頰鰕虎屬	luo3 jia2 xia1 hu3 shu3
+鱲屬	la4 shu3
+鱗睡鯊屬	lin2 shui4 sha1 shu3
+角蝶魚屬	jiao3 die2 yu2 shu3
+高鰭刺尾鯛屬	gao1 qi2 ci4 wei3 diao1 shu3
+條鰨屬	tiao2 ta4 shu3
+異鱗鱵屬	yi4 lin2 zhen1 shu3
+甲眼的鯛屬	jia3 yan3 de5 diao1 shu3
+雨印鯛屬	yu3 yin4 diao1 shu3
+的鯛屬	de5 diao1 shu3
+狸天竺鯛屬	li2 tian1 zhu2 diao1 shu3
+絲鰭魚屬	si1 qi2 yu2 shu3
+指鰭䲗屬	zhi3 qi2 xian2 shu3
+鎧鯊屬	kai3 sha1 shu3
+圓雀鯛屬	yuan2 que4 diao1 shu3
+魟屬	hong1 shu3
+田氏鯊屬	tian2 shi4 sha1 shu3
+圓鰺屬	yuan2 shen1 shu3
+裸齒隆頭魚屬	luo3 chi3 long2 tou2 yu2 shu3
+短鰭蓑鮋屬	duan3 qi2 suo1 you2 shu3
+牙鯛屬	ya2 diao1 shu3
+扇尾魚屬	shan4 wei3 yu2 shu3
+環盤魚屬	huan2 pan2 yu2 shu3
+少棘胡椒鯛屬	shao3 ji2 hu2 jiao1 diao1 shu3
+獵神深海鼬魚屬	lie4 shen2 shen1 hai3 you4 yu2 shu3
+眶燈魚屬	kuang1 deng1 yu2 shu3
+雙角鮟鱇屬	shuang1 jiao3 an4 kang1 shu3
+絲指鼬鳚屬	si1 zhi3 you4 wei4 shu3
+網鳚屬	wang3 wei4 shu3
+雙線鼬魚屬	shuang1 xian4 you4 yu2 shu3
+二齒魨屬	er4 chi3 tun2 shu3
+明燈魚屬	ming2 deng1 yu2 shu3
+雙線䲗屬	shuang1 xian4 xian2 shu3
+雙光魚屬	shuang1 guang1 yu2 shu3
+雙帶鱸屬	shuang1 dai4 lu2 shu3
+雙鰭烏尾鮗屬	shuang1 qi2 wu1 wei3 dong1 shu3
+長吻鰩屬	zhang3 wen3 yao2 shu3
+怖銀眼魚屬	bu4 yin2 yan3 yu2 shu3
+擬銀眼鯛屬	ni3 yin2 yan3 diao1 shu3
+銀眼鯛屬	yin2 yan3 diao1 shu3
+盤雀鯛屬	pan2 que4 diao1 shu3
+盤孔喉盤魚屬	pan2 kong3 hou2 pan2 yu2 shu3
+圓吻鯝屬	yuan2 wen3 gu4 shu3
+赤鮭屬	chi4 gui1 shu3
+長蜥魚屬	zhang3 xi1 yu2 shu3
+狡鮟鱇屬	jiao3 an4 kang1 shu3
+槍吻海龍屬	qiang1 wen3 hai3 long2 shu3
+矛吻海龍屬	mao2 wen3 hai3 long2 shu3
+雞籠鯧屬	ji1 long2 chang1 shu3
+捷鰕虎魚屬	jie2 xia1 hu3 yu2 shu3
+斑節海龍屬	ban1 jie2 hai3 long2 shu3
+圓腹鯡屬	yuan2 fu4 fei4 shu3
+線棘細齒鰧屬	xian4 ji2 xi4 chi3 teng2 shu3
+前肛鰻屬	qian2 gang1 man2 shu3
+短身前肛鰻屬	duan3 shen1 qian2 gang1 man2 shu3
+盔蓑鮋屬	kui1 suo1 you2 shu3
+蠕鰻屬	ru2 man2 shu3
+鮣屬	yin4 shu3
+蝮鯙屬	fu4 chun2 shu3
+笠鱗鯊屬	li4 lin2 sha1 shu3
+底隱魚屬	di3 yin3 yu2 shu3
+刺巨口魚屬	ci4 ju4 kou3 yu2 shu3
+無鬚鳚屬	wu2 xu1 wei4 shu3
+黑鮋屬	hei1 you2 shu3
+伊氏鰕虎屬	yi1 shi4 xia1 hu3 shu3
+帶鰺屬	dai4 shen1 shu3
+電燈魚屬	dian4 deng1 yu2 shu3
+塘鱧屬	tang2 li3 shu3
+喉褶䲗屬	hou2 zhe1 xian2 shu3
+四指馬鮁屬	si4 zhi3 ma3 ba2 shu3
+黄鯔屬	huang2 zi1 shu3
+海鰱屬	hai3 lian2 shu3
+諧魚屬	xie2 yu2 shu3
+細隱魚屬	xi4 yin3 yu2 shu3
+勾吻鯙屬	gou1 wen3 chun2 shu3
+連鰭鳚屬	lian2 qi2 wei4 shu3
+半稜鯷屬	ban4 leng2 ti2 shu3
+鯷屬	ti2 shu3
+短額鮃屬	duan3 e2 ping2 shu3
+雙線鳚屬	shuang1 xian4 wei4 shu3
+間項鬚鳚屬	jian1 xiang4 xu1 wei4 shu3
+蟲鰈屬	chong2 die2 shu3
+白鯧屬	bai2 chang1 shu3
+伸口魚屬	shen1 kou3 yu2 shu3
+側殖文昌魚屬	ce4 zhi2 wen2 chang1 yu2 shu3
+深海天竺鯛屬	shen1 hai3 tian1 zhu2 diao1 shu3
+石斑魚屬	shi2 ban1 yu2 shu3
+短鰭帶鰆屬	duan3 qi2 dai4 chun1 shu3
+黏盲鰻屬	nian2 mang2 man2 shu3
+馬鰏屬	ma3 bi4 shu3
+旋杜父魚屬	xuan2 du4 fu4 yu2 shu3
+光唇鯊屬	guang1 chun2 sha1 shu3
+絨鮋屬	rong2 you2 shu3
+達摩毒鮋屬	da2 mo2 du2 you2 shu3
+紅諧魚屬	hong2 xie2 yu2 shu3
+濱鯛屬	bin1 diao1 shu3
+烏鯊屬	wu1 sha1 shu3
+脂眼鯡屬	zhi1 yan3 fei4 shu3
+布氏鰏屬	bu4 shi4 bi4 shu3
+長吻鱵屬	zhang3 wen3 zhen1 shu3
+真冠帶魚屬	zhen1 guan4 dai4 yu2 shu3
+真烏魴屬	zhen1 wu1 fang2 shu3
+真芒巨口魚屬	zhen1 mang2 ju4 kou3 yu2 shu3
+寬海蛾魚屬	kuan1 hai3 e2 yu2 shu3
+寬咽魚屬	kuan1 yan1 yu2 shu3
+突吻隱魚屬	tu2 wen3 yin3 yu2 shu3
+真巨口魚屬	zhen1 ju4 kou3 yu2 shu3
+巴鰹屬	ba1 jian1 shu3
+齒口魚屬	chi3 kou3 yu2 shu3
+磯鰕虎屬	ji1 xia1 hu3 shu3
+尖吻棘鯛屬	jian1 wen3 ji2 diao1 shu3
+窄顱帶魚屬	zhai3 lu2 dai4 yu2 shu3
+鋤齒鯛屬	chu2 chi3 diao1 shu3
+多鬚鳚屬	duo1 xu1 wei4 shu3
+飛魚屬	fei1 yu2 shu3
+鸚鰕虎屬	ying1 xia1 hu3 shu3
+蜂巢鰕虎屬	feng1 chao2 xia1 hu3 shu3
+光尾海龍屬	guang1 wei3 hai3 long2 shu3
+天竺鯛屬	tian1 zhu2 diao1 shu3
+絲指馬鮁屬	si1 zhi3 ma3 ba2 shu3
+馬鞭魚屬	ma3 bian1 yu2 shu3
+小天竺鯛屬	xiao3 tian1 zhu2 diao1 shu3
+鑷口魚屬	nie4 kou3 yu2 shu3
+臺鰍屬	tai2 qiu1 shu3
+乳突天竺鯛屬	ru3 tu2 tian1 zhu2 diao1 shu3
+福氏躄魚屬	fu2 shi4 bi4 yu2 shu3
+紡錘鰕虎屬	fang3 chui2 xia1 hu3 shu3
+短稚鱈屬	duan3 zhi4 xue3 shu3
+鼠鱈屬	shu3 xue3 shu3
+鼬鯊屬	you4 sha1 shu3
+蜥鯊屬	xi1 sha1 shu3
+食蚊魚屬	shi2 wen2 yu2 shu3
+波面黃魴鮄屬	bo1 mian4 huang2 fang2 fu2 shu3
+牙鰏屬	ya2 bi4 shu3
+帶鰆屬	dai4 chun1 shu3
+頰刺魚屬	jia2 ci4 yu2 shu3
+珠母麗魚屬	zhu1 mu3 li4 yu2 shu3
+橋燧鯛屬	qiao2 sui4 diao1 shu3
+鑽嘴魚屬	zuan1 zui3 yu2 shu3
+巨棘鮟鱇屬	ju4 ji2 an4 kang1 shu3
+巨棘花鱸屬	ju4 ji2 hua1 lu2 shu3
+巨尾魚屬	ju4 wei3 yu2 shu3
+瓜子鱲屬	gua1 zi3 la4 shu3
+珍珠塘鱧屬	zhen1 zhu1 tang2 li3 shu3
+葉鯛屬	ye4 diao1 shu3
+藍吻琵琶鱝屬	lan2 wen3 pi2 pa2 fen4 shu3
+舌珍魚屬	she2 zhen1 yu2 shu3
+叉舌鰕虎屬	cha1 she2 xia1 hu3 shu3
+曲鼬鳚屬	qu1 you4 wei4 shu3
+無齒鰺屬	wu2 chi3 shen1 shu3
+齒頜鯛屬	chi3 han4 diao1 shu3
+頜鱗鰕虎屬	han4 lin2 xia1 hu3 shu3
+頜吻鰻屬	han4 wen3 man2 shu3
+鰍鮀屬	qiu1 tuo2 shu3
+葉鰕虎屬	ye4 xia1 hu3 shu3
+髯鰕虎屬	ran2 xia1 hu3 shu3
+尖嘴魚屬	jian1 zui3 yu2 shu3
+鼠鱚屬	shu3 xi3 shu3
+鑽光魚屬	zuan1 guang1 yu2 shu3
+園鰻屬	yuan2 man2 shu3
+纖齒鱸屬	xian1 chi3 lu2 shu3
+雙線鮃屬	shuang1 xian4 ping2 shu3
+雙線鯖屬	shuang1 xian4 qing1 shu3
+線菱鯛屬	xian4 ling2 diao1 shu3
+線紋魚屬	xian4 wen2 yu2 shu3
+棘線牛尾魚屬	ji2 xian4 niu2 wei3 yu2 shu3
+鳚鰕虎屬	wei4 xia1 hu3 shu3
+裸天竺鯛屬	luo3 tian1 zhu2 diao1 shu3
+白鱲屬	bai2 la4 shu3
+裸海鯙屬	luo3 hai3 chun2 shu3
+裸鰆屬	luo3 chun1 shu3
+裸胸鯙屬	luo3 xiong1 chun2 shu3
+燕魟屬	yan4 hong1 shu3
+豹鯊屬	bao4 sha1 shu3
+海蠋魚屬	hai3 zhu2 yu2 shu3
+海豬魚屬	hai3 zhu1 yu2 shu3
+牙棘茄魚屬	ya2 ji2 jia1 yu2 shu3
+棘茄魚屬	ji2 jia1 yu2 shu3
+擬棘茄魚屬	ni3 ji2 jia1 yu2 shu3
+帶狀多環海龍屬	dai4 zhuang4 duo1 huan2 hai3 long2 shu3
+管吻魨屬	guan3 wen3 tun2 shu3
+擬海蜥魚屬	ni3 hai3 xi1 yu2 shu3
+髭鯛屬	zi1 diao1 shu3
+鐮齒魚屬	lian2 chi3 yu2 shu3
+粗棘鰕虎屬	cu1 ji2 xia1 hu3 shu3
+彎線鳚屬	wan1 xian4 wei4 shu3
+無鰾鮋屬	wu2 biao4 you2 shu3
+叉牙鯻屬	cha1 ya2 la4 shu3
+䱻屬	hua2 shu3
+半麗魚屬	ban4 li4 yu2 shu3
+䱗屬	can1 shu3
+半沙條鯊屬	ban4 sha1 tiao2 sha1 shu3
+密鰓魚屬	mi4 sai1 yu2 shu3
+間鰕虎屬	jian1 xia1 hu3 shu3
+半裸魚屬	ban4 luo3 yu2 shu3
+鱵屬	zhen1 shu3
+銀斑蝶魚屬	yin2 ban1 die2 yu2 shu3
+半皺唇鯊屬	ban4 zhou4 chun2 sha1 shu3
+立旗鯛屬	li4 qi2 diao1 shu3
+七鰓鯊屬	qi1 sai1 sha1 shu3
+似青鱗魚屬	shi4 qing1 lin2 yu2 shu3
+異鯊屬	yi4 sha1 shu3
+異糯鰻屬	yi4 nuo4 man2 shu3
+異齒鯊屬	yi4 chi3 sha1 shu3
+鈎嘴鰨屬	gou1 zui3 ta4 shu3
+異星杉魚屬	yi4 xing1 shan1 yu2 shu3
+異大眼鯛屬	yi4 da4 yan3 diao1 shu3
+六鰓鯊屬	liu4 sai1 sha1 shu3
+六鰓魟屬	liu4 sai1 hong1 shu3
+花點鰣屬	hua1 dian3 shi2 shu3
+鞭冠鮟鱇屬	bian1 guan4 an4 kang1 shu3
+窄尾魟屬	zhai3 wei3 hong1 shu3
+姬魚屬	ji1 yu2 shu3
+亨燈魚屬	heng1 deng1 yu2 shu3
+多環海龍屬	duo1 huan2 hai3 long2 shu3
+海馬屬	hai3 ma3 shu3
+馬鸚哥魚屬	ma3 ying1 ge1 yu2 shu3
+細身飛魚屬	xi4 shen1 fei1 yu2 shu3
+旗鰓鰻屬	qi2 sai1 man2 shu3
+薄躄魚屬	bao2 bi4 yu2 shu3
+帆鰭魚屬	fan1 qi2 yu2 shu3
+裸躄魚屬	luo3 bi4 yu2 shu3
+鈍吻鼬鳚屬	dun4 wen3 you4 wei4 shu3
+全裸鸚鯛屬	quan2 luo3 ying1 diao1 shu3
+長趾鼬鳚屬	zhang3 zhi3 you4 wei4 shu3
+針鯒屬	zhen1 yong3 shu3
+棘鼬鳚屬	ji2 you4 wei4 shu3
+似弱棘魚屬	shi4 ruo4 ji2 yu2 shu3
+棘鮋屬	ji2 you2 shu3
+胸燧鯛屬	xiong1 sui4 diao1 shu3
+尖棘鯛屬	jian1 ji2 diao1 shu3
+壯燈魚屬	zhuang4 deng1 yu2 shu3
+膜首鱈屬	mo2 shou3 xue3 shu3
+櫛鯧屬	jie2 chang1 shu3
+下銀漢魚屬	xia4 yin2 han4 yu2 shu3
+下盔鯊屬	xia4 kui1 sha1 shu3
+鰱屬	lian2 shu3
+下鱵屬	xia4 zhen1 shu3
+下美鮨屬	xia4 mei3 yi4 shu3
+黃黝魚屬	huang2 you3 yu2 shu3
+高鬚魚屬	gao1 xu1 yu2 shu3
+頜光魚屬	han4 guang1 yu2 shu3
+披肩鰧屬	pi1 jian1 teng2 shu3
+奇棘魚屬	qi2 ji2 yu2 shu3
+小隱棘鮋屬	xiao3 yin3 ji2 you2 shu3
+大軟腕魚屬	da4 ruan3 wan4 yu2 shu3
+鰳屬	le4 shu3
+軟泥鰻屬	ruan3 ni2 man2 shu3
+瞳牛尾魚屬	tong2 niu2 wei3 yu2 shu3
+項鰭魚屬	xiang4 qi2 yu2 shu3
+鬼鮋屬	gui3 you2 shu3
+紅鮋屬	hong2 you2 shu3
+達摩鯊屬	da2 mo2 sha1 shu3
+浪花魚屬	lang4 hua1 yu2 shu3
+蛙鳚屬	wa1 wei4 shu3
+銜鰕虎屬	xian2 xia1 hu3 shu3
+立翅旗魚屬	li4 chi4 qi2 yu2 shu3
+旗魚屬	qi2 yu2 shu3
+鯖鯊屬	qing1 sha1 shu3
+日本糯鰻屬	ri4 ben3 nuo4 man2 shu3
+日本左鮃屬	ri4 ben3 zuo3 ping2 shu3
+天竺鯛屬	tian1 zhu2 diao1 shu3
+叫姑魚屬	jiao4 gu1 yu2 shu3
+紅肉旗魚屬	hong2 rou4 qi2 yu2 shu3
+鱷口鮃屬	e4 kou3 ping2 shu3
+正鰹屬	zheng4 jian1 shu3
+眶鼻擬鯙屬	kuang1 bi2 ni3 chun2 shu3
+黏鰕虎屬	nian2 xia1 hu3 shu3
+棘箱魨屬	ji2 xiang1 tun2 shu3
+高知鱸屬	gao1 zhi1 lu2 shu3
+窩斑鰶屬	wo1 ban1 ji4 shu3
+庫曼鰕虎屬	ku4 man4 xia1 hu3 shu3
+湯鯉屬	tang1 li3 shu3
+舟尾鱈屬	zhou1 wei3 xue3 shu3
+凹鰭牛尾魚屬	ao1 qi2 niu2 wei3 yu2 shu3
+舵魚屬	duo4 yu2 shu3
+戴氏魚屬	dai4 shi4 yu2 shu3
+突唇魚屬	tu2 chun2 yu2 shu3
+裂唇魚屬	lie4 chun2 yu2 shu3
+褶唇魚屬	zhe1 chun2 yu2 shu3
+乳鯖屬	ru3 qing1 shu3
+角箱魨屬	jiao3 xiang1 tun2 shu3
+絲鰭鱈屬	si1 qi2 xue3 shu3
+左鮃屬	zuo3 ping2 shu3
+兔頭魨屬	tu4 tou2 tun2 shu3
+寬頜鳚屬	kuan1 han4 wei4 shu3
+粗鋤蛇鰻屬	cu1 chu2 she2 man2 shu3
+炬燈魚屬	ju4 deng1 yu2 shu3
+珍燈魚屬	zhen1 deng1 yu2 shu3
+月魚屬	yue4 yu2 shu3
+軟鼬鳚屬	ruan3 you4 wei4 shu3
+黃魚屬	huang2 yu2 shu3
+花鱸屬	hua1 lu2 shu3
+尖吻鱸屬	jian1 wen3 lu2 shu3
+鰏屬	bi4 shu3
+蓋蛇鰻屬	gai4 she2 man2 shu3
+連鰭喉盤魚屬	lian2 qi2 hou2 pan2 yu2 shu3
+麗竺鯛屬	li4 zhu2 diao1 shu3
+鱗眼鮃屬	lin2 yan3 ping2 shu3
+鱗網帶鰆屬	lin2 wang3 dai4 chun1 shu3
+鱗角魚屬	lin2 jiao3 yu2 shu3
+細皮黑頭魚屬	xi4 pi2 hei1 tou2 yu2 shu3
+尖豬魚屬	jian1 zhu1 yu2 shu3
+纖鸚鯉屬	xian1 ying1 li3 shu3
+纖巨口魚屬	xian1 ju4 kou3 yu2 shu3
+沙帶魚屬	sha1 dai4 yu2 shu3
+裸蜥魚屬	luo3 xi1 yu2 shu3
+光鱗魚屬	guang1 lin2 yu2 shu3
+龍占魚屬	long2 zhan4 yu2 shu3
+圓鱗鰨屬	yuan2 lin2 ta4 shu3
+沙鱚屬	sha1 xi3 shu3
+鬚鮟鱇屬	xu1 an4 kang1 shu3
+鮰屬	hui2 shu3
+長鱸屬	zhang3 lu2 shu3
+葉唇笛鯛屬	ye4 chun2 di2 diao1 shu3
+葉燈魚屬	ye4 deng1 yu2 shu3
+松鯛屬	song1 diao1 shu3
+擬鮟鱇屬	ni3 an4 kang1 shu3
+黑口鮟鱇屬	hei1 kou3 an4 kang1 shu3
+擬鮟鱇屬	ni3 an1 kang1 shu3
+黑口鮟鱇屬	hei1 kou3 an1 kang1 shu3
+鮟鱇屬	an4 kang1 shu3
+鮟鱇屬	an1 kang1 shu3
+冠鮟鱇屬	guan4 an4 kang1 shu3
+冠帶魚屬	guan4 dai4 yu2 shu3
+潯鱈屬	xun2 xue3 shu3
+白頭鰕虎屬	bai2 tou2 xia1 hu3 shu3
+彎齒鯊屬	wan1 chi3 sha1 shu3
+裸葉鰕虎屬	luo3 ye4 xia1 hu3 shu3
+梭鱈屬	suo1 xue3 shu3
+矛鼬鳚屬	mao2 you4 wei4 shu3
+竿鰕虎屬	gan1 xia1 hu3 shu3
+狼牙雙盤鰕虎屬	lang2 ya2 shuang1 pan2 xia1 hu3 shu3
+笛鯛屬	di2 diao1 shu3
+羽鰓笛鯛屬	yu3 sai1 di2 diao1 shu3
+大頭糯鰻屬	da4 tou2 nuo4 man2 shu3
+壯牙鰕虎屬	zhuang4 ya2 xia1 hu3 shu3
+大咽齒鯛屬	da4 yan1 chi3 diao1 shu3
+鬥魚屬	dou4 yu2 shu3
+鷸嘴魚屬	yu4 zui3 yu2 shu3
+擬管吻魨屬	ni3 guan3 wen3 tun2 shu3
+大尾鱈屬	da4 wei3 xue3 shu3
+巨頜鰕虎屬	ju4 han4 xia1 hu3 shu3
+藍旗魚屬	lan2 qi2 yu2 shu3
+弱棘魚屬	ruo4 ji2 yu2 shu3
+軟首鱈屬	ruan3 shou3 xue3 shu3
+柔骨魚屬	rou2 gu3 yu2 shu3
+軟魚屬	ruan3 yu2 shu3
+海蝠魚屬	hai3 fu2 yu2 shu3
+丸川杜父魚屬	wan2 chuan1 du4 fu4 yu2 shu3
+矛尾翻車魨屬	mao2 wei3 fan1 che1 tun2 shu3
+愚首鱈屬	yu2 shou3 xue3 shu3
+穆氏暗光魚屬	mu4 shi4 an4 guang1 yu2 shu3
+箭齒前肛鰻屬	jian4 chi3 qian2 gang1 man2 shu3
+巨口鯊屬	ju4 kou3 sha1 shu3
+大甲鰺屬	da4 jia3 shen1 shu3
+魴屬	fang2 shu3
+大海鰱屬	da4 hai3 lian2 shu3
+大花鮨屬	da4 hua1 yi4 shu3
+稀棘鳚屬	xi1 ji2 wei4 shu3
+黑鮟鱇屬	hei1 an4 kang1 shu3
+黑鮟鱇屬	hei1 an1 kang1 shu3
+黑淵鮭屬	hei1 yuan1 gui1 shu3
+黑巨口魚屬	hei1 ju4 kou3 yu2 shu3
+角鱗魨屬	jiao3 lin2 tun2 shu3
+眼眶魚屬	yan3 kuang1 yu2 shu3
+中鋸鯻屬	zhong1 ju4 la4 shu3
+梅氏鯿屬	mei2 shi4 bian1 shu3
+柴魚屬	chai2 yu2 shu3
+腹囊海龍屬	fu4 nang2 hai3 long2 shu3
+小鰾鮈屬	xiao3 biao4 ju1 shu3
+小鰾鮈屬	xiao3 biao1 ju1 shu3
+黑鱸屬	hei1 lu2 shu3
+鮸屬	mian3 shu3
+擬鳚屬	ni3 wei4 shu3
+虎鮋屬	hu3 you2 shu3
+泥鰍屬	ni2 qiu1 shu3
+尖吻鯊屬	jian1 wen3 sha1 shu3
+蝠鱝屬	fu2 fen4 shu3
+翻車魨屬	fan1 che1 tun2 shu3
+單棘魨屬	dan1 ji2 tun2 shu3
+松球魚屬	song1 qiu2 yu2 shu3
+銀鱗鯧屬	yin2 lin2 chang1 shu3
+單趾鼬鳚屬	dan1 zhi3 you4 wei4 shu3
+黃鱔屬	huang2 shan4 shu3
+單列齒鯛屬	dan1 lie4 chi3 diao1 shu3
+莫鯔屬	mo4 zi1 shu3
+蚓鰻屬	yin3 man2 shu3
+鯔屬	zi1 shu3
+鯔鰕虎屬	zi1 xia1 hu3 shu3
+擬鬚鯛屬	ni3 xu1 diao1 shu3
+海鰻屬	hai3 man2 shu3
+貂鯊屬	diao1 sha1 shu3
+燈籠魚屬	deng1 long2 yu2 shu3
+鋤突鰕虎屬	chu2 tu2 xia1 hu3 shu3
+鱝屬	fen4 shu3
+青魚屬	qing1 yu2 shu3
+嬌麗魚屬	jiao1 li4 yu2 shu3
+棘鰓塘鱧屬	ji2 sai1 tang2 li3 shu3
+皮頦鱵屬	pi2 hai2 zhen1 shu3
+皮頦鱵屬	pi2 ke1 zhen1 shu3
+窄尾魟屬	zhai3 wei3 hong1 shu3
+龜鮻屬	gui1 suo1 shu3
+鴨嘴鯰屬	ya1 zui3 nian2 shu3
+副尼麗魚屬	fu4 ni2 li4 yu2 shu3
+奇棘魚	qi2 ji2 yu2
+長鰳	zhang3 le4
+黑口鰳	hei1 kou3 le4
+日本眼眶牛尾魚	ri4 ben3 yan3 kuang1 niu2 wei3 yu2
+巴氏項鰭魚	ba1 shi4 xiang4 qi2 yu2
+洛神項鰭魚	luo4 shen2 xiang4 qi2 yu2
+黑斑項鰭魚	hei1 ban1 xiang4 qi2 yu2
+巴父項鰭魚	ba1 fu4 xiang4 qi2 yu2
+三帶項鰭魚	san1 dai4 xiang4 qi2 yu2
+彩虹項鰭魚	cai3 hong2 xiang4 qi2 yu2
+薔薇項鰭魚	qiang2 wei1 xiang4 qi2 yu2
+雙指鬼鮋	shuang1 zhi3 gui3 you2
+日本鬼鮋	ri4 ben3 gui3 you2
+中華鬼鮋	zhong1 hua2 gui3 you2
+巴西達摩鯊	ba1 xi1 da2 mo2 sha1
+刀浪花魚	dao1 lang4 hua1 yu2
+杜氏蛙鳚	du4 shi4 wa1 wei4
+暗紋蛙鳚	an4 wen2 wa1 wei4
+線紋蛙鳚	xian4 wen2 wa1 wei4
+穆氏蛙鳚	mu4 shi4 wa1 wei4
+康培氏銜鰕虎	kang1 pei2 shi4 xian2 xia1 hu3
+華麗銜鰕虎	hua2 li4 xian2 xia1 hu3
+戈氏銜鰕虎	ge1 shi4 xian2 xia1 hu3
+和歌銜鰕虎	he2 ge1 xian2 xia1 hu3
+飾妝銜鰕虎	shi4 zhuang1 xian2 xia1 hu3
+線斑銜鰕虎	xian4 ban1 xian2 xia1 hu3
+立翅旗魚	li4 chi4 qi2 yu2
+雨傘旗魚	yu3 san3 qi2 yu2
+尖吻鯖鯊	jian1 wen3 qing1 sha1
+小頭日本糯鰻	xiao3 tou2 ri4 ben3 nuo4 man2
+白邊銀口天竺鯛	bai2 bian1 yin2 kou3 tian1 zhu2 diao1
+條紋銀口天竺鯛	tiao2 wen2 yin2 kou3 tian1 zhu2 diao1
+鈍頭叫姑魚	dun4 tou2 jiao4 gu1 yu2
+皮氏叫姑魚	pi2 shi4 jiao4 gu1 yu2
+鱗鰭叫姑魚	lin2 qi2 jiao4 gu1 yu2
+紅肉旗魚	hong2 rou4 qi2 yu2
+鱷口鮃	e4 kou3 ping2
+正鰹	zheng4 jian1
+棘箱魨	ji2 xiang1 tun2
+黃帶高知鱸	huang2 dai4 gao1 zhi1 lu2
+窩斑鰶	wo1 ban1 ji4
+海氏庫曼鰕虎	hai3 shi4 ku4 man4 xia1 hu3
+黑邊湯鯉	hei1 bian1 tang1 li3
+鯔形湯鯉	zi1 xing2 tang1 li3
+大口湯鯉	da4 kou3 tang1 li3
+日本舟尾鱈	ri4 ben3 zhou1 wei3 xue3
+凹鰭牛尾魚	ao1 qi2 niu2 wei3 yu2
+天竺舵魚	tian1 zhu2 duo4 yu2
+低鰭舵魚	di1 qi2 duo4 yu2
+圓眼戴氏魚	yuan2 yan3 dai4 shi4 yu2
+線紋戴氏魚	xian4 wen2 dai4 shi4 yu2
+單線突唇魚	dan1 xian4 tu2 chun2 yu2
+裂唇魚	lie4 chun2 yu2
+乳鯖	ru3 qing1
+角箱魨	jiao3 xiang1 tun2
+棘背角箱魨	ji2 bei4 jiao3 xiang1 tun2
+福氏角箱魨	fu2 shi4 jiao3 xiang1 tun2
+北原氏左鮃	bei3 yuan2 shi4 zuo3 ping2
+黑鰓兔頭魨	hei1 sai1 tu4 tou2 tun2
+月尾兔頭魨	yue4 wei3 tu4 tou2 tun2
+圓斑兔頭魨	yuan2 ban1 tu4 tou2 tun2
+明多羅龍口蛇鰻	ming2 duo1 luo2 long2 kou3 she2 man2
+發光炬燈魚	fa1 guang1 ju4 deng1 yu2
+翼珍燈魚	yi4 zhen1 deng1 yu2
+天紐珍燈魚	tian1 niu3 zhen1 deng1 yu2
+圖氏珍燈魚	tu2 shi4 zhen1 deng1 yu2
+斑點月魚	ban1 dian3 yue4 yu2
+布氏軟鼬魚	bu4 shi4 ruan3 you4 yu2
+大黃魚	da4 huang2 yu2
+小黃魚	xiao3 huang2 yu2
+日本花鱸	ri4 ben3 hua1 lu2
+尖吻鱸	jian1 wen3 lu2
+秘馬鰏	mi4 ma3 bi4
+短棘鰏	duan3 ji2 bi4
+半環蓋蛇鰻	ban4 huan2 gai4 she2 man2
+黃連鰭喉盤魚	huang2 lian2 qi2 hou2 pan2 yu2
+美身多鱗天竺鯛	mei3 shen1 duo1 lin2 tian1 zhu2 diao1
+鱗網帶鰆	lin2 wang3 dai4 chun1
+翼鱗角魚	yi4 lin2 jiao3 yu2
+日本鱗角魚	ri4 ben3 lin2 jiao3 yu2
+達氏姬魚	da2 shi4 ji1 yu2
+纖鸚鯉	xian1 ying1 li3
+沙帶魚	sha1 dai4 yu2
+日本光鱗魚	ri4 ben3 guang1 lin2 yu2
+紅鰭龍占魚	hong2 qi2 long2 zhan4 yu2
+絲棘龍占魚	si1 ji2 long2 zhan4 yu2
+單斑龍占魚	dan1 ban1 long2 zhan4 yu2
+烏帽龍占魚	wu1 mao4 long2 zhan4 yu2
+青嘴龍占魚	qing1 zui3 long2 zhan4 yu2
+橘帶龍占魚	ju2 dai4 long2 zhan4 yu2
+尖吻龍占魚	jian1 wen3 long2 zhan4 yu2
+黃帶龍占魚	huang2 dai4 long2 zhan4 yu2
+網紋龍占魚	wang3 wen2 long2 zhan4 yu2
+半帶龍占魚	ban4 dai4 long2 zhan4 yu2
+雜色龍占魚	za2 se4 long2 zhan4 yu2
+黑斑圓鱗鰨	hei1 ban1 yuan2 lin2 ta4
+印度鬚鮟鱇	yin4 du4 xu1 an4 kang1
+黑緣長鱸	hei1 yuan2 zhang3 lu2
+日本長鱸	ri4 ben3 zhang3 lu2
+寬帶長鱸	kuan1 dai4 zhang3 lu2
+斑長鱸	ban1 zhang3 lu2
+蒼白長鱸	cang1 bai2 zhang3 lu2
+孫氏長鱸	sun1 shi4 zhang3 lu2
+葉唇笛鯛	ye4 chun2 di2 diao1
+吉氏葉燈魚	ji2 shi4 ye4 deng1 yu2
+松鯛	song1 diao1
+少棘擬鮟鱇	shao3 ji2 ni3 an4 kang1
+大眼擬鮟鱇	da4 yan3 ni3 an4 kang1
+奈氏擬鮟鱇	nai4 shi4 ni3 an4 kang1
+黑口鮟鱇	hei1 kou3 an4 kang1
+黃鮟鱇	huang2 an4 kang1
+印度冠鮟鱇	yin4 du4 guan4 an4 kang1
+少棘擬鮟鱇	shao3 ji2 ni3 an1 kang1
+大眼擬鮟鱇	da4 yan3 ni3 an1 kang1
+奈氏擬鮟鱇	nai4 shi4 ni3 an1 kang1
+黑口鮟鱇	hei1 kou3 an1 kang1
+黃鮟鱇	huang2 an1 kang1
+印度冠鮟鱇	yin4 du4 guan4 an1 kang1
+凹鰭冠帶魚	ao1 qi2 guan4 dai4 yu2
+褐潯鱈	he4 xun2 xue3
+土佐潯鱈	tu3 zuo3 xun2 xue3
+廣鼻彎齒鯊	guang3 bi2 wan1 chi3 sha1
+短身裸葉鰕虎	duan3 shen1 luo3 ye4 xia1 hu3
+黑緣梭鱈	hei1 yuan2 suo1 xue3
+銀紋笛鯛	yin2 wen2 di2 diao1
+孟加拉笛鯛	meng4 jia1 la1 di2 diao1
+白斑笛鯛	bai2 ban1 di2 diao1
+藍帶笛鯛	lan2 dai4 di2 diao1
+胸斑笛鯛	xiong1 ban1 di2 diao1
+交叉笛鯛	jiao1 cha1 di2 diao1
+斜帶笛鯛	xie2 dai4 di2 diao1
+埃氏笛鯛	ai1 shi4 di2 diao1
+赤鰭笛鯛	chi4 qi2 di2 diao1
+火斑笛鯛	huo3 ban1 di2 diao1
+黃足笛鯛	huang2 zu2 di2 diao1
+隆背笛鯛	long2 bei4 di2 diao1
+約氏笛鯛	yue1 shi4 di2 diao1
+四線笛鯛	si4 xian4 di2 diao1
+月尾笛鯛	yue4 wei3 di2 diao1
+正笛鯛	zheng4 di2 diao1
+前鱗笛鯛	qian2 lin2 di2 diao1
+馬拉巴笛鯛	ma3 la1 ba1 di2 diao1
+單斑笛鯛	dan1 ban1 di2 diao1
+奧氏笛鯛	ao4 shi4 di2 diao1
+五線笛鯛	wu3 xian4 di2 diao1
+海雞母笛鯛	hai3 ji1 mu3 di2 diao1
+紅紋笛鯛	hong2 wen2 di2 diao1
+勒氏笛鯛	lei1 shi4 di2 diao1
+川紋笛鯛	chuan1 wen2 di2 diao1
+縱帶笛鯛	zong4 dai4 di2 diao1
+黑背羽鰓笛鯛	hei1 bei4 yu3 sai1 di2 diao1
+短吻大頭糯鰻	duan3 wen3 da4 tou2 nuo4 man2
+珠斑大咽齒鯛	zhu1 ban1 da4 yan1 chi3 diao1
+蓋斑鬥魚	gai4 ban1 dou4 yu2
+鷸嘴魚	yu4 zui3 yu2
+尤氏擬管吻魨	you2 shi4 ni3 guan3 wen3 tun2
+齊氏窄尾魟	qi2 shi4 zhai3 wei3 hong1
+大口巨頜鰕虎	da4 kou3 ju4 han4 xia1 hu3
+黑皮旗魚	hei1 pi2 qi2 yu2
+短吻弱棘魚	duan3 wen3 ruo4 ji2 yu2
+側條弱棘魚	ce4 tiao2 ruo4 ji2 yu2
+滑軟首鱈	hua2 ruan3 shou3 xue3
+黑柔骨魚	hei1 rou2 gu3 yu2
+密刺海蝠魚	mi4 ci4 hai3 fu2 yu2
+矛尾翻車魨	mao2 wei3 fan1 che1 tun2
+下口愚首鱈	xia4 kou3 yu2 shou3 xue3
+穆氏暗光魚	mu4 shi4 an4 guang1 yu2
+箭齒前肛鰻	jian4 chi3 qian2 gang1 man2
+大甲鰺	da4 jia3 shen1
+大海鰱	da4 hai3 lian2
+琉球大花鮨	liu2 qiu2 da4 hua1 yi4
+金鰭稀棘鳚	jin1 qi2 xi1 ji2 wei4
+黑帶稀棘鳚	hei1 dai4 xi1 ji2 wei4
+約氏黑鮟鱇	yue1 shi4 hei1 an4 kang1
+黑淵鮭	hei1 yuan1 gui1
+大眼黑巨口魚	da4 yan3 hei1 ju4 kou3 yu2
+瓦氏黑巨口魚	wa3 shi4 hei1 ju4 kou3 yu2
+黑邊角鱗魨	hei1 bian1 jiao3 lin2 tun2
+眼眶魚	yan3 kuang1 yu2
+銀身中鋸鯻	yin2 shen1 zhong1 ju4 la4
+格紋中鋸鯻	ge2 wen2 zhong1 ju4 la4
+臺灣梅氏鯿	tai2 wan1 mei2 shi4 bian1
+大鱗梅氏鯿	da4 lin2 mei2 shi4 bian1
+柴魚	chai2 yu2
+短尾腹囊海龍	duan3 wei3 fu4 nang2 hai3 long2
+無棘腹囊海龍	wu2 ji2 fu4 nang2 hai3 long2
+印尼腹囊海龍	yin4 ni2 fu4 nang2 hai3 long2
+高身小鰾鮈	gao1 shen1 xiao3 biao4 ju1
+短吻小鰾鮈	duan3 wen3 xiao3 biao4 ju1
+高身小鰾鮈	gao1 shen1 xiao3 biao1 ju1
+短吻小鰾鮈	duan3 wen3 xiao3 biao1 ju1
+大口黑鱸	da4 kou3 hei1 lu2
+鮸	mian3
+擬鳚	ni3 wei4
+單指虎鮋	dan1 zhi3 hu3 you2
+五脊虎鮋	wu3 ji2 hu3 you2
+五脊虎鮋	wu3 ji3 hu3 you2
+粗首虎鮋	cu1 shou3 hu3 you2
+泥鰍	ni2 qiu1
+阿氏前口蝠鱝	a1 shi4 qian2 kou3 fu2 fen4
+雙吻前口蝠鱝	shuang1 wen3 qian2 kou3 fu2 fen4
+日本蝠鱝	ri4 ben3 fu2 fen4
+褐背蝠鱝	he4 bei4 fu2 fen4
+印度蝠鱝	yin4 du4 fu2 fen4
+翻車魨	fan1 che1 tun2
+中華單棘魨	zhong1 hua2 dan1 ji2 tun2
+日本松毬魚	ri4 ben3 song1 qiu2 yu2
+銀鱗鯧	yin2 lin2 chang1
+黃鱔	huang2 shan4
+單列齒鯛	dan1 lie4 chi3 diao1
+長鰭莫鯔	zhang3 qi2 mo4 zi1
+佩氏莫鯔	pei4 shi4 mo4 zi1
+薛氏莫鯔	xue1 shi4 mo4 zi1
+短線蚓鰻	duan3 xian4 yin3 man2
+大頭蚓鰻	da4 tou2 yin3 man2
+鯔	zi1
+阿部氏鯔鰕虎	a1 bu4 shi4 zi1 xia1 hu3
+小鯔鰕虎	xiao3 zi1 xia1 hu3
+諸氏鯔鰕虎	zhu1 shi4 zi1 xia1 hu3
+泉鯔鰕虎	quan2 zi1 xia1 hu3
+黏皮鯔鰕虎	nian2 pi2 zi1 xia1 hu3
+黃帶擬鬚鯛	huang2 dai4 ni3 xu1 diao1
+紅背擬鬚鯛	hong2 bei4 ni3 xu1 diao1
+金帶擬鬚鯛	jin1 dai4 ni3 xu1 diao1
+百吉海鰻	bai3 ji2 hai3 man2
+灰海鰻	hui1 hai3 man2
+灰貂鯊	hui1 diao1 sha1
+星貂鯊	xing1 diao1 sha1
+粗鱗燈籠魚	cu1 lin2 deng1 long2 yu2
+鈍吻燈籠魚	dun4 wen3 deng1 long2 yu2
+櫛棘燈籠魚	jie2 ji2 deng1 long2 yu2
+絲鰭鋤突鰕虎	si1 qi2 chu2 tu2 xia1 hu3
+巴布亞鋤突鰕虎	ba1 bu4 ya3 chu2 tu2 xia1 hu3
+楊氏鋤突鰕虎	yang2 shi4 chu2 tu2 xia1 hu3
+鳶鱝	yuan1 fen4
+青魚	qing1 yu2
+斑竹花蛇鰻	ban1 zhu2 hua1 she2 man2
+斑紋花蛇鰻	ban1 wen2 hua1 she2 man2
+焦黑鋸鱗魚	jiao1 hei1 ju4 lin2 yu2
+柏氏鋸鱗魚	bai3 shi4 ju4 lin2 yu2
+六角鋸鱗魚	liu4 jiao3 ju4 lin2 yu2
+康德鋸鱗魚	kang1 de2 ju4 lin2 yu2
+赤鋸鱗魚	chi4 ju4 lin2 yu2
+堅鋸鱗魚	jian1 ju4 lin2 yu2
+紫鋸鱗魚	zi3 ju4 lin2 yu2
+赤鰓鋸鱗魚	chi4 sai1 ju4 lin2 yu2
+南氏魚	nan2 shi4 yu2
+日本單鰭電鱝	ri4 ben3 dan1 qi2 dian4 fen4
+環紋鼻魚	huan2 wen2 bi2 yu2
+粗棘鼻魚	cu1 ji2 bi2 yu2
+六棘鼻魚	liu4 ji2 bi2 yu2
+黑背鼻魚	hei1 bei4 bi2 yu2
+小鼻魚	xiao3 bi2 yu2
+擬鮪鼻魚	ni3 wei3 bi2 yu2
+球吻鼻魚	qiu2 wen3 bi2 yu2
+單角鼻魚	dan1 jiao3 bi2 yu2
+高鼻魚	gao1 bi2 yu2
+黑帶鰺	hei1 dai4 shen1
+八棘扁天竺鯛	ba1 ji2 bian3 tian1 zhu2 diao1
+鏽鬚鯊	xiu4 xu1 sha1
+頰紋聖天竺鯛	jia2 wen2 sheng4 tian1 zhu2 diao1
+褐色聖天竺鯛	he4 se4 sheng4 tian1 zhu2 diao1
+薩摩亞聖天竺鯛	sa4 mo2 ya3 sheng4 tian1 zhu2 diao1
+尖齒檸檬鯊	jian1 chi3 ning2 meng2 sha1
+環球海鰶	huan2 qiu2 hai3 ji4
+高鼻海鰶	gao1 bi2 hai3 ji4
+線鰻	xian4 man2
+紅金線魚	hong2 jin1 xian4 yu2
+六齒金線魚	liu4 chi3 jin1 xian4 yu2
+日本金線魚	ri4 ben3 jin1 xian4 yu2
+裴氏金線魚	pei2 shi4 jin1 xian4 yu2
+金線魚	jin1 xian4 yu2
+姬金線魚	ji1 jin1 xian4 yu2
+黑潮新鼬魚	hei1 chao2 xin1 you4 yu2
+東方新帶鰆	dong1 fang1 xin1 dai4 chun1
+黑新刻齒雀鯛	hei1 xin1 ke4 chi3 que4 diao1
+黑褐新刻齒雀鯛	hei1 he4 xin1 ke4 chi3 que4 diao1
+小眼新左鮃	xiao3 yan3 xin1 zuo3 ping2
+擬三棘魨	ni3 san1 ji2 tun2
+六帶擬三棘魨	liu4 dai4 ni3 san1 ji2 tun2
+雙棘三棘魨	shuang1 ji2 san1 ji2 tun2
+灰三齒鯊	hui1 san1 chi3 sha1
+皺唇鯊	zhou4 chun2 sha1
+白帶魚	bai2 dai4 yu2
+絲鰭毛足鬥魚	si1 qi2 mao2 zu2 dou4 yu2
+髭縞鰕虎	zi1 gao3 xia1 hu3
+裸頸縞鰕虎	luo3 jing3 gao3 xia1 hu3
+暗縞鰕虎	an4 gao3 xia1 hu3
+紋縞鰕虎	wen2 gao3 xia1 hu3
+透明磨鰕虎	tou4 ming2 mo2 xia1 hu3
+縱帶磨鰕虎	zong4 dai4 mo2 xia1 hu3
+大眼磨鰕虎	da4 yan3 mo2 xia1 hu3
+沖繩磨鰕虎	chong1 sheng2 mo2 xia1 hu3
+底斑磨鰕虎	di3 ban1 mo2 xia1 hu3
+淺黑尾燈魚	qian3 hei1 wei3 deng1 yu2
+三鑽光魚	san1 zuan1 guang1 yu2
+布氏三足棘魨	bu4 shi4 san1 zu2 ji2 tun2
+鳶鱠	yuan1 kuai4
+孔鰕虎	kong3 xia1 hu3
+長刺泰氏魨	zhang3 ci4 tai4 shi4 tun2
+黑背叉尾鶴鱵	hei1 bei4 cha1 wei3 he4 zhen1
+鱷形叉尾鶴鱵	e4 xing2 cha1 wei3 he4 zhen1
+短絲羽鰓鰺	duan3 si1 yu3 sai1 shen1
+日本緋鯉	ri4 ben3 fei1 li3
+馬六甲緋鯉	ma3 liu4 jia3 fei1 li3
+縱帶緋鯉	zong4 dai4 fei1 li3
+多帶緋鯉	duo1 dai4 fei1 li3
+細斑瞻星魚	xi4 ban1 zhan1 xing1 yu2
+白舌尾甲鰺	bai2 she2 wei3 jia3 shen1
+白口尾甲鰺	bai2 kou3 wei3 jia3 shen1
+狹尾糯鰻	xia2 wei3 nuo4 man2
+糙沙粒魟	cao1 sha1 li4 hong1
+大頭尾鯙	da4 tou2 wei3 chun2
+石紋尾鯙	shi2 wen2 wei3 chun2
+小鰭尾鯙	xiao3 qi2 wei3 chun2
+雙帶范氏鰕虎	shuang1 dai4 fan4 shi4 xia1 hu3
+無斑范氏鰕虎	wu2 ban1 fan4 shi4 xia1 hu3
+長鰭范氏鰕虎	zhang3 qi2 fan4 shi4 xia1 hu3
+石壁范氏鰕虎	shi2 bi4 fan4 shi4 xia1 hu3
+點帶范氏鰕虎	dian3 dai4 fan4 shi4 xia1 hu3
+六點范氏鰕虎	liu4 dian3 fan4 shi4 xia1 hu3
+紅帶范氏鰕虎	hong2 dai4 fan4 shi4 xia1 hu3
+沃德范氏鰕虎	wo4 de2 fan4 shi4 xia1 hu3
+三斑叢光魚	san1 ban1 cong2 guang1 yu2
+安貝洛羅梵鰕虎	an1 bei4 luo4 luo2 fan4 xia1 hu3
+白緣星鱠	bai2 yuan2 xing1 kuai4
+星鱠	xing1 kuai4
+加曼氏凹腹鱈	jia1 man4 shi4 ao1 fu4 xue3
+燕尾矛天竺鯛	yan4 wei3 mao2 tian1 zhu2 diao1
+狹串光魚	xia2 chuan4 guang1 yu2
+智利串光魚	zhi4 li4 chuan4 guang1 yu2
+莫三比克脊頜鯛	mo4 san1 bi3 ke4 ji2 han4 diao1
+莫三比克脊頜鯛	mo4 san1 bi3 ke4 ji3 han4 diao1
+黑鰭濕鸚鯛	hei1 qi2 shi1 ying1 diao1
+澳洲離光魚	ao4 zhou1 li2 guang1 yu2
+金邊黃鱗魨	jin1 bian1 huang2 lin2 tun2
+多紋峽塘鱧	duo1 wen2 xia2 tang2 li3
+奇頭鰧	qi2 tou2 teng2
+異菱的鯛	yi4 ling2 de5 diao1
+劍旗魚	jian4 qi2 yu2
+劍尾魚	jian4 wei3 yu2
+花斑劍尾魚	hua1 ban1 jian4 wei3 yu2
+雲斑裸頰鰕虎	yun2 ban1 luo3 jia2 xia1 hu3
+平頜鱲	ping2 han4 la1
+角蝶魚	jiao3 die2 yu2
+黃高鰭刺尾鯛	huang2 gao1 qi2 ci4 wei3 diao1
+小高鰭刺尾鯛	xiao3 gao1 qi2 ci4 wei3 diao1
+橫帶高鰭刺尾鯛	heng2 dai4 gao1 qi2 ci4 wei3 diao1
+格條鰨	ge2 tiao2 ta4
+條鰨	tiao2 ta4
+蟾異鱗鱵	chan2 yi4 lin2 zhen1
+甲眼的鯛	jia3 yan3 de5 diao1
+雲紋雨印鯛	yun2 wen2 yu3 yin4 diao1
+日本的鯛	ri4 ben3 de5 diao1
+齊氏狸天竺鯛	qi2 shi4 li2 tian1 zhu2 diao1
+冠絲鰭魚	guan4 si1 qi2 yu2
+暗帶雙線䲗	an4 dai4 shuang1 xian4 xian2
+雙鰭烏尾鮗	shuang1 qi2 wu1 wei3 dong1
+廣東長吻鰩	guang3 dong1 zhang3 wen3 yao2
+尖嘴長吻鰩	jian1 zui3 zhang3 wen3 yao2
+大尾長吻鰩	da4 wei3 zhang3 wen3 yao2
+天狗長吻鰩	tian1 gou3 zhang3 wen3 yao2
+帕氏怖銀眼魚	pa4 shi4 bu4 yin2 yan3 yu2
+短鰭擬銀眼鯛	duan3 qi2 ni3 yin2 yan3 diao1
+銀眼鯛	yin2 yan3 diao1
+條紋盤雀鯛	tiao2 wen2 pan2 que4 diao1
+黑斑盤雀鯛	hei1 ban1 pan2 que4 diao1
+黑背盤雀鯛	hei1 bei4 pan2 que4 diao1
+圓吻鯝	yuan2 wen3 gu4
+赤鯥	chi4 lu4
+寶珈槍吻海龍	bao3 jia1 qiang1 wen3 hai3 long2
+強氏矛吻海龍	qiang2 shi4 mao2 wen3 hai3 long2
+日本矛吻海龍	ri4 ben3 mao2 wen3 hai3 long2
+條紋雞籠鯧	tiao2 wen2 ji1 long2 chang1
+斑點雞籠鯧	ban1 dian3 ji1 long2 chang1
+速泳捷鰕虎	su4 yong3 jie2 xia1 hu3
+帶紋斑節海龍	dai4 wen2 ban1 jie2 hai3 long2
+尖尾圓腹鯡	jian1 wei3 yuan2 fu4 fei4
+黃帶圓腹鯡	huang2 dai4 yuan2 fu4 fei4
+前肛鰻	qian2 gang1 man2
+布氏盔蓑鮋	bu4 shi4 kui1 suo1 you2
+小尾鰭蠕鰻	xiao3 wei3 qi2 ru2 man2
+長印魚	zhang3 yin4 yu2
+星帶蝮鯙	xing1 dai4 fu4 chun2
+多環蝮鯙	duo1 huan2 fu4 chun2
+黃斑蝮鯙	huang2 ban1 fu4 chun2
+單鬚刺巨口魚	dan1 xu1 ci4 ju4 kou3 yu2
+二色無鬚鳚	er4 se4 wu2 xu1 wei4
+納氏無鬚鳚	na4 shi4 wu2 xu1 wei4
+八重山無鬚鳚	ba1 zhong4 shan1 wu2 xu1 wei4
+雙帶鰺	shuang1 dai4 shen1
+高體電燈魚	gao1 ti3 dian4 deng1 yu2
+刺蓋塘鱧	ci4 gai4 tang2 li3
+褐塘鱧	he4 tang2 li3
+黑體塘鱧	hei1 ti3 tang2 li3
+尖頭塘鱧	jian1 tou2 tang2 li3
+雙鰭喉褶䲗	shuang1 qi2 hou2 zhe1 xian2
+多鱗四指馬鮁	duo1 lin2 si4 zhi3 ma3 ba2
+四指馬鮁	si4 zhi3 ma3 ba2
+黄鯔	huang2 zi1
+大眼海鰱	da4 yan3 hai3 lian2
+博拉細潛魚	bo2 la1 xi4 qian2 yu2
+鰻形細隱魚	man2 xing2 xi4 yin3 yu2
+荷姆氏細隱魚	he2 mu3 shi4 xi4 yin3 yu2
+佐上細隱魚	zuo3 shang4 xi4 yin3 yu2
+比基尼勾吻鯙	bi3 ji1 ni2 gou1 wen3 chun2
+苔斑勾吻鯙	tai2 ban1 gou1 wen3 chun2
+豹紋勾吻鯙	bao4 wen2 gou1 wen3 chun2
+裂吻勾吻鯙	lie4 wen3 gou1 wen3 chun2
+克氏連鰭鳚	ke4 shi4 lian2 qi2 wei4
+異葉半稜鯷	yi4 ye4 ban4 leng2 ti2
+寡鰓半稜鯷	gua3 sai1 ban4 leng2 ti2
+銀灰半稜鯷	yin2 hui1 ban4 leng2 ti2
+日本鯷	ri4 ben3 ti2
+偉鱗短額鮃	wei3 lin2 duan3 e2 ping2
+馬爾地夫短額鮃	ma3 er3 di4 fu1 duan3 e2 ping2
+篩口雙線鳚	shai1 kou3 shuang1 xian4 wei4
+條紋雙線鳚	tiao2 wen2 shuang1 xian4 wei4
+小雙線鳚	xiao3 shuang1 xian4 wei4
+矮雙線鳚	ai3 shuang1 xian4 wei4
+菲律賓雙線鳚	fei1 lv4 bin1 shuang1 xian4 wei4
+尾帶間頸鬚鳚	wei3 dai4 jian1 jing3 xu1 wei4
+斑紋間頸鬚鳚	ban1 wen2 jian1 jing3 xu1 wei4
+纓唇間頸鬚鳚	ying1 chun2 jian1 jing3 xu1 wei4
+萊特氏間頸鬚鳚	lai2 te4 shi4 jian1 jing3 xu1 wei4
+蟲紋間頸鬚鳚	chong2 wen2 jian1 jing3 xu1 wei4
+橫帶間頸鬚鳚	heng2 dai4 jian1 jing3 xu1 wei4
+海間頸鬚鳚	hai3 jian1 jing3 xu1 wei4
+格氏蟲鰈	ge2 shi4 chong2 die2
+圓白鯧	yuan2 bai2 chang1
+伸口魚	shen1 kou3 yu2
+魯卡側殖文昌魚	lu3 ka3 ce4 zhi2 wen2 chang1 yu2
+赤點石斑魚	chi4 dian3 shi2 ban1 yu2
+鑲點石斑魚	xiang1 dian3 shi2 ban1 yu2
+寶石石斑魚	bao3 shi2 shi2 ban1 yu2
+青石斑魚	qing1 shi2 ban1 yu2
+布氏石斑魚	bu4 shi4 shi2 ban1 yu2
+點列石斑魚	dian3 lie4 shi2 ban1 yu2
+褐帶石斑魚	he4 dai4 shi2 ban1 yu2
+密點石斑魚	mi4 dian3 shi2 ban1 yu2
+藍點石斑魚	lan2 dian3 shi2 ban1 yu2
+點帶石斑魚	dian3 dai4 shi2 ban1 yu2
+細點石斑魚	xi4 dian3 shi2 ban1 yu2
+小紋石斑魚	xiao3 wen2 shi2 ban1 yu2
+斑帶石斑魚	ban1 dai4 shi2 ban1 yu2
+橫帶石斑魚	heng2 dai4 shi2 ban1 yu2
+黃鰭石斑魚	huang2 qi2 shi2 ban1 yu2
+棕點石斑魚	zong1 dian3 shi2 ban1 yu2
+六角石斑魚	liu4 jiao3 shi2 ban1 yu2
+鞍帶石斑魚	an1 dai4 shi2 ban1 yu2
+寬帶石斑魚	kuan1 dai4 shi2 ban1 yu2
+大斑石斑魚	da4 ban1 shi2 ban1 yu2
+花點石斑魚	hua1 dian3 shi2 ban1 yu2
+瑪拉巴石斑魚	ma3 la1 ba1 shi2 ban1 yu2
+網紋石斑魚	wang3 wen2 shi2 ban1 yu2
+弧紋石斑魚	hu2 wen2 shi2 ban1 yu2
+紋波石斑魚	wen2 bo1 shi2 ban1 yu2
+琉璃石斑魚	liu2 li2 shi2 ban1 yu2
+清水石斑魚	qing1 shui3 shi2 ban1 yu2
+玳瑁石斑魚	dai4 mao4 shi2 ban1 yu2
+雲紋石斑魚	yun2 wen2 shi2 ban1 yu2
+雷拖氏石斑魚	lei2 tuo1 shi4 shi2 ban1 yu2
+霜點石斑魚	shuang1 dian3 shi2 ban1 yu2
+鱸滑石斑魚	lu2 hua2 shi2 ban1 yu2
+三斑石斑魚	san1 ban1 shi2 ban1 yu2
+波紋石斑魚	bo1 wen2 shi2 ban1 yu2
+布氏黏盲鰻	bu4 shi4 nian2 mang2 man2
+陳氏黏盲鰻	chen2 shi4 nian2 mang2 man2
+費氏黏盲鰻	fei4 shi4 nian2 mang2 man2
+紐氏黏盲鰻	niu3 shi4 nian2 mang2 man2
+紫黏盲鰻	zi3 nian2 mang2 man2
+沈氏黏盲鰻	shen3 shi4 nian2 mang2 man2
+臺灣黏盲鰻	tai2 wan1 nian2 mang2 man2
+懷氏黏盲鰻	huai2 shi4 nian2 mang2 man2
+楊氏黏盲鰻	yang2 shi4 nian2 mang2 man2
+長身馬鰏	zhang3 shen1 ma3 bi4
+條馬鰏	tiao2 ma3 bi4
+絨鮋	rong2 you2
+達摩毒鮋	da2 mo2 du2 you2
+史氏紅諧魚	shi3 shi4 hong2 xie2 yu2
+火花紅諧魚	huo3 hua1 hong2 xie2 yu2
+莫氏烏鯊	mo4 shi4 wu1 sha1
+希氏烏鯊	xi1 shi4 wu1 sha1
+小鱗脂眼鯡	xiao3 lin2 zhi1 yan3 fei4
+黑邊布氏鰏	hei1 bian1 bu4 shi4 bi4
+長吻鱵	zhang3 wen3 zhen1
+菲氏真冠帶魚	fei1 shi4 zhen1 guan4 dai4 yu2
+寬海蛾魚	kuan1 hai3 e2 yu2
+寬咽魚	kuan1 yan1 yu2
+日本突吻隱魚	ri4 ben3 tu2 wen3 yin3 yu2
+巴鰹	ba1 jian1
+磯鰕虎	ji1 xia1 hu3
+蔥綠磯鰕虎	cong1 lv4 ji1 xia1 hu3
+昆士蘭磯鰕虎	kun1 shi4 lan2 ji1 xia1 hu3
+尖吻棘鯛	jian1 wen3 ji2 diao1
+紅鋤齒鯛	hong2 chu2 chi3 diao1
+黃鋤齒鯛	huang2 chu2 chi3 diao1
+短多鬚鳚	duan3 duo1 xu1 wei4
+單鬚飛魚	dan1 xu1 fei1 yu2
+大頭飛魚	da4 tou2 fei1 yu2
+黑點鸚鰕虎	hei1 dian3 ying1 xia1 hu3
+縱帶鸚鰕虎	zong4 dai4 ying1 xia1 hu3
+裸頸蜂巢鰕虎	luo3 jing3 feng1 chao2 xia1 hu3
+雷氏點頰鰕虎	lei2 shi4 dian3 jia2 xia1 hu3
+紅光尾海龍	hong2 guang1 wei3 hai3 long2
+側條線天竺鯛	ce4 tiao2 xian4 tian1 zhu2 diao1
+西氏絲指馬鮁	xi1 shi4 si1 zhi3 ma3 ba2
+菲律賓小天竺鯛	fei1 lv4 bin1 xiao3 tian1 zhu2 diao1
+長吻鑷口魚	zhang3 wen3 nie4 kou3 yu2
+纓口臺鰍	ying1 kou3 tai2 qiu1
+顯斑乳突天竺鯛	xian3 ban1 ru3 tu2 tian1 zhu2 diao1
+等斑乳突天竺鯛	deng3 ban1 ru3 tu2 tian1 zhu2 diao1
+維拉乳突天竺鯛	wei2 la1 ru3 tu2 tian1 zhu2 diao1
+雜斑乳突天竺鯛	za2 ban1 ru3 tu2 tian1 zhu2 diao1
+歧胸福氏躄魚	qi2 xiong1 fu2 shi4 bi4 yu2
+下斑紡錘鰕虎	xia4 ban1 fang3 chui2 xia1 hu3
+巨紡錘鰕虎	ju4 fang3 chui2 xia1 hu3
+桔斑紡錘鰕虎	ju2 ban1 fang3 chui2 xia1 hu3
+短棘紡錘鰕虎	duan3 ji2 fang3 chui2 xia1 hu3
+喬丹氏短稚鱈	qiao2 dan1 shi4 duan3 zhi4 xue3
+多絲鼠鱈	duo1 si1 shu3 xue3
+鼬鯊	you4 sha1
+依氏蜥鯊	yi1 shi4 xi1 sha1
+梭氏蜥鯊	suo1 shi4 xi1 sha1
+食蚊魚	shi2 wen2 yu2
+波面黃魴鮄	bo1 mian4 huang2 fang2 fu2
+臺灣絲尾海鰻	tai2 wan1 si1 wei3 hai3 man2
+小牙鰏	xiao3 ya2 bi4
+頰刺魚	jia2 ci4 yu2
+黑紋頰刺魚	hei1 wen2 jia2 ci4 yu2
+半紋背頰刺魚	ban4 wen2 bei4 jia2 ci4 yu2
+渡邊頰刺魚	du4 bian1 jia2 ci4 yu2
+巴西珠母麗魚	ba1 xi1 zhu1 mu3 li4 yu2
+達氏橋燧鯛	da2 shi4 qiao2 sui4 diao1
+日本橋燧鯛	ri4 ben3 qiao2 sui4 diao1
+十棘鑽嘴魚	shi2 ji2 zuan1 zui3 yu2
+短鑽嘴魚	duan3 zuan1 zui3 yu2
+日本鑽嘴魚	ri4 ben3 zuan1 zui3 yu2
+長吻鑽嘴魚	zhang3 wen3 zuan1 zui3 yu2
+長身鑽嘴魚	zhang3 shen1 zuan1 zui3 yu2
+奧奈鑽嘴魚	ao4 nai4 zuan1 zui3 yu2
+梵氏巨棘鮟鱇	fan4 shi4 ju4 ji2 an4 kang1
+印度巨尾魚	yin4 du4 ju4 wei3 yu2
+小鱗瓜子鱲	xiao3 lin2 gua1 zi3 la4
+珍珠塘鱧	zhen1 zhu1 tang2 li3
+顆粒藍吻琵琶鱝	ke1 li4 lan2 wen3 pi2 pa2 fen4
+半帶水珍魚	ban4 dai4 shui3 zhen1 yu2
+雙鬚叉舌鰕虎	shuang1 xu1 cha1 she2 xia1 hu3
+擬背斑叉舌鰕虎	ni3 bei4 ban1 cha1 she2 xia1 hu3
+盤鰭叉舌鰕虎	pan2 qi2 cha1 she2 xia1 hu3
+橫列叉舌鰕虎	heng2 lie4 cha1 she2 xia1 hu3
+正叉舌鰕虎	zheng4 cha1 she2 xia1 hu3
+無斑叉舌鰕虎	wu2 ban1 cha1 she2 xia1 hu3
+點帶叉舌鰕虎	dian3 dai4 cha1 she2 xia1 hu3
+無齒鰺	wu2 chi3 shen1
+金帶齒頜鯛	jin1 dai4 chi3 han4 diao1
+頜鱗鰕虎	han4 lin2 xia1 hu3
+高倫頜鱗鰕虎	gao1 lun2 han4 lin2 xia1 hu3
+異頜頜吻糯鰻	yi4 han4 han4 wen3 nuo4 man2
+橙色葉鰕虎	cheng2 se4 ye4 xia1 hu3
+五帶葉鰕虎	wu3 dai4 ye4 xia1 hu3
+灰葉鰕虎	hui1 ye4 xia1 hu3
+砂髯鰕虎	sha1 ran2 xia1 hu3
+雜色尖嘴魚	za2 se4 jian1 zui3 yu2
+白邊纖齒鱸	bai2 bian1 xian1 chi3 lu2
+大眼雙線鯖	da4 yan3 shuang1 xian4 qing1
+六線黑鱸	liu4 xian4 hei1 lu2
+橫帶棘線牛尾魚	heng2 dai4 ji2 xian4 niu2 wei3 yu2
+無斑裸天竺鯛	wu2 ban1 luo3 tian1 zhu2 diao1
+菲律賓裸天竺鯛	fei1 lv4 bin1 luo3 tian1 zhu2 diao1
+真白鱲	zhen1 bai2 la4
+藍線白鱲	lan2 xian4 bai2 la4
+灰白鱲	hui1 bai2 la4
+小齒白鱲	xiao3 chi3 bai2 la4
+斑馬裸鯙	ban1 ma3 luo3 chun2
+裸鰆	luo3 chun1
+白緣裸胸鯙	bai2 yuan2 luo3 xiong1 chun2
+伯恩斯裸胸鯙	bo2 en1 si1 luo3 xiong1 chun2
+黴身裸胸鯙	mei2 shen1 luo3 xiong1 chun2
+大斑裸胸鯙	da4 ban1 luo3 xiong1 chun2
+花鰭裸胸鯙	hua1 qi2 luo3 xiong1 chun2
+黃邊鰭裸胸鯙	huang2 bian1 qi2 luo3 xiong1 chun2
+爪哇裸胸鯙	chang2 wa1 luo3 xiong1 chun2
+黴斑裸胸鯙	mei2 ban1 luo3 xiong1 chun2
+白口裸胸鯙	bai2 kou3 luo3 xiong1 chun2
+小裸胸鯙	xiao3 luo3 xiong1 chun2
+眼斑裸胸鯙	yan3 ban1 luo3 xiong1 chun2
+裸鋤裸胸鯙	luo3 chu2 luo3 xiong1 chun2
+細點裸胸鯙	xi4 dian3 luo3 xiong1 chun2
+豹紋裸胸鯙	bao4 wen2 luo3 xiong1 chun2
+鋸齒裸胸鯙	ju4 chi3 luo3 xiong1 chun2
+淡網紋裸胸鯙	dan4 wang3 wen2 luo3 xiong1 chun2
+雷褔氏裸胸鯙	lei2 fu4 shi4 luo3 xiong1 chun2
+李氏裸胸鯙	li3 shi4 luo3 xiong1 chun2
+鞍斑裸胸鯙	an1 ban1 luo3 xiong1 chun2
+密點裸胸鯙	mi4 dian3 luo3 xiong1 chun2
+疏斑裸胸鯙	shu1 ban1 luo3 xiong1 chun2
+日本燕魟	ri4 ben3 yan4 hong1
+菱燕魟	ling2 yan4 hong1
+伯氏豹鯊	bo2 shi4 bao4 sha1
+鄧氏海蠋魚	deng4 shi4 hai3 zhu2 yu2
+葛氏海蠋魚	ge2 shi4 hai3 zhu2 yu2
+馬塔法海蠋魚	ma3 ta4 fa3 hai3 zhu2 yu2
+短吻海蠋魚	duan3 wen3 hai3 zhu2 yu2
+珠光海豬魚	zhu1 guang1 hai3 zhu1 yu2
+布氏海豬魚	bu4 shi4 hai3 zhu1 yu2
+哈氏海豬魚	ha1 shi4 hai3 zhu1 yu2
+雲斑海豬魚	yun2 ban1 hai3 zhu1 yu2
+斑點海豬魚	ban1 dian3 hai3 zhu1 yu2
+緣鰭海豬魚	yuan2 qi2 hai3 zhu1 yu2
+黑尾海豬魚	hei1 wei3 hai3 zhu1 yu2
+小海豬魚	xiao3 hai3 zhu1 yu2
+雲紋海豬魚	yun2 wen2 hai3 zhu1 yu2
+黑帶海豬魚	hei1 dai4 hai3 zhu1 yu2
+飾妝海豬魚	shi4 zhuang1 hai3 zhu1 yu2
+黑額海豬魚	hei1 e2 hai3 zhu1 yu2
+頸帶海豬魚	jing3 dai4 hai3 zhu1 yu2
+細棘海豬魚	xi4 ji2 hai3 zhu1 yu2
+帝汶海豬魚	di4 wen4 hai3 zhu1 yu2
+三斑海豬魚	san1 ban1 hai3 zhu1 yu2
+塞隆海豬魚	sai1 long2 hai3 zhu1 yu2
+紅牙棘茄魚	hong2 ya2 ji2 jia1 yu2
+費氏棘茄魚	fei4 shi4 ji2 jia1 yu2
+雲紋棘茄魚	yun2 wen2 ji2 jia1 yu2
+棘茄魚	ji2 jia1 yu2
+準擬棘茄魚	zhun3 ni3 ji2 jia1 yu2
+長管吻魨	zhang3 guan3 wen3 tun2
+短吻擬海蜥魚	duan3 wen3 ni3 hai3 xi1 yu2
+黑鰭髭鯛	hei1 qi2 zi1 diao1
+印度鐮齒魚	yin4 du4 lian2 chi3 yu2
+四紋三鰭鳚	si4 wen2 san1 qi2 wei4
+三角彎線鳚	san1 jiao3 wan1 xian4 wei4
+鈍吻彎線鳚	dun4 wen3 wan1 xian4 wei4
+赫氏無鰾鮋	he4 shi4 wu2 biao4 you2
+六帶叉牙鯻	liu4 dai4 cha1 ya2 la4
+唇䱻	chun2 hua2
+䱗	can1
+小口半沙條鯊	xiao3 kou3 ban4 sha1 tiao2 sha1
+密鰓雀鯛	mi4 sai1 que4 diao1
+厚身間鰕虎	hou4 shen1 jian1 xia1 hu3
+條紋半裸魚	tiao2 wen2 ban4 luo3 yu2
+黑鰭半裸魚	hei1 qi2 ban4 luo3 yu2
+臺灣間爬岩鰍	tai2 wan1 jian1 pa2 yan2 qiu1
+斑鱵	ban1 zhen1
+南洋鱵	nan2 yang2 zhen1
+多鱗霞蝶魚	duo1 lin2 xia2 die2 yu2
+日本半皺唇鯊	ri4 ben3 ban4 zhou4 chun2 sha1
+赤魟	chi4 hong1
+黃魟	huang2 hong1
+光魟	guang1 hong1
+奈氏魟	nai4 shi4 hong1
+白吻雙帶立旗鯛	bai2 wen3 shuang1 dai4 li4 qi2 diao1
+三帶立旗鯛	san1 dai4 li4 qi2 diao1
+黑身立旗鯛	hei1 shen1 li4 qi2 diao1
+尖頭七鰓鯊	jian1 tou2 qi1 sai1 sha1
+斑點似青鱗魚	ban1 dian3 shi4 qing1 lin2 yu2
+四點似青鱗魚	si4 dian3 shi4 qing1 lin2 yu2
+雜色異鯊	za2 se4 yi4 sha1
+哈氏異糯鰻	ha1 shi4 yi4 nuo4 man2
+斑紋異齒鯊	ban1 wen2 yi4 chi3 sha1
+蛇口異星杉魚	she2 kou3 yi4 xing1 shan1 yu2
+血斑異大眼鯛	xue4 ban1 yi4 da4 yan3 diao1
+灰六鰓鯊	hui1 liu4 sai1 sha1
+花點鰣	hua1 dian3 shi2
+小眼窄尾魟	xiao3 yan3 zhai3 wei3 hong1
+花點窄尾魟	hua1 dian3 zhai3 wei3 hong1
+波緣窄尾魟	bo1 yuan2 zhai3 wei3 hong1
+日本姬魚	ri4 ben3 ji1 yu2
+藍點多環海龍	lan2 dian3 duo1 huan2 hai3 long2
+前鰭多環海龍	qian2 qi2 duo1 huan2 hai3 long2
+筆狀多環海龍	bi3 zhuang4 duo1 huan2 hai3 long2
+帶紋多環海龍	dai4 wen2 duo1 huan2 hai3 long2
+庫達海馬	ku4 da2 hai3 ma3
+三斑海馬	san1 ban1 hai3 ma3
+長頭馬鸚哥魚	zhang3 tou2 ma3 ying1 ge1 yu2
+尖頭細身飛魚	jian1 tou2 xi4 shen1 fei1 yu2
+隆氏細身飛魚	long2 shi4 xi4 shen1 fei1 yu2
+尖鰭細身飛魚	jian1 qi2 xi4 shen1 fei1 yu2
+深海旗鰓鰻	shen1 hai3 qi2 sai1 man2
+隱刺薄躄魚	yin3 ci4 bao2 bi4 yu2
+帆鰭魚	fan1 qi2 yu2
+裸躄魚	luo3 bi4 yu2
+深海鈍吻鼬魚	shen1 hai3 dun4 wen3 you4 yu2
+環紋全裸鸚鯛	huan2 wen2 quan2 luo3 ying1 diao1
+狹帶全裸鸚鯛	xia2 dai4 quan2 luo3 ying1 diao1
+棘鼬魚	ji2 you4 yu2
+叉尾似弱棘魚	cha1 wei3 shi4 ruo4 ji2 yu2
+黑首胸燧鯛	hei1 shou3 xiong1 sui4 diao1
+萊氏壯燈魚	lai2 shi4 zhuang4 deng1 yu2
+日本櫛鯧	ri4 ben3 jie2 chang1
+下銀漢魚	xia4 yin2 han4 yu2
+凡氏下銀漢魚	fan2 shi4 xia4 yin2 han4 yu2
+吳氏下銀漢魚	wu2 shi4 xia4 yin2 han4 yu2
+下盔鯊	xia4 kui1 sha1
+鰱	lian2
+鱅	yong1
+杜氏下鱵	du4 shi4 xia4 zhen1
+簡氏下鱵	jian3 shi4 xia4 zhen1
+間下鱵	jian1 xia4 zhen1
+緣下鱵	yuan2 xia4 zhen1
+八帶下美鮨	ba1 dai4 xia4 mei3 yi4
+七帶下美鮨	qi1 dai4 xia4 mei3 yi4
+似鯉黃黝魚	shi4 li3 huang2 you3 yu2
+高體高鬚魚	gao1 ti3 gao1 xu1 yu2
+東方披肩鰧	dong1 fang1 pi1 jian1 teng2
+綠鰻布氏筋魚	lv4 man2 bu4 shi4 jin1 yu2
+對斑真蛙鳚	dui4 ban1 zhen1 wa1 wei4
+尾紋真蛙鳚	wei3 wen2 zhen1 wa1 wei4
+紅點真蛙鳚	hong2 dian3 zhen1 wa1 wei4
+斷紋真蛙鳚	duan4 wen2 zhen1 wa1 wei4
+圍眼真蛙鳚	wei2 yan3 zhen1 wa1 wei4
+燕尾狐鯛	yan4 wei3 hu2 diao1
+腋斑狐鯛	ye4 ban1 hu2 diao1
+雙帶狐鯛	shuang1 dai4 hu2 diao1
+圓身狐鯛	yuan2 shen1 hu2 diao1
+對斑狐鯛	dui4 ban1 hu2 diao1
+點帶狐鯛	dian3 dai4 hu2 diao1
+斜帶狐鯛	xie2 dai4 hu2 diao1
+中胸狐鯛	zhong1 xiong1 hu2 diao1
+尖頭狐鯛	jian1 tou2 hu2 diao1
+黃斑狐鯛	huang2 ban1 hu2 diao1
+隆頭鸚哥魚	long2 tou2 ying1 ge1 yu2
+大彈塗魚	da4 dan4 tu2 yu2
+長鰭虹燈魚	zhang3 qi2 hong2 deng1 yu2
+側上虹燈魚	ce4 shang4 hong2 deng1 yu2
+掠食巨口魚	lve4 shi2 ju4 kou3 yu2
+褐長孔綿鳚	he4 zhang3 kong3 mian2 wei4
+寬頭長孔綿鳚	kuan1 tou2 zhang3 kong3 mian2 wei4
+蒙鮃	meng2 ping2
+繁星鮃	fan2 xing1 ping2
+豹紋鮃	bao4 wen2 ping2
+東方寬箬鰨	dong1 fang1 kuan1 ruo4 ta4
+鋸稜短棘簑鮋	ju4 leng2 duan3 ji2 suo1 you2
+鬚唇短體蛇鰻	xu1 chun2 duan3 ti3 she2 man2
+鱷形短體蛇鰻	e4 xing2 duan3 ti3 she2 man2
+紫身短體蛇鰻	zi3 shen1 duan3 ti3 she2 man2
+銀馬頭魚	yin2 ma3 tou2 yu2
+斑鰭馬頭魚	ban1 qi2 ma3 tou2 yu2
+日本馬頭魚	ri4 ben3 ma3 tou2 yu2
+鬼頭刀	gui3 tou2 dao1
+日本海鰗鰍	ri4 ben3 hai3 hu2 qiu1
+多鬚鼬魚	duo1 xu1 you4 yu2
+勇氏珊瑚鰕虎	yong3 shi4 shan1 hu2 xia1 hu3
+乳突蟾蜍角鮟鱇	ru3 tu2 chan2 chu2 jiao3 an4 kang1
+乳突蟾蜍角鮟鱇	ru3 tu2 chan2 chu2 jiao3 an1 kang1
+側帶丘塘鱧	ce4 dai4 qiu1 tang2 li3
+裸首脊塘鱧	luo3 shou3 ji2 tang2 li3
+裸首脊塘鱧	luo3 shou3 ji3 tang2 li3
+花錐脊塘鱧	hua1 zhui1 ji2 tang2 li3
+花錐脊塘鱧	hua1 zhui1 ji3 tang2 li3
+黑斑脊塘鱧	hei1 ban1 ji2 tang2 li3
+黑斑脊塘鱧	hei1 ban1 ji3 tang2 li3
+烏尾鮗	wu1 wei3 dong1
+黃尾烏尾鮗	huang2 wei3 wu1 wei3 dong1
+黑麗蛇鰻	hei1 li4 she2 man2
+雲紋麗蛇鰻	yun2 wen2 li4 she2 man2
+本氏䲗	ben3 shi4 xian2
+槍棘䲗	qiang1 ji2 xian2
+斑鰭䲗	ban1 qi2 xian2
+絲鰭䲗	si1 qi2 xian2
+沙氏䲗	sha1 shi4 xian2
+伊津美尾䲗	yi1 jin1 mei3 wei3 xian2
+黃棕硬皮鰕虎	huang2 zong1 ying4 pi2 xia1 hu3
+哈氏硬皮鰕虎	ha1 shi4 ying4 pi2 xia1 hu3
+斑鰭硬皮鰕虎	ban1 qi2 ying4 pi2 xia1 hu3
+沖繩硬皮鰕虎	chong1 sheng2 ying4 pi2 xia1 hu3
+稜頭硬皮鰕虎	leng2 tou2 ying4 pi2 xia1 hu3
+種子島硬皮鰕虎	zhong3 zi3 dao3 ying4 pi2 xia1 hu3
+珍珠麗七夕魚	zhen1 zhu1 li4 qi1 xi1 yu2
+卡羅鸚鯉	ka3 luo2 ying1 li3
+日本鸚鯉	ri4 ben3 ying1 li3
+臺灣鸚鯉	tai2 wan1 ying1 li3
+戈氏巧塘鱧	ge1 shi4 qiao3 tang2 li3
+臺灣鬚鱲	tai2 wan1 xu1 la4
+縱帶刺鼻單棘魨	zong4 dai4 ci4 bi2 dan1 ji2 tun2
+多線刺鼻單棘魨	duo1 xian4 ci4 bi2 dan1 ji2 tun2
+細斑刺鼻單棘魨	xi4 ban1 ci4 bi2 dan1 ji2 tun2
+疣鱗魨	you2 lin2 tun2
+安邦尖鼻魨	an1 bang1 jian1 bi2 tun2
+三帶尖鼻魨	san1 dai4 jian1 bi2 tun2
+笨氏尖鼻魨	ben4 shi4 jian1 bi2 tun2
+扁背尖鼻魨	bian3 bei4 jian1 bi2 tun2
+亮麗尖鼻魨	liang4 li4 jian1 bi2 tun2
+白斑尖鼻魨	bai2 ban1 jian1 bi2 tun2
+水紋尖鼻魨	shui3 wen2 jian1 bi2 tun2
+索氏尖鼻魨	suo3 shi4 jian1 bi2 tun2
+瓦氏尖鼻魨	wa3 shi4 jian1 bi2 tun2
+許氏菱齒花鮨	xu3 shi4 ling2 chi3 hua1 yi4
+斑點頰棘鮋	ban1 dian3 jia2 ji2 you2
+單鰭頰棘鮋	dan1 qi2 jia2 ji2 you2
+尾鱗頭鰕虎	wei3 lin2 tou2 xia1 hu3
+甲若鰺	jia3 ruo4 shen1
+長吻若鰺	zhang3 wen3 ruo4 shen1
+青羽若鰺	qing1 yu3 ruo4 shen1
+背點若鰺	bei4 dian3 ruo4 shen1
+高體若鰺	gao1 ti3 ruo4 shen1
+平線若鰺	ping2 xian4 ruo4 shen1
+星點若鰺	xing1 dian3 ruo4 shen1
+裸胸若鰺	luo3 xiong1 ruo4 shen1
+海蘭德若鰺	hai3 lan2 de2 ruo4 shen1
+馬拉巴若鰺	ma3 la1 ba1 ruo4 shen1
+長圓若鰺	zhang3 yuan2 ruo4 shen1
+直線若鰺	zhi2 xian4 ruo4 shen1
+浪人鰺	lang4 ren2 shen1
+闊步鰺	kuo4 bu4 shen1
+六帶鰺	liu4 dai4 shen1
+泰利鰺	tai4 li4 shen1
+鯽	ji4
+高身鯽	gao1 shen1 ji4
+大鼻真鯊	da4 bi2 zhen1 sha1
+鈍吻真鯊	dun4 wen3 zhen1 sha1
+短尾真鯊	duan3 wei3 zhen1 sha1
+直齒真鯊	zhi2 chi3 zhen1 sha1
+鐮狀真鯊	lian2 zhuang4 zhen1 sha1
+低鰭真鯊	di1 qi2 zhen1 sha1
+黑邊鰭真鯊	hei1 bian1 qi2 zhen1 sha1
+長鰭真鯊	zhang3 qi2 zhen1 sha1
+麥氏真鯊	mai4 shi4 zhen1 sha1
+汙翅真鯊	wu1 chi4 zhen1 sha1
+灰色真鯊	hui1 se4 zhen1 sha1
+鉛灰真鯊	qian1 hui1 zhen1 sha1
+沙拉真鯊	sha1 la4 zhen1 sha1
+錐齒鯊	zhui1 chi3 sha1
+食人鯊	shi2 ren2 sha1
+大洋長鰭鮟鱇	da4 yang2 zhang3 qi2 an4 kang1
+玻甲魚	bo1 jia3 yu2
+掘氏棘金眼鯛	jue2 shi4 ji2 jin1 yan3 diao1
+短鰭粗棘蜥䲗	duan3 qi2 cu1 ji2 xi1 xian2
+葉鱗刺鯊	ye4 lin2 ci4 sha1
+二色刺尻魚	er4 se4 ci4 kao1 yu2
+雙棘刺尻魚	shuang1 ji2 ci4 kao1 yu2
+費氏刺尻魚	fei4 shi4 ci4 kao1 yu2
+斷線刺尻魚	duan4 xian4 ci4 kao1 yu2
+黑刺尻魚	hei1 ci4 kao1 yu2
+白斑刺尻魚	bai2 ban1 ci4 kao1 yu2
+仙女刺尻魚	xian1 nv3 ci4 kao1 yu2
+福氏刺尻魚	fu2 shi4 ci4 kao1 yu2
+斑點九刺鮨	ban1 dian3 jiu3 ci4 yi4
+橙點九刺鮨	cheng2 dian3 jiu3 ci4 yi4
+橫紋九刺鮨	heng2 wen2 jiu3 ci4 yi4
+臺灣九刺鮨	tai2 wan1 jiu3 ci4 yi4
+豹紋九棘鮨	bao4 wen2 jiu3 ji2 yi4
+青星九刺鮨	qing1 xing1 jiu3 ci4 yi4
+六斑九刺鮨	liu4 ban1 jiu3 ci4 yi4
+宋氏九刺鮨	song4 shi4 jiu3 ci4 yi4
+黑緣九刺鮨	hei1 yuan2 jiu3 ci4 yi4
+尾紋九刺鮨	wei3 wen2 jiu3 ci4 yi4
+史氏赤刀魚	shi3 shi4 chi4 dao1 yu2
+霍氏角鮟鱇	huo4 shi4 jiao3 an4 kang1
+瓦明氏角燈魚	wa3 ming2 shi4 jiao3 deng1 yu2
+球首鯨尾鱈	qiu2 shou3 jing1 wei3 xue3
+象鯊	xiang4 sha1
+雙色鯨鸚哥魚	shuang1 se4 jing1 ying1 ge1 yu2
+雷根氏擬鯨口魚	lei2 gen1 shi4 ni3 jing1 kou3 yu2
+大口尖齒鯊	da4 kou3 jian1 chi3 sha1
+棘皮單棘魨	ji2 pi2 dan1 ji2 tun2
+揚旛蝴蝶魚	yang2 fan1 hu2 die2 yu2
+耳帶蝴蝶魚	er3 dai4 hu2 die2 yu2
+胡麻斑蝴蝶魚	hu2 ma2 ban1 hu2 die2 yu2
+貢氏蝴蝶魚	gong4 shi4 hu2 die2 yu2
+克氏蝴蝶魚	ke4 shi4 hu2 die2 yu2
+紋身蝴蝶魚	wen2 shen1 hu2 die2 yu2
+月斑蝴蝶魚	yue4 ban1 hu2 die2 yu2
+弓月蝴蝶魚	gong1 yue4 hu2 die2 yu2
+黑背蝴蝶魚	hei1 bei4 hu2 die2 yu2
+日本蝴蝶魚	ri4 ben3 hu2 die2 yu2
+八帶蝴蝶魚	ba1 dai4 hu2 die2 yu2
+華麗蝴蝶魚	hua2 li4 hu2 die2 yu2
+雷氏蝴蝶魚	lei2 shi4 hu2 die2 yu2
+點綴蝴蝶魚	dian3 zhui4 hu2 die2 yu2
+烏利蝴蝶魚	wu1 li4 hu2 die2 yu2
+魏氏蝴蝶魚	wei4 shi4 hu2 die2 yu2
+紅尾蝴蝶魚	hong2 wei3 hu2 die2 yu2
+黃頭荷包魚	huang2 tou2 he2 bao1 yu2
+杜寶荷包魚	du4 bao3 he2 bao1 yu2
+黑身荷包魚	hei1 shen1 he2 bao1 yu2
+中白荷包魚	zhong1 bai2 he2 bao1 yu2
+罩面荷包魚	zhao4 mian4 he2 bao1 yu2
+藍帶荷包魚	lan2 dai4 he2 bao1 yu2
+七星鱧	qi1 xing1 li3
+斑鱧	ban1 li3
+線鱧	xian4 li3
+條紋鱧鯙	tiao2 wen2 li3 chun2
+紅鰭鮊	hong2 qi2 ba4
+虱目魚	shi1 mu4 yu2
+大口長頜鮃	da4 kou3 zhang3 han4 ping2
+斯氏蝰魚	si1 shi4 kui2 yu2
+綠尾唇魚	lv4 wei3 chun2 yu2
+橫帶唇魚	heng2 dai4 chun2 yu2
+尖頭唇魚	jian1 tou2 chun2 yu2
+三葉唇魚	san1 ye4 chun2 yu2
+曲紋唇魚	qu1 wen2 chun2 yu2
+管唇魚	guan3 chun2 yu2
+四角唇指䱵	si4 jiao3 chun2 zhi3 weng1
+巨齒天竺鯛	ju4 chi3 tian1 zhu2 diao1
+五線巨齒天竺鯛	wu3 xian4 ju4 chi3 tian1 zhu2 diao1
+阿氏鬚唇飛魚	a1 shi4 xu1 chun2 fei1 yu2
+阿戈鬚唇飛魚	a1 ge1 xu1 chun2 fei1 yu2
+弓頭唇鬚飛魚	gong1 tou2 chun2 xu1 fei1 yu2
+紅斑鬚唇飛魚	hong2 ban1 xu1 chun2 fei1 yu2
+黑鰭鬚唇飛魚	hei1 qi2 xu1 chun2 fei1 yu2
+黃鰭鬚唇飛魚	huang2 qi2 xu1 chun2 fei1 yu2
+翼髭鬚唇飛魚	yi4 zi1 xu1 chun2 fei1 yu2
+點背鬚唇飛魚	dian3 bei4 xu1 chun2 fei1 yu2
+點鰭鬚唇飛魚	dian3 qi2 xu1 chun2 fei1 yu2
+蘇氏鬚唇飛魚	su1 shi4 xu1 chun2 fei1 yu2
+白鰭鬚唇飛魚	bai2 qi2 xu1 chun2 fei1 yu2
+厚唇雀鯛	hou4 chun2 que4 diao1
+棘黑角魚	ji2 hei1 jiao3 yu2
+燕赤鮨	yan4 chi4 yi4
+側斑赤鮨	ce4 ban1 chi4 yi4
+長吻管嘴魚	zhang3 wen3 guan3 zui3 yu2
+前鱗龜鮻	qian2 lin2 gui1 suo1
+凹鼻魨	ao1 bi2 tun2
+黑叉齒魚	hei1 cha1 chi3 yu2
+網紋短刺魨	wang3 wen2 duan3 ci4 tun2
+扁吻唇鼻擬鯙	bian3 wen3 chun2 bi2 ni3 chun2
+條紋狗鯊	tiao2 wen2 gou3 sha1
+點紋狗鯊	dian3 wen2 gou3 sha1
+寶刀魚	bao3 dao1 yu2
+長頜寶刀魚	zhang3 han4 bao3 dao1 yu2
+飾妝鎧弓魚	shi4 zhuang1 kai3 gong1 yu2
+鮑氏綠鸚哥魚	bao4 shi4 lv4 ying1 ge1 yu2
+高額綠鸚哥魚	gao1 e2 lv4 ying1 ge1 yu2
+日本綠鸚哥魚	ri4 ben3 lv4 ying1 ge1 yu2
+小鼻綠鸚哥魚	xiao3 bi2 lv4 ying1 ge1 yu2
+瘤綠鸚哥魚	liu2 lv4 ying1 ge1 yu2
+藍頭綠鸚哥魚	lan2 tou2 lv4 ying1 ge1 yu2
+鞍斑豬齒魚	an1 ban1 zhu1 chi3 yu2
+藍豬齒魚	lan2 zhu1 chi3 yu2
+七帶豬齒魚	qi1 dai4 zhu1 chi3 yu2
+紫紋豬齒魚	zi3 wen2 zhu1 chi3 yu2
+喬氏豬齒魚	qiao2 shi4 zhu1 chi3 yu2
+粗豬齒魚	cu1 zhu1 chi3 yu2
+邵氏豬齒魚	shao4 shi4 zhu1 chi3 yu2
+扎邦豬齒魚	zha1 bang1 zhu1 chi3 yu2
+彫紋豬海龍	diao1 wen2 zhu1 hai3 long2
+長臀光鰓雀鯛	zhang3 tun2 guang1 sai1 que4 diao1
+短身光鰓雀鯛	duan3 shen1 guang1 sai1 que4 diao1
+灰光鰓雀鯛	hui1 guang1 sai1 que4 diao1
+黃斑光鰓雀鯛	huang2 ban1 guang1 sai1 que4 diao1
+燕尾光鰓雀鯛	yan4 wei3 guang1 sai1 que4 diao1
+細鱗光鰓雀鯛	xi4 lin2 guang1 sai1 que4 diao1
+橫帶光鰓雀鯛	heng2 dai4 guang1 sai1 que4 diao1
+尾斑光鰓雀鯛	wei3 ban1 guang1 sai1 que4 diao1
+黑帶光鰓雀鯛	hei1 dai4 guang1 sai1 que4 diao1
+三葉光鰓雀鯛	san1 ye4 guang1 sai1 que4 diao1
+凡氏光鰓雀鯛	fan2 shi4 guang1 sai1 que4 diao1
+藍綠光鰓雀鯛	lan2 lv4 guang1 sai1 que4 diao1
+黃腋光鰓雀鯛	huang2 ye4 guang1 sai1 que4 diao1
+黃尾光鰓雀鯛	huang2 wei3 guang1 sai1 que4 diao1
+雙斑刻齒雀鯛	shuang1 ban1 ke4 chi3 que4 diao1
+勃氏刻齒雀鯛	bo2 shi4 ke4 chi3 que4 diao1
+藍刻齒雀鯛	lan2 ke4 chi3 que4 diao1
+灰刻齒雀鯛	hui1 ke4 chi3 que4 diao1
+雷克斯刻齒雀鯛	lei2 ke4 si1 ke4 chi3 que4 diao1
+史氏刻齒雀鯛	shi3 shi4 ke4 chi3 que4 diao1
+三帶刻齒雀鯛	san1 dai4 ke4 chi3 que4 diao1
+無斑刻齒雀鯛	wu2 ban1 ke4 chi3 que4 diao1
+黃金鰭䱛	huang2 jin1 qi2 huo4
+金鯛	jin1 diao1
+藍身絲鰭鸚鯛	lan2 shen1 si1 qi2 ying1 diao1
+丁氏絲鰭鸚鯛	ding1 shi4 si1 qi2 ying1 diao1
+中華鬚蛇鰻	zhong1 hua2 xu1 she2 man2
+鯁	geng3
+斑金䱵	ban1 jin1 weng1
+金䱵	jin1 weng1
+尖頭金䱵	jian1 tou2 jin1 weng1
+翼䱵	yi4 weng1
+頰紋頸鬚鳚	jia2 wen2 jing3 xu1 wei4
+絲鰭頸鬚鳚	si1 qi2 jing3 xu1 wei4
+微斑頸鬚鳚	wei1 ban1 jing3 xu1 wei4
+袋頸鬚鳚	dai4 jing3 xu1 wei4
+多斑頸鬚鳚	duo1 ban1 jing3 xu1 wei4
+斑頸鬚鳚	ban1 jing3 xu1 wei4
+暗褐頸鬚鳚	an4 he4 jing3 xu1 wei4
+蟾鬍鯰	chan2 hu2 nian2
+鬍鯰	hu2 nian2
+盾齒鰶	dun4 chi3 ji4
+正鱷牛尾魚	zheng4 e4 niu2 wei3 yu2
+小足腔蝠魚	xiao3 zu2 qiang1 fu2 yu2
+日本腔吻鱈	ri4 ben3 qiang1 wen3 xue3
+大臂腔吻鱈	da4 bi4 qiang1 wen3 xue3
+平棘腔吻鱈	ping2 ji2 qiang1 wen3 xue3
+鳳鱭	feng4 ji4
+棘頭梅童魚	ji2 tou2 mei2 tong2 yu2
+灰糯鰻	hui1 nuo4 man2
+繁星糯鰻	fan2 xing1 nuo4 man2
+大口糯鰻	da4 kou3 nuo4 man2
+鰻鯛	man2 diao1
+黑紋錐齒喉盤魚	hei1 wen2 zhui1 chi3 hou2 pan2 yu2
+日本紅目大眼鯛	ri4 ben3 hong2 mu4 da4 yan3 diao1
+吉利慈鯛	ji2 li4 ci2 diao1
+褐帶少女魚	he4 dai4 shao4 nv3 yu2
+金斑少女魚	jin1 ban1 shao4 nv3 yu2
+紅喉盔魚	hong2 hou2 kui1 yu2
+巴都盔魚	ba1 dou1 kui1 yu2
+尾斑盔魚	wei3 ban1 kui1 yu2
+蓋馬氏盔魚	gai4 ma3 shi4 kui1 yu2
+黑帶盔魚	hei1 dai4 kui1 yu2
+棘鬼頭刀	ji2 gui3 tou2 dao1
+細眼突吻鱈	xi4 yan3 tu2 wen3 xue3
+黃帶冠海龍	huang2 dai4 guan4 hai3 long2
+紅鰭冠海龍	hong2 qi2 guan4 hai3 long2
+班氏環宇海龍	ban1 shi4 huan2 yu3 hai3 long2
+粒唇鯔	li4 chun2 zi1
+淺色頸冠鰕虎	qian3 se4 jing3 guan4 xia1 hu3
+駝背鱸	tuo2 bei4 lu2
+青纓鮃	qing1 ying1 ping2
+高本纓鮃	gao1 ben3 ying1 ping2
+白背帶絲鰕虎	bai2 bei4 dai4 si1 xia1 hu3
+棕斑絲鰕虎	zong1 ban1 si1 xia1 hu3
+眼斑絲鰕虎	yan3 ban1 si1 xia1 hu3
+紅絲鰕虎	hong2 si1 xia1 hu3
+紋斑絲鰕虎	wen2 ban1 si1 xia1 hu3
+密棘角鮟鱇	mi4 ji2 jiao3 an4 kang1
+漣紋櫛齒刺尾鯛	lian2 wen2 jie2 chi3 ci4 wei3 diao1
+黃斑櫛眼鰕虎	huang2 ban1 jie2 yan3 xia1 hu3
+斑櫛眼鰕虎	ban1 jie2 yan3 xia1 hu3
+草魚	cao3 yu2
+少鰭方頭鯧	shao3 qi2 fang1 tou2 chang1
+圓點圓刺魨	yuan2 dian3 yuan2 ci4 tun2
+黑圓罩魚	hei1 yuan2 zhao4 yu2
+博氏孔牛尾魚	bo2 shi4 kong3 niu2 wei3 yu2
+環狀鈍頭魚	huan2 zhuang4 dun4 tou2 yu2
+短舌鰨	duan3 she2 ta4
+大鱗舌鰨	da4 lin2 she2 ta4
+雙線舌鰨	shuang1 xian4 she2 ta4
+窄體舌鰨	zhai3 ti3 she2 ta4
+單孔舌鰨	dan1 kong3 she2 ta4
+格氏舌鰨	ge2 shi4 she2 ta4
+利達舌鰨	li4 da2 she2 ta4
+斑頭舌鰨	ban1 tou2 she2 ta4
+多棘鯉䱵	duo1 ji2 li3 weng1
+鯉	li3
+納氏斑鰭飛魚	na4 shi4 ban1 qi2 fei1 yu2
+寡鱗斑鰭飛魚	gua3 lin2 ban1 qi2 fei1 yu2
+斑鰭飛魚	ban1 qi2 fei1 yu2
+玫瑰腹棘的鯛	mei2 gui1 fu4 ji2 de5 diao1
+東方飛角魚	dong1 fang1 fei1 jiao3 yu2
+皮氏飛角魚	pi2 shi4 fei1 jiao3 yu2
+指鰭䲗	zhi3 qi2 xian2
+鎧鯊	kai3 sha1
+三帶圓雀鯛	san1 dai4 yuan2 que4 diao1
+網紋圓雀鯛	wang3 wen2 yuan2 que4 diao1
+三斑圓雀鯛	san1 ban1 yuan2 que4 diao1
+尤氏魟	you2 shi4 hong1
+喙吻田氏鯊	hui4 wen3 tian2 shi4 sha1
+無斑圓鰺	wu2 ban1 yuan2 shen1
+頜圓鰺	han4 yuan2 shen1
+長身圓鰺	zhang3 shen1 yuan2 shen1
+藍圓鰺	lan2 yuan2 shen1
+羅氏圓鰺	luo2 shi4 yuan2 shen1
+太平洋裸齒隆頭魚	tai4 ping2 yang2 luo3 chi3 long2 tou2 yu2
+赤斑短鰭蓑鮋	chi4 ban1 duan3 qi2 suo1 you2
+雙眼斑短鰭蓑鮋	shuang1 yan3 ban1 duan3 qi2 suo1 you2
+短鰭蓑鮋	duan3 qi2 suo1 you2
+斑馬短鰭蓑鮋	ban1 ma3 duan3 qi2 suo1 you2
+多斑扇尾魚	duo1 ban1 shan4 wei3 yu2
+線紋環盤魚	xian4 wen2 huan2 pan2 yu2
+密點少棘胡椒鯛	mi4 dian3 shao3 ji2 hu2 jiao1 diao1
+暗色獵神深海鼬魚	an4 se4 lie4 shen2 shen1 hai3 you4 yu2
+藍光眶燈魚	lan2 guang1 kuang1 deng1 yu2
+燦爛眶燈魚	can4 lan4 kuang1 deng1 yu2
+耀眼眶燈魚	yao4 yan3 kuang1 deng1 yu2
+呂氏眶燈魚	lv3 shi4 kuang1 deng1 yu2
+短距眶燈魚	duan3 ju4 kuang1 deng1 yu2
+雷氏眶燈魚	lei2 shi4 kuang1 deng1 yu2
+亮眶燈魚	liang4 kuang1 deng1 yu2
+眶下眶燈魚	kuang1 xia4 kuang1 deng1 yu2
+細瓣雙角鮟鱇	xi4 ban4 shuang1 jiao3 an4 kang1
+五指絲指鼬魚	wu3 zhi3 si1 zhi3 you4 yu2
+伯氏網鳚	bo2 shi4 wang3 wei4
+雙線鼬魚	shuang1 xian4 you4 yu2
+六斑二齒魨	liu4 ban1 er4 chi3 tun2
+密斑二齒魨	mi4 ban1 er4 chi3 tun2
+大西洋明燈魚	da4 xi1 yang2 ming2 deng1 yu2
+寬鱗頭新棘鮋	kuan1 lin2 tou2 xin1 ji2 you2
+大鱗新棘鮋	da4 lin2 xin1 ji2 you2
+黃帶新東洋金鱗魚	huang2 dai4 xin1 dong1 yang2 jin1 lin2 yu2
+黑鰭新東洋金鱗魚	hei1 qi2 xin1 dong1 yang2 jin1 lin2 yu2
+莎姆新東洋金鱗魚	sha1 mu3 xin1 dong1 yang2 jin1 lin2 yu2
+黃尾新雀鯛	huang2 wei3 xin1 que4 diao1
+藍黑新雀鯛	lan2 hei1 xin1 que4 diao1
+條尾新雀鯛	tiao2 wei3 xin1 que4 diao1
+大鱗新燈魚	da4 lin2 xin1 deng1 yu2
+東方新魟	dong1 fang1 xin1 hong1
+大頭多齒海鯰	da4 tou2 duo1 chi3 hai3 nian2
+達氏庫隆長尾鱈	da2 shi4 ku4 long2 zhang3 wei3 xue3
+俊奈氏鱈	jun4 nai4 shi4 xue3
+原始奈氏鱈	yuan2 shi3 nai4 shi4 xue3
+長棘奈氏鱈	zhang3 ji2 nai4 shi4 xue3
+黃姑魚	huang2 gu1 yu2
+圓鯧	yuan2 chang1
+短鱗諾福克鳚	duan3 lin2 nuo4 fu2 ke4 wei4
+瓦氏尖吻背燈魚	wa3 shi4 jian1 wen3 bei4 deng1 yu2
+日本隆背鰩	ri4 ben3 long2 bei4 yao2
+油夷鯊	you2 yi2 sha1
+尾棘背燈魚	wei3 ji2 bei4 deng1 yu2
+閃光背燈魚	shan3 guang1 bei4 deng1 yu2
+帶尾新隆魚	dai4 wei3 xin1 long2 yu2
+大鱗似美鰭魚	da4 lin2 shi4 mei3 qi2 yu2
+伍氏軟棘唇魚	wu3 shi4 ruan3 ji2 chun2 yu2
+項斑項鰏	xiang4 ban1 xiang4 bi4
+拉氏狼牙鰕虎	la1 shi4 lang2 ya2 xia1 hu3
+黃斑齒花鮨	huang2 ban1 chi3 hua1 yi4
+片山氏齒花鮨	pian4 shan1 shi4 chi3 hua1 yi4
+紅衣齒花鮨	hong2 yi1 chi3 hua1 yi4
+單斑齒花鮨	dan1 ban1 chi3 hua1 yi4
+紅牙鱗魨	hong2 ya2 lin2 tun2
+角瘤唇鯔	jiao3 liu2 chun2 zi1
+尖棘甕鰩	jian1 ji2 weng4 yao2
+鮑氏甕鰩	bao4 shi4 weng4 yao2
+何氏甕鰩	he2 shi4 weng4 yao2
+斑甕鰩	ban1 weng4 yao2
+麥氏甕鰩	mai4 shi4 weng4 yao2
+尖鰭寡鱗鰕虎	jian1 qi2 gua3 lin2 xia1 hu3
+大口寡鱗鰕虎	da4 kou3 gua3 lin2 xia1 hu3
+美肩鰓鳚	mei3 jian1 sai1 wei4
+長肩鰓鳚	zhang3 jian1 sai1 wei4
+斑頭肩鰓鳚	ban1 tou2 jian1 sai1 wei4
+兇猛肩鰓鳚	xiong1 meng3 jian1 sai1 wei4
+吉氏肩鰓鳚	ji2 shi4 jian1 sai1 wei4
+斑點肩鰓鳚	ban1 dian3 jian1 sai1 wei4
+臺灣櫻花鉤吻鮭	tai2 wan1 ying1 hua1 gou1 wen3 gui1
+麥奇鈎吻鮭	mai4 qi2 gou1 wen3 gui1
+卡氏夢鮟鱇	ka3 shi4 meng4 an4 kang1
+大鱗牛尾魚	da4 lin2 niu2 wei3 yu2
+棘鱗牛尾魚	ji2 lin2 niu2 wei3 yu2
+珠貝鈎隱魚	zhu1 bei4 gou1 yin3 yu2
+短臂鈎隱魚	duan3 bi4 gou1 yin3 yu2
+高身白甲魚	gao1 shen1 bai2 jia3 yu2
+臺灣白甲魚	tai2 wan1 bai2 jia3 yu2
+高鰭蛇鰻	gao1 qi2 she2 man2
+食蟹荳齒蛇鰻	shi2 xie4 dou4 chi3 she2 man2
+尖吻蛇鰻	jian1 wen3 she2 man2
+鮑氏蛇鰻	bao4 shi4 she2 man2
+項斑蛇鰻	xiang4 ban1 she2 man2
+斑紋蛇鰻	ban1 wen2 she2 man2
+橫帶蛇鰻	heng2 dai4 she2 man2
+大鰭蛇鰻	da4 qi2 she2 man2
+多斑蛇鰻	duo1 ban1 she2 man2
+裙鰭蛇鰻	qun2 qi2 she2 man2
+頭孔塘鱧	tou2 kong3 tang2 li3
+大吻沙蛇鰻	da4 wen3 sha1 she2 man2
+後鰭魚	hou4 qi2 yu2
+金鰭後頷鱚	jin1 qi2 hou4 han4 xi3
+霍氏後頷鱚	huo4 shi4 hou4 han4 xi3
+條石鯛	tiao2 shi2 diao1
+斑石鯛	ban1 shi2 diao1
+蓋刺鰕虎	gai4 ci4 xia1 hu3
+長鰭馬口鱲	zhang3 qi2 ma3 kou3 la4
+細線鬚鯊	xi4 xian4 xu1 sha1
+莫三比克口孵非鯽	mo4 san1 bi3 ke4 kou3 fu1 fei1 ji4
+尼羅口孵非鯽	ni2 luo2 kou3 fu1 fei1 ji4
+中華青鱂	zhong1 hua2 qing1 jiang1
+日本骨鱗魚	ri4 ben3 gu3 lin2 yu2
+白線骨鱗魚	bai2 xian4 gu3 lin2 yu2
+寬帶鸚天竺鯛	kuan1 dai4 ying1 tian1 zhu2 diao1
+短齒鸚天竺鯛	duan3 chi3 ying1 tian1 zhu2 diao1
+環尾鸚天竺鯛	huan2 wei3 ying1 tian1 zhu2 diao1
+裂帶鸚天竺鯛	lie4 dai4 ying1 tian1 zhu2 diao1
+庫氏鸚天竺鯛	ku4 shi4 ying1 tian1 zhu2 diao1
+金帶鸚天竺鯛	jin1 dai4 ying1 tian1 zhu2 diao1
+箭矢鸚天竺鯛	jian4 shi3 ying1 tian1 zhu2 diao1
+細線鸚天竺鯛	xi4 xian4 ying1 tian1 zhu2 diao1
+全紋鸚天竺鯛	quan2 wen2 ying1 tian1 zhu2 diao1
+寬條鸚天竺鯛	kuan1 tiao2 ying1 tian1 zhu2 diao1
+中線鸚天竺鯛	zhong1 xian4 ying1 tian1 zhu2 diao1
+摩鹿加鸚天竺鯛	mo2 lu4 jia1 ying1 tian1 zhu2 diao1
+多線鸚天竺鯛	duo1 xian4 ying1 tian1 zhu2 diao1
+黑點鸚天竺鯛	hei1 dian3 ying1 tian1 zhu2 diao1
+黃帶鸚天竺鯛	huang2 dai4 ying1 tian1 zhu2 diao1
+粒突箱魨	li4 tu2 xiang1 tun2
+米點箱魨	mi3 dian3 xiang1 tun2
+吻鼻箱魨	wen3 bi2 xiang1 tun2
+紅牙䱛	hong2 ya2 huo4
+斑點尖唇魚	ban1 dian3 jian1 chun2 yu2
+雙斑尖唇魚	shuang1 ban1 jian1 chun2 yu2
+西里伯斯唇魚	xi1 li3 bo2 si1 chun2 yu2
+雙線尖唇魚	shuang1 xian4 jian1 chun2 yu2
+東方尖唇魚	dong1 fang1 jian1 chun2 yu2
+單帶尖唇魚	dan1 dai4 jian1 chun2 yu2
+尖吻䱵	jian1 wen3 weng1
+狹頜海鰻	xia2 han4 hai3 man2
+斑駁尖塘鱧	ban1 bo2 jian1 tang2 li3
+尖吻單棘魨	jian1 wen3 dan1 ji2 tun2
+白鰭飛鱵	bai2 qi2 fei1 zhen1
+矛狀溝鰕虎	mao2 zhuang4 gou1 xia1 hu3
+小鱗溝鰕虎	xiao3 lin2 gou1 xia1 hu3
+眼瓣溝鰕虎	yan3 ban4 gou1 xia1 hu3
+巴布亞溝鰕虎	ba1 bu4 ya3 gou1 xia1 hu3
+小牙厚巨口魚	xiao3 ya2 hou4 ju4 kou3 yu2
+日本真鯛	ri4 ben3 zhen1 diao1
+銀鯧	yin2 chang1
+中國鯧	zhong1 guo2 chang1
+灰鯧	hui1 chang1
+燕尾鯧	yan4 wei3 chang1
+短吻擬深海蠕鰻	duan3 wen3 ni3 shen1 hai3 ru2 man2
+短鯒	duan3 yong3
+八部副鳚	ba1 bu4 fu4 wei4
+短腹擬鮃	duan3 fu4 ni3 ping2
+少鱗擬鮃	shao3 lin2 ni3 ping2
+藍色擬烏尾鮗	lan2 se4 ni3 wu1 wei3 dong1
+梭地擬烏尾鮗	suo1 di4 ni3 wu1 wei3 dong1
+黃擬烏尾鮗	huang2 ni3 wu1 wei3 dong1
+擬刺尾鯛	ni3 ci4 wei3 diao1
+長棘擬鱗鮋	zhang3 ji2 ni3 lin2 you2
+多帶副鋸刺蓋魚	duo1 dai4 fu4 ju4 ci4 gai4 yu2
+多鬚擬矛尾鰕虎	duo1 xu1 ni3 mao2 wei3 xia1 hu3
+副䱵	fu4 weng1
+福氏副䱵	fu2 shi4 fu4 weng1
+鄧氏副沙條鯊	deng4 shi4 fu4 sha1 tiao2 sha1
+黑鰭副葉鰕虎	hei1 qi2 fu4 ye4 xia1 hu3
+疣副葉鰕虎	you2 fu4 ye4 xia1 hu3
+黃身副葉鰕虎	huang2 shen1 fu4 ye4 xia1 hu3
+寬吻鬚魴鮄	kuan1 wen3 xu1 fang2 fu2
+花鰭副海豬魚	hua1 qi2 fu4 hai3 zhu1 yu2
+牙鮃	ya2 ping2
+鋸尾副革單棘魨	ju4 wei3 fu4 ge2 dan1 ji2 tun2
+蛙副雙邊魚	wa1 fu4 shuang1 bian1 yu2
+日本副單棘魨	ri4 ben3 fu4 dan1 ji2 tun2
+布希勒副單棘魨	bu4 xi1 lei1 fu4 dan1 ji2 tun2
+絨鱗副單棘魨	rong2 lin2 fu4 dan1 ji2 tun2
+圓擬鱸	yuan2 ni3 lu2
+十橫斑擬鱸	shi2 heng2 ban1 ni3 lu2
+大眼擬鱸	da4 yan3 ni3 lu2
+中斑擬鱸	zhong1 ban1 ni3 lu2
+雪點擬鱸	xue3 dian3 ni3 lu2
+牟婁擬鱸	mou2 lou2 ni3 lu2
+玫瑰擬鱸	mei2 gui1 ni3 lu2
+六帶擬鱸	liu4 dai4 ni3 lu2
+斑棘擬鱸	ban1 ji2 ni3 lu2
+四棘擬鱸	si4 ji2 ni3 lu2
+黃紋擬鱸	huang2 wen2 ni3 lu2
+雙線鬚鰨	shuang1 xian4 xu1 ta4
+布氏鬚鰨	bu4 shi4 xu1 ta4
+櫛鱗鬚鰨	jie2 lin2 xu1 ta4
+日本鬚鰨	ri4 ben3 xu1 ta4
+鹿兒島副絨皮鮋	lu4 er2 dao3 fu4 rong2 pi2 you2
+雷氏充金眼鯛	lei2 shi4 chong1 jin1 yan3 diao1
+三線磯鱸	san1 xian4 ji1 lu2
+異尾擬蓑鮋	yi4 wei3 ni3 suo1 you2
+寬帶副眶棘鱸	kuan1 dai4 fu4 kuang1 ji2 lu2
+橫帶副眶棘鱸	heng2 dai4 fu4 kuang1 ji2 lu2
+土佐副眶棘鱸	tu3 zuo3 fu4 kuang1 ji2 lu2
+多棘擬鯥	duo1 ji2 ni3 lu4
+菲律賓擬鯥	fei1 lv4 bin1 ni3 lu4
+鋸棘擬鯥	ju4 ji2 ni3 lu4
+斑鰭圓鱗鮋	ban1 qi2 yuan2 lin2 you2
+莫三比克圓鱗鮋	mo4 san1 bi3 ke4 yuan2 lin2 you2
+烏鯧	wu1 chang1
+齊氏石鮒	qi2 shi4 shi2 fu4
+臺灣石鮒	tai2 wan1 shi2 fu4
+小頭副孔鰕虎	xiao3 tou2 fu4 kong3 xia1 hu3
+眼斑豹鰨	yan3 ban1 bao4 ta4
+赫氏擬鰻尾鳚	he4 shi4 ni3 man2 wei3 wei4
+短鰭擬飛魚	duan3 qi2 ni3 fei1 yu2
+長頜擬飛魚	zhang3 han4 ni3 fei1 yu2
+華美舌塘鱧	hua2 mei3 she2 tang2 li3
+黑鰓盾尾鯊	hei1 sai1 dun4 wei3 sha1
+鬚海緋鯉	xu1 hai3 fei1 li3
+單帶海緋鯉	dan1 dai4 hai3 fei1 li3
+雙帶海緋鯉	shuang1 dai4 hai3 fei1 li3
+紅帶海緋鯉	hong2 dai4 hai3 fei1 li3
+短鬚海緋鯉	duan3 xu1 hai3 fei1 li3
+粗唇海緋鯉	cu1 chun2 hai3 fei1 li3
+圓口海緋鯉	yuan2 kou3 hai3 fei1 li3
+七棘海緋鯉	qi1 ji2 hai3 fei1 li3
+印度海緋鯉	yin4 du4 hai3 fei1 li3
+多帶海緋鯉	duo1 dai4 hai3 fei1 li3
+黑斑海緋鯉	hei1 ban1 hai3 fei1 li3
+大型海緋鯉	da4 xing2 hai3 fei1 li3
+飛海蛾魚	fei1 hai3 e2 yu2
+四帶牙鯻	si4 dai4 ya2 la4
+庇隆多齒鰳	bi4 long2 duo1 chi3 le4
+南方擬金眼鯛	nan2 fang1 ni3 jin1 yan3 diao1
+截尾白姑魚	jie2 wei3 bai2 gu1 yu2
+白姑魚	bai2 gu1 yu2
+大頭白姑魚	da4 tou2 bai2 gu1 yu2
+斑鰭白姑魚	ban1 qi2 bai2 gu1 yu2
+犬牙錐齒鯛	quan3 ya2 zhui1 chi3 diao1
+艾氏錐齒鯛	ai4 shi4 zhui1 chi3 diao1
+長崎錐齒鯛	zhang3 qi2 zhui1 chi3 diao1
+長臂鑽嘴魚	zhang3 bi4 zuan1 zui3 yu2
+銀身彈塗魚	yin2 shen1 dan4 tu2 yu2
+光吻黃魴鮄	guang1 wen3 huang2 fang2 fu2
+里氏黃魴鮄	li3 shi4 huang2 fang2 fu2
+粗尾前角單棘魨	cu1 wei3 qian2 jiao3 dan1 ji2 tun2
+紅尾前角單棘魨	hong2 wei3 qian2 jiao3 dan1 ji2 tun2
+黑頭前角單棘魨	hei1 tou2 qian2 jiao3 dan1 ji2 tun2
+短頭跳岩鳚	duan3 tou2 tiao4 yan2 wei4
+高鰭跳岩鳚	gao1 qi2 tiao4 yan2 wei4
+印度異齒喉盤魚	yin4 du4 yi4 chi3 hou2 pan2 yu2
+白鰭袋巨口魚	bai2 qi2 dai4 ju4 kou3 yu2
+黃斑光胸鰏	huang2 ban1 guang1 xiong1 bi4
+格氏光巨口魚	ge2 shi4 guang1 ju4 kou3 yu2
+黑錐海龍	hei1 zhui1 hai3 long2
+雙棘錐海龍	shuang1 ji2 zhui1 hai3 long2
+紫紅背繡雀鯛	zi3 hong2 bei4 xiu4 que4 diao1
+紫繡雀鯛	zi3 xiu4 que4 diao1
+斜鱗笛鯛	xie2 lin2 di2 diao1
+波路荳齒蛇鰻	bo1 lu4 dou4 chi3 she2 man2
+勞旦橫口鳚	lao2 dan4 heng2 kou3 wei4
+粗吻橫口鳚	cu1 wen3 heng2 kou3 wei4
+黑帶橫口鳚	hei1 dai4 heng2 kou3 wei4
+寶石鮻	bao3 shi2 suo1
+鮻	suo1
+大鱗鮻	da4 lin2 suo1
+綠背鮻	lv4 bei4 suo1
+圓眼燕魚	yuan2 yan3 yan4 yu2
+圓翅燕魚	yuan2 chi4 yan4 yu2
+尖翅燕魚	jian1 chi4 yan4 yu2
+寬尾鶴鱵	kuan1 wei3 he4 zhen1
+印度牛尾魚	yin4 du4 niu2 wei3 yu2
+湯氏黃點鯆	tang1 shi4 huang2 dian3 pu1
+香魚	xiang1 yu2
+白帶胡椒鯛	bai2 dai4 hu2 jiao1 diao1
+黃紋胡椒鯛	huang2 wen2 hu2 jiao1 diao1
+花尾胡椒鯛	hua1 wei3 hu2 jiao1 diao1
+黃點胡椒鯛	huang2 dian3 hu2 jiao1 diao1
+駝背胡椒鯛	tuo2 bei4 hu2 jiao1 diao1
+雷氏胡椒鯛	lei2 shi4 hu2 jiao1 diao1
+條紋胡椒鯛	tiao2 wen2 hu2 jiao1 diao1
+胡椒鯛	hu2 jiao1 diao1
+暗點胡椒鯛	an4 dian3 hu2 jiao1 diao1
+邵氏胡椒鯛	shao4 shi4 hu2 jiao1 diao1
+條斑胡椒鯛	tiao2 ban1 hu2 jiao1 diao1
+日本棘花鱸	ri4 ben3 ji2 hua1 lu2
+凱氏浪花鮨	kai3 shi4 lang4 hua1 yi4
+短棘花鱸	duan3 ji2 hua1 lu2
+紅斑棘花鮨	hong2 ban1 ji2 hua1 yi4
+迪克氏固曲齒鯛	di2 ke4 shi4 gu4 qu1 chi3 diao1
+明眸固曲齒鯛	ming2 mou2 gu4 qu1 chi3 diao1
+珠點固曲齒鯛	zhu1 dian3 gu4 qu1 chi3 diao1
+白帶固曲齒鯛	bai2 dai4 gu4 qu1 chi3 diao1
+鳳凰固曲齒鯛	feng4 huang2 gu4 qu1 chi3 diao1
+藍點刺鰓鮨	lan2 dian3 ci4 sai1 yi4
+橫斑刺鰓鮨	heng2 ban1 ci4 sai1 yi4
+花斑刺鰓鮨	hua1 ban1 ci4 sai1 yi4
+灘塗多鱗魚	tan1 tu2 duo1 lin2 yu2
+達氏深水尾魟	da2 shi4 shen1 shui3 wei3 hong1
+藍線七夕魚	lan2 xian4 qi1 xi1 yu2
+仲原氏七夕魚	zhong4 yuan2 shi4 qi1 xi1 yu2
+尖頭七夕魚	jian1 tou2 qi1 xi1 yu2
+木葉鰈	mu4 ye4 die2
+內爾褶囊海鯰	nei4 er3 zhe1 nang2 hai3 nian2
+葡齒褶囊海鯰	pu2 chi3 zhe1 nang2 hai3 nian2
+線紋鰻鯰	xian4 wen2 man2 nian2
+茉莉花鱂	mo4 li4 hua1 jiang1
+帆鰭花鱂	fan1 qi2 hua1 jiang1
+雙斑瓦鰈	shuang1 ban1 wa3 die2
+長體瓦鰈	zhang3 ti3 wa3 die2
+斑點鬚鮨	ban1 dian3 xu1 yi4
+莫氏軸光魚	mo4 shi4 zhou2 guang1 yu2
+白令海多刺背棘魚	bai2 ling4 hai3 duo1 ci4 bei4 ji2 yu2
+小口多指馬鮁	xiao3 kou3 duo1 zhi3 ma3 ba2
+五絲多指馬鮁	wu3 si1 duo1 zhi3 ma3 ba2
+六絲多指馬鮁	liu4 si1 duo1 zhi3 ma3 ba2
+六指多指馬鮁	liu4 zhi3 duo1 zhi3 ma3 ba2
+長刀光魚	zhang3 dao1 guang1 yu2
+環紋蓋刺魚	huan2 wen2 gai4 ci4 yu2
+條紋蓋刺魚	tiao2 wen2 gai4 ci4 yu2
+疊波蓋刺魚	die2 bo1 gai4 ci4 yu2
+六帶蓋刺魚	liu4 dai4 gai4 ci4 yu2
+黃顱蓋刺魚	huang2 lu2 gai4 ci4 yu2
+白斑雀鯛	bai2 ban1 que4 diao1
+安邦雀鯛	an1 bang1 que4 diao1
+腋斑雀鯛	ye4 ban1 que4 diao1
+白尾雀鯛	bai2 wei3 que4 diao1
+摩鹿加雀鯛	mo2 lu4 jia1 que4 diao1
+長崎雀鯛	zhang3 qi2 que4 diao1
+青玉雀鯛	qing1 yu4 que4 diao1
+斑點雀鯛	ban1 dian3 que4 diao1
+三斑雀鯛	san1 ban1 que4 diao1
+李氏波光鰓雀鯛	li3 shi4 bo1 guang1 sai1 que4 diao1
+銀雞魚	yin2 ji1 yu2
+星雞魚	xing1 ji1 yu2
+斑雞魚	ban1 ji1 yu2
+扁鰺	bian3 shen1
+大頭海鮋	da4 tou2 hai3 you2
+觸手冠海鮋	chu4 shou3 guan4 hai3 you2
+毛吻孔頭鼬魚	mao2 wen3 kong3 tou2 you4 yu2
+厚頭犀孔鯛	hou4 tou2 xi1 kong3 diao1
+犬牙矮冠鳚	quan3 ya2 ai3 guan4 wei4
+吻紋矮冠鳚	wen3 wen2 ai3 guan4 wei4
+種子島矮冠鳚	zhong3 zi3 dao3 ai3 guan4 wei4
+寶石大眼鯛	bao3 shi2 da4 yan3 diao1
+大棘大眼鯛	da4 ji2 da4 yan3 diao1
+曳絲大眼鯛	ye4 si1 da4 yan3 diao1
+廣裸鋸鱗鰕虎	guang3 luo3 ju4 lin2 xia1 hu3
+橫帶鋸鱗鰕虎	heng2 dai4 ju4 lin2 xia1 hu3
+裸頰鋸鱗鰕虎	luo3 jia2 ju4 lin2 xia1 hu3
+半紋鋸鱗鰕虎	ban4 wen2 ju4 lin2 xia1 hu3
+鋸峰齒鯊	ju4 feng1 chi3 sha1
+鋸尾鯛	ju4 wei3 diao1
+單線鋸天竺鯛	dan1 xian4 ju4 tian1 zhu2 diao1
+棘眼鋸天竺鯛	ji2 yan3 ju4 tian1 zhu2 diao1
+麗鰭鋸天竺鯛	li4 qi2 ju4 tian1 zhu2 diao1
+三斑鋸鰓天竺鯛	san1 ban1 ju4 sai1 tian1 zhu2 diao1
+麥氏大鱗大眼鯛	mai4 shi4 da4 lin2 da4 yan3 diao1
+日本大鱗大眼鯛	ri4 ben3 da4 lin2 da4 yan3 diao1
+藍紋姬鯛	lan2 wen2 ji1 diao1
+黃尾姬鯛	huang2 wei3 ji1 diao1
+絲鰭姬鯛	si1 qi2 ji1 diao1
+黃吻姬鯛	huang2 wen3 ji1 diao1
+希氏姬鯛	xi1 shi4 ji1 diao1
+尖齒姬鯛	jian1 chi3 ji1 diao1
+橫帶姬鯛	heng2 dai4 ji1 diao1
+鈍吻鋸齒雀鯛	dun4 wen3 ju4 chi3 que4 diao1
+短鰭原飛魚	duan3 qi2 yuan2 fei1 yu2
+紫金魚	zi3 jin1 yu2
+雙棘原黃姑魚	shuang1 ji2 yuan2 huang2 gu1 yu2
+雙眼斑砂鰕虎	shuang1 yan3 ban1 sha1 xia1 hu3
+紅眼沙鱸	hong2 yan3 sha1 lu2
+玻璃玉鯧	bo1 li2 yu4 chang1
+花瓣玉鯧	hua1 ban4 yu4 chang1
+刺鯧	ci4 chang1
+鰜鮃	qian4 ping2
+大口鰜	da4 kou3 qian4
+日本擬鰨	ri4 ben3 ni3 ta4
+前棘假革單棘魨	qian2 ji2 jia3 ge2 dan1 ji2 tun2
+准天竺鯛	zhun3 tian1 zhu2 diao1
+雙色擬花鮨	shuang1 se4 ni3 hua1 yi4
+庫伯氏擬花鱸	ku4 bo2 shi4 ni3 hua1 lu2
+刺蓋擬花鱸	ci4 gai4 ni3 hua1 lu2
+長擬花鱸	zhang3 ni3 hua1 lu2
+恩氏擬花鱸	en1 shi4 ni3 hua1 lu2
+條紋擬花鱸	tiao2 wen2 ni3 hua1 lu2
+高體擬花鱸	gao1 ti3 ni3 hua1 lu2
+呂宋擬花鱸	lv3 song4 ni3 hua1 lu2
+厚唇擬花鱸	hou4 chun2 ni3 hua1 lu2
+側帶擬花鮨	ce4 dai4 ni3 hua1 yi4
+紅帶擬花鮨	hong2 dai4 ni3 hua1 yi4
+絲鰭擬花鮨	si1 qi2 ni3 hua1 yi4
+湯氏擬花鮨	tang1 shi4 ni3 hua1 yi4
+長身擬平牙鰕虎	zhang3 shen1 ni3 ping2 ya2 xia1 hu3
+布氏擬蝮鯙	bu4 shi4 ni3 fu4 chun2
+黃緣副鱗魨	huang2 yuan2 fu4 lin2 tun2
+黑副鱗魨	hei1 fu4 lin2 tun2
+黃帶擬鰺	huang2 dai4 ni3 shen1
+蒲原氏擬錐齒鯊	pu2 yuan2 shi4 ni3 zhui1 chi3 sha1
+六帶擬唇魚	liu4 dai4 ni3 chun2 yu2
+褐擬雀鯛	he4 ni3 que4 diao1
+紫青擬雀鯛	zi3 qing1 ni3 que4 diao1
+布氏擬盔魚	bu4 shi4 ni3 kui1 yu2
+異鰭擬盔魚	yi4 qi2 ni3 kui1 yu2
+山下氏擬盔魚	shan1 xia4 shi4 ni3 kui1 yu2
+摩鹿加擬岩鱚	mo2 lu4 jia1 ni3 yan2 xi3
+爪哇擬鰕虎	chang2 wa1 ni3 xia1 hu3
+小口擬鰕虎	xiao3 kou3 ni3 xia1 hu3
+多棘擬線鱸	duo1 ji2 ni3 xian4 lu2
+細尾擬海豬魚	xi4 wei3 ni3 hai3 zhu1 yu2
+紅頸擬隆頭魚	hong2 jing3 ni3 long2 tou2 yu2
+大頭擬奈氏鱈	da4 tou2 ni3 nai4 shi4 xue3
+鱗頭擬鼠鼬魚	lin2 tou2 ni3 shu3 you4 yu2
+羅漢魚	luo2 han4 yu2
+大齒斑鮃	da4 chi3 ban1 ping2
+檸檬斑鮃	ning2 meng2 ban1 ping2
+櫛鱗斑鮃	jie2 lin2 ban1 ping2
+重點斑鮃	zhong4 dian3 ban1 ping2
+高體斑鮃	gao1 ti3 ban1 ping2
+滑鱗斑鮃	hua2 lin2 ban1 ping2
+少牙斑鮃	shao3 ya2 ban1 ping2
+五眼斑鮃	wu3 yan3 ban1 ping2
+粗鱗假三棘魨	cu1 lin2 jia3 san1 ji2 tun2
+大頭隱棘杜父魚	da4 tou2 yin3 ji2 du4 fu4 yu2
+帆鰭魴	fan1 qi2 fang2
+長鰭鸚鯛	zhang3 qi2 ying1 diao1
+九棘長鰭鸚鯛	jiu3 ji2 zhang3 qi2 ying1 diao1
+黑尾凹尾塘鱧	hei1 wei3 ao1 wei3 tang2 li3
+絲尾凹尾塘鱧	si1 wei3 ao1 wei3 tang2 li3
+尾斑凹尾塘鱧	wei3 ban1 ao1 wei3 tang2 li3
+細鱗凹尾塘鱧	xi4 lin2 ao1 wei3 tang2 li3
+斑馬凹尾塘鱧	ban1 ma3 ao1 wei3 tang2 li3
+金帶鱗鰭烏尾鮗	jin1 dai4 lin2 qi2 wu1 wei3 dong1
+雙帶鱗鰭烏尾鮗	shuang1 dai4 lin2 qi2 wu1 wei3 dong1
+倫氏鱗鰭烏尾鮗	lun2 shi4 lin2 qi2 wu1 wei3 dong1
+蒂爾鱗鰭烏尾鮗	di4 er3 lin2 qi2 wu1 wei3 dong1
+觸角蓑鮋	chu4 jiao3 suo1 you2
+環紋蓑鮋	huan2 wen2 suo1 you2
+勒氏蓑鮋	lei1 shi4 suo1 you2
+魔鬼簑鮋	mo2 gui3 suo1 you2
+紫色翼魟	zi3 se4 yi4 hong1
+彼氏高鰭魴	bi3 shi4 gao1 qi2 fang2
+野翼甲鯰	ye3 yi4 jia3 nian2
+豹紋翼甲鯰	bao4 wen2 yi4 jia3 nian2
+尖棘角魚	jian1 ji2 jiao3 yu2
+長吻棘角魚	zhang3 wen3 ji2 jiao3 yu2
+多斑棘角魚	duo1 ban1 ji2 jiao3 yu2
+半紋小䰾	ban4 wen2 xiao3 ba1
+雙棘甲尻魚	shuang1 ji2 jia3 kao1 yu2
+海鱺	hai3 li2
+斑點長翻車魨	ban1 dian3 zhang3 fan1 che1 tun2
+金帶花鯖	jin1 dai4 hua1 qing1
+犬齒牛尾魚	quan3 chi3 niu2 wei3 yu2
+拜庫雷鰕虎	bai4 ku4 lei2 xia1 hu3
+勒氏皇帶魚	lei1 shi4 huang2 dai4 yu2
+白短印魚	bai2 duan3 yin4 yu2
+澳洲短印魚	ao4 zhou1 duan3 yin4 yu2
+短臂短印魚	duan3 bi4 duan3 yin4 yu2
+大盤短印魚	da4 pan2 duan3 yin4 yu2
+短印魚	duan3 yin4 yu2
+彎月斜棘䲗	wan1 yue4 xie2 ji2 xian2
+橄斜棘䲗	gan3 xie2 ji2 xian2
+飾鰭斜棘䲗	shi4 qi2 xie2 ji2 xian2
+處女斜棘䲗	chu4 nv3 xie2 ji2 xian2
+短帶鰆	duan3 dai4 chun1
+箭天竺鯛	jian4 tian1 zhu2 diao1
+燦爛笠鳚	can4 lan4 li4 wei4
+平鯛	ping2 diao1
+細杉魚	xi4 shan1 yu2
+波口鱟頭鱝	bo1 kou3 hou4 tou2 fen4
+尖吻棘魨	jian1 wen3 ji2 tun2
+斜帶吻棘魨	xie2 dai4 wen3 ji2 tun2
+毒吻棘魨	du2 wen3 ji2 tun2
+薛氏琵琶鱝	xue1 shi4 pi2 pa2 fen4
+明潭吻鰕虎	ming2 tan2 wen3 xia1 hu3
+管鼻鯙	guan3 bi2 chun2
+前鰭吻鮋	qian2 qi2 wen3 you2
+異眼吻鮋	yi4 yan3 wen3 you2
+爪哇牛鼻鱝	chang2 wa1 niu2 bi2 fen4
+尖頭曲齒鯊	jian1 tou2 qu1 chi3 sha1
+高體鰟鮍	gao1 ti3 fang2 pi1
+溪鱧	xi1 li3
+南方龍紋鱝	nan2 fang1 long2 wen2 fen4
+黑尾突吻糯鰻	hei1 wei3 tu2 wen3 nuo4 man2
+喬氏吻鱵	qiao2 shi4 wen3 zhen1
+松葉倒棘牛尾魚	song1 ye4 dao4 ji2 niu2 wei3 yu2
+根室魯氏魚	gen1 shi4 lu3 shi4 yu2
+渡瀨魯氏魚	du4 lai4 lu3 shi4 yu2
+紅尾盲鰻	hong2 wei3 mang2 man2
+薔薇帶鰆	qiang2 wei1 dai4 chun1
+珠斑花鱸	zhu1 ban1 hua1 lu2
+銳頭銀魚	rui4 tou2 yin2 yu2
+細紋唇齒鳚	xi4 wen2 chun2 chi3 wei4
+冠鰈	guan4 die2
+東方齒鰆	dong1 fang1 chi3 chun1
+高體小沙丁魚	gao1 ti3 xiao3 sha1 ding1 yu2
+繸鱗小沙丁魚	sui4 lin2 xiao3 sha1 ding1 yu2
+隆背小沙丁魚	long2 bei4 xiao3 sha1 ding1 yu2
+花蓮小沙丁魚	hua1 lian2 xiao3 sha1 ding1 yu2
+裘氏小沙丁魚	qiu2 shi4 xiao3 sha1 ding1 yu2
+黃小沙丁魚	huang2 xiao3 sha1 ding1 yu2
+黑尾小沙丁魚	hei1 wei3 xiao3 sha1 ding1 yu2
+中國小沙丁魚	zhong1 guo2 xiao3 sha1 ding1 yu2
+錘氏小沙丁魚	chui2 shi4 xiao3 sha1 ding1 yu2
+南美擬沙丁魚	nan2 mei3 ni3 sha1 ding1 yu2
+尾斑棘鱗魚	wei3 ban1 ji2 lin2 yu2
+點鰭棘鱗魚	dian3 qi2 ji2 lin2 yu2
+黑鰭棘鱗魚	hei1 qi2 ji2 lin2 yu2
+劍棘鱗魚	jian4 ji2 lin2 yu2
+銀帶棘鱗魚	yin2 dai4 ji2 lin2 yu2
+普拉斯林棘鱗魚	pu3 la1 si1 lin2 ji2 lin2 yu2
+斑紋棘鱗魚	ban1 wen2 ji2 lin2 yu2
+黑帶棘鰭魚	hei1 dai4 ji2 qi2 yu2
+尖吻棘鱗魚	jian1 wen3 ji2 lin2 yu2
+刺棘鱗魚	ci4 ji2 lin2 yu2
+赤鰭棘鱗魚	chi4 qi2 ji2 lin2 yu2
+瑞氏紅魴鮄	rui4 shi4 hong2 fang2 fu2
+魏氏紅魴鮄	wei4 shi4 hong2 fang2 fu2
+線尾蜥鰻	xian4 wei3 xi1 man2
+長體蛇鯔	zhang3 ti3 she2 zi1
+細蛇鯔	xi4 she2 zi1
+多齒蛇鯔	duo1 chi3 she2 zi1
+花斑蛇鯔	hua1 ban1 she2 zi1
+鬚叉吻魴鮄	xu1 cha1 wen3 fang2 fu2
+褐緣叉吻魴鮄	he4 yuan2 cha1 wen3 fang2 fu2
+鋸棘叉吻魴鮄	ju4 ji2 cha1 wen3 fang2 fu2
+青彈塗魚	qing1 dan4 tu2 yu2
+緣頂鬚鳚	yuan2 ding3 xu1 wei4
+福氏鸚哥魚	fu2 shi4 ying1 ge1 yu2
+藍點鸚哥魚	lan2 dian3 ying1 ge1 yu2
+蟲紋鸚哥魚	chong2 wen2 ying1 ge1 yu2
+高鰭鸚哥魚	gao1 qi2 ying1 ge1 yu2
+黑鸚哥魚	hei1 ying1 ge1 yu2
+綠頜鸚哥魚	lv4 han4 ying1 ge1 yu2
+棕吻鸚哥魚	zong1 wen3 ying1 ge1 yu2
+雜紋鸚哥魚	za2 wen2 ying1 ge1 yu2
+史氏鸚哥魚	shi3 shi4 ying1 ge1 yu2
+刺鸚哥魚	ci4 ying1 ge1 yu2
+金錢魚	jin1 qian2 yu2
+等鰭辛氏微體魚	deng3 qi2 xin1 shi4 wei1 ti3 yu2
+早熟辛氏微體魚	zao3 shou2 xin1 shi4 wei1 ti3 yu2
+眼斑擬石首魚	yan3 ban1 ni3 shi2 shou3 yu2
+裸身蠕蛇鰻	luo3 shen1 ru2 she2 man2
+大鰭蠕蛇鰻	da4 qi2 ru2 she2 man2
+寬尾斜齒鯊	kuan1 wei3 xie2 chi3 sha1
+雙帶眶棘鱸	shuang1 dai4 kuang1 ji2 lu2
+齒頜眶棘鱸	chi3 han4 kuang1 ji2 lu2
+線紋眶棘鱸	xian4 wen2 kuang1 ji2 lu2
+珠斑眶棘鱸	zhu1 ban1 kuang1 ji2 lu2
+單帶眶棘鱸	dan1 dai4 kuang1 ji2 lu2
+條紋眶棘鱸	tiao2 wen2 kuang1 ji2 lu2
+伏氏眶棘鱸	fu2 shi4 kuang1 ji2 lu2
+花腹鯖	hua1 fu4 qing1
+白腹鯖	bai2 fu4 qing1
+逆鈎鰺	ni4 gou1 shen1
+托爾逆鈎鰺	tuo1 er3 ni4 gou1 shen1
+康氏馬加鰆	kang1 shi4 ma3 jia1 chun1
+臺灣馬加鰆	tai2 wan1 ma3 jia1 chun1
+高麗馬加鰆	gao1 li4 ma3 jia1 chun1
+日本馬加鰆	ri4 ben3 ma3 jia1 chun1
+中華馬加鰆	zhong1 hua2 ma3 jia1 chun1
+牛眼鯥	niu2 yan3 lu4
+大鱗鱗孔鯛	da4 lin2 lin2 kong3 diao1
+長鰭小鮋	zhang3 qi2 xiao3 you2
+淺海小鮋	qian3 hai3 xiao3 you2
+關島小鮋	guan1 dao3 xiao3 you2
+少鱗小鮋	shao3 lin2 xiao3 you2
+克氏小鮋	ke4 shi4 xiao3 you2
+正小鮋	zheng4 xiao3 you2
+短翅小鮋	duan3 chi4 xiao3 you2
+長棘小鮋	zhang3 ji2 xiao3 you2
+鬚擬鮋	xu1 ni3 you2
+杜父擬鮋	du4 fu4 ni3 you2
+毒擬鮋	du2 ni3 you2
+尖頭擬鮋	jian1 tou2 ni3 you2
+紅擬鮋	hong2 ni3 you2
+枕脊擬鮋	zhen3 ji2 ni3 you2
+枕脊擬鮋	zhen3 ji3 ni3 you2
+虎斑鞭尾鯙	hu3 ban1 bian1 wei3 chun2
+黃斑鱗頭鮋	huang2 ban1 lin2 tou2 you2
+福氏鱗頭鮋	fu2 shi4 lin2 tou2 you2
+眉鬚鱗頭鮋	mei2 xu1 lin2 tou2 you2
+廷氏鱗頭鮋	ting2 shi4 lin2 tou2 you2
+白條紋石狗公	bai2 tiao2 wen2 shi2 gou3 gong1
+石狗公	shi2 gou3 gong1
+三色石狗公	san1 se4 shi2 gou3 gong1
+印度仰口鰏	yin4 du4 yang3 kou3 bi4
+長吻仰口鰏	zhang3 wen3 yang3 kou3 bi4
+間斷仰口鰏	jian1 duan4 yang3 kou3 bi4
+仰口鰏	yang3 kou3 bi4
+脂眼凹肩鰺	zhi1 yan3 ao1 jian1 shen1
+金帶細鰺	jin1 dai4 xi4 shen1
+杜氏鰤	du4 shi4 shi1
+長鰭鰤	zhang3 qi2 shi1
+小甘鰺	xiao3 gan1 shen1
+寬身花鱸	kuan1 shen1 hua1 lu2
+長臂囊頭鮋	zhang3 bi4 nang2 tou2 you2
+黃鯽	huang2 ji4
+日本瓢鰭鰕虎	ri4 ben3 piao2 qi2 xia1 hu3
+寬頰瓢鰭鰕虎	kuan1 jia2 piao2 qi2 xia1 hu3
+環帶瓢眼鰕虎	huan2 dai4 piao2 yan3 xia1 hu3
+銀臭肚魚	yin2 chou4 du4 yu2
+長鰭臭肚魚	zhang3 qi2 chou4 du4 yu2
+褐臭肚魚	he4 chou4 du4 yu2
+刺臭肚魚	ci4 chou4 du4 yu2
+星斑臭肚魚	xing1 ban1 chou4 du4 yu2
+爪哇臭肚魚	chang2 wa1 chou4 du4 yu2
+眼帶臭肚魚	yan3 dai4 chou4 du4 yu2
+斑臭肚魚	ban1 chou4 du4 yu2
+蠕紋臭肚魚	ru2 wen2 chou4 du4 yu2
+單斑臭肚魚	dan1 ban1 chou4 du4 yu2
+藍帶臭肚魚	lan2 dai4 chou4 du4 yu2
+長纖鑽光魚	zhang3 xian1 zuan1 guang1 yu2
+纖鑽光魚	xian1 zuan1 guang1 yu2
+多鱗沙鮻	duo1 lin2 sha1 suo1
+鯰	nian2
+寄生鰻	ji4 sheng1 man2
+大眼華鯿	da4 yan3 hua2 bian1
+黑體海灣無鰭鰩	hei1 ti3 hai3 wan1 wu2 qi2 yao2
+中華刺鰍	zhong1 hua2 ci4 qiu1
+仙鼬魚	xian1 you4 yu2
+尾鱗銳齒鰕虎	wei3 lin2 rui4 chi3 xia1 hu3
+哈氏刀海龍	ha1 shi4 dao1 hai3 long2
+黑斑刀海龍	hei1 ban1 dao1 hai3 long2
+異吻長鼻鰨	yi4 wen3 zhang3 bi2 ta4
+藍鰭剃刀魚	lan2 qi2 ti4 dao1 yu2
+細吻剃刀魚	xi4 wen3 ti4 dao1 yu2
+星點梭羅蝠魚	xing1 dian3 suo1 luo2 fu2 yu2
+突粒眶棘牛尾魚	tu2 li4 kuang1 ji2 niu2 wei3 yu2
+絲鰭圓天竺鯛	si1 qi2 yuan2 tian1 zhu2 diao1
+環紋圓天竺鯛	huan2 wen2 yuan2 tian1 zhu2 diao1
+菲律賓短吻鼠尾鱈	fei1 lv4 bin1 duan3 wen3 shu3 wei3 xue3
+矮頭短吻鼠尾鱈	ai3 tou2 duan3 wen3 shu3 wei3 xue3
+里氏短吻鼠尾鱈	li3 shi4 duan3 wen3 shu3 wei3 xue3
+密溝圓魨	mi4 gou1 yuan2 tun2
+尖鰭金梭魚	jian1 qi2 jin1 suo1 yu2
+巴拉金梭魚	ba1 la1 jin1 suo1 yu2
+黃尾金梭魚	huang2 wei3 jin1 suo1 yu2
+暗鰭金梭魚	an4 qi2 jin1 suo1 yu2
+路易氏雙髻鯊	lu4 yi4 shi4 shuang1 ji4 sha1
+無溝雙髻鯊	wu2 gou1 shuang1 ji4 sha1
+錘頭雙髻鯊	chui2 tou2 shuang1 ji4 sha1
+劍狀棘蟾鮟鱇	jian4 zhuang4 ji2 chan2 an4 kang1
+鏽眼銀帶鯡	xiu4 yan3 yin2 dai4 fei4
+日本銀帶鯡	ri4 ben3 yin2 dai4 fei4
+黃身跳磯鳚	huang2 shen1 tiao4 ji1 wei4
+銀鮈	yin2 ju1
+巴氏銀鮈	ba1 shi4 yin2 ju1
+白帶高身雀鯛	bai2 dai4 gao1 shen1 que4 diao1
+背斑高身雀鯛	bei4 ban1 gao1 shen1 que4 diao1
+尖斑高身雀鯛	jian1 ban1 gao1 shen1 que4 diao1
+黃高身雀鯛	huang2 gao1 shen1 que4 diao1
+藍紋高身雀鯛	lan2 wen2 gao1 shen1 que4 diao1
+長吻高身雀鯛	zhang3 wen3 gao1 shen1 que4 diao1
+黑高身雀鯛	hei1 gao1 shen1 que4 diao1
+斑棘高身雀鯛	ban1 ji2 gao1 shen1 que4 diao1
+大尾虎鯊	da4 wei3 hu3 sha1
+頰斑細鰕虎	jia2 ban1 xi4 xia1 hu3
+眼帶狹鰕虎	yan3 dai4 xia2 xia1 hu3
+絲背冠鱗單棘魨	si1 bei4 guan4 lin2 dan1 ji2 tun2
+擬暗色褶胸魚	ni3 an4 se4 zhe1 xiong1 yu2
+黑星紫胸魚	hei1 xing1 zi3 xiong1 yu2
+虹紋紫胸魚	hong2 wen2 zi3 xiong1 yu2
+三線紫胸魚	san1 xian4 zi3 xiong1 yu2
+黑紫枝牙鰕虎	hei1 zi3 zhi1 ya2 xia1 hu3
+美麗枝牙鰕虎	mei3 li4 zhi1 ya2 xia1 hu3
+三崎粗鱗鯒	san1 qi2 cu1 lin2 yong3
+印度側帶小公魚	yin4 du4 ce4 dai4 xiao3 gong1 yu2
+巨口魚	ju4 kou3 yu2
+尖嘴圓尾鶴鱵	jian1 zui3 yuan2 wei3 he4 zhen1
+無斑圓尾鶴鱵	wu2 ban1 yuan2 wei3 he4 zhen1
+尾斑圓尾鶴鱵	wei3 ban1 yuan2 wei3 he4 zhen1
+長鯙	zhang3 chun2
+細長蘇彝士隆頭魚	xi4 zhang3 su1 yi2 shi4 long2 tou2 yu2
+頸帶鼓氣鱗魨	jing3 dai4 gu3 qi4 lin2 tun2
+金鰭鼓氣鱗魨	jin1 qi2 gu3 qi4 lin2 tun2
+黃紋鼓氣鱗魨	huang2 wen2 gu3 qi4 lin2 tun2
+大棘大眼牛尾魚	da4 ji2 da4 yan3 niu2 wei3 yu2
+大眼牛尾魚	da4 yan3 niu2 wei3 yu2
+沙地蘇納牛尾魚	sha1 di4 su1 na4 niu2 wei3 yu2
+乳瓣蘇納牛尾魚	ru3 ban4 su1 na4 niu2 wei3 yu2
+埃氏標燈魚	ai1 shi4 biao1 deng1 yu2
+曳絲笛鯛	ye4 si1 di2 diao1
+東方無線鰨	dong1 fang1 wu2 xian4 ta4
+日本尖牙鱸	ri4 ben3 jian1 ya2 lu2
+玫瑰毒鮋	mei2 gui1 du2 you2
+合鰓鰻	he2 sai1 man2
+紅連鰭䲗	hong2 lian2 qi2 xian2
+珊瑚連鰭䲗	shan1 hu2 lian2 qi2 xian2
+側斑連鰭䲗	ce4 ban1 lian2 qi2 xian2
+益田氏連鰭䲗	yi4 tian2 shi4 lian2 qi2 xian2
+眼斑連鰭䲗	yan3 ban1 lian2 qi2 xian2
+變色連鰭䲗	bian4 se4 lian2 qi2 xian2
+花斑連鰭䲗	hua1 ban1 lian2 qi2 xian2
+雙棘擬海龍	shuang1 ji2 ni3 hai3 long2
+花斑狗母魚	hua1 ban1 gou3 mu3 yu2
+橘尾窄口䰾	ju2 wei3 zhai3 kou3 ba1
+短臀瘋鱨	duan3 tun2 feng1 chang2
+橫帶天竺鯛	heng2 dai4 tian1 zhu2 diao1
+褐斑帶天竺鯛	he4 ban1 dai4 tian1 zhu2 diao1
+真帶天竺鯛	zhen1 dai4 tian1 zhu2 diao1
+鰻鰕虎	man2 xia1 hu3
+鬚鰻鰕虎	xu1 man2 xia1 hu3
+眼斑線鰭鮃	yan3 ban1 xian4 qi2 ping2
+邁氏擬條尾魟	mai4 shi4 ni3 tiao2 wei3 hong1
+雙斑多紀魨	shuang1 ban1 duo1 ji4 tun2
+黑點多紀魨	hei1 dian3 duo1 ji4 tun2
+橫紋多紀魨	heng2 wen2 duo1 ji4 tun2
+弓斑多紀魨	gong1 ban1 duo1 ji4 tun2
+斑點多紀魨	ban1 dian3 duo1 ji4 tun2
+紫色多紀魨	zi3 se4 duo1 ji4 tun2
+輻斑多紀魨	fu2 ban1 duo1 ji4 tun2
+紅鰭多紀魨	hong2 qi2 duo1 ji4 tun2
+蟲紋多紀魨	chong2 wen2 duo1 ji4 tun2
+黃鰭多紀魨	huang2 qi2 duo1 ji4 tun2
+安的列斯塔氏魚	an1 de5 lie4 si1 ta4 shi4 yu2
+絲尾塔氏魚	si1 wei3 ta4 shi4 yu2
+紅稜魴	hong2 leng2 fang2
+斯氏長鰭烏魴	si1 shi4 zhang3 qi2 wu1 fang2
+高體大鱗鮃	gao1 ti3 da4 lin2 ping2
+喬氏細鱗雀鯛	qiao2 shi4 xi4 lin2 que4 diao1
+尖吻魟	jian1 wen3 hong1
+尖嘴魟	jian1 zui3 hong1
+隆頭帶魚	long2 tou2 dai4 yu2
+鰣	shi2
+花鮃	hua1 ping2
+花身鯻	hua1 shen1 la4
+小吻四鰭旗魚	xiao3 wen3 si4 qi2 qi2 yu2
+無鬚真裸皮鮋	wu2 xu1 zhen1 luo3 pi2 you2
+駝背三稜箱魨	tuo2 bei4 san1 leng2 xiang1 tun2
+賴普三稜箱魨	lai4 pu3 san1 leng2 xiang1 tun2
+鈍頭錦魚	dun4 tou2 jin3 yu2
+環帶錦魚	huan2 dai4 jin3 yu2
+哈氏錦魚	ha1 shi4 jin3 yu2
+詹氏錦魚	zhan1 shi4 jin3 yu2
+新月錦魚	xin1 yue4 jin3 yu2
+胸斑錦魚	xiong1 ban1 jin3 yu2
+五帶錦魚	wu3 dai4 jin3 yu2
+三葉錦魚	san1 ye4 jin3 yu2
+圓腹短角單棘魨	yuan2 fu4 duan3 jiao3 dan1 ji2 tun2
+擬短角單棘魨	ni3 duan3 jiao3 dan1 ji2 tun2
+短角單棘魨	duan3 jiao3 dan1 ji2 tun2
+七帶短角單棘魨	qi1 dai4 duan3 jiao3 dan1 ji2 tun2
+密斑短角單棘魨	mi4 ban1 duan3 jiao3 dan1 ji2 tun2
+芝蕪稜鯷	zhi1 wu2 leng2 ti2
+杜氏稜鯷	du4 shi4 leng2 ti2
+赤鼻稜鯷	chi4 bi2 leng2 ti2
+長頜稜鯷	zhang3 han4 leng2 ti2
+長鰭鮪	zhang3 qi2 wei3
+黃鰭鮪	huang2 qi2 wei3
+大目鮪	da4 mu4 wei3
+太平洋黑鮪	tai4 ping2 yang2 hei1 wei3
+長腰鮪	zhang3 yao1 wei3
+西里伯多棘牛尾魚	xi1 li3 bo2 duo1 ji2 niu2 wei3 yu2
+長吻多棘牛尾魚	zhang3 wen3 duo1 ji2 niu2 wei3 yu2
+梭形富山鰕虎	suo1 xing2 fu4 shan1 xia1 hu3
+奧奈氏富山鰕虎	ao4 nai4 shi4 fu4 shan1 xia1 hu3
+史氏富山鰕虎	shi3 shi4 fu4 shan1 xia1 hu3
+東京電鱝	dong1 jing1 dian4 fen4
+黃帶窄額魨	huang2 dai4 zhai3 e2 tun2
+頭紋窄額魨	tou2 wen2 zhai3 e2 tun2
+瞻星粗頭鮋	zhan1 xing1 cu1 tou2 you2
+準大頭狗母魚	zhun3 da4 tou2 gou3 mu3 yu2
+斐氏鯧鰺	fei3 shi4 chang1 shen1
+布氏鯧鰺	bu4 shi4 chang1 shen1
+粗鰭魚	cu1 qi2 yu2
+多毛粗尾鱈	duo1 mao2 cu1 wei3 xue3
+日本竹筴魚	ri4 ben3 zhu2 ce4 yu2
+短尾粗吻海龍	duan3 wei3 cu1 wen3 hai3 long2
+鋸粗吻海龍	ju4 cu1 wen3 hai3 long2
+鐽特鯔	da2 te4 zi1
+前川氏棘花鱸	qian2 chuan1 shi4 ji2 hua1 lu2
+細鱗厚鼬䲁	xi4 lin2 hou4 you4 wei4
+斑紋側帶小公魚	ban1 wen2 ce4 dai4 xiao3 gong1 yu2
+臺東間爬岩鰍	tai2 dong1 jian1 pa2 yan2 qiu1
+沈氏間爬岩鰍	shen3 shi4 jian1 pa2 yan2 qiu1
+細斑吻鰕虎	xi4 ban1 wen3 xia1 hu3
+臺灣吻鰕虎	tai2 wan1 wen3 xia1 hu3
+大吻鰕虎	da4 wen3 xia1 hu3
+恆春吻鰕虎	heng2 chun1 wen3 xia1 hu3
+蘭嶼吻鰕虎	lan2 yu3 wen3 xia1 hu3
+斑帶吻鰕虎	ban1 dai4 wen3 xia1 hu3
+南台吻鰕虎	nan2 tai2 wen3 xia1 hu3
+短吻紅斑吻鰕虎	duan3 wen3 hong2 ban1 wen3 xia1 hu3
+極樂吻鰕虎	ji2 le4 wen3 xia1 hu3
+遠藤擬鮟鱇	yuan3 teng2 ni3 an4 kang1
+寡鱗合鰓鰻	gua3 lin2 he2 sai1 man2
+黃鑷口魚	huang2 nie4 kou3 yu2
+長身裸蜥魚	zhang3 shen1 luo3 xi1 yu2
+棘鱗韌鰕虎	ji2 lin2 ren4 xia1 hu3
+八斑土佐鮃	ba1 ban1 tu3 zuo3 ping2
+勞倫氏豆娘魚	lao2 lun2 shi4 dou4 niang2 yu2
+昂氏棘吻魚	ang2 shi4 ji2 wen3 yu2
+大棘鼬魚	da4 ji2 you4 yu2
+琉球棘鯛	liu2 qiu2 ji2 diao1
+太平洋棘鯛	tai4 ping2 yang2 ji2 diao1
+橘鰭棘鯛	ju2 qi2 ji2 diao1
+臺灣棘鯛	tai2 wan1 ji2 diao1
+海氏若棘鮗	hai3 shi4 ruo4 ji2 dong1
+滑腹若棘鮗	hua2 fu4 ruo4 ji2 dong1
+肩斑刺尾鯛	jian1 ban1 ci4 wei3 diao1
+布氏刺尾鯛	bu4 shi4 ci4 wei3 diao1
+藍鰭刺尾鯛	lan2 qi2 ci4 wei3 diao1
+杜氏刺尾鯛	du4 shi4 ci4 wei3 diao1
+斑點刺尾鯛	ban1 dian3 ci4 wei3 diao1
+黑尾刺尾鯛	hei1 wei3 ci4 wei3 diao1
+一字刺尾鯛	yi1 zi4 ci4 wei3 diao1
+火紅刺尾鯛	huo3 hong2 ci4 wei3 diao1
+黃鰭刺尾鯛	huang2 qi2 ci4 wei3 diao1
+彎紋細棘鰕虎	wan1 wen2 xi4 ji2 xia1 hu3
+短身細尾海龍	duan3 shen1 xi4 wei3 hai3 long2
+羽根田氏發光鯛	yu3 gen1 tian2 shi4 fa1 guang1 diao1
+日本發光鯛	ri4 ben3 fa1 guang1 diao1
+角鰨	jiao3 ta4
+東海狐鰮	dong1 hai3 hu2 wen1
+帆蜥魚	fan1 xi1 yu2
+雙色黑頭魚	shuang1 se4 hei1 tou2 yu2
+長鰭黑頭魚	zhang3 qi2 hei1 tou2 yu2
+尖吻黑頭魚	jian1 wen3 hei1 tou2 yu2
+同色蒜蛇鰻	tong2 se4 suan4 she2 man2
+淺海狐鯊	qian3 hai3 hu2 sha1
+布魯雙邊魚	bu4 lu3 shuang1 bian1 yu2
+斷線雙邊魚	duan4 xian4 shuang1 bian1 yu2
+大棘雙邊魚	da4 ji2 shuang1 bian1 yu2
+小眼雙邊魚	xiao3 yan3 shuang1 bian1 yu2
+尾紋雙邊魚	wei3 wen2 shuang1 bian1 yu2
+維氏雙邊魚	wei2 shi4 shuang1 bian1 yu2
+布氏鈍鯊	bu4 shi4 dun4 sha1
+斜帶鈍鯊	xie2 dai4 dun4 sha1
+日本鈍鯊	ri4 ben3 dun4 sha1
+黑頭鈍鯊	hei1 tou2 dun4 sha1
+小笠原鈍鯊	xiao3 li4 yuan2 dun4 sha1
+蘭道氏鈍鯊	lan2 dao4 shi4 dun4 sha1
+眼帶鈍鯊	yan3 dai4 dun4 sha1
+太平島鈍鯊	tai4 ping2 dao3 dun4 sha1
+亞諾鈍鯊	ya3 nuo4 dun4 sha1
+白條雙鋸魚	bai2 tiao2 shuang1 ju4 yu2
+眼斑雙鋸魚	yan3 ban1 shuang1 ju4 yu2
+粉紅雙鋸魚	fen3 hong2 shuang1 ju4 yu2
+白背雙鋸魚	bai2 bei4 shuang1 ju4 yu2
+擬鬚魨	ni3 xu1 tun2
+青斑阿南魚	qing1 ban1 a1 nan2 yu2
+蟲紋阿南魚	chong2 wen2 a1 nan2 yu2
+烏尾阿南魚	wu1 wei3 a1 nan2 yu2
+黃尾阿南魚	huang2 wei3 a1 nan2 yu2
+新幾內亞阿南魚	xin1 ji3 nei4 ya3 a1 nan2 yu2
+雙斑阿南魚	shuang1 ban1 a1 nan2 yu2
+褐裸臀鯙	he4 luo3 tun2 chun2
+西里伯斯鰻鱺	xi1 li3 bo2 si1 man2 li2
+日本鰻鱺	ri4 ben3 man2 li2
+呂宋鰻鱺	lv3 song4 man2 li2
+花鰻鱺	hua1 man2 li2
+康氏躄魚	kang1 shi4 bi4 yu2
+藍道氏躄魚	lan2 dao4 shi4 bi4 yu2
+高菱鯛	gao1 ling2 diao1
+細鱗擬深海鱈	xi4 lin2 ni3 shen1 hai3 xue3
+銹色細齒笛鯛	xiu4 se4 xi4 chi3 di2 diao1
+溪流細鯽	xi1 liu2 xi4 ji4
+澳洲裸鼬魚	ao4 zhou1 luo3 you4 yu2
+短斑叉牙鰕虎	duan3 ban1 cha1 ya2 xia1 hu3
+透明紅天竺鯛	tou4 ming2 hong2 tian1 zhu2 diao1
+堅頭天竺鯛	jian1 tou2 tian1 zhu2 diao1
+粉紅天竺鯛	fen3 hong2 tian1 zhu2 diao1
+半飾天竺鯛	ban4 shi4 tian1 zhu2 diao1
+一色天竺鯛	yi1 se4 tian1 zhu2 diao1
+鳩斑原天竺鯛	jiu1 ban1 yuan2 tian1 zhu2 diao1
+雙線少孔紋鯛	shuang1 xian4 shao3 kong3 wen2 diao1
+藍短鰭笛鯛	lan2 duan3 qi2 di2 diao1
+駝背篦鯊	tuo2 bei4 bi4 sha1
+長頭篦鯊	zhang3 tou2 bi4 sha1
+大口篦鯊	da4 kou3 bi4 sha1
+鹿兒島水珍魚	lu4 er2 dao3 shui3 zhen1 yu2
+棘銀斧魚	ji2 yin2 fu3 yu2
+長銀斧魚	zhang3 yin2 fu3 yu2
+巨銀斧魚	ju4 yin2 fu3 yu2
+半裸銀斧魚	ban4 luo3 yin2 fu3 yu2
+斯氏銀斧魚	si1 shi4 yin2 fu3 yu2
+布氏長棘鯛	bu4 shi4 zhang3 ji2 diao1
+長鰭錐體糯鰻	zhang3 qi2 zhui1 ti3 nuo4 man2
+黑錐體糯鰻	hei1 zhui1 ti3 nuo4 man2
+大眼錐體糯鰻	da4 yan3 zhui1 ti3 nuo4 man2
+日本羊舌鮃	ri4 ben3 yang2 she2 ping2
+長冠羊舌鮃	zhang3 guan4 yang2 she2 ping2
+尖吻羊舌鮃	jian1 wen3 yang2 she2 ping2
+細羊舌鮃	xi4 yang2 she2 ping2
+山中氏羊舌鮃	shan1 zhong1 shi4 yang2 she2 ping2
+青斑叉鼻魨	qing1 ban1 cha1 bi2 tun2
+陳氏櫛鱗鰨	chen2 shi4 jie2 lin2 ta4
+東方櫛鱗鰨	dong1 fang1 jie2 lin2 ta4
+縱帶盾齒鳚	zong4 dai4 dun4 chi3 wei4
+蘭氏燕尾七夕魚	lan2 shi4 yan4 wei3 qi1 xi1 yu2
+半斑星鰕虎	ban4 ban1 xing1 xia1 hu3
+臺灣星衫魚	tai2 wan1 xing1 shan1 yu2
+印度星衫魚	yin4 du4 xing1 shan1 yu2
+印太星衫魚	yin4 tai4 xing1 shan1 yu2
+螢光星衫魚	ying2 guang1 xing1 shan1 yu2
+絲球星衫魚	si1 qiu2 xing1 shan1 yu2
+三絲星衫魚	san1 si1 xing1 shan1 yu2
+日本軟腕魚	ri4 ben3 ruan3 wan4 yu2
+紫軟腕魚	zi3 ruan3 wan4 yu2
+田邊軟腕魚	tian2 bian1 ruan3 wan4 yu2
+糙頭細銀漢魚	cao1 tou2 xi4 yin2 han4 yu2
+特氏紫鱸	te4 shi4 zi3 lu2
+沃氏軟鰕虎	wo4 shi4 ruan3 xia1 hu3
+伯氏巴傑加州黑頭魚	bo2 shi4 ba1 jie2 jia1 zhou1 hei1 tou2 yu2
+格拉漢盲鼬魚	ge2 la1 han4 mang2 you4 yu2
+棕斑盲鼬魚	zong1 ban1 mang2 you4 yu2
+紅鬚仿鯨	hong2 xu1 fang3 jing1
+髯毛鰕虎	ran2 mao2 xia1 hu3
+多棘索深鼬魚	duo1 ji2 suo3 shen1 you4 yu2
+壯體索深鼬魚	zhuang4 ti3 suo3 shen1 you4 yu2
+四絲深巨口魚	si4 si1 shen1 ju4 kou3 yu2
+絲鬚深巨口魚	si1 xu1 shen1 ju4 kou3 yu2
+臺灣䲗	tai2 wan1 xian2
+白緣深海糯鰻	bai2 yuan2 shen1 hai3 nuo4 man2
+雙斑深海糯鰻	shuang1 ban1 shen1 hai3 nuo4 man2
+畢氏深海糯鰻	bi4 shi4 shen1 hai3 nuo4 man2
+褐深海糯鰻	he4 shen1 hai3 nuo4 man2
+卡氏深海糯鰻	ka3 shi4 shen1 hai3 nuo4 man2
+細頭深海糯鰻	xi4 tou2 shen1 hai3 nuo4 man2
+大孔深海糯鰻	da4 kong3 shen1 hai3 nuo4 man2
+暗色底尾鱈	an4 se4 di3 wei3 xue3
+加氏底尾鱈	jia1 shi4 di3 wei3 xue3
+綿頭底尾鱈	mian2 tou2 di3 wei3 xue3
+銼吻淵油鰻	cuo4 wen3 yuan1 you2 man2
+長棘深海擬三棘魨	zhang3 ji2 shen1 hai3 ni3 san1 ji2 tun2
+小眼深海狗母魚	xiao3 yan3 shen1 hai3 gou3 mu3 yu2
+貢氏深海狗母魚	gong4 shi4 shen1 hai3 gou3 mu3 yu2
+尖吻深海蜥魚	jian1 wen3 shen1 hai3 xi1 yu2
+深海擬野鱸	shen1 hai3 ni3 ye3 lu2
+小鱗淵眼魚	xiao3 lin2 yuan1 yan3 yu2
+盲深海青眼魚	mang2 shen1 hai3 qing1 yan3 yu2
+白深海尾糯鰻	bai2 shen1 hai3 wei3 nuo4 man2
+長體深海尾糯鰻	zhang3 ti3 shen1 hai3 wei3 nuo4 man2
+菲律賓針鰭鮗	fei1 lv4 bin1 zhen1 qi2 dong1
+查氏鱵鱸	cha2 shi4 zhen1 lu2
+玫瑰鯒	mei2 gui1 yong3
+日本赤鯒	ri4 ben3 chi4 yong3
+尾斑鯒狀魚	wei3 ban1 yong3 zhuang4 yu2
+曲線鯒狀魚	qu1 xian4 yong3 zhuang4 yu2
+絲棘鯒狀魚	si1 ji2 yong3 zhuang4 yu2
+楊氏深海電鱝	yang2 shi4 shen1 hai3 dian4 fen4
+軟體金眼鯛	ruan3 ti3 jin1 yan3 diao1
+紅金眼鯛	hong2 jin1 yan3 diao1
+外鰓懶糯鰻	wai4 sai1 lan3 nuo4 man2
+箕作布氏筋魚	ji1 zuo4 bu4 shi4 jin1 yu2
+雙斑狐鯛	shuang1 ban1 hu2 diao1
+伊津狐鯛	yi1 jin1 hu2 diao1
+益田氏狐鯛	yi4 tian2 shi4 hu2 diao1
+紅點斑狐鯛	hong2 dian3 ban1 hu2 diao1
+無紋狐鯛	wu2 wen2 hu2 diao1
+絲鰭狐鯛	si1 qi2 hu2 diao1
+中華烏塘鱧	zhong1 hua2 wu1 tang2 li3
+雲斑寬箬鰨	yun2 ban1 kuan1 ruo4 ta4
+亨氏短體蛇鰻	heng1 shi4 duan3 ti3 she2 man2
+長鰭短體蛇鰻	zhang3 qi2 duan3 ti3 she2 man2
+日本烏魴	ri4 ben3 wu1 fang2
+梅氏烏魴	mei2 shi4 wu1 fang2
+小鱗烏魴	xiao3 lin2 wu1 fang2
+白馬頭魚	bai2 ma3 tou2 yu2
+白氏鰓口文昌魚	bai2 shi4 sai1 kou3 wen2 chang1 yu2
+擬鯷海鰗鰍	ni3 ti2 hai3 hu2 qiu1
+尖鰭海鰗鰍	jian1 qi2 hai3 hu2 qiu1
+銀腰海鰗鰍	yin2 yao1 hai3 hu2 qiu1
+擬尖鰭海鰗鰍	ni3 jian1 qi2 hai3 hu2 qiu1
+潘氏似鱈鼬魚	pan1 shi4 shi4 xue3 you4 yu2
+臺灣小線深海鼬魚	tai2 wan1 xiao3 xian4 shen1 hai3 you4 yu2
+羅氏珊瑚鰕虎	luo2 shi4 shan1 hu2 xia1 hu3
+漂遊珊瑚鰕虎	piao1 you2 shan1 hu2 xia1 hu3
+邵氏蟾蜍角鮟鱇	shao4 shi4 chan2 chu2 jiao3 an4 kang1
+布氏鰻海龍	bu4 shi4 man2 hai3 long2
+花尾烏尾鮗	hua1 wei3 wu1 wei3 dong1
+黃藍背烏尾鮗	huang2 lan2 bei4 wu1 wei3 dong1
+日本麗花鮨	ri4 ben3 li4 hua1 yi4
+彎角䲗	wan1 jiao3 xian2
+海南䲗	hai3 nan2 xian2
+海氏䲗	hai3 shi4 xian2
+長崎䲗	zhang3 qi2 xian2
+火星䲗	huo3 xing1 xian2
+子午䲗	zi3 wu3 xian2
+扁䲗	bian3 xian2
+胡麻䲗	hu2 ma2 xian2
+粗首䲗	cu1 shou3 xian2
+瓦氏䲗	wa3 shi4 xian2
+奇䲗	qi2 xian2
+圓鱗硬皮鰕虎	yuan2 lin2 ying4 pi2 xia1 hu3
+黑鰭緣硬皮鰕虎	hei1 qi2 yuan2 ying4 pi2 xia1 hu3
+沈氏硬皮鰕虎	shen3 shi4 ying4 pi2 xia1 hu3
+史氏硬皮鰕虎	shi3 shi4 ying4 pi2 xia1 hu3
+小曲海龍	xiao3 qu3 hai3 long2
+屏東鬚鱲	ping2 dong1 xu1 la4
+橫帶若鰺	heng2 dai4 ruo4 shen1
+白舌若鰺	bai2 she2 ruo4 shen1
+藍點鰺	lan2 dian3 shen1
+藍鰭鰺	lan2 qi2 shen1
+巴布亞鰺	ba1 bu4 ya3 shen1
+紅尾棘金眼鯛	hong2 wei3 ji2 jin1 yan3 diao1
+黑緣刺鯊	hei1 yuan2 ci4 sha1
+低鰭刺鯊	di1 qi2 ci4 sha1
+皺皮刺鯊	zhou4 pi2 ci4 sha1
+刺鮟鱇	ci4 an4 kang1
+鏽紅刺尻魚	xiu4 hong2 ci4 kao1 yu2
+海氏刺尻魚	hai3 shi4 ci4 kao1 yu2
+蒲原氏霞鯊	pu2 yuan2 shi4 xia2 sha1
+伊加拉九刺鮨	yi1 jia1 la1 jiu3 ci4 yi4
+網紋絨毛鯊	wang3 wen2 rong2 mao2 sha1
+臺灣頭鯊	tai2 wan1 tou2 sha1
+沙勞越頭鯊	sha1 lao2 yue4 tou2 sha1
+陰影絨毛鯊	yin1 ying3 rong2 mao2 sha1
+海倫額角三鰭鳚	hai3 lun2 e2 jiao3 san1 qi2 wei4
+烏頂蝴蝶魚	wu1 ding3 hu2 die2 yu2
+銀身蝴蝶魚	yin2 shen1 hu2 die2 yu2
+曲紋蝴蝶魚	qu1 wen2 hu2 die2 yu2
+本氏蝴蝶魚	ben3 shi4 hu2 die2 yu2
+柏氏蝴蝶魚	bai3 shi4 hu2 die2 yu2
+鞍斑蝴蝶魚	an1 ban1 hu2 die2 yu2
+麥氏蝴蝶魚	mai4 shi4 hu2 die2 yu2
+樸蝴蝶魚	pu3 hu2 die2 yu2
+藍斑蝴蝶魚	lan2 ban1 hu2 die2 yu2
+點斑橫帶蝴蝶魚	dian3 ban1 heng2 dai4 hu2 die2 yu2
+四點蝴蝶魚	si4 dian3 hu2 die2 yu2
+網紋蝴蝶魚	wang3 wen2 hu2 die2 yu2
+彎月蝴蝶魚	wan1 yue4 hu2 die2 yu2
+鏡斑蝴蝶魚	jing4 ban1 hu2 die2 yu2
+川紋蝴蝶魚	chuan1 wen2 hu2 die2 yu2
+一點蝴蝶魚	yi1 dian3 hu2 die2 yu2
+飄浮蝴蝶魚	piao1 fu2 hu2 die2 yu2
+網紋頭荷包魚	wang3 wen2 tou2 he2 bao1 yu2
+矛尾鰕虎	mao2 wei3 xia1 hu3
+貢氏鱷齒魚	gong4 shi4 e4 chi3 yu2
+斯氏鱷齒魚	si1 shi4 e4 chi3 yu2
+前長頜鮃	qian2 zhang3 han4 ping2
+馬康氏蝰魚	ma3 kang1 shi4 kui2 yu2
+阿部單棘躄魚	a1 bu4 dan1 ji2 bi4 yu2
+粉紅單棘躄魚	fen3 hong2 dan1 ji2 bi4 yu2
+單棘躄魚	dan1 ji2 bi4 yu2
+雲紋單棘躄魚	yun2 wen2 dan1 ji2 bi4 yu2
+斑馬唇指䱵	ban1 ma3 chun2 zhi3 weng1
+花尾唇指䱵	hua1 wei3 chun2 zhi3 weng1
+縱帶巨齒天竺鯛	zong4 dai4 ju4 chi3 tian1 zhu2 diao1
+中間巨齒天竺鯛	zhong1 jian1 ju4 chi3 tian1 zhu2 diao1
+皺鰓鯊	zhou4 sai1 sha1
+南海擬鯙	nan2 hai3 ni3 chun2
+尖額青眼魚	jian1 e2 qing1 yan3 yu2
+大眼青眼魚	da4 yan3 qing1 yan3 yu2
+北域青眼魚	bei3 yu4 qing1 yan3 yu2
+黑緣青眼魚	hei1 yuan2 qing1 yan3 yu2
+黑斑豬齒魚	hei1 ban1 zhu1 chi3 yu2
+多鬚多指鮋	duo1 xu1 duo1 zhi3 you2
+綠尾低線魚	lv4 wei3 di1 xian4 yu2
+黃斑低線魚	huang2 ban1 di1 xian4 yu2
+少鱗低線魚	shao3 lin2 di1 xian4 yu2
+侏儒光鰓雀鯛	zhu1 ru2 guang1 sai1 que4 diao1
+白尾光鰓雀鯛	bai2 wei3 guang1 sai1 que4 diao1
+白斑光鰓雀鯛	bai2 ban1 guang1 sai1 que4 diao1
+亞倫氏光鰓雀鯛	ya3 lun2 shi4 guang1 sai1 que4 diao1
+黑腋光鰓雀鯛	hei1 ye4 guang1 sai1 que4 diao1
+黑鰭光鰓雀鯛	hei1 qi2 guang1 sai1 que4 diao1
+三角光鰓雀鯛	san1 jiao3 guang1 sai1 que4 diao1
+黑肛光鰓雀鯛	hei1 gang1 guang1 sai1 que4 diao1
+亮光鰓雀鯛	liang4 guang1 sai1 que4 diao1
+雙斑光鰓雀鯛	shuang1 ban1 guang1 sai1 que4 diao1
+岡村氏光鰓雀鯛	gang1 cun1 shi4 guang1 sai1 que4 diao1
+大沼氏光鰓雀鯛	da4 zhao3 shi4 guang1 sai1 que4 diao1
+卵形光鰓雀鯛	luan3 xing2 guang1 sai1 que4 diao1
+魏氏光鰓雀鯛	wei4 shi4 guang1 sai1 que4 diao1
+金頭刻齒雀鯛	jin1 tou2 ke4 chi3 que4 diao1
+眼點麗魚	yan3 dian3 li4 yu2
+長鬚卷盔鯊	zhang3 xu1 juan3 kui1 sha1
+豔麗絲鰭鸚鯛	yan4 li4 si1 qi2 ying1 diao1
+新月絲鰭鸚鯛	xin1 yue4 si1 qi2 ying1 diao1
+黑緣絲鰭鸚鯛	hei1 yuan2 si1 qi2 ying1 diao1
+紅緣絲鰭鸚鯛	hong2 yuan2 si1 qi2 ying1 diao1
+鷹金䱵	ying1 jin1 weng1
+臺灣喉鬚鯊	tai2 wan1 hou2 xu1 sha1
+麥氏無鰭鬚蛇鰻	mai4 shi4 wu2 qi2 xu1 she2 man2
+臺灣鬍鯙	tai2 wan1 hu2 chun2
+紫黑頸鬚鳚	zi3 hei1 jing3 xu1 wei4
+擬棘鮃	ni3 ji2 ping2
+臺灣翼棘鰕虎	tai2 wan1 yi4 ji2 xia1 hu3
+中華鰍	zhong1 hua2 qiu1
+短尾腔蝠魚	duan3 wei3 qiang1 fu2 yu2
+鴨嘴腔吻鱈	ya1 zui3 qiang1 wen3 xue3
+擬星腔吻鱈	ni3 xing1 qiang1 wen3 xue3
+短吻腔吻鱈	duan3 wen3 qiang1 wen3 xue3
+帶斑腔吻鱈	dai4 ban1 qiang1 wen3 xue3
+變異腔吻鱈	bian4 yi4 qiang1 wen3 xue3
+廣布腔吻鱈	guang3 bu4 qiang1 wen3 xue3
+臺灣腔吻鱈	tai2 wan1 qiang1 wen3 xue3
+黑喉腔吻鱈	hei1 hou2 qiang1 wen3 xue3
+哈氏腔吻鱈	ha1 shi4 qiang1 wen3 xue3
+蒲原氏腔吻鱈	pu2 yuan2 shi4 qiang1 wen3 xue3
+岸上氏腔吻鱈	an4 shang4 shi4 qiang1 wen3 xue3
+窄吻腔吻鱈	zhai3 wen3 qiang1 wen3 xue3
+長管腔吻鱈	zhang3 guan3 qiang1 wen3 xue3
+多棘腔吻鱈	duo1 ji2 qiang1 wen3 xue3
+東海腔吻鱈	dong1 hai3 qiang1 wen3 xue3
+沈氏腔吻鱈	shen3 shi4 qiang1 wen3 xue3
+史氏腔吻鱈	shi3 shi4 qiang1 wen3 xue3
+大棘腔吻鱈	da4 ji2 qiang1 wen3 xue3
+七絲鱭	qi1 si1 ji4
+刀鱭	dao1 ji4
+日本短糯鰻	ri4 ben3 duan3 nuo4 man2
+蛙頭短糯鰻	wa1 tou2 duan3 nuo4 man2
+喬氏糯鰻	qiao2 shi4 nuo4 man2
+大頭糯鰻	da4 tou2 nuo4 man2
+白邊康吉鰻	bai2 bian1 kang1 ji2 man2
+原鶴康吉吻鰻	yuan2 he4 kang1 ji2 wen3 man2
+克氏錐首魚	ke4 shi4 zhui1 shou3 yu2
+背斑盔魚	bei4 ban1 kui1 yu2
+粗體突吻鱈	cu1 ti3 tu2 wen3 xue3
+黑緣突吻鱈	hei1 yuan2 tu2 wen3 xue3
+錐鼻突吻鱈	zhui1 bi2 tu2 wen3 xue3
+野突吻鱈	ye3 tu2 wen3 xue3
+史氏冠海龍	shi3 shi4 guan4 hai3 long2
+霍文纓鮃	huo4 wen2 ying1 ping2
+谷津氏猴鯊	gu3 jin1 shi4 hou2 sha1
+雙斑櫛齒刺尾鯛	shuang1 ban1 jie2 chi3 ci4 wei3 diao1
+西昔爾櫛鰕虎	xi1 xi1 er3 jie2 xia1 hu3
+絲棘櫛眼鰕虎	si1 ji2 jie2 yan3 xia1 hu3
+臺灣櫛眼鰕虎	tai2 wan1 jie2 yan3 xia1 hu3
+絲鰭櫛眼鰕虎	si1 qi2 jie2 yan3 xia1 hu3
+點斑櫛眼鰕虎	dian3 ban1 jie2 yan3 xia1 hu3
+長棘櫛眼鰕虎	zhang3 ji2 jie2 yan3 xia1 hu3
+科氏方頭鯧	ke1 shi4 fang1 tou2 chang1
+翹嘴鮊	qiao4 zui3 ba4
+白圓罩魚	bai2 yuan2 zhao4 yu2
+蒼圓罩魚	cang1 yuan2 zhao4 yu2
+斷線舌鰨	duan4 xian4 she2 ta4
+焦氏舌鰨	jiao1 shi4 she2 ta4
+黑鰭舌鰨	hei1 qi2 she2 ta4
+落合氏舌鰨	luo4 he2 shi4 she2 ta4
+寬體舌鰨	kuan1 ti3 she2 ta4
+書顏舌鰨	shu1 yan2 she2 ta4
+紮帕駝雀鯛	za1 pa4 tuo2 que4 diao1
+細頭斑鰭飛魚	xi4 tou2 ban1 qi2 fei1 yu2
+斯氏斑鰭飛魚	si1 shi4 ban1 qi2 fei1 yu2
+青菱的鯛	qing1 ling2 de5 diao1
+吉氏飛角魚	ji2 shi4 fei1 jiao3 yu2
+黑尾圓雀鯛	hei1 wei3 yuan2 que4 diao1
+泰勃圓鰺	tai4 bo2 yuan2 shen1
+阿部牙鯛	a1 bu4 ya2 diao1
+黄背牙鯛	huang2 bei4 ya2 diao1
+黑鰭少棘胡椒鯛	hei1 qi2 shao3 ji2 hu2 jiao1 diao1
+長距眶燈魚	zhang3 ju4 kuang1 deng1 yu2
+短頭眶燈魚	duan3 tou2 kuang1 deng1 yu2
+金鼻眶燈魚	jin1 bi2 kuang1 deng1 yu2
+冠冕眶燈魚	guan4 mian3 kuang1 deng1 yu2
+符氏眶燈魚	fu2 shi4 kuang1 deng1 yu2
+喀氏眶燈魚	ka1 shi4 kuang1 deng1 yu2
+奈氏眼眶魚	nai4 shi4 yan3 kuang1 yu2
+帕爾眶燈魚	pa4 er3 kuang1 deng1 yu2
+相模灣眶燈魚	xiang1 mo2 wan1 kuang1 deng1 yu2
+史氏眶燈魚	shi3 shi4 kuang1 deng1 yu2
+叉尾眶燈魚	cha1 wei3 kuang1 deng1 yu2
+渡瀨眶燈魚	du4 lai4 kuang1 deng1 yu2
+短絲指鼬魚	duan3 si1 zhi3 you4 yu2
+愛氏二齒魨	ai4 shi4 er4 chi3 tun2
+紋二齒魨	wen2 er4 chi3 tun2
+印度洋明燈魚	yin4 du4 yang2 ming2 deng1 yu2
+細雙光魚	xi4 shuang1 guang1 yu2
+近燈雙光魚	jin4 deng1 shuang1 guang1 yu2
+雙帶鱸	shuang1 dai4 lu2
+伍氏長吻鰩	wu3 shi4 zhang3 wen3 yao2
+維里擬銀眼鯛	wei2 li3 ni3 yin2 yan3 diao1
+盤孔喉盤魚	pan2 kong3 hou2 pan2 yu2
+黑長裸蜥魚	hei1 zhang3 luo3 xi1 yu2
+黑狡鮟鱇	hei1 jiao3 an4 kang1
+黑狡鮟鱇	hei1 jiao3 an1 kang1
+藍帶矛吻海龍	lan2 dai4 mao2 wen3 hai3 long2
+阿氏線棘細齒鰧	a1 shi4 xian4 ji2 xi4 chi3 teng2
+短吻前肛鰻	duan3 wen3 qian2 gang1 man2
+長身前肛鰻	zhang3 shen1 qian2 gang1 man2
+白前肛鰻	bai2 qian2 gang1 man2
+高氏前肛鰻	gao1 shi4 qian2 gang1 man2
+長吻前肛鰻	zhang3 wen3 qian2 gang1 man2
+黑尾前肛鰻	hei1 wei3 qian2 gang1 man2
+後臀前肛鰻	hou4 tun2 qian2 gang1 man2
+多齒前肛鰻	duo1 chi3 qian2 gang1 man2
+羅氏前肛鰻	luo2 shi4 qian2 gang1 man2
+臺灣前肛鰻	tai2 wan1 qian2 gang1 man2
+東方短體前肛鰻	dong1 fang1 duan3 ti3 qian2 gang1 man2
+多皺短身前肛鰻	duo1 zhou4 duan3 shen1 qian2 gang1 man2
+多椎鰭蠕鰻	duo1 chui2 qi2 ru2 man2
+庫克笠鱗鯊	ku4 ke4 li4 lin2 sha1
+科氏底隱魚	ke1 shi4 di3 yin3 yu2
+巴氏無鬚鳚	ba1 shi4 wu2 xu1 wei4
+線紋無鬚鳚	xian4 wen2 wu2 xu1 wei4
+黑色無鬚鳚	hei1 se4 wu2 xu1 wei4
+眼斑無鬚鳚	yan3 ban1 wu2 xu1 wei4
+無鰾黑鮋	wu2 biao4 hei1 you2
+無鰾黑鮋	wu2 biao1 hei1 you2
+南海伊氏鰕虎	nan2 hai3 yi1 shi4 xia1 hu3
+條紋塘鱧	tiao2 wen2 tang2 li3
+史氏諧魚	shi3 shi4 xie2 yu2
+窄額短額鮃	zhai3 e2 duan3 e2 ping2
+長腹鰭短額鮃	zhang3 fu4 qi2 duan3 e2 ping2
+莫三比克短額鮃	mo4 san1 bi3 ke4 duan3 e2 ping2
+多鱗短額鮃	duo1 lin2 duan3 e2 ping2
+短鰭短額鮃	duan3 qi2 duan3 e2 ping2
+光短額鮃	guang1 duan3 e2 ping2
+馬來雙線鳚	ma3 lai2 shuang1 xian4 wei4
+陳氏雙線鳚	chen2 shi4 shuang1 xian4 wei4
+黃頸雙線鳚	huang2 jing3 shuang1 xian4 wei4
+黑腹雙線鳚	hei1 fu4 shuang1 xian4 wei4
+孝真雙線鳚	xiao4 zhen1 shuang1 xian4 wei4
+白點雙線鳚	bai2 dian3 shuang1 xian4 wei4
+黑尾雙線鳚	hei1 wei3 shuang1 xian4 wei4
+淡白斑雙線鳚	dan4 bai2 ban1 shuang1 xian4 wei4
+棒狀雙線鳚	bang4 zhuang4 shuang1 xian4 wei4
+紅尾雙線鳚	hong2 wei3 shuang1 xian4 wei4
+邵氏雙線鳚	shao4 shi4 shuang1 xian4 wei4
+沈氏雙線鳚	shen3 shi4 shuang1 xian4 wei4
+隆背雙線鳚	long2 bei4 shuang1 xian4 wei4
+單斑雙線鳚	dan1 ban1 shuang1 xian4 wei4
+黑鞍斑雙線鳚	hei1 an1 ban1 shuang1 xian4 wei4
+短刀側殖文昌魚	duan3 dao1 ce4 zhi2 wen2 chang1 yu2
+馬爾地夫側殖文昌魚	ma3 er3 di4 fu1 ce4 zhi2 wen2 chang1 yu2
+細身深海天竺鯛	xi4 shen1 shen1 hai3 tian1 zhu2 diao1
+黑點石斑魚	hei1 dian3 shi2 ban1 yu2
+吻斑石斑魚	wen3 ban1 shi2 ban1 yu2
+南海石斑魚	nan2 hai3 shi2 ban1 yu2
+藍身大斑石斑魚	lan2 shen1 da4 ban1 shi2 ban1 yu2
+中華黏盲鰻	zhong1 hua2 nian2 mang2 man2
+神奈川旋杜父魚	shen2 nai4 chuan1 xuan2 du4 fu4 yu2
+雷氏光唇鯊	lei2 shi4 guang1 chun2 sha1
+平滑絨鮋	ping2 hua2 rong2 you2
+濱鯛	bin1 diao1
+長尾濱鯛	zhang3 wei3 bin1 diao1
+多耙濱鯛	duo1 ba4 bin1 diao1
+短尾烏鯊	duan3 wei3 wu1 sha1
+伯氏烏鯊	bo2 shi4 wu1 sha1
+莊氏烏鯊	zhuang1 shi4 wu1 sha1
+斯普蘭汀烏鯊	si1 pu3 lan2 ting1 wu1 sha1
+真烏魴	zhen1 wu1 fang2
+真芒巨口魚	zhen1 mang2 ju4 kou3 yu2
+歧鬚真巨口魚	qi2 xu1 zhen1 ju4 kou3 yu2
+蘭花真巨口魚	lan2 hua1 zhen1 ju4 kou3 yu2
+迷惑真巨口魚	mi2 huo4 zhen1 ju4 kou3 yu2
+花蕊真巨口魚	hua1 rui3 zhen1 ju4 kou3 yu2
+三絲真巨口魚	san1 si1 zhen1 ju4 kou3 yu2
+帶鰕虎	dai4 xia1 hu3
+印度齒口魚	yin4 du4 chi3 kou3 yu2
+條紋磯鰕虎	tiao2 wen2 ji1 xia1 hu3
+細點磯鰕虎	xi4 dian3 ji1 xia1 hu3
+暗色磯鰕虎	an4 se4 ji1 xia1 hu3
+雙斑磯鰕虎	shuang1 ban1 ji1 xia1 hu3
+對斑磯鰕虎	dui4 ban1 ji1 xia1 hu3
+細身磯鰕虎	xi4 shen1 ji1 xia1 hu3
+頸紋磯鰕虎	jing3 wen2 ji1 xia1 hu3
+細斑磯鰕虎	xi4 ban1 ji1 xia1 hu3
+側帶磯鰕虎	ce4 dai4 ji1 xia1 hu3
+黑體磯鰕虎	hei1 ti3 ji1 xia1 hu3
+黑腹磯鰕虎	hei1 fu4 ji1 xia1 hu3
+透體磯鰕虎	tou4 ti3 ji1 xia1 hu3
+黑斑磯鰕虎	hei1 ban1 ji1 xia1 hu3
+胸斑磯鰕虎	xiong1 ban1 ji1 xia1 hu3
+塞班磯鰕虎	sai1 ban1 ji1 xia1 hu3
+希氏磯鰕虎	xi1 shi4 ji1 xia1 hu3
+蜘蛛磯鰕虎	zhi1 zhu1 ji1 xia1 hu3
+卜氏窄顱帶魚	bo shi4 zhai3 lu2 dai4 yu2
+條狀窄顱帶魚	tiao2 zhuang4 zhai3 lu2 dai4 yu2
+弓線天竺鯛	gong1 xian4 tian1 zhu2 diao1
+康氏馬鞭魚	kang1 shi4 ma3 bian1 yu2
+鱗馬鞭魚	lin2 ma3 bian1 yu2
+裸頸紡錘鰕虎	luo3 jing3 fang3 chui2 xia1 hu3
+臂斑紡錘鰕虎	bi4 ban1 fang3 chui2 xia1 hu3
+長棘紡錘鰕虎	zhang3 ji2 fang3 chui2 xia1 hu3
+斑鰭紡錘鰕虎	ban1 qi2 fang3 chui2 xia1 hu3
+柯氏鼠鱈	ke1 shi4 shu3 xue3
+大絲鼠鱈	da4 si1 shu3 xue3
+日本蜥鯊	ri4 ben3 xi1 sha1
+寬身牙鰏	kuan1 shen1 ya2 bi4
+帶鰆	dai4 chun1
+曳絲鑽嘴魚	ye4 si1 zuan1 zui3 yu2
+緣邊鑽嘴魚	yuan2 bian1 zuan1 zui3 yu2
+大棘鑽嘴魚	da4 ji2 zuan1 zui3 yu2
+縱紋鑽嘴魚	zong4 wen2 zuan1 zui3 yu2
+陳氏巨棘鮟鱇	chen2 shi4 ju4 ji2 an4 kang1
+艾氏巨棘鮟鱇	ai4 shi4 ju4 ji2 an4 kang1
+巨棘花鱸	ju4 ji2 hua1 lu2
+黃帶瓜子鱲	huang2 dai4 gua1 zi3 la4
+瓜子鱲	gua1 zi3 la4
+葉鯛	ye4 diao1
+金叉舌鰕虎	jin1 cha1 she2 xia1 hu3
+光曲鼬魚	guang1 qu1 you4 yu2
+眼帶頜鱗鰕虎	yan3 dai4 han4 lin2 xia1 hu3
+淺野氏頜吻糯鰻	qian3 ye3 shi4 han4 wen3 nuo4 man2
+陳氏鰍鮀	chen2 shi4 qiu1 tuo2
+黃褐葉鰕虎	huang2 he4 ye4 xia1 hu3
+多線葉鰕虎	duo1 xian4 ye4 xia1 hu3
+眼帶葉鰕虎	yan3 dai4 ye4 xia1 hu3
+黃體葉鰕虎	huang2 ti3 ye4 xia1 hu3
+鼠鱚	shu3 xi3
+大西洋鑽光魚	da4 xi1 yang2 zuan1 guang1 yu2
+日本園鰻	ri4 ben3 yuan2 man2
+臺灣園鰻	tai2 wan1 yuan2 man2
+克氏雙線鮃	ke4 shi4 shuang1 xian4 ping2
+斑線菱鯛	ban1 xian4 ling2 diao1
+壯體裸鼬魚	zhuang4 ti3 luo3 you4 yu2
+眼帶鳚鰕虎	yan3 dai4 wei4 xia1 hu3
+黃帶䲁鰕虎魚	huang2 dai4 wei4 xia1 hu3 yu2
+日本裸天竺鯛	ri4 ben3 luo3 tian1 zhu2 diao1
+尾斑裸天竺鯛	wei3 ban1 luo3 tian1 zhu2 diao1
+長身白鱲	zhang3 shen1 bai2 la4
+班第氏裸胸鯙	ban1 di4 shi4 luo3 xiong1 chun2
+雲紋裸胸鯙	yun2 wen2 luo3 xiong1 chun2
+黑環裸胸鯙	hei1 huan2 luo3 xiong1 chun2
+美裸胸鯙	mei3 luo3 xiong1 chun2
+虎紋裸胸鯙	hu3 wen2 luo3 xiong1 chun2
+美麗裸胸鯙	mei3 li4 luo3 xiong1 chun2
+細尾裸胸鯙	xi4 wei3 luo3 xiong1 chun2
+海氏裸胸鯙	hai3 shi4 luo3 xiong1 chun2
+斑頸裸胸鯙	ban1 jing3 luo3 xiong1 chun2
+黑身裸胸鯙	hei1 shen1 luo3 xiong1 chun2
+黃身裸胸鯙	huang2 shen1 luo3 xiong1 chun2
+細花斑裸胸鯙	xi4 hua1 ban1 luo3 xiong1 chun2
+雪花斑裸胸鯙	xue3 hua1 ban1 luo3 xiong1 chun2
+平達裸胸鯙	ping2 da2 luo3 xiong1 chun2
+長身裸胸鯙	zhang3 shen1 luo3 xiong1 chun2
+擬黑身裸胸鯙	ni3 hei1 shen1 luo3 xiong1 chun2
+擬小長鯙	ni3 xiao3 zhang3 chun2
+鞍頭裸胸鯙	an1 tou2 luo3 xiong1 chun2
+邵氏裸胸鯙	shao4 shi4 luo3 xiong1 chun2
+臺灣裸胸鯙	tai2 wan1 luo3 xiong1 chun2
+丫環裸胸鯙	ya1 huan2 luo3 xiong1 chun2
+帶尾裸胸鯙	dai4 wei3 luo3 xiong1 chun2
+大吻海蠋魚	da4 wen3 hai3 zhu2 yu2
+雙斑海豬魚	shuang1 ban1 hai3 zhu1 yu2
+黃身海豬魚	huang2 shen1 hai3 zhu1 yu2
+黑腕海豬魚	hei1 wan4 hai3 zhu1 yu2
+東方海豬魚	dong1 fang1 hai3 zhu1 yu2
+派氏海豬魚	pai4 shi4 hai3 zhu1 yu2
+黑牙棘茄魚	hei1 ya2 ji2 jia1 yu2
+網紋牙棘茄魚	wang3 wen2 ya2 ji2 jia1 yu2
+印度棘茄魚	yin4 du4 ji2 jia1 yu2
+馬格瑞擬棘茄魚	ma3 ge2 rui4 ni3 ji2 jia1 yu2
+裸腹擬棘茄魚	luo3 fu4 ni3 ji2 jia1 yu2
+帶狀多環海龍	dai4 zhuang4 duo1 huan2 hai3 long2
+阿氏管吻魨	a1 shi4 guan3 wen3 tun2
+臀斑髭鯛	tun2 ban1 zi1 diao1
+岸上氏髭鯛	an4 shang4 shi4 zi1 diao1
+小鰭鐮齒魚	xiao3 qi2 lian2 chi3 yu2
+大瀧氏粗棘鰕虎	da4 long2 shi4 cu1 ji2 xia1 hu3
+奇卡彎線鳚	qi2 ka3 wan1 xian4 wei4
+黑鰭彎線鳚	hei1 qi2 wan1 xian4 wei4
+縱帶彎線鳚	zong4 dai4 wan1 xian4 wei4
+雙斑伴麗魚	shuang1 ban1 ban4 li4 yu2
+菲律賓鬚魴鮄	fei1 lv4 bin1 xu1 fang2 fu2
+島鱵	dao3 zhen1
+黑鰭鱵	hei1 qi2 zhen1
+雜紋半皺唇鯊	za2 wen2 ban4 zhou4 chun2 sha1
+多棘立旗鯛	duo1 ji2 li4 qi2 diao1
+烏面立旗鯛	wu1 mian4 li4 qi2 diao1
+單棘立旗鯛	dan1 ji2 li4 qi2 diao1
+日本異齒鯊	ri4 ben3 yi4 chi3 sha1
+松原氏鈎嘴鰨	song1 yuan2 shi4 gou1 zui3 ta4
+中村氏六鰓鯊	zhong1 cun1 shi4 liu4 sai1 sha1
+比氏六鰓魟	bi3 shi4 liu4 sai1 hong1
+黑鞭冠鮟鱇	hei1 bian1 guan4 an4 kang1
+犬牙亨燈魚	quan3 ya2 heng1 deng1 yu2
+巴氏海馬	ba1 shi4 hai3 ma3
+克里蒙氏海馬	ke4 li3 meng2 shi4 hai3 ma3
+刺海馬	ci4 hai3 ma3
+克氏海馬	ke4 shi4 hai3 ma3
+彭氏海馬	peng2 shi4 hai3 ma3
+花海馬	hua1 hai3 ma3
+棘海馬	ji2 hai3 ma3
+玫瑰全裸鸚鯛	mei2 gui1 quan2 luo3 ying1 diao1
+長趾鼬魚	zhang3 zhi3 you4 yu2
+橫帶針鯒	heng2 dai4 zhen1 yong3
+吉氏針鯒	ji2 shi4 zhen1 yong3
+郎氏針鯒	lang2 shi4 zhen1 yong3
+雷根氏針鯒	lei2 gen1 shi4 zhen1 yong3
+似弱棘魚	shi4 ruo4 ji2 yu2
+馬氏似弱棘魚	ma3 shi4 shi4 ruo4 ji2 yu2
+紫似弱棘魚	zi3 shi4 ruo4 ji2 yu2
+斯氏似弱棘魚	si1 shi4 shi4 ruo4 ji2 yu2
+棘鮋	ji2 you2
+重胸燧鯛	zhong4 xiong1 sui4 diao1
+日本胸燧鯛	ri4 ben3 xiong1 sui4 diao1
+地中海胸燧鯛	di4 zhong1 hai3 xiong1 sui4 diao1
+腭齒尖棘鯛	e4 chi3 jian1 ji2 diao1
+近壯燈魚	jin4 zhuang4 deng1 yu2
+細身膜首鱈	xi4 shen1 mo2 shou3 xue3
+刺吻膜首鱈	ci4 wen3 mo2 shou3 xue3
+長頭膜首鱈	zhang3 tou2 mo2 shou3 xue3
+臺灣下鱵	tai2 wan1 xia4 zhen1
+尤氏下鱵	you2 shi4 xia4 zhen1
+長體頜光魚	zhang3 ti3 han4 guang1 yu2
+太平洋小隱棘鮋	tai4 ping2 yang2 xiao3 yin3 ji2 you2
+大眼大軟腕魚	da4 yan3 da4 ruan3 wan4 yu2
+褐泥蛇鰻	he4 ni2 she2 man2
+落合氏眼眶牛尾魚	luo4 he2 shi4 yan3 kuang1 niu2 wei3 yu2
+斑點紅鮋	ban1 dian3 hong2 you2
+浪花魚	lang4 hua1 yu2
+長臂鯖鯊	zhang3 bi4 qing1 sha1
+日本左鮃	ri4 ben3 zuo3 ping2
+斑鰭銀口天竺鯛	ban1 qi2 yin2 kou3 tian1 zhu2 diao1
+細紋銀口天竺鯛	xi4 wen2 yin2 kou3 tian1 zhu2 diao1
+叫姑魚	jiao4 gu1 yu2
+雙齒眶鼻擬鯙	shuang1 chi3 kuang1 bi2 ni3 chun2
+薩摩亞黏鰕虎	sa4 mo2 ya3 nian2 xia1 hu3
+雷氏庫曼鰕虎	lei2 shi4 ku4 man4 xia1 hu3
+裸吻舟尾鱈	luo3 wen3 zhou1 wei3 xue3
+點斑舟尾鱈	dian3 ban1 zhou1 wei3 xue3
+南方舵魚	nan2 fang1 duo4 yu2
+雙色裂唇魚	shuang1 se4 lie4 chun2 yu2
+胸斑裂唇魚	xiong1 ban1 lie4 chun2 yu2
+曼氏褶唇魚	man4 shi4 zhe1 chun2 yu2
+多紋褶唇魚	duo1 wen2 zhe1 chun2 yu2
+玫紅絲鰭鱈	mei2 hong2 si1 qi2 xue3
+克氏兔頭魨	ke4 shi4 tu4 tou2 tun2
+多斑寬頜鳚	duo1 ban1 kuan1 han4 wei4
+太平洋鼠鯊	tai4 ping2 yang2 shu3 sha1
+臺灣龍口蛇鰻	tai2 wan1 long2 kou3 she2 man2
+糙炬燈魚	cao1 ju4 deng1 yu2
+諾貝珍燈魚	nuo4 bei4 zhen1 deng1 yu2
+鱗眼鮃	lin2 yan3 ping2
+深海鱗角魚	shen1 hai3 lin2 jiao3 yu2
+貢氏鱗角魚	gong4 shi4 lin2 jiao3 yu2
+姬鱗角魚	ji1 lin2 jiao3 yu2
+尖鰭鱗角魚	jian1 qi2 lin2 jiao3 yu2
+岸上氏鱗角魚	an4 shang4 shi4 lin2 jiao3 yu2
+大眼鱗角魚	da4 yan3 lin2 jiao3 yu2
+臂斑鱗角魚	bi4 ban1 lin2 jiao3 yu2
+連尾細皮黑頭魚	lian2 wei3 xi4 pi2 hei1 tou2 yu2
+頸斑尖豬魚	jing3 ban1 jian1 zhu1 yu2
+尾斑尖豬魚	wei3 ban1 jian1 zhu1 yu2
+多紋纖巨口魚	duo1 wen2 xian1 ju4 kou3 yu2
+強壯纖巨口魚	qiang2 zhuang4 xian1 ju4 kou3 yu2
+東方裸蜥魚	dong1 fang1 luo3 xi1 yu2
+黑腹光鱗魚	hei1 fu4 guang1 lin2 yu2
+阿氏龍占魚	a1 shi4 long2 zhan4 yu2
+紅棘龍占魚	hong2 ji2 long2 zhan4 yu2
+正龍占魚	zheng4 long2 zhan4 yu2
+小齒龍占魚	xiao3 chi3 long2 zhan4 yu2
+紅鰓龍占魚	hong2 sai1 long2 zhan4 yu2
+黃唇龍占魚	huang2 chun2 long2 zhan4 yu2
+橫帶沙鱚	heng2 dai4 sha1 xi3
+沙鱚	sha1 xi3
+東方沙鱚	dong1 fang1 sha1 xi3
+臺灣䱀	tai2 wan1 yang1
+荒賀氏長鱸	huang1 he4 shi4 zhang3 lu2
+黃背長鱸	huang2 bei4 zhang3 lu2
+飾帶長鱸	shi4 dai4 zhang3 lu2
+白頭鰕虎	bai2 tou2 xia1 hu3
+巴奇氏矛鼬魚	ba1 qi2 shi4 mao2 you4 yu2
+斑點竿鰕虎	ban1 dian3 gan1 xia1 hu3
+西海竿鰕虎	xi1 hai3 gan1 xia1 hu3
+狼牙雙盤鰕虎	lang2 ya2 shuang1 pan2 xia1 hu3
+星點笛鯛	xing1 dian3 di2 diao1
+斑點羽鰓笛鯛	ban1 dian3 yu3 sai1 di2 diao1
+臂斑大頭糯鰻	bi4 ban1 da4 tou2 nuo4 man2
+黑腹大頭糯鰻	hei1 fu4 da4 tou2 nuo4 man2
+威氏壯牙鰕虎	wei1 shi4 zhuang4 ya2 xia1 hu3
+莫氏大咽齒鯛	mo4 shi4 da4 yan1 chi3 diao1
+黑大咽齒鯛	hei1 da4 yan1 chi3 diao1
+裸頭大尾鱈	luo3 tou2 da4 wei3 xue3
+日本軟首鱈	ri4 ben3 ruan3 shou3 xue3
+鬚軟魚	xu1 ruan3 yu2
+美軟魚	mei3 ruan3 yu2
+灰軟魚	hui1 ruan3 yu2
+脅谷軟魚	xie2 gu3 ruan3 yu2
+環紋海蝠魚	huan2 wen2 hai3 fu2 yu2
+臺灣海蝠魚	tai2 wan1 hai3 fu2 yu2
+巨海蝠魚	ju4 hai3 fu2 yu2
+鈎棘海蝠魚	gou1 ji2 hai3 fu2 yu2
+斑點海蝠魚	ban1 dian3 hai3 fu2 yu2
+游走丸川杜父魚	you2 zou3 wan2 chuan1 du4 fu4 yu2
+冠愚首鱈	guan4 yu2 shou3 xue3
+羅氏箭齒前肛鰻	luo2 shi4 jian4 chi3 qian2 gang1 man2
+巨口鯊	ju4 kou3 sha1
+團頭魴	tuan2 tou2 fang2
+淺帶稀棘鳚	qian3 dai4 xi1 ji2 wei4
+短柄黑鮟鱇	duan3 bing3 hei1 an4 kang1
+橙色虎鮋	cheng2 se4 hu3 you2
+斑翅虎鮋	ban1 chi4 hu3 you2
+細鰭虎鮋	xi4 qi2 hu3 you2
+歐氏尖吻鯊	ou1 shi4 jian1 wen3 sha1
+熊吉單趾鼬魚	xiong2 ji2 dan1 zhi3 you4 yu2
+重齒單趾鼬魚	zhong4 chi3 dan1 zhi3 you4 yu2
+黃斑鯔鰕虎	huang2 ban1 zi1 xia1 hu3
+短鰭蟲鰻	duan3 qi2 chong2 man2
+長吻蟲鰻	zhang3 wen3 chong2 man2
+許氏蟲鰻	xu3 shi4 chong2 man2
+湯氏蟲鰻	tang1 shi4 chong2 man2
+鼻瓣蟲鰻	bi2 ban4 chong2 man2
+金焰燈籠魚	jin1 yan4 deng1 long2 yu2
+閃光燈籠魚	shan3 guang1 deng1 long2 yu2
+大口鋤突鰕虎	da4 kou3 chu2 tu2 xia1 hu3
+凸頜鋸鱗魚	tu2 han4 ju4 lin2 yu2
+凸頜鋸鱗魚	tu1 han4 ju4 lin2 yu2
+黃鰭鋸鱗魚	huang2 qi2 ju4 lin2 yu2
+臺灣鋸鱗魚	tai2 wan1 ju4 lin2 yu2
+格氏鋸鱗魚	ge2 shi4 ju4 lin2 yu2
+臺灣盲鰻	tai2 wan1 mang2 man2
+郭氏盲鰻	guo1 shi4 mang2 man2
+黑體短鰓燈魚	hei1 ti3 duan3 sai1 deng1 yu2
+魯氏黑口魚	lu3 shi4 hei1 kou3 yu2
+短唇雙鰭電鱝	duan3 chun2 shuang1 qi2 dian4 fen4
+舌形雙鰭電鱝	she2 xing2 shuang1 qi2 dian4 fen4
+馬面鼻魚	ma3 mian4 bi2 yu2
+洛氏鼻魚	luo4 shi4 bi2 yu2
+班鼻魚	ban1 bi2 yu2
+方吻鼻魚	fang1 wen3 bi2 yu2
+網紋鼻魚	wang3 wen2 bi2 yu2
+大眼鼻魚	da4 yan3 bi2 yu2
+三棘若帶鰆	san1 ji2 ruo4 dai4 chun1
+燦爛聖天竺鯛	can4 lan4 sheng4 tian1 zhu2 diao1
+印尼聖天竺鯛	yin4 ni2 sheng4 tian1 zhu2 diao1
+陳氏新鰻	chen2 shi4 xin1 man2
+新幾內亞新蛇鰻	xin1 ji3 nei4 ya3 xin1 she2 man2
+長鰭新蛇鰻	zhang3 qi2 xin1 she2 man2
+細身新蛇鰻	xi4 shen1 xin1 she2 man2
+麥氏新蛇鰻	mai4 shi4 xin1 she2 man2
+微鰭新鰻	wei1 qi2 xin1 man2
+大洋新蛇鰻	da4 yang2 xin1 she2 man2
+長身新蛇鰻	zhang3 shen1 xin1 she2 man2
+日本海鰶	ri4 ben3 hai3 ji4
+華麗線塘鱧	hua2 li4 xian4 tang2 li3
+絲鰭線塘鱧	si1 qi2 xian4 tang2 li3
+赤黃金線魚	chi4 huang2 jin1 xian4 yu2
+底金線魚	di3 jin1 xian4 yu2
+藍頰金線魚	lan2 jia2 jin1 xian4 yu2
+黃緣金線魚	huang2 yuan2 jin1 xian4 yu2
+雙斑新鼬魚	shuang1 ban1 xin1 you4 yu2
+橫帶新鼬魚	heng2 dai4 xin1 you4 yu2
+長新鼬魚	zhang3 xin1 you4 yu2
+多斑新鼬魚	duo1 ban1 xin1 you4 yu2
+單斑新鼬魚	dan1 ban1 xin1 you4 yu2
+日本新鱗鮋	ri4 ben3 xin1 lin2 you2
+新角鮟鱇	xin1 jiao3 an4 kang1
+裸新熱鳚	luo3 xin1 re4 wei4
+曲背新棘鮋	qu1 bei4 xin1 ji2 you2
+鈍吻新棘鮋	dun4 wen3 xin1 ji2 you2
+太平洋新鯥	tai4 ping2 yang2 xin1 lu4
+小鰭新燈魚	xiao3 qi2 xin1 deng1 yu2
+多孔新燈魚	duo1 kong3 xin1 deng1 yu2
+長鰭新平鮋	zhang3 qi2 xin1 ping2 you2
+丹氏鴨項鰻	dan1 shi4 ya1 xiang4 man2
+小頭鴨嘴鰻	xiao3 tou2 ya1 zui3 man2
+前鼻鴨嘴鰻	qian2 bi2 ya1 zui3 man2
+橋鴨蛇鰻	qiao2 ya1 she2 man2
+近鴨蛇鰻	jin4 ya1 she2 man2
+科氏奈氏鱈	ke1 shi4 nai4 shi4 xue3
+獅鼻奈氏鱈	shi1 bi2 nai4 shi4 xue3
+半斑黃姑魚	ban4 ban1 huang2 gu1 yu2
+東洋鱸	dong1 yang2 lu2
+托氏諾福克鳚	tuo1 shi4 nuo4 fu2 ke4 wei4
+長吻背棘魚	zhang3 wen3 bei4 ji2 yu2
+圈頸鰏	quan1 jing3 bi4
+條紋線鮋	tiao2 wen2 xian4 you2
+棘線鮋	ji2 xian4 you2
+裸線鮋	luo3 xian4 you2
+錘頜魚	chui2 han4 yu2
+臺灣夢鮟鱇	tai2 wan1 meng4 an4 kang1
+皮氏夢鮟鱇	pi2 shi4 meng4 an4 kang1
+砂夢鮟鱇	sha1 meng4 an4 kang1
+流星鈎隱魚	liu2 xing1 gou1 yin3 yu2
+暗鰭蛇鰻	an4 qi2 she2 man2
+淺草蛇鰻	qian3 cao3 she2 man2
+高鰭蛇鰻	gao1 qi2 she2 man2
+町田氏蛇鰻	ting1 tian2 shi4 she2 man2
+大眼蛇鰻	da4 yan3 she2 man2
+壯體蛇鰻	zhuang4 ti3 she2 man2
+半月蛇鰻	ban4 yue4 she2 man2
+邵氏蛇鰻	shao4 shi4 she2 man2
+窄鰭蛇鰻	zhai3 qi2 she2 man2
+柴田氏蛇鰻	chai2 tian2 shi4 she2 man2
+黑邊鼬魚	hei1 bian1 you4 yu2
+卡氏後頷鱚	ka3 shi4 hou4 han4 xi3
+香港後頷鱚	xiang1 gang3 hou4 han4 xi3
+索洛後頷鱚	suo3 luo4 hou4 han4 xi3
+多彩後頷鱚	duo1 cai3 hou4 han4 xi3
+高屏馬口鱲	gao1 ping2 ma3 kou3 la4
+粗首馬口鱲	cu1 shou3 ma3 kou3 la4
+日本鬚鯊	ri4 ben3 xu1 sha1
+臺灣小骨鰧	tai2 wan1 xiao3 gu3 teng2
+紅骨鱗魚	hong2 gu3 lin2 yu2
+沈氏骨鱗魚	shen3 shi4 gu3 lin2 yu2
+陳氏鸚天竺鯛	chen2 shi4 ying1 tian1 zhu2 diao1
+斑柄鸚天竺鯛	ban1 bing3 ying1 tian1 zhu2 diao1
+無斑箱魨	wu2 ban1 xiang1 tun2
+矛狀巨棘鱸	mao2 zhuang4 ju4 ji2 lu2
+土佐歐氏鰧	tu3 zuo3 ou1 shi4 teng2
+歐氏鰧	ou1 shi4 teng2
+藍梳窄顱塘鱧	lan2 shu1 zhai3 lu2 tang2 li3
+角質溝鰕虎	jiao3 zhi2 gou1 xia1 hu3
+臺灣寡鱗鰕虎	tai2 wan1 gua3 lin2 xia1 hu3
+南方溝鰕虎	nan2 fang1 gou1 xia1 hu3
+劉氏鯧	liu2 shi4 chang1
+鏡鯧	jing4 chang1
+大眼擬深海蠕鰻	da4 yan3 ni3 shen1 hai3 ru2 man2
+臺灣擬鮃	tai2 wan1 ni3 ping2
+橫帶擬烏尾鮗	heng2 dai4 ni3 wu1 wei3 dong1
+石氏擬烏尾鮗	shi2 shi4 ni3 wu1 wei3 dong1
+卡氏副唇魚	ka3 shi4 fu4 chun2 yu2
+蘭道氏副沙條鯊	lan2 dao4 shi4 fu4 sha1 tiao2 sha1
+大鱗副泥鰍	da4 lin2 fu4 ni2 qiu1
+黃擬鱸	huang2 ni3 lu2
+四斑擬鱸	si4 ban1 ni3 lu2
+蒲原氏擬鱸	pu2 yuan2 shi4 ni3 lu2
+墾丁擬鱸	ken3 ding1 ni3 lu2
+沙鱸	sha1 lu2
+莫氏擬鱸	mo4 shi4 ni3 lu2
+多橫帶擬鱸	duo1 heng2 dai4 ni3 lu2
+多帶擬鱸	duo1 dai4 ni3 lu2
+岡村氏擬鱸	gang1 cun1 shi4 ni3 lu2
+真擬鱸	zhen1 ni3 lu2
+太平洋擬鱸	tai4 ping2 yang2 ni3 lu2
+蘭道氏擬鱸	lan2 dao4 shi4 ni3 lu2
+紅點擬鱸	hong2 dian3 ni3 lu2
+邵氏擬鱸	shao4 shi4 ni3 lu2
+史氏擬鱸	shi3 shi4 ni3 lu2
+臺灣副細鯽	tai2 wan1 fu4 xi4 ji4
+舌齒擬鯥	she2 chi3 ni3 lu4
+望月氏擬鯥	wang4 yue4 zhi1 ni3 lu4
+中山氏擬鯥	zhong1 shan1 shi4 ni3 lu4
+山野上氏擬鯥	shan1 ye3 shang4 shi4 ni3 lu4
+背斑圓鱗鮋	bei4 ban1 yuan2 lin2 you2
+斜口管燧鯛	xie2 kou3 guan3 sui4 diao1
+倒棘副三棘魨	dao4 ji2 fu4 san1 ji2 tun2
+太平洋准的鯛	tai4 ping2 yang2 zhun3 de5 diao1
+尾斑舌塘鱧	wei3 ban1 she2 tang2 li3
+帶狀舌塘鱧	dai4 zhuang4 she2 tang2 li3
+盾尾鯊	dun4 wei3 sha1
+海蛾魚	hai3 e2 yu2
+日本擬金眼鯛	ri4 ben3 ni3 jin1 yan3 diao1
+白緣擬金眼鯛	bai2 yuan2 ni3 jin1 yan3 diao1
+烏伊蘭擬金眼鯛	wu1 yi1 lan2 ni3 jin1 yan3 diao1
+黑緣擬金眼鯛	hei1 yuan2 ni3 jin1 yan3 diao1
+日本五棘鯛	ri4 ben3 wu3 ji2 diao1
+黃帶錐齒鯛	huang2 dai4 zhui1 chi3 diao1
+松原隆背八角魚	song1 yuan2 long2 bei4 ba1 jiao3 yu2
+彈塗魚	dan4 tu2 yu2
+東方黃魴鮄	dong1 fang1 huang2 fang2 fu2
+史氏跳岩鳚	shi3 shi4 tiao4 yan2 wei4
+變色跳岩鳚	bian4 se4 tiao4 yan2 wei4
+菲律賓偽大眼鮋	fei1 lv4 bin1 wei3 da4 yan3 you2
+斑西袋巨口魚	ban1 xi1 dai4 ju4 kou3 yu2
+金黃光胸鰏	jin1 huang2 guang1 xiong1 bi4
+葉鼻蛇鰻	ye4 bi2 she2 man2
+絲背小褐鱈	si1 bei4 xiao3 he4 xue3
+日本小褐鱈	ri4 ben3 xiao3 he4 xue3
+長鰭小褐鱈	zhang3 qi2 xiao3 he4 xue3
+黑翼小褐鱈	hei1 yi4 xiao3 he4 xue3
+紅鰭小褐鱈	hong2 qi2 xiao3 he4 xue3
+黑唇小褐鱈	hei1 chun2 xiao3 he4 xue3
+李維氏斜鱗笛鯛	li3 wei2 shi4 xie2 lin2 di2 diao1
+舌形斜頜鰈	she2 xing2 xie2 han4 die2
+斑胡椒鯛	ban1 hu2 jiao1 diao1
+長身棘花鱸	zhang3 shen1 ji2 hua1 lu2
+海倫氏棘花鱸	hai3 lun2 shi4 ji2 hua1 lu2
+黃吻棘花鱸	huang2 wen3 ji2 hua1 lu2
+紫鱗棘花鱸	zi3 lin2 ji2 hua1 lu2
+蘭道氏棘花鱸	lan2 dao4 shi4 ji2 hua1 lu2
+沈氏棘花鱸	shen3 shi4 ji2 hua1 lu2
+威氏棘花鱸	wei1 shi4 ji2 hua1 lu2
+懷特氏棘花鱸	huai2 te4 shi4 ji2 hua1 lu2
+黃斑棘花鱸	huang2 ban1 ji2 hua1 lu2
+山川氏棘花鱸	shan1 chuan1 shi4 ji2 hua1 lu2
+太平洋平頭鮋	tai4 ping2 yang2 ping2 tou2 you2
+約島固曲齒鯛	yue1 dao3 gu4 qu1 chi3 diao1
+珊瑚七夕魚	shan1 hu2 qi1 xi1 yu2
+羞七夕魚	xiu1 qi1 xi1 yu2
+鮑氏腹瓢鰕虎	bao4 shi4 fu4 piao2 xia1 hu3
+厚唇腹瓢鰕虎	hou4 chun2 fu4 piao2 xia1 hu3
+長體腹瓢鰕虎	zhang3 ti3 fu4 piao2 xia1 hu3
+米氏腹瓢鰕虎	mi3 shi4 fu4 piao2 xia1 hu3
+莫三比克腹瓢鰕虎	mo4 san1 bi3 ke4 fu4 piao2 xia1 hu3
+孔雀花鱂	kong3 que4 hua1 jiang1
+奈脫瓦鰈	nai4 tuo1 wa3 die2
+達納氏燭光魚	da2 na4 shi4 zhu2 guang1 yu2
+頭棘燭光魚	tou2 ji2 zhu2 guang1 yu2
+閃電燭光魚	shan3 dian4 zhu2 guang1 yu2
+三齒燭光魚	san1 chi3 zhu2 guang1 yu2
+三燭光魚	san1 zhu2 guang1 yu2
+貝氏鬚銀眼鯛	bei4 shi4 xu1 yin2 yan3 diao1
+日本鬚銀眼鯛	ri4 ben3 xu1 yin2 yan3 diao1
+長棘鬚銀眼鯛	zhang3 ji2 xu1 yin2 yan3 diao1
+班卡雀鯛	ban1 ka3 que4 diao1
+霓虹雀鯛	ni2 hong2 que4 diao1
+藍點雀鯛	lan2 dian3 que4 diao1
+頰鱗雀鯛	jia2 lin2 que4 diao1
+黑鰭緣雀鯛	hei1 qi2 yuan2 que4 diao1
+菲律賓雀鯛	fei1 lv4 bin1 que4 diao1
+弓紋雀鯛	gong1 wen2 que4 diao1
+王子雀鯛	wang2 zi3 que4 diao1
+四帶雞魚	si4 dai4 ji1 yu2
+貢氏孔鼬魚	gong4 shi4 kong3 you4 yu2
+頭棘孔鼬魚	tou2 ji2 kong3 you4 yu2
+小眼犀孔鯛	xiao3 yan3 xi1 kong3 diao1
+深水大眼鯛	shen1 shui3 da4 yan3 diao1
+高背大眼鯛	gao1 bei4 da4 yan3 diao1
+黃鰭大眼鯛	huang2 qi2 da4 yan3 diao1
+擬橫帶鋸鱗鰕虎	ni3 heng2 dai4 ju4 lin2 xia1 hu3
+卡氏鋸鱗鰕虎	ka3 shi4 ju4 lin2 xia1 hu3
+側帶鋸鱗鰕虎	ce4 dai4 ju4 lin2 xia1 hu3
+日本鋸鯊	ri4 ben3 ju4 sha1
+黃鰭姬鯛	huang2 qi2 ji1 diao1
+哈氏原鯊	ha1 shi4 yuan2 sha1
+短身原玉筋魚	duan3 shen1 yuan2 yu4 jin1 yu2
+麥氏原燈眼魚	mai4 shi4 yuan2 deng1 yan3 yu2
+長鰜鮃	zhang3 qian4 ping2
+土佐鰜鮃	tu3 zuo3 qian4 ping2
+犬牙擬天竺鯛	quan3 ya2 ni3 tian1 zhu2 diao1
+林氏擬天竺鯛	lin2 shi4 ni3 tian1 zhu2 diao1
+擬櫛尾鱈	ni3 jie2 wei3 xue3
+姬擬唇魚	ji1 ni3 chun2 yu2
+眼斑擬唇魚	yan3 ban1 ni3 chun2 yu2
+八帶擬唇魚	ba1 dai4 ni3 chun2 yu2
+藍帶擬雀鯛	lan2 dai4 ni3 que4 diao1
+灰黃擬雀鯛	hui1 huang2 ni3 que4 diao1
+馬歇爾島擬雀鯛	ma3 xie1 er3 dao3 ni3 que4 diao1
+條紋擬雀鯛	tiao2 wen2 ni3 que4 diao1
+橘紋擬盔魚	ju2 wen2 ni3 kui1 yu2
+眼斑擬盔魚	yan3 ban1 ni3 kui1 yu2
+台江擬鰕虎	tai2 jiang1 ni3 xia1 hu3
+西氏擬隆頭魚	xi1 shi4 ni3 long2 tou2 yu2
+南海斑鮃	nan2 hai3 ban1 ping2
+五目斑鮃	wu3 mu4 ban1 ping2
+小齒擬皺唇鯊	xiao3 chi3 ni3 zhou4 chun2 sha1
+變色隱棘杜父魚	bian4 se4 yin3 ji2 du4 fu4 yu2
+隱秘長鰭鸚鯛	yin3 mi4 zhang3 qi2 ying1 diao1
+縱帶凹尾塘鱧	zong4 dai4 ao1 wei3 tang2 li3
+單鰭凹尾塘鱧	dan1 qi2 ao1 wei3 tang2 li3
+馬氏鱗鰭烏尾鮗	ma3 shi4 lin2 qi2 wu1 wei3 dong1
+單帶鱗鰭烏尾鮗	dan1 dai4 lin2 qi2 wu1 wei3 dong1
+安邦狹蓑鮋	an1 bang1 xia2 suo1 you2
+少棘簑鮋	shao3 ji2 suo1 you2
+輻紋蓑鮋	fu2 wen2 suo1 you2
+大鰭稚鱈	da4 qi2 zhi4 xue3
+帆鰭鱸鰧	fan1 qi2 lu2 teng2
+長背魚	zhang3 bei4 yu2
+琉球棘角魚	liu2 qiu2 ji2 jiao3 yu2
+斯奈德小䰾	si1 nai4 de2 xiao3 ba1
+何氏守鰓蛇鰻	he2 shi4 shou3 sai1 she2 man2
+琳達錐齒隱魚	lin2 da2 zhui1 chi3 yin3 yu2
+纖尾錐齒隱魚	xian1 wei3 zhui1 chi3 yin3 yu2
+異尾帶魚	yi4 wei3 dai4 yu2
+富氏金帶花鯖	fu4 shi4 jin1 dai4 hua1 qing1
+斑臀䲗	ban1 tun2 xian2
+鯨鯊	jing1 sha1
+臺灣琵琶鱝	tai2 wan1 pi2 pa2 fen4
+斑紋琵琶鱝	ban1 wen2 pi2 pa2 fen4
+小眼琵琶鱝	xiao3 yan3 pi2 pa2 fen4
+隱居吻鮋	yin3 ju1 wen3 you2
+細絲吻巨棘鮟鱇	xi4 si1 wen3 ju4 ji2 an4 kang1
+長絲吻巨棘鮟鱇	zhang3 si1 wen3 ju4 ji2 an4 kang1
+無斑龍紋鱝	wu2 ban1 long2 wen2 fen4
+瞬眼龍紋鱝	shun4 yan3 long2 wen2 fen4
+史氏龍紋鱝	shi3 shi4 long2 wen2 fen4
+帕氏倒棘牛尾魚	pa4 shi4 dao4 ji2 niu2 wei3 yu2
+網肩紅口仿鯨	wang3 jian1 hong2 kou3 fang3 jing1
+胸斑唇齒鳚	xiong1 ban1 chun2 chi3 wei4
+褒氏貧鱠	bao1 shi4 pin2 kuai4
+絲鰭沙鰈	si1 qi2 sha1 die2
+日本沙鰈	ri4 ben3 sha1 die2
+滿月沙鰈	man3 yue4 sha1 die2
+長臂沙鰈	zhang3 bi4 sha1 die2
+三斑沙鰈	san1 ban1 sha1 die2
+壯沙鰈	zhuang4 sha1 die2
+翠鳥小沙丁	cui4 niao3 xiao3 sha1 ding1
+米勒氏魴鮄	mi3 lei1 shi4 fang2 fu2
+巨蜥鰻	ju4 xi1 man2
+臺灣蜥鰻	tai2 wan1 xi1 man2
+雲紋蛇鯔	yun2 wen2 she2 zi1
+梅芳蛇鯔	mei2 fang1 she2 zi1
+鱷蛇鯔	e4 she2 zi1
+東方叉吻魴鮄	dong1 fang1 cha1 wen3 fang2 fu2
+大青彈塗魚	da4 qing1 dan4 tu2 yu2
+藍臀鸚哥魚	lan2 tun2 ying1 ge1 yu2
+新月鸚哥魚	xin1 yue4 ying1 ge1 yu2
+橫紋鸚哥魚	heng2 wen2 ying1 ge1 yu2
+網紋鸚哥魚	wang3 wen2 ying1 ge1 yu2
+灰尾鸚哥魚	hui1 wei3 ying1 ge1 yu2
+姬鸚哥魚	ji1 ying1 ge1 yu2
+卵頭鸚哥魚	luan3 tou2 ying1 ge1 yu2
+瓜氏鸚哥魚	gua1 shi4 ying1 ge1 yu2
+紅紫鸚哥魚	hong2 zi3 ying1 ge1 yu2
+黃肋鸚哥魚	huang2 le1 ying1 ge1 yu2
+寬帶裂身鰕虎	kuan1 dai4 lie4 shen1 xia1 hu3
+羅氏裂身鰕虎	luo2 shi4 lie4 shen1 xia1 hu3
+黑尾蠕蛇鰻	hei1 wei3 ru2 she2 man2
+烏面眶棘鱸	wu1 mian4 kuang1 ji2 lu2
+三帶眶棘鱸	san1 dai4 kuang1 ji2 lu2
+欖斑眶棘鱸	lan3 ban1 kuang1 ji2 lu2
+大口逆鈎鰺	da4 kou3 ni4 gou1 shen1
+長鰭帶鰆	zhang3 qi2 dai4 chun1
+霍氏弱蜥魚	huo4 shi4 ruo4 xi1 yu2
+冠棘鮋	guan4 ji2 you2
+伊豆鮋	yi1 dou4 you2
+小口鮋	xiao3 kou3 you2
+斑鰭鮋	ban1 qi2 you2
+後頜鮋	hou4 han4 you2
+南瓜鮋	nan2 gua1 you2
+皮鬚小鮋	pi2 xu1 xiao3 you2
+花翅小鮋	hua1 chi4 xiao3 you2
+魔擬鮋	mo2 ni3 you2
+鈍頭擬鮋	dun4 tou2 ni3 you2
+東方擬鮋	dong1 fang1 ni3 you2
+波氏擬鮋	bo1 shi4 ni3 you2
+拉氏擬鮋	la1 shi4 ni3 you2
+紋棘擬鮋	wen2 ji2 ni3 you2
+白點貓鯊	bai2 dian3 mao1 sha1
+一原氏異鱗鯊	yi1 yuan2 shi4 yi4 lin2 sha1
+臀斑月花鮨	tun2 ban1 yue4 hua1 yi4
+長齒鋸鋤鰻	zhang3 chi3 ju4 chu2 man2
+根室氏囊頭鮋	gen1 shi4 shi4 nang2 tou2 you2
+長絲瓢鰭鰕虎	zhang3 si1 piao2 qi2 xia1 hu3
+砂棲瓢眼鰕虎	sha1 qi1 piao2 yan3 xia1 hu3
+暗體臭肚魚	an4 ti3 chou4 du4 yu2
+星沙鮻	xing1 sha1 suo1
+亞洲沙鮻	ya3 zhou1 sha1 suo1
+大指沙鮻	da4 zhi3 sha1 suo1
+灣沙鮻	wan1 sha1 suo1
+日本沙鮻	ri4 ben3 sha1 suo1
+小眼沙鮻	xiao3 yan3 sha1 suo1
+小鱗沙鮻	xiao3 lin2 sha1 suo1
+邵氏沙鮻	shao4 shi4 sha1 suo1
+南臺中華爬岩鰍	nan2 tai2 zhong1 hua2 pa2 yan2 qiu1
+埔里中華爬岩鰍	pu3 li3 zhong1 hua2 pa2 yan2 qiu1
+棕線管天竺鯛	zong1 xian4 guan3 tian1 zhu2 diao1
+馬島氏管天竺鯛	ma3 dao3 shi4 guan3 tian1 zhu2 diao1
+湯加管天竺鯛	tang1 jia1 guan3 tian1 zhu2 diao1
+斑馬龜蛇鰻	ban1 ma3 gui1 she2 man2
+大眼斯氏前鰭鮋	da4 yan3 si1 shi4 qian2 qi2 you2
+卵鰨	luan3 ta4
+太平洋睡鯊	tai4 ping2 yang2 shui4 sha1
+大眼金梭魚	da4 yan3 jin1 suo1 yu2
+日本金梭魚	ri4 ben3 jin1 suo1 yu2
+斑條金梭魚	ban1 tiao2 jin1 suo1 yu2
+布氏金梭魚	bu4 shi4 jin1 suo1 yu2
+何氏棘䰾	he2 shi4 ji2 ba1
+阿里擬角鯊	a1 li3 ni3 jiao3 sha1
+卵首鱈	luan3 shou3 xue3
+短吻角鯊	duan3 wen3 jiao3 sha1
+臺灣角鯊	tai2 wan1 jiao3 sha1
+日本角鯊	ri4 ben3 jiao3 sha1
+蒙氏角鯊	meng2 shi4 jiao3 sha1
+臺灣扁鯊	tai2 wan1 bian3 sha1
+日本扁鯊	ri4 ben3 bian3 sha1
+星雲扁鯊	xing1 yun2 bian3 sha1
+擬背斑扁鯊	ni3 bei4 ban1 bian3 sha1
+沈氏叉棘鱚	shen3 shi4 cha1 ji2 xi3
+塞席爾錫鳚	sai1 xi2 er3 xi1 wei4
+島嶼高身雀鯛	dao3 yu3 gao1 shen1 que4 diao1
+羅氏長裸蜥魚	luo2 shi4 zhang3 luo3 xi1 yu2
+銀身長裸蜥魚	yin2 shen1 zhang3 luo3 xi1 yu2
+褶胸魚	zhe1 xiong1 yu2
+暗色褶胸魚	an4 se4 zhe1 xiong1 yu2
+斷紋紫胸魚	duan4 wen2 zi3 xiong1 yu2
+明仁枝牙鰕虎	ming2 ren2 zhi1 ya2 xia1 hu3
+帛琉枝牙鰕虎	bo2 liu2 zhi1 ya2 xia1 hu3
+黑鰭枝牙鰕虎	hei1 qi2 zhi1 ya2 xia1 hu3
+桔紅枝牙鰕虎	ju2 hong2 zhi1 ya2 xia1 hu3
+康氏側帶小公魚	kang1 shi4 ce4 dai4 xiao3 gong1 yu2
+島嶼側帶小公魚	dao3 yu3 ce4 dai4 xiao3 gong1 yu2
+韋氏側帶小公魚	wei2 shi4 ce4 dai4 xiao3 gong1 yu2
+星雲巨口魚	xing1 yun2 ju4 kou3 yu2
+臺灣扁蛇鰻	tai2 wan1 bian3 she2 man2
+深淵無線鰨	shen1 yuan1 wu2 xian4 ta4
+本州無線鰨	ben3 zhou1 wu2 xian4 ta4
+白邊無線鰨	bai2 bian1 wu2 xian4 ta4
+巨體無線鰨	ju4 ti3 wu2 xian4 ta4
+多斑無線鰨	duo1 ban1 wu2 xian4 ta4
+多線無線鰨	duo1 xian4 wu2 xian4 ta4
+片山氏癒齒鯛	pian4 shan1 shi4 yu4 chi3 diao1
+癒齒鯛	yu4 chi3 diao1
+短背鰭合鰓鰻	duan3 bei4 qi2 he2 sai1 man2
+高氏合鰓鰻	gao1 shi4 he2 sai1 man2
+黑緣箬鰨	hei1 yuan2 ruo4 ta4
+戴氏連鰭䲗	dai4 shi4 lian2 qi2 xian2
+格氏連鰭䲗	ge2 shi4 lian2 qi2 xian2
+萊氏連鰭䲗	lai2 shi4 lian2 qi2 xian2
+薛氏海龍	xue1 shi4 hai3 long2
+雙斑狗母魚	shuang1 ban1 gou3 mu3 yu2
+羊角狗母魚	yang2 jiao3 gou3 mu3 yu2
+革狗母魚	ge2 gou3 mu3 yu2
+道氏狗母魚	dao4 shi4 gou3 mu3 yu2
+褐狗母魚	he4 gou3 mu3 yu2
+射狗母魚	she4 gou3 mu3 yu2
+大目狗母魚	da4 mu4 gou3 mu3 yu2
+東方狗母魚	dong1 fang1 gou3 mu3 yu2
+紅花斑狗母魚	hong2 hua1 ban1 gou3 mu3 yu2
+臺灣狗母魚	tai2 wan1 gou3 mu3 yu2
+肩蓋狗母魚	jian1 gai4 gou3 mu3 yu2
+紅斑狗母魚	hong2 ban1 gou3 mu3 yu2
+小月燈魚	xiao3 yue4 deng1 yu2
+長脂瘋鱨	zhang3 zhi1 feng1 chang2
+橫紋帶天竺鯛	heng2 wen2 dai4 tian1 zhu2 diao1
+三棘帶鮋	san1 ji2 dai4 you2
+等頜鰻鰕虎	deng3 han4 man2 xia1 hu3
+條紋鯻	tiao2 wen2 la4
+太平洋方尾鯧	tai4 ping2 yang2 fang1 wei3 chang1
+印度洋奇鮟鱇	yin4 du4 yang2 qi2 an4 kang1
+尖身帶鰆	jian1 shen1 dai4 chun1
+纓光魚	ying1 guang1 yu2
+窄眶多棘牛尾魚	zhai3 kuang1 duo1 ji2 niu2 wei3 yu2
+艾倫氏富山鰕虎	ai4 lun2 shi4 fu4 shan1 xia1 hu3
+臺灣電鱝	tai2 wan1 dian4 fen4
+姬鮨	ji1 yi4
+阿納鯧鰺	a1 na4 chang1 shen1
+石川粗鰭魚	shi2 chuan1 cu1 qi2 yu2
+棘皮粗尾鱈	ji2 pi2 cu1 wei3 xue3
+長鼻粗吻海龍	zhang3 bi2 cu1 wen3 hai3 long2
+短帶魚	duan3 dai4 yu2
+日本帶魚	ri4 ben3 dai4 yu2
+南海帶魚	nan2 hai3 dai4 yu2
+侏儒絲足鱸	zhu1 ru2 si1 zu2 lu2
+美麗絲鰭鱚	mei3 li4 si1 qi2 xi3
+絲鰭鱚	si1 qi2 xi3
+雙帶縞鰕虎	shuang1 dai4 gao3 xia1 hu3
+卡氏尖頜烏鯊	ka3 shi4 jian1 han4 wu1 sha1
+橘點磨鰕虎	ju2 dian3 mo2 xia1 hu3
+紅磨鰕虎	hong2 mo2 xia1 hu3
+埃氏磨鰕虎	ai1 shi4 mo2 xia1 hu3
+方氏磨鰕虎	fang1 shi4 mo2 xia1 hu3
+紅小斑磨鰕虎	hong2 xiao3 ban1 mo2 xia1 hu3
+絲背磨鰕虎	si1 bei4 mo2 xia1 hu3
+大足小磨鰕虎	da4 zu2 xiao3 mo2 xia1 hu3
+正小磨鰕虎	zheng4 xiao3 mo2 xia1 hu3
+三齒魨	san1 chi3 tun2
+多孔美麗鰕虎	duo1 kong3 mei3 li4 xia1 hu3
+尖尾倒棘魨	jian1 wei3 dao4 ji2 tun2
+暴龍蜍鮟鱇	bao4 long2 chu2 an4 kang1
+呂宋緋鯉	lv3 song4 fei1 li3
+四線緋鯉	si4 xian4 fei1 li3
+黃帶緋鯉	huang2 dai4 fei1 li3
+黑斑緋鯉	hei1 ban1 fei1 li3
+雙斑鰧	shuang1 ban1 teng2
+中華鰧	zhong1 hua2 teng2
+日本鰧	ri4 ben3 teng2
+褐黃扁魟	he4 huang2 bian3 hong1
+白斑尾鯙	bai2 ban1 wei3 chun2
+網紋尾鯙	wang3 wen2 wei3 chun2
+少椎尾鯙	shao3 chui2 wei3 chun2
+黃鰭尾鯙	huang2 qi2 wei3 chun2
+黃點梵鰕虎	huang2 dian3 fan4 xia1 hu3
+草鰺	cao3 shen1
+歧異凹腹鱈	qi2 yi4 ao1 fu4 xue3
+暗色凹腹鱈	an4 se4 ao1 fu4 xue3
+長鬚凹腹鱈	zhang3 xu1 ao1 fu4 xue3
+大鰭凹腹鱈	da4 qi2 ao1 fu4 xue3
+黑背鰭凹腹鱈	hei1 bei4 qi2 ao1 fu4 xue3
+扇鰭凹腹鱈	shan4 qi2 ao1 fu4 xue3
+西海凹腹鱈	xi1 hai3 ao1 fu4 xue3
+多鱗伍氏鰕虎	duo1 lin2 wu3 shi4 xia1 hu3
+黑帶黃鱗魨	hei1 dai4 huang2 lin2 tun2
+平額魚	ping2 e2 yu2
+帶鳚	dai4 wei4
+梅氏棘鰓鼬魚	mei2 shi4 ji2 sai1 you4 yu2
+邱氏列齒蛇鰻	qiu1 shi4 lie4 chi3 she2 man2
+列齒蛇鰻	lie4 chi3 she2 man2
+纓鱗條鰨	ying1 lin2 tiao2 ta4
+董氏異鱗鱵	dong3 shi4 yi4 lin2 zhen1
+日本甲眼的鯛	ri4 ben3 jia3 yan3 de5 diao1
+多棘雨印鯛	duo1 ji2 yu3 yin4 diao1
+西姆鈍腹鯡	xi1 mu3 dun4 fu4 fei4
+星斑叉鼻魨	xing1 ban1 cha1 bi2 tun2
+橘點若鰺	ju2 dian3 ruo4 shen1
+星點寬尾鱗魨	xing1 dian3 kuan1 wei3 lin2 tun2
+大棘帆鰭鮋	da4 ji2 fan1 qi2 you2
+背帶帆鰭鮋	bei4 dai4 fan1 qi2 you2
+扁鶴鱵	bian3 he4 zhen1
+孟加拉豆娘魚	meng4 jia1 la1 dou4 niang2 yu2
+黃尾豆娘魚	huang2 wei3 dou4 niang2 yu2
+七帶豆娘魚	qi1 dai4 dou4 niang2 yu2
+六線豆娘魚	liu4 xian4 dou4 niang2 yu2
+梭地豆娘魚	suo1 di4 dou4 niang2 yu2
+條紋豆娘魚	tiao2 wen2 dou4 niang2 yu2
+鬚棘吻魚	xu1 ji2 wen3 yu2
+印度棘赤刀魚	yin4 du4 ji2 chi4 dao1 yu2
+克氏棘赤刀魚	ke4 shi4 ji2 chi4 dao1 yu2
+背點棘赤刀魚	bei4 dian3 ji2 chi4 dao1 yu2
+棘鰆	ji2 chun1
+長身鯊	zhang3 shen1 sha1
+黃鰭棘鯛	huang2 qi2 ji2 diao1
+黑棘鯛	hei1 ji2 diao1
+白斑刺尾鯛	bai2 ban1 ci4 wei3 diao1
+線紋刺尾鯛	xian4 wen2 ci4 wei3 diao1
+頭斑刺尾鯛	tou2 ban1 ci4 wei3 diao1
+後刺尾鯛	hou4 ci4 wei3 diao1
+白面刺尾鯛	bai2 mian4 ci4 wei3 diao1
+褐斑刺尾鯛	he4 ban1 ci4 wei3 diao1
+密線刺尾鯛	mi4 xian4 ci4 wei3 diao1
+黃尾刺尾鯛	huang2 wei3 ci4 wei3 diao1
+綠刺尾鯛	lv4 ci4 wei3 diao1
+紫鰭韁鰕虎	zi3 qi2 jiang1 xia1 hu3
+黑帶細棘鰕虎	hei1 dai4 xi4 ji2 xia1 hu3
+普氏韁鰕虎	pu3 shi4 jiang1 xia1 hu3
+雀細棘鰕虎	que4 xi4 ji2 xia1 hu3
+青斑細棘鰕虎	qing1 ban1 xi4 ji2 xia1 hu3
+白線鬃尾單棘魨	bai2 xian4 zong1 wei3 dan1 ji2 tun2
+頂鼻糯鰻	ding3 bi2 nuo4 man2
+臺灣石魚賓	tai2 wan1 shi2 yu2 bin1
+條紋鰕魚	tiao2 wen2 xia1 yu2
+煙鱠	yan1 kuai4
+納氏鷂鱝	na4 shi4 yao4 fen4
+眼斑鷂鱝	yan3 ban1 yao4 fen4
+花點無刺鱝	hua1 dian3 wu2 ci4 fen4
+鷹狀無刺鱝	ying1 zhuang4 wu2 ci4 fen4
+聶氏無刺鱝	nie4 shi4 wu2 ci4 fen4
+蝠狀無刺鱝	fu2 zhuang4 wu2 ci4 fen4
+圓頜狐鰮	yuan2 han4 hu2 wen1
+異鱗海蜴魚	yi4 lin2 hai3 yi4 yu2
+裸頭海蜴魚	luo3 tou2 hai3 yi4 yu2
+絲鰺	si1 shen1
+印度絲鰺	yin4 du4 si1 shen1
+吉打副葉鰺	ji2 da3 fu4 ye4 shen1
+克氏副葉鰺	ke4 shi4 fu4 ye4 shen1
+范氏副葉鰺	fan4 shi4 fu4 ye4 shen1
+小眼海鼬魚	xiao3 yan3 hai3 you4 yu2
+琉球海鼬魚	liu2 qiu2 hai3 you4 yu2
+深海狐鯊	shen1 hai3 hu2 sha1
+狐鯊	hu2 sha1
+高冠鳚	gao1 guan4 wei4
+單角革單棘魨	dan1 jiao3 ge2 dan1 ji2 tun2
+長尾革單棘魨	zhang3 wei3 ge2 dan1 ji2 tun2
+美單棘魨	mei3 dan1 ji2 tun2
+六絲鈍尾鰕虎	liu4 si1 dun4 wei3 xia1 hu3
+雙斑鈍䱵	shuang1 ban1 dun4 weng1
+單斑鈍䱵	dan1 ban1 dun4 weng1
+福氏鈍鯊	fu2 shi4 dun4 sha1
+斑點鈍鯊	ban1 dian3 dun4 sha1
+圓眶鈍鯊	yuan2 kuang1 dun4 sha1
+史氏鈍鯊	shi3 shi4 dun4 sha1
+威氏鈍鯊	wei1 shi4 dun4 sha1
+平胸鈍腹鯡	ping2 xiong1 dun4 fu4 fei4
+黃背寬刻齒雀鯛	huang2 bei4 kuan1 ke4 chi3 que4 diao1
+橘鈍寬刻齒雀鯛	ju2 dun4 kuan1 ke4 chi3 que4 diao1
+白腹寬刻齒雀鯛	bai2 fu4 kuan1 ke4 chi3 que4 diao1
+綠身寬刻齒雀鯛	lv4 shen1 kuan1 ke4 chi3 que4 diao1
+短唇鈍鰕虎	duan3 chun2 dun4 xia1 hu3
+尾斑鈍鰕虎	wei3 ban1 dun4 xia1 hu3
+短頭鈍雀鯛	duan3 tou2 dun4 que4 diao1
+多刺天竺鯛	duo1 ci4 tian1 zhu2 diao1
+犬牙韁鰕虎	quan3 ya2 jiang1 xia1 hu3
+緑斑韁鰕虎	lv4 ban1 jiang1 xia1 hu3
+橘色雙冠麗魚	ju2 se4 shuang1 guan4 li4 yu2
+厚唇雙冠麗魚	hou4 chun2 shuang1 guan4 li4 yu2
+克氏雙鋸魚	ke4 shi4 shuang1 ju4 yu2
+鞍斑雙鋸魚	an1 ban1 shuang1 ju4 yu2
+奈氏魚雀鯛	nai4 shi4 yu2 que4 diao1
+攀鱸	pan1 lu2
+坎頓裸臀鯙	kan3 dun4 luo3 tun2 chun2
+雷氏唇盤鳚	lei2 shi4 chun2 pan2 wei4
+四指唇盤鳚	si4 zhi3 chun2 pan2 wei4
+燈眼魚	deng1 yan3 yu2
+鈍鋸鱝	dun4 ju4 fen4
+雙斑躄魚	shuang1 ban1 bi4 yu2
+毛躄魚	mao2 bi4 yu2
+大斑躄魚	da4 ban1 bi4 yu2
+白斑躄魚	bai2 ban1 bi4 yu2
+條紋躄魚	tiao2 wen2 bi4 yu2
+細斑手躄魚	xi4 ban1 shou3 bi4 yu2
+康氏躄魚	kang1 shi4 bi4 yu2
+駝背手躄魚	tuo2 bei4 shou3 bi4 yu2
+網紋手躄魚	wang3 wen2 shou3 bi4 yu2
+紅菱鯛	hong2 ling2 diao1
+白線光腭鱸	bai2 xian4 guang1 e4 lu2
+欖色細齒笛鯛	lan3 se4 xi4 chi3 di2 diao1
+菊池氏細鯽	ju2 chi2 shi4 xi4 ji4
+棱鬚蓑鮋	leng2 xu1 suo1 you2
+絨皮鮋	rong2 pi2 you2
+馬都拉叉牙鰕虎	ma3 dou1 la1 cha1 ya2 xia1 hu3
+長棘天竺鯛	zhang3 ji2 tian1 zhu2 diao1
+垂帶似天竺鯛	chui2 dai4 shi4 tian1 zhu2 diao1
+黑身似天竺鯛	hei1 shen1 shi4 tian1 zhu2 diao1
+黑似天竺鯛	hei1 shi4 tian1 zhu2 diao1
+黑鰭似天竺鯛	hei1 qi2 shi4 tian1 zhu2 diao1
+帝汶似天竺鯛	di4 wen4 shi4 tian1 zhu2 diao1
+眼斑原天竺鯛	yan3 ban1 yuan2 tian1 zhu2 diao1
+三點阿波魚	san1 dian3 a1 bo1 yu2
+霍氏篦鯊	huo4 shi4 bi4 sha1
+扁吻篦鯊	bian3 wen3 bi4 sha1
+駿河灣無鰭蛇鰻	jun4 he2 wan1 wu2 qi2 she2 man2
+布氏長鰭天竺鯛	bu4 shi4 zhang3 qi2 tian1 zhu2 diao1
+長棘鯛	zhang3 ji2 diao1
+日本銀身䱛	ri4 ben3 yin2 shen1 huo4
+短鰭無齒鯧	duan3 qi2 wu2 chi3 chang1
+印度無齒鯧	yin4 du4 wu2 chi3 chang1
+白錐體糯鰻	bai2 zhui1 ti3 nuo4 man2
+條紋錐體糯鰻	tiao2 wen2 zhui1 ti3 nuo4 man2
+米克氏錐體糯鰻	mi3 ke4 shi4 zhui1 ti3 nuo4 man2
+銀錐體糯鰻	yin2 zhui1 ti3 nuo4 man2
+絲鰭海鯰	si1 qi2 hai3 nian2
+斑海鯰	ban1 hai3 nian2
+多斑羊舌鮃	duo1 ban1 yang2 she2 ping2
+瓣叉鼻魨	ban4 cha1 bi2 tun2
+紋腹叉鼻魨	wen2 fu4 cha1 bi2 tun2
+無斑叉鼻魨	wu2 ban1 cha1 bi2 tun2
+菲律賓叉鼻魨	fei1 lv4 bin1 cha1 bi2 tun2
+輻紋叉鼻魨	fu2 wen2 cha1 bi2 tun2
+白點叉鼻魨	bai2 dian3 cha1 bi2 tun2
+黑斑叉鼻魨	hei1 ban1 cha1 bi2 tun2
+網紋叉鼻魨	wang3 wen2 cha1 bi2 tun2
+開因櫛鱗鰨	kai1 yin1 jie2 lin2 ta4
+可勃櫛鱗鰨	ke3 bo2 jie2 lin2 ta4
+外來櫛鱗鰨	wai4 lai2 jie2 lin2 ta4
+日本小姥魚	ri4 ben3 xiao3 lao3 yu2
+臺灣鶴姥魚	tai2 wan1 he4 lao3 yu2
+杜氏盾齒鳚	du4 shi4 dun4 chi3 wei4
+可哥群島角鮃	ke3 ge1 qun2 dao3 jiao3 ping2
+中間角鮃	zhong1 jian1 jiao3 ping2
+棘星鰕虎	ji2 xing1 xia1 hu3
+金星衫魚	jin1 xing1 shan1 yu2
+斑貓鯊	ban1 mao1 sha1
+島嶼美銀漢魚	dao3 yu3 mei3 yin2 han4 yu2
+南洋美銀漢魚	nan2 yang2 mei3 yin2 han4 yu2
+黑䱛	hei1 huo4
+溝鰺	gou1 shen1
+全黑烏鳚	quan2 hei1 wu1 wei4
+遊鰭葉鰺	you2 qi2 ye4 shen1
+中華管口魚	zhong1 hua2 guan3 kou3 yu2
+前肛管燧鯛	qian2 gang1 guan3 sui4 diao1
+條紋金鰏	tiao2 wen2 jin1 bi4
+喙吻鰻	hui4 wen3 man2
+黑頭阿胡鰕虎	hei1 tou2 a1 hu2 xia1 hu3
+眼斑厚唇鯊	yan3 ban1 hou4 chun2 sha1
+波紋鈎鱗魨	bo1 wen2 gou1 lin2 tun2
+花斑擬鱗魨	hua1 ban1 ni3 lin2 tun2
+褐擬鱗魨	he4 ni3 lin2 tun2
+扁棘鯛	bian3 ji2 diao1
+銀高體䰾	yin2 gao1 ti3 ba1
+施氏䰾	shi1 shi4 ba1
+克氏褐蛇鰻	ke4 shi4 he4 she2 man2
+扁索深鼬魚	bian3 suo3 shen1 you4 yu2
+黏身索深鼬魚	nian2 shen1 suo3 shen1 you4 yu2
+基島深水䲗	ji1 dao3 shen1 shui3 xian2
+紋鰭深水䲗	wen2 qi2 shen1 shui3 xian2
+小斑深海糯鰻	xiao3 ban1 shen1 hai3 nuo4 man2
+網格深海糯鰻	wang3 ge2 shen1 hai3 nuo4 man2
+瓦氏深海糯鰻	wa3 shi4 shen1 hai3 nuo4 man2
+孔頭底尾鱈	kong3 tou2 di3 wei3 xue3
+日本底尾鱈	ri4 ben3 di3 wei3 xue3
+藍點深鰕虎	lan2 dian3 shen1 xia1 hu3
+椰子深鰕虎	ye1 zi5 shen1 xia1 hu3
+闊頭深鰕虎	kuo4 tou2 shen1 xia1 hu3
+圓鰭深鰕虎	yuan2 qi2 shen1 xia1 hu3
+褐深鰕虎	he4 shen1 xia1 hu3
+萊氏深鰕虎	lai2 shi4 shen1 xia1 hu3
+梅氏深鰕虎	mei2 shi4 shen1 xia1 hu3
+扁頭深鰕虎	bian3 tou2 shen1 xia1 hu3
+大尾深水鼬魚	da4 wei3 shen1 shui3 you4 yu2
+勻棘深海鰩	yun2 ji2 shen1 hai3 yao2
+松原深海鰩	song1 yuan2 shen1 hai3 yao2
+糙體深海鰩	cao1 ti3 shen1 hai3 yao2
+少耙深海尾糯鰻	shao3 ba4 shen1 hai3 wei3 nuo4 man2
+橫帶針翅鮗	heng2 dai4 zhen1 chi4 dong1
+叉尾深海帶魚	cha1 wei3 shen1 hai3 dai4 yu2
+帶底燈魚	dai4 di3 deng1 yu2
+七星底燈魚	qi1 xing1 di3 deng1 yu2
+耀眼底燈魚	yao4 yan3 di3 deng1 yu2
+日本美尾䲗	ri4 ben3 mei3 wei3 xian2
+杜氏刺鼻單棘魨	du4 shi4 ci4 bi2 dan1 ji2 tun2
+爪哇真鯊	chang2 wa1 zhen1 sha1
+麗頰低鼬魚	li4 jia2 di1 you4 yu2
+顆粒刺鯊	ke1 li4 ci4 sha1
+等齒刺鯊	deng3 chi3 ci4 sha1
+魚虎	yu2 hu3
+半藍刻齒雀鯛	ban4 lan2 ke4 chi3 que4 diao1
+原鶴海鰻	yuan2 he4 hai3 man2
+寬額纓鮃	kuan1 e2 ying1 ping2
+鬼魟	gui3 hong1
+深水田氏鯊	shen1 shui3 tian2 shi4 sha1
+巨長吻鰩	ju4 zhang3 wen3 yao2
+貝氏勾吻鯙	bei4 shi4 gou1 wen3 chun2
+犬齒鋭齒鯙	quan3 chi3 rui4 chi3 chun2
+黑斑短額鮃	hei1 ban1 duan3 e2 ping2
+美九鰭䲁	mei3 jiu3 qi2 wei4
+長棘石斑魚	zhang3 ji2 shi2 ban1 yu2
+粗紋馬鰏	cu1 wen2 ma3 bi4
+條腹線天竺鯛	tiao2 fu4 xian4 tian1 zhu2 diao1
+網紋短鰕虎	wang3 wen2 duan3 xia1 hu3
+三斑雙線鮃	san1 ban1 shuang1 xian4 ping2
+小瘤鱈	xiao3 liu2 xue3
+窄尾裸胸鯙	zhai3 wei3 luo3 xiong1 chun2
+褐斑裸胸鯙	he4 ban1 luo3 xiong1 chun2
+英氏裸胸鯙	ying1 shi4 luo3 xiong1 chun2
+魔斑裸胸鯙	mo2 ban1 luo3 xiong1 chun2
+無斑裸胸鯙	wu2 ban1 luo3 xiong1 chun2
+臺灣姬魚	tai2 wan1 ji1 yu2
+安納地項鰭魚	an1 na4 di4 xiang4 qi2 yu2
+黑背項鰭魚	hei1 bei4 xiang4 qi2 yu2
+五指項鰭魚	wu3 zhi3 xiang4 qi2 yu2
+新幾內亞銀口天竺鯛	xin1 ji3 nei4 ya3 yin2 kou3 tian1 zhu2 diao1
+截尾銀口天竺鯛	jie2 wei3 yin2 kou3 tian1 zhu2 diao1
+棕斑兔頭魨	zong1 ban1 tu4 tou2 tun2
+多斑龍口蛇鰻	duo1 ban1 long2 kou3 she2 man2
+長吻龍占魚	zhang3 wen3 long2 zhan4 yu2
+月尾長鱸	yue4 wei3 zhang3 lu2
+梅氏鯔鰕虎	mei2 shi4 zi1 xia1 hu3
+裸鰭蟲鰻	luo3 qi2 chong2 man2
+短吻鼻魚	duan3 wen3 bi2 yu2
+長絲金線魚	zhang3 si1 jin1 xian4 yu2
+紫新雀鯛	zi3 xin1 que4 diao1
+石蛇鰻	shi2 she2 man2
+黃體鸚天竺鯛	huang2 ti3 ying1 tian1 zhu2 diao1
+稻氏鸚天竺鯛	dao4 shi4 ying1 tian1 zhu2 diao1
+黑帶鸚天竺鯛	hei1 dai4 ying1 tian1 zhu2 diao1
+九帶鸚天竺鯛	jiu3 dai4 ying1 tian1 zhu2 diao1
+側帶鸚天竺鯛	ce4 dai4 ying1 tian1 zhu2 diao1
+半線鸚天竺鯛	ban4 xian4 ying1 tian1 zhu2 diao1
+褐帶鸚天竺鯛	he4 dai4 ying1 tian1 zhu2 diao1
+粒牙歐氏鰧	li4 ya2 ou1 shi4 teng2
+帶狀歐氏鰧	dai4 zhuang4 ou1 shi4 teng2
+北鯧	bei3 chang1
+多鱗擬鮃	duo1 lin2 ni3 ping2
+花身副麗魚	hua1 shen1 fu4 li4 yu2
+雜色副䱵	za2 se4 fu4 weng1
+長角副單棘魨	zhang3 jiao3 fu4 dan1 ji2 tun2
+白斑擬鱸	bai2 ban1 ni3 lu2
+美擬鱸	mei3 ni3 lu2
+金圓鱗鮋	jin1 yuan2 lin2 you2
+花彩圓鱗鮋	hua1 cai3 yuan2 lin2 you2
+大絲海緋鯉	da4 si1 hai3 fei1 li3
+方氏雲䲁	fang1 shi4 yun2 wei4
+色帶胡椒鯛	se4 dai4 hu2 jiao1 diao1
+長臂棘花鱸	zhang3 bi4 ji2 hua1 lu2
+雙葉腹瓢鰕虎	shuang1 ye4 fu4 piao2 xia1 hu3
+雙線矮冠䲁	shuang1 xian4 ai3 guan4 wei4
+多變鰜鮃	duo1 bian4 qian4 ping2
+靜擬花鮨	jing4 ni3 hua1 yi4
+腹斑擬鰕虎	fu4 ban1 ni3 xia1 hu3
+斑尾鱗鰭烏尾鮗	ban1 wei3 lin2 qi2 wu1 wei3 dong1
+尖突吻鯻	jian1 tu2 wen3 la4
+闊頭紅魴鮄	kuo4 tou2 hong2 fang2 fu2
+摩鹿加紅魴鮄	mo2 lu4 jia1 hong2 fang2 fu2
+約氏舒蛇鰻	yue1 shi4 shu1 she2 man2
+愛氏蠕蛇鰻	ai4 shi4 ru2 she2 man2
+側尾蠕蛇鰻	ce4 wei3 ru2 she2 man2
+橫紋逆鉤鰺	heng2 wen2 ni4 gou1 shen1
+牛眼凹肩鰺	niu2 yan3 ao1 jian1 shen1
+婆羅洲海灣無鰭鰩	po2 luo2 zhou1 hai3 wan1 wu2 qi2 yao2
+麥氏鏢吻鱈	mai4 shi4 biao1 wen3 xue3
+黑尾史氏三鰭鳚	hei1 wei3 shi3 shi4 san1 qi2 wei4
+飯島氏銀鮈	fan4 dao3 shi4 yin2 ju1
+薩氏角鯊	sa4 shi4 jiao3 sha1
+細長裸蜥魚	xi4 zhang3 luo3 xi1 yu2
+斑長裸蜥魚	ban1 zhang3 luo3 xi1 yu2
+長背長鯙	zhang3 bei4 zhang3 chun2
+雙斑帶天竺鯛	shuang1 ban1 dai4 tian1 zhu2 diao1
+藍斑條尾魟	lan2 ban1 tiao2 wei3 hong1
+雙峰三稜箱魨	shuang1 feng1 san1 leng2 xiang1 tun2
+日本刺尾鯛	ri4 ben3 ci4 wei3 diao1
+大錐體糯鰻	da4 zhui1 ti3 nuo4 man2
+圓花鰹	yuan2 hua1 jian1
+扁花鰹	bian3 hua1 jian1
+線斑黃鱗魨	xian4 ban1 huang2 lin2 tun2
+扁頭亞氏天竺鯛	bian3 tou2 ya3 shi4 tian1 zhu2 diao1
+米蘇爾細鋤蛇鰻	mi3 su1 er3 xi4 chu2 she2 man2
+黑帶韁鰕虎	hei1 dai4 jiang1 xia1 hu3
+棘鰓塘鱧	ji2 sai1 tang2 li3
+黃鰭棘鰓塘鱧	huang2 qi2 ji2 sai1 tang2 li3
+小鯔鰕虎	xiao3 zi1 xia1 hu3
+澳大利亞新鼬鳚	ao4 da4 li4 ya3 xin1 you4 wei4
+暹羅副雙邊魚	xian1 luo2 fu4 shuang1 bian1 yu2
+費氏窄尾魟	fei4 shi4 zhai3 wei3 hong1
+八帶雞魚	ba1 dai4 ji1 yu2
+太平洋雙色鰻鱺	tai4 ping2 yang2 shuang1 se4 man2 li2
+紋喉膜首鱈	wen2 hou2 mo2 shou3 xue3
+龍虎斑	long2 hu3 ban1
+狹心綱	xia2 xin1 gang1
+雜斑兔頭魨	za2 ban1 tu4 tou2 tun2
+新喀里多尼亞韌鰕虎	xin1 ka1 li3 duo1 ni2 ya3 ren4 xia1 hu3
+短尾腹囊海龍	duan3 wei3 fu4 nang2 hai3 long2
+黑背叉尾鶴鱵	hei1 bei4 cha1 wei3 he4 zhen1
+鱷形叉尾鶴鱵	e4 xing2 cha1 wei3 he4 zhen1
+黑尾副尼麗魚	hei1 wei3 fu4 ni2 li4 yu2
+玉山間爬岩鰍	yu4 shan1 jian1 pa2 yan2 qiu1
+紋喉膜首鱈	wen2 hou2 mo2 shou3 xue3
+鯽	ji4
+翼髭鬚唇飛魚	yi4 zi1 xu1 chun2 fei1 yu2
+尖齒鬍鯰	jian1 chi3 hu2 nian2
+鯉	li3
+暹羅皮頦鱵	xian1 luo2 pi2 hai2 zhen1
+櫻花鉤吻鮭	ying1 hua1 gou1 wen3 gui1
+白鰭飛鱵	bai2 qi2 fei1 zhen1
+寬尾鶴鱵	kuan1 wei3 he4 zhen1
+香魚	xiang1 yu2
+虎皮鴨嘴	hu3 pi2 ya1 zui3
+陽明山吻鰕虎	yang2 ming2 shan1 wen3 xia1 hu3
+高體鰟鮍	gao1 ti3 fang2 pi1
+大鱗鱗孔鯛	da4 lin2 lin2 kong3 diao1
+洪氏無線鰨	hong2 shi4 wu2 xian4 ta4
+兔頭魨	tu4 tou2 tun2
+太平洋狐鰮	tai4 ping2 yang2 hu2 wen1
+黑帶嬌麗魚	hei1 dai4 jiao1 li4 yu2
+太平洋雙色鰻鱺	tai4 ping2 yang2 shuang1 se4 man2 li2
+圓花鰹	yuan2 hua1 jian1
+英格擬棘茄魚	ying1 ge2 ni3 ji2 jia1 yu2
+科勒氏鰍鮀	ke1 lei1 shi4 qiu1 tuo2
+扁花鰹	bian3 hua1 jian1
+大鱗後頷鱚	da4 lin2 hou4 han4 xi3
+蘭道氏後頜魚	lan2 dao4 shi4 hou4 han4 yu2
+小斑後頷鱚	xiao3 ban1 hou4 han4 xi3
+艷紅單棘躄魚	yan4 hong2 dan1 ji2 bi4 yu2
+黑口單棘躄魚	hei1 kou3 dan1 ji2 bi4 yu2
+奇吉木納韌鰕虎	qi2 ji2 mu4 na4 ren4 xia1 hu3
+婆羅洲叫姑魚	po2 luo2 zhou1 jiao4 gu1 yu2
+屈氏叫姑魚	qu1 shi4 jiao4 gu1 yu2
+兔頭瓢鰭鰕虎	tu4 tou2 piao2 qi2 xia1 hu3
+青鱂	qing1 jiang1
+布納加亞韌鰕虎	bu4 na4 jia1 ya3 ren4 xia1 hu3
+棉蘭老韌鰕虎	mian2 lan2 lao3 ren4 xia1 hu3
+巴拉望紅韌鰕虎	ba1 la1 wang4 hong2 ren4 xia1 hu3
+多輻韌鰕虎	duo1 fu2 ren4 xia1 hu3
+奧氏雷鰕虎	ao4 shi4 lei2 xia1 hu3
+皇枝牙鰕虎	huang2 zhi1 ya2 xia1 hu3
+條鰭魚綱	tiao2 qi2 yu2 gang1
+新鰭亞綱	xin1 qi2 ya3 gang1
+鯉形總目	li3 xing2 zong3 mu4
+鯰形總目	nian2 xing2 zong3 mu4
+燧鯛目	sui4 diao1 mu4
+慈鯛總目	ci2 diao1 zong3 mu4
+美銀漢魚總目	mei3 yin2 han4 yu2 zong3 mu4
+鯔形總目	zi1 xing2 zong3 mu4
+䲁形總目	wei4 xing2 zong3 mu4
+喉盤魚目	hou2 pan2 yu2 mu4
+鑽嘴魚目	zuan1 zui3 yu2 mu4
+麗虹彩鯛	li4 hong2 cai3 diao1
+玫瑰擬鮗	mei2 gui1 ni3 dong1
+黑緣豆娘魚	hei1 yuan2 dou4 niang2 yu2
+緋菱鯛	fei1 ling2 diao1
+擬雙帶天竺鯛	ni3 shuang1 dai4 tian1 zhu2 diao1
+波戸岡無鰭蛇鰻	bo1 hu4 gang1 wu2 qi2 she2 man2
+大眼無齒鯧	da4 yan3 wu2 chi3 chang1
+絲鰭寬尾鱗魨	si1 qi2 kuan1 wei3 lin2 tun2
+斐濟短角單棘魨	fei3 ji4 duan3 jiao3 dan1 ji2 tun2
+中間鰍鮀	zhong1 jian1 qiu1 tuo2
+扁圓吻鯝	bian3 yuan2 wen3 gu4
+少鰭深巨口魚	shao3 qi2 shen1 ju4 kou3 yu2
+大目金眼鯛	da4 mu4 jin1 yan3 diao1
+新西蘭短鰈	xin1 xi1 lan2 duan3 die2
+磯川氏平面黃魴鮄	ji1 chuan1 shi4 ping2 mian4 huang2 fang2 fu2
+龜壁灣褐蛇鰻	gui1 bi4 wan1 he4 she2 man2
+金鑽鳳梨魚	jin1 zuan1 feng4 li2 yu2
+玫瑰胸燧鯛	mei2 gui1 xiong1 sui4 diao1
+海神圓鱗鮋	hai3 shen2 yuan2 lin2 you2
+寬口小褐鱈	kuan1 kou3 xiao3 he4 xue3
+斑點短糯鰻	ban1 dian3 duan3 nuo4 man2
+臺灣小花鱸	tai2 wan1 xiao3 hua1 lu2
+少棘短棘簑鮋	shao3 ji2 duan3 ji2 suo1 you2
+青蜂枝牙鰕虎	qing1 feng1 zhi1 ya2 xia1 hu3
+美洲鰻	mei3 zhou1 man2
+褐新魟	he4 xin1 hong1
+草薙蛇鰻	cao3 ti4 she2 man2
+東沙蛇鰻	dong1 sha1 she2 man2
+灰鰭鮻	hui1 qi2 suo1
+大吻斜齒鮫	da4 wen3 xie2 chi3 jiao1
+黑緣大鱗大眼鯛	hei1 yuan2 da4 lin2 da4 yan3 diao1
+波氏馬鰏	bo1 shi4 ma3 bi4
+原口氏羅蝶魚	yuan2 kou3 shi4 luo2 die2 yu2
+擬蠕紋裸胸鯙	ni3 ru2 wen2 luo3 xiong1 chun2
+喉斑異鯙	hou2 ban1 yi4 chun2
+埃爾多拉多小公魚	ai1 er3 duo1 la1 duo1 xiao3 gong1 yu2
+點甕鰩	dian3 weng4 yao2
+東方燈籠魚	dong1 fang1 deng1 long2 yu2
+黑口鬚銀眼鯛	hei1 kou3 xu1 yin2 yan3 diao1
+東沙黑口尖牙鱸	dong1 sha1 hei1 kou3 jian1 ya2 lu2
+臺灣竿鯊	tai2 wan1 gan1 sha1
+飾妝枝牙鰕虎	shi4 zhuang1 zhi1 ya2 xia1 hu3
+背點枝牙鰕虎	bei4 dian3 zhi1 ya2 xia1 hu3
+琉球竿鰕虎	liu2 qiu2 gan1 xia1 hu3
+雷氏腹囊海龍	lei2 shi4 fu4 nang2 hai3 long2
+淺紅枝牙鰕虎	qian3 hong2 zhi1 ya2 xia1 hu3
+白大巴裂身鰕虎	bai2 da4 ba1 lie4 shen1 xia1 hu3
+斑紋裂身鰕虎	ban1 wen2 lie4 shen1 xia1 hu3
+薩波立裂身鰕虎	sa4 bo1 li4 lie4 shen1 xia1 hu3
+薩氏裂身鰕虎	sa4 shi4 lie4 shen1 xia1 hu3
+冥王鰭尾鯙	ming2 wang2 qi2 wei3 chun2
+玫唇蝮鯙	mei2 chun2 fu4 chun2
+印尼稜鯷	yin4 ni2 leng2 ti2
+東京電鱝	dong1 jing1 dian4 fen4
+方斑狗母魚	fang1 ban1 gou3 mu3 yu2
+道津氏扁頭鰕虎	dao4 jin1 shi4 bian3 tou2 xia1 hu3
+羽紅珠目魚	yu3 hong2 zhu1 mu4 yu2
+孟加拉短帶鰆	meng4 jia1 la1 duan3 dai4 chun1
+駿河灣刀光魚	jun4 he2 wan1 dao1 guang1 yu2
+長方副單棘魨	zhang3 fang1 fu4 dan1 ji2 tun2
+貪食鸚天竺鯛	tan1 shi2 ying1 tian1 zhu2 diao1
+長吻骨鱗魚	zhang3 wen3 gu3 lin2 yu2
+尚州蛇鰻	shang4 zhou1 she2 man2
+考氏新棘鮋	kao3 shi4 xin1 ji2 you2
+鈍吻新棘鮋	dun4 wen3 xin1 ji2 you2
+日台深海鯡	ri4 tai2 shen1 hai3 fei4
+細身深海鯡	xi4 shen1 shen1 hai3 fei4
+黑鬚黑巨口魚	hei1 xu1 hei1 ju4 kou3 yu2
+蒂摩笛鯛	di4 mo2 di2 diao1
+長刺鰏	zhang3 ci4 bi4
+齊氏兔頭魨	qi2 shi4 tu4 tou2 tun2
+黃紋棘箱魨	huang2 wen2 ji2 xiang1 tun2
+黃紋裸胸鯙	huang2 wen2 luo3 xiong1 chun2
+薩氏凹腹鱈	sa4 shi4 ao1 fu4 xue3
+岸本氏瞻星魚	an4 ben3 shi4 zhan1 xing1 yu2
+桔黃鰧	ju2 huang2 teng2
+黃尾鰧	huang2 wei3 teng2
+伊登氏緋鯉	yi1 deng1 shi4 fei1 li3
+異棘緋鯉	yi4 ji2 fei1 li3
+桑古狗母魚	sang1 gu3 gou3 mu3 yu2
+太平洋狗母魚	tai4 ping2 yang2 gou3 mu3 yu2
+肩斑狗母魚	jian1 ban1 gou3 mu3 yu2
+油金梭魚	you2 jin1 suo1 yu2
+白點石狗公	bai2 dian3 shi2 gou3 gong1
+大手擬鮋	da4 shou3 ni3 you2
+史氏弱蜥魚	shi3 shi4 ruo4 xi1 yu2
+短臂蛇鯔	duan3 bi4 she2 zi1
+大鱗蛇鯔	da4 lin2 she2 zi1
+伊氏蛇鯔	yi1 shi4 she2 zi1
+斑箭天竺鯛	ban1 jian4 tian1 zhu2 diao1
+太加拉棘角魚	tai4 jia1 la1 ji2 jiao3 yu2
+粗棘角魚	cu1 ji2 jiao3 yu2
+黑喉異天竺鯛	hei1 hou2 yi4 tian1 zhu2 diao1
+赫氏鈎嘴鰨	he4 shi4 gou1 zui3 ta4
+陳氏睡鯊	chen2 shi4 shui4 sha1
+小烏鯊	xiao3 wu1 sha1
+中國鯆	zhong1 guo2 pu1
+藍牙豬齒魚	lan2 ya2 zhu1 chi3 yu2
+紫頭鯨鸚哥魚	zi3 tou2 jing1 ying1 ge1 yu2
+威廉彎線䲁	wei1 lian2 wan1 xian4 wei4
+東海擬鱸	dong1 hai3 ni3 lu2
+白點赤鮨	bai2 dian3 chi4 yi4
+裸胸帆鰭鮋	luo3 xiong1 fan1 qi2 you2
+長鰭刺鯊	zhang3 qi2 ci4 sha1
+黑翅後頜魚	hei1 chi4 hou4 han4 yu2
+堅蛇鯔	jian1 she2 zi1
+孤軟泥鰻	gu1 ruan3 ni2 man2
+尖吻無線鰨	jian1 wen3 wu2 xian4 ta4
+變斑裸胸鯙	bian4 ban1 luo3 xiong1 chun2
+黑口深海糯鰻	hei1 kou3 shen1 hai3 nuo4 man2
+大王帶鰆	dai4 wang2 dai4 chun1
+短額鮃	duan3 e2 ping2
+長棘武裝平頭鮋	zhang3 ji2 wu3 zhuang1 ping2 tou2 you2
+四孔長鯙	si4 kong3 zhang3 chun2
+尖吻狹簑鮋	jian1 wen3 xia2 suo1 you2
+黑線岩鱸	hei1 xian4 yan2 lu2
+卷眼斑鮃	juan3 yan3 ban1 ping2
+水母玉鯧	shui3 mu3 yu4 chang1
+絲鰭針鯒	si1 qi2 zhen1 yong3
+猩紅棘茄魚	xing1 hong2 ji2 jia1 yu2
+佐藤氏白鱲	zuo3 teng2 shi4 bai2 la4
+圓白鱲	yuan2 bai2 la4
+克氏棘線牛尾魚	ke4 shi4 ji2 xian4 niu2 wei3 yu2
+日本曲鼬䲁	ri4 ben3 qu1 you4 wei4
+亮烏鯊	liang4 wu1 sha1
+古邦石斑魚	gu3 bang1 shi2 ban1 yu2
+蜂巢深海天竺鯛	feng1 chao2 shen1 hai3 tian1 zhu2 diao1
+尼氏眶燈魚	ni2 shi4 kuang1 deng1 yu2
+日本青眼魚	ri4 ben3 qing1 yan3 yu2
+土佐小花鱸	tu3 zuo3 xiao3 hua1 lu2
+黃斑小花鱸	huang2 ban1 xiao3 hua1 lu2
+全鱗鱷齒魚	quan2 lin2 e4 chi3 yu2
+長鰭鱷齒魚	zhang3 qi2 e4 chi3 yu2
+鋸齒刺鯊	ju4 chi3 ci4 sha1
+孔斑尖鼻魨	kong3 ban1 jian1 bi2 tun2
+沃氏馬頭魚	wo4 shi4 ma3 tou2 yu2
+長鬚膜首鱈	zhang3 xu1 mo2 shou3 xue3
+犬齒下肋鼬䲁	quan3 chi3 xia4 le1 you4 wei4
+長胸鱗角魚	zhang3 xiong1 lin2 jiao3 yu2
+薩氏鬚鰃	sa4 shi4 xu1 wei1
+暗夜燭光魚	an4 ye4 zhu2 guang1 yu2
+咖啡袋巨口魚	ka1 fei1 dai4 ju4 kou3 yu2
+李氏黄魴鮄	li3 shi4 huang2 fang2 fu2
+鈍頰黃魴鮄	dun4 jia2 huang2 fang2 fu2
+暗擬金眼鯛	an4 ni3 jin1 yan3 diao1
+淡紅擬鱸	dan4 hong2 ni3 lu2
+奧蒂副單棘魨	ao4 di4 fu4 dan1 ji2 tun2
+裸歐氏鰧	luo3 ou1 shi4 teng2
+浦原歐氏鰧	pu3 yuan2 ou1 shi4 teng2
+高鰭骨鱗魚	gao1 qi2 gu3 lin2 yu2
+圓身蛇鰻	yuan2 shen1 she2 man2
+後鰭蛇鰻	hou4 qi2 she2 man2
+無耙帶鰆	wu2 ba4 dai4 chun1
+輻紋虎鮋	fu2 wen2 hu3 you2
+少燈黑巨口魚	shao3 deng1 hei1 ju4 kou3 yu2
+黑頭鱈	hei1 tou2 xue3
+前鱗笛鯛	qian2 lin2 di2 diao1
+巴布亞笛鯛	ba1 bu4 ya3 di2 diao1
+印度笛鯛	yin4 du4 di2 diao1
+黃褐龍占魚	huang2 he4 long2 zhan4 yu2
+長頭鱗角魚	zhang3 tou2 lin2 jiao3 yu2
+大眼棘角魚	da4 yan3 ji2 jiao3 yu2
+黃鰭石鮒	huang2 qi2 shi2 fu4
+鹿兒島帶天竺鯛	lu4 er2 dao3 dai4 tian1 zhu2 diao1
+扁吻掛帆鱚	bian3 wen3 gua4 fan1 xi3
+白頸赤尾鮗	bai2 jing3 chi4 wei3 dong1
+暗夜管燧鯛	an4 ye4 guan3 sui4 diao1
+艾氏後頷鱚	ai4 shi4 hou4 han4 xi3
+冷鋒後頷鱚	leng3 feng1 hou4 han4 xi3
+瓦氏後頷鱚	wa3 shi4 hou4 han4 xi3
+鰕鯱	xia1 hu3
+鮟鱇	an1 kang1
+裸胸鯙	luo3 xiong1 chun2
+魴鮄	fang2 fu2
+鼠尾鱈	shu3 wei3 xue3
